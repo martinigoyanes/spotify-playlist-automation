@@ -1,2 +1,2 @@
 # spotify-playlist-recommender
-ML solution to provide you with adding song you like automatically to your personal playlist based on your own tastes.
+ML solution that provides the functionality of adding songs you like automatically to your personal playlist based on your own tastes.
