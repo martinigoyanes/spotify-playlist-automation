@@ -32,5 +32,5 @@ No es problema que el usuario tenga pocas playlist o poca variedad, modelo robus
 Crear modelo base con suficientes datos para que sea robusto y luego reentrenar para cada usuario
     
 # Conclusiones
-Martin -> {Dynamic Model, 70-100 Knowledge Model}
+Martin -> {Dynamic Model, 70-100 Knowledge Model}\
 Jaime  -> {xxx,yyy}
