@@ -1,4 +1,4 @@
-# Static model
+Static model
 ## Cons
 dataset = Artista, Nombre cancion, duracion cancion, album, **playlist**
 ## Pros
@@ -33,4 +33,4 @@ Crear modelo base con suficientes datos para que sea robusto y luego reentrenar 
     
 # Conclusiones
 Martin -> {Dynamic Model, 70-100 Knowledge Model}\
-Jaime  -> {xxx,yyy}
+Jaime  -> {{Dynamic Model, 70-100 Knowledge Model}}
