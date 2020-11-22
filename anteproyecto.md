@@ -33,4 +33,4 @@ Crear modelo base con suficientes datos para que sea robusto y luego reentrenar 
     
 # Conclusiones
 Martin -> {Dynamic Model, 70-100 Knowledge Model}\
-Jaime  -> {{Dynamic Model, 70-100 Knowledge Model}}
+Jaime  -> {Dynamic Model, 70-100 Knowledge Model}
