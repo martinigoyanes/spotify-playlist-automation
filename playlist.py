@@ -1,21 +1,28 @@
+import song as Song
 class Playlist:
-    artists = []
-    metadata = dict()
+    song_list = []
+    name = ''
+    def __init__(self, id, name, fields):
+        self.id = id
+        self.name = name
+        self.fields = fields
 
-    def __init__(self, ):
-        self.id = name
-        self.video_url = video_url
-        self.artists = artists
-        self.downloaded = False
-        self.fullname = name
-        for artist in artists:
-            self.fullname += f' - {artist}'
-        self.outtemplate = f'{config.OUT_FOLDER}{self.fullname}.%(ext)s'
-        self.fullpath = f'{config.OUT_FOLDER}{self.fullname}.mp3'
-        self.thread = None
-        self.failed = False
-        self.metadata = {
-            'cover_url': cover,
-            'album': album
-        }
-        self.len_ms = len_ms
+    def json_to_playlist(self, playlist_json):
+        for item in playlist_json['items']:
+            song_name = item['track']['name']
+            song_artists = []
+            for artist in item['track']['artists']:
+                song_artists.append(artist['name'])
+            song_album = item['track']['album']['name']
+            song_len_ms = item['track']['duration_ms']
+            song_id = item['track']['id']
+            song_explicit = item['track']['explicit']
+            song_popularity = item['track']['popularity']
+            song = Song.Song(name=song_name, artists=song_artists, album=song_album, 
+                                len_ms=song_len_ms, explicit = song_explicit, 
+                                    popularity = song_popularity, id = song_id)
+            self.song_list.append(song)
+    def add_audio_features(self):
+        for song in self.song_list:
+            song.add_audio_features()
+    

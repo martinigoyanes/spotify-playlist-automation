@@ -7,6 +7,8 @@ from urllib.parse import urlencode, urlsplit
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
+import playlist
+
 
 class Spotify:
     id = None
@@ -110,3 +112,17 @@ class Spotify:
         resp = requests.get(audio_features_url, headers=audio_features_headers)
 
         return resp.json()
+
+    def pull_playlist(self, playlist):
+        limit = 100
+        offset = 0
+        while True:
+            playlist_json = self.get_playlist_json(id=playlist.id,
+                                               fields=playlist.fields,
+                                               limit=100,
+                                               offset=0)
+            playlist.json_to_playlist(playlist_json)
+            offset = offset + limit
+            # Last couple of songs, we exit the loop, there are not more songs in the playlist
+            if len(playlist_json) < limit:
+                break
