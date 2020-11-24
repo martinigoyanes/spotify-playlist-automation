@@ -127,7 +127,7 @@ class Spotify:
             playlist_json = self.get_playlist_json(id=playlist.id,
                                                    fields=playlist.fields,
                                                    limit=100,
-                                                   offset=0)
+                                                   offset=offset)
             playlist.json_to_playlist(playlist_json)
             offset = offset + limit
             # Last couple of songs, we exit the loop, there are not more songs in the playlist
