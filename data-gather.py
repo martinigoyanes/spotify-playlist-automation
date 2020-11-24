@@ -2,8 +2,6 @@ import config
 from playlist import Playlist
 import pandas as pd
 
-# TODO: No pullea todas las canciones de una playlist, solo llega hasta 100
-# TODO: Crear .csv a partir de objeto playlist
 # TODO: Crear pandas.DataFrame a partir de objeto playlist
 
 playlists_map = {
@@ -21,8 +19,5 @@ for name, id in playlists_map.items():
     playlist.add_audio_features()
     playlists_list.append(playlist)
 
-playlist_df = pd.DataFrame(playlist_json)
-playlist_df.to_csv('playlist.csv')
-
-audio_features_df = pd.DataFrame(audio_features_json)
-audio_features_df.to_csv('audio_features.csv')
+for playlist in playlists_list:
+    playlist.to_csv()

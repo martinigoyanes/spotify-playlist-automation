@@ -102,13 +102,20 @@ class Spotify:
         resp = requests.get(playlist_url, headers=playlist_headers)
 
         return resp.json()
-    
-    def get_audio_features(self,id):
-        audio_features_url = f'https://api.spotify.com/v1/audio-features/{id}'
-        audio_features_headers =  {
+
+    def get_audio_features_several(self, ids):
+        audio_features_endpoint = f'https://api.spotify.com/v1/audio-features'
+        audio_features_headers = {
             # Authorization: Bearer {your access token}
             'Authorization': f'Bearer {self.access_token}'
         }
+        # Generate comma separated list
+        audio_features_body = {
+            'ids': ",".join(ids),
+        }
+
+        audio_features_body_urlencoded = urlencode(audio_features_body)
+        audio_features_url = f"{audio_features_endpoint}?{audio_features_body_urlencoded}"
         resp = requests.get(audio_features_url, headers=audio_features_headers)
 
         return resp.json()
@@ -118,11 +125,11 @@ class Spotify:
         offset = 0
         while True:
             playlist_json = self.get_playlist_json(id=playlist.id,
-                                               fields=playlist.fields,
-                                               limit=100,
-                                               offset=0)
+                                                   fields=playlist.fields,
+                                                   limit=100,
+                                                   offset=0)
             playlist.json_to_playlist(playlist_json)
             offset = offset + limit
             # Last couple of songs, we exit the loop, there are not more songs in the playlist
-            if len(playlist_json) < limit:
+            if len(playlist_json['items']) < limit:
                 break
