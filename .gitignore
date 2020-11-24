@@ -2,3 +2,6 @@
 __pycache__/spotify.cpython-38.pyc
 .vscode/launch.json
 .vscode/settings.json
+__pycache__/config.cpython-38.pyc
+__pycache__/playlist.cpython-38.pyc
+__pycache__/song.cpython-38.pyc
