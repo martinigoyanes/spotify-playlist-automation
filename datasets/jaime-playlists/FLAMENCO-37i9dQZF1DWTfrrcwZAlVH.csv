@@ -1,0 +1,61 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Como El Agua,Camaron De La Isla,Como El Agua (Remastered),221080,False,57,2,1,4,0.826,0.467,0.736,0.000155,0.168,-8.612,0.131,0.77,161.653,FLAMENCO
+El Anhelo - Bulerías,"Israel Fernández,Diego del Morao",El Anhelo,209374,False,42,7,1,3,0.715,0.694,0.794,0.0117,0.167,-7.177,0.0521,0.788,119.961,FLAMENCO
+Del amanecer,Jose Merce,Del Amanecer...,258600,False,45,6,0,4,0.556,0.642,0.679,0,0.0655,-7.188,0.105,0.851,169.739,FLAMENCO
+Aire - Remaster (Bulería),Jose Merce,Aire,246106,False,52,7,1,3,0.486,0.754,0.866,0,0.0766,-4.393,0.195,0.769,107.15,FLAMENCO
+Tu Vienes Vendiendo Flores - Soleá,Enrique Morente,Despegando,248240,False,39,9,1,5,0.795,0.558,0.561,0.000148,0.0645,-11.184,0.091,0.591,124.564,FLAMENCO
+Rosa Maria - Tangos,"Camaron De La Isla,Paco de Lucía",Rosa María (Remastered),135613,False,51,6,1,4,0.703,0.572,0.533,0,0.255,-7.686,0.0472,0.688,74.912,FLAMENCO
+Yo No Caía Nunca en Cama - Soleares,Fernanda De Utrera,Tres Grandes de Utrera Vol. 2,484880,False,39,5,0,4,0.949,0.525,0.51,0.014,0.142,-9.235,0.057,0.566,134.821,FLAMENCO
+La Niña de Fuego,Manolo Caracol,"Lo Mejor de Manolo Caracol, Vol. 1",174040,False,41,10,1,4,0.891,0.434,0.241,2.46e-05,0.126,-10.508,0.0315,0.361,100.832,FLAMENCO
+No Tuve Quien Me Dijera - Bulerías,"La Paquera De Jerez,Felipe Campuzano,Manolo Sanlucar,I. Morales",In Memoriam de la Fabulosa. Selección de Sus Últimas Grabaciones,322226,False,38,4,1,3,0.742,0.695,0.673,0.00231,0.0833,-7.762,0.155,0.683,117.525,FLAMENCO
+Aunque Es de Noche (Tango),Enrique Morente,Aunque Es De Noche,252880,False,42,11,0,4,0.763,0.432,0.442,0,0.162,-10.001,0.0358,0.639,150.572,FLAMENCO
+Penélope Cruz: Volver,"Estrella Morente,Enrique Morente",Mujeres,217853,False,53,9,0,3,0.896,0.583,0.386,1.01e-05,0.074,-11.531,0.133,0.634,101.045,FLAMENCO
+Llamale Amor (Rumba),"El Pele,Vicente Amigo",Canto,273293,False,46,4,0,4,0.468,0.835,0.775,3.95e-06,0.54,-6.371,0.238,0.801,105.034,FLAMENCO
+El aire llega,Diego del Morao,Orate,278746,False,37,0,1,4,0.826,0.747,0.579,0.0455,0.0904,-9.276,0.0599,0.716,87.936,FLAMENCO
+Soy Gitano - En Directo En El Festival De Jazz De Montreux / 1991,"Camaron De La Isla,Tomatito,El Pele,Moraito Chico,Charo Manzano,Tino Di Geraldo",Montreux 1991 (En Directo En El Festival De Jazz De Montreux / 1991),338070,False,43,6,1,4,0.412,0.539,0.975,3.28e-05,0.684,-4.776,0.126,0.466,95.588,FLAMENCO
+En lo alto del cerro (Tangos),Estrella Morente,Mi Cante Y Un Poema,204746,False,49,8,0,4,0.245,0.69,0.708,6.52e-05,0.0483,-5.985,0.0803,0.698,90.263,FLAMENCO
+Chanelando - Pintor (Tangos),Diego El Cigala,Picasso En Mis Ojos,249826,False,41,4,0,4,0.524,0.549,0.821,3.09e-06,0.488,-4.952,0.083,0.557,83.963,FLAMENCO
+Estrella,Enrique Morente,Despegando,315560,False,40,11,0,4,0.689,0.449,0.41,0,0.289,-10.971,0.0425,0.352,128.428,FLAMENCO
+Al alba,Jose Merce,Aire,256839,False,49,7,1,3,0.644,0.619,0.671,0,0.152,-6.811,0.0819,0.831,104.362,FLAMENCO
+Como El Agua,Camaron De La Isla,Camarón La Película (Slidepack),226453,False,0,6,0,4,0.821,0.478,0.656,0,0.19,-6.76,0.0677,0.888,158.882,FLAMENCO
+Isla de los Bienaventurados (Bulerías),Cañizares,El Mito de la Caverna,228469,False,35,4,0,3,0.795,0.702,0.715,0.844,0.0984,-4.678,0.0346,0.796,114.114,FLAMENCO
+Trago Amargo,Rocío Márquez,Visto En El Jueves,262707,False,38,3,0,3,0.79,0.813,0.645,0.000295,0.0597,-7.657,0.0953,0.669,125.907,FLAMENCO
+Tangos de Málaga - Remastered,La Repompa,"TRA TRÁ, Vol. 1 - Tangos de Málaga (Remastered)",167777,False,32,8,1,4,0.892,0.574,0.683,0.0406,0.194,-6.356,0.0962,0.697,82.639,FLAMENCO
+Jerez - Rumba,"Jose Merce,Tomatito",De Verdad,213595,False,40,7,1,4,0.547,0.781,0.692,1.94e-05,0.116,-7.619,0.0679,0.615,100.035,FLAMENCO
+No lo pasen por mi puerta,Enrique Morente,Homenaje a Don Antonio Chacón,229320,False,22,7,1,4,0.878,0.434,0.167,0,0.126,-14.306,0.0825,0.292,87.362,FLAMENCO
+Son Tus Ojos Dos Estrellas - Bulería,"Camaron De La Isla,Paco de Lucía",El Legado De Camarón,210266,False,40,6,0,3,0.78,0.543,0.742,7.68e-06,0.073,-6.648,0.0485,0.706,124.049,FLAMENCO
+El Sereno de Mi Calle - Tangos,Porrina de Badajoz,27 de Sus Mejores Cantes. Siempre Grande y Noble,199133,False,21,4,0,4,0.864,0.614,0.579,0.0038,0.116,-7.728,0.087,0.652,91.516,FLAMENCO
+Plaza Real,Duquende,Flamenco Universal,268253,False,28,6,1,3,0.806,0.696,0.715,7.24e-06,0.081,-4.022,0.063,0.513,123.459,FLAMENCO
+Nuevo día,Lole Y Manuel,El origen de la leyenda,285586,False,43,11,0,4,0.273,0.527,0.499,0.000104,0.155,-8.76,0.051,0.425,99.562,FLAMENCO
+Sale La Luna - Bulerías,Vicente Soto Sordera,Estar Alegre,253760,False,34,10,0,3,0.481,0.84,0.422,0.000195,0.0519,-10.02,0.103,0.614,104.436,FLAMENCO
+Zorongo Gitano - Tangos,Carmen Linares,Flamenco Vivo (Canciones Populares Antiguas) [Recopiladas por Federico García Lorca],250440,False,30,8,1,4,0.0898,0.52,0.514,0,0.101,-11.356,0.237,0.646,81.485,FLAMENCO
+Soy Flamenco - Bulerías,Tomatito,Soy Flamenco,364840,False,36,5,0,3,0.818,0.589,0.557,0.395,0.148,-9.289,0.042,0.451,125.782,FLAMENCO
+Quisiera Ser Como el Aire (Bulerias),Bernarda De Utrera,Fernanda y Bernarda de Utrera,254000,False,17,1,1,3,0.458,0.528,0.995,0.245,0.0799,-8.277,0.107,0.128,115.629,FLAMENCO
+La gazpacha - La repompa - La tía Concha,"Estrella Morente,Enrique Morente",Mujeres,348160,False,33,6,0,4,0.9,0.506,0.594,0.000561,0.113,-9.417,0.0591,0.715,82.236,FLAMENCO
+Pregón del miedo,David Lagos,Hodierno,165044,False,20,2,1,5,0.964,0.394,0.151,0,0.225,-9.581,0.095,0.276,166.056,FLAMENCO
+El Sentido de la Vida,"Duquende,Tomatito",Y la Guitarra de Tomatito,293733,False,30,8,1,4,0.754,0.715,0.394,5.15e-05,0.0585,-17.293,0.0546,0.673,83.233,FLAMENCO
+Toma Este Puñal Dorao,Carmen Linares,Flamenco es... Carmen Linares,296160,False,30,8,1,3,0.781,0.623,0.323,4.44e-06,0.103,-13.792,0.101,0.466,155.919,FLAMENCO
+Tangos de Pepico,Estrella Morente,Mi Cante Y Un Poema,208600,False,43,4,0,4,0.525,0.645,0.672,8.48e-05,0.0857,-6.876,0.29,0.817,86.002,FLAMENCO
+Entre Dos Aguas,Paco de Lucía,Entre Dos Aguas,362093,False,0,4,0,4,0.845,0.45,0.634,0.872,0.0829,-14.734,0.036,0.907,103.048,FLAMENCO
+En Tu Puerta Da La Luna,Camaron De La Isla,Como El Agua (Remastered),263746,False,28,5,0,3,0.946,0.464,0.262,0.000247,0.13,-11.054,0.0556,0.264,79.367,FLAMENCO
+Tu Mira - Edit,Lole Y Manuel,Kill Bill Vol. 2 Original Soundtrack,239453,False,43,5,0,3,0.314,0.497,0.45,0.00737,0.267,-8.224,0.0425,0.136,99.924,FLAMENCO
+Muchos prometen la luna - Fandangos de Alosno al estilo de José Ramírez Correa,El Cabrero,Fandangos de Huelva (Remasterizado 2016),142306,False,29,0,1,4,0.838,0.45,0.52,8.5e-05,0.187,-6.786,0.0429,0.536,148.357,FLAMENCO
+Alegrías de Cádiz,"Rancapino,Paco Cepero",Rancapino,239400,False,25,2,1,5,0.876,0.66,0.428,0.000132,0.0671,-10.692,0.342,0.578,139.547,FLAMENCO
+Libre Quiero Ser,Fosforito,"50 Años de Flamenco, Vol. 1: 1940-1990 (2ª Epoca)",165400,False,25,3,0,3,0.851,0.527,0.454,5.96e-05,0.154,-8.644,0.113,0.538,148.784,FLAMENCO
+Canta la Guitarra,Pepe Habichuela,Habichuela en Rama,230866,False,32,11,1,5,0.821,0.306,0.25,0.838,0.085,-21.045,0.0496,0.269,103.109,FLAMENCO
+Tres Notas para Decir Te Quiero,Vicente Amigo,Ciudad De Las Ideas,289493,False,48,4,0,4,0.625,0.664,0.688,0.856,0.129,-10.4,0.0424,0.797,172.955,FLAMENCO
+Tango Gitano,"Porrina de Badajoz,Paco Aguilera",Fiesta Flamenca,172628,False,27,3,1,4,0.843,0.571,0.326,0.00816,0.0787,-12.953,0.079,0.642,170.85,FLAMENCO
+Solea de la Ilusion,El Agujetas,Premio Manuel Torre de Cante Flamenco,198413,False,22,3,0,4,0.899,0.458,0.551,0.000336,0.206,-8.477,0.0444,0.504,111.431,FLAMENCO
+Me Gusta Estar En La Sierra- - Colombianas,Pepe Marchena,Un Monumento Al Cante,178133,False,18,5,1,3,0.979,0.522,0.272,0.0372,0.129,-14.386,0.0705,0.465,98.25,FLAMENCO
+Sólo Quiero Caminar,"Jorge Pardo,Chano Dominguez,Javier Colina,Tino Di Geraldo",10 de Paco,549133,False,32,0,1,4,0.669,0.614,0.584,0.488,0.228,-11.114,0.0389,0.679,80.027,FLAMENCO
+El Estanque De Los Lotos,Rafael Riqueni,Parque De María Luisa,152181,False,0,5,1,4,0.946,0.351,0.229,0.846,0.132,-11.581,0.0459,0.186,79.459,FLAMENCO
+"Morita, Mora (Zambra)",Manolo Caracol,Atlas Del Flamenco,124920,False,0,8,1,4,0.878,0.392,0.322,5.83e-06,0.337,-7.038,0.0373,0.647,107.883,FLAMENCO
+Anda Jaleo - Bulería,Carmen Linares,Flamenco Vivo (Canciones Populares Antiguas) [Recopiladas por Federico García Lorca],234000,False,27,2,1,3,0.557,0.571,0.646,9.97e-06,0.338,-9.109,0.112,0.543,104.939,FLAMENCO
+Amoralí (with Potito),"Vicente Amigo,Potito",Memoria de los Sentidos,291613,False,40,1,0,4,0.583,0.8,0.697,0.48,0.105,-7.799,0.0373,0.774,103.507,FLAMENCO
+Que Bonita Esta la Fuente (Alegrias) [Remasterizado],Pericón de Cádiz,Archivo Del Cante Flamenco,176173,False,16,1,1,3,0.807,0.559,0.308,3.18e-06,0.0733,-18.899,0.0541,0.663,94.68,FLAMENCO
+Fuente Y Caudal,Paco de Lucía,Integral,313960,False,38,2,0,3,0.949,0.38,0.218,0.86,0.239,-16.46,0.0471,0.395,103.656,FLAMENCO
+Santa Justa Y Rufina (Soleares De Triana),Antonio Mairena,Grandes Cantaores Del Flamenco,394293,False,21,5,1,4,0.944,0.394,0.224,0.000717,0.115,-17.311,0.0434,0.252,147.225,FLAMENCO
+Dia Grande (Seguiriyas y Cabales) [Remasterizado],Jose Menese,Archivo Del Cante Flamenco,408400,False,16,0,1,3,0.863,0.367,0.13,6.53e-05,0.131,-20.027,0.0444,0.248,79.074,FLAMENCO
+Que Te He Querio Como Sea - Fandangos,"La Paquera De Jerez,Juan Maya,Manolo Sanlucar",Soberana del Compás,208040,False,21,0,1,4,0.925,0.422,0.563,0.0148,0.301,-5.04,0.0505,0.503,87.396,FLAMENCO
+Como Loca Me Sali (Bulerias de Utrera) [Remasterizado],Bernarda De Utrera,Medio Siglo de Cante Flamenco,173506,False,13,5,1,3,0.903,0.534,0.71,0.00656,0.36,-9.851,0.0694,0.76,119.577,FLAMENCO
+Amanecer,Pepe Habichuela,Habichuela en Rama,271360,False,34,5,0,3,0.605,0.435,0.15,0.879,0.139,-22.505,0.056,0.527,93.621,FLAMENCO

@@ -7,8 +7,13 @@ class Playlist:
 
     def json_to_playlist(self, playlist_json):
         import song as Song
+
+        usefull_tracks = (
+            item for item in playlist_json['items'] if item['track'] is not None)
+        
         usefull_songs = (
-            item for item in playlist_json['items'] if item['track']['id'] is not None)
+            song for song in usefull_tracks if song['track']['id'] is not None)
+
         for item in usefull_songs:
             song_name = item['track']['name']
             song_artists = []
@@ -39,14 +44,14 @@ class Playlist:
             float(Decimal(n_requests) - Decimal(n_requests_low))*100)
 
         # Full requests of 100
-        if n_requests > 1:
+        if n_requests >= 1:
             for n in range(1, n_requests_low + 1):
                 audio_features_json = config.spoti.get_audio_features_several(
                     ids[((n-1)*100):(n*100)])
                 for audio_features, song in zip(audio_features_json['audio_features'], self.song_list[((n-1)*100):(n*100)]):
                     song.add_audio_features(audio_features)
                 # Partial request of < 100 (last request)
-                if n == (n_requests_low + 1):
+                if n == (n_requests_low + 1) and partial_request_len > 0:
                     audio_features_json = config.spoti.get_audio_features_several(
                         ids[(n*100):((n*100)+partial_request_len)])
                     for audio_features, song in zip(audio_features_json['audio_features'], self.song_list):
@@ -62,10 +67,10 @@ class Playlist:
         import csv
         import os
 
-        if not os.path.exists('../datasets'):
-            os.makedirs('../datasets')
+        if not os.path.exists('datasets'):
+            os.makedirs('datasets')
 
-        filename = f'../datasets/{self.name}-{self.id}.csv'
+        filename = f'datasets/{self.name}-{self.id}.csv'
         try:
             with open(filename, 'w') as f:
                 writer = csv.writer(f)
