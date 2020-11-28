@@ -1,0 +1,13 @@
+https://developers.google.com/machine-learning/clustering/similarity/supervised-similarity
+https://www.researchgate.net/publication/4041167_Improvement_of_naive_Bayes_collaborative_filtering_using_interval_estimation
+https://github.com/google/eng-edu/blob/master/ml/clustering/clustering-supervised-similarity.ipynb
+
+Pro Analysis(Text+Audio Features) + RapidMiner 
+https://www.researchgate.net/publication/331417812_Generating_Playlists_on_the_Basis_of_Emotion
+
+premium story:
+https://towardsdatascience.com/k-means-clustering-using-spotify-song-features-9eb7d53d105c
+https://towardsdatascience.com/breaking-spotifys-algorithm-of-music-genre-classification-31ecf8453af1
+
+literal lo nuestro:
+https://towardsdatascience.com/playlist-classification-on-spotify-using-knn-and-naive-bayes-classification-35a279b7e255
