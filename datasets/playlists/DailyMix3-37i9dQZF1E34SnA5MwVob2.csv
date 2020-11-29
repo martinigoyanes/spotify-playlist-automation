@@ -1,0 +1,51 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Millonario,Pol Granch,Tengo Que Calmarme,189690,False,45,10,1,4,0.206,0.552,0.576,0,0.213,-7.072,0.121,0.386,80.271,DailyMix3
+2,Al Safir,2,212460,True,44,0,0,4,0.236,0.661,0.71,0,0.102,-7.961,0.406,0.817,183.975,DailyMix3
+Sin Ti,Air Magno,Sin Ti,221250,False,49,0,0,3,0.85,0.81,0.468,0,0.105,-7.449,0.0374,0.679,109.478,DailyMix3
+Se Te Nota,Chema Rivas,Se Te Nota,222000,False,66,7,1,4,0.553,0.706,0.81,0,0.132,-5.766,0.0482,0.666,100.052,DailyMix3
+Otra Ronda Más,"Hens,Belén Aguilera",Otra Ronda Más,153944,False,54,1,1,4,0.271,0.678,0.673,0,0.118,-6.671,0.109,0.311,90.047,DailyMix3
+Pa que lo gocen,"fernandocosta,Dollar Selmouni,Blasfem",Yipiyou,220964,True,59,6,0,4,0.349,0.678,0.625,0,0.116,-7.29,0.109,0.277,89.982,DailyMix3
+Esperando,Nil Moliner,Hijos de la Tierra,173653,False,48,7,0,4,0.445,0.886,0.626,4.55e-05,0.0764,-7.958,0.0467,0.944,124.98,DailyMix3
+Sin Prisa,"Nikone,Pablo Cebrián",Sin Prisa,164954,False,48,9,1,4,0.84,0.652,0.442,5.39e-05,0.107,-13.698,0.0861,0.146,99.863,DailyMix3
+Estar Aquí,"Delgao,Hens",Estar Aquí,188919,False,38,9,1,4,0.478,0.749,0.745,0,0.278,-6.431,0.144,0.336,98.027,DailyMix3
+Como Estrellas,LA YOUNG,Como Estrellas,219000,False,77,6,1,4,0.765,0.446,0.496,0,0.259,-6.051,0.0857,0.763,170.145,DailyMix3
+Control,"Sticky M.A.,Royce Rolo,IAMTOMMY",Konbanwa,183214,False,40,10,1,4,0.632,0.73,0.613,2.92e-05,0.082,-5.848,0.0935,0.566,97.988,DailyMix3
+Vuelve Pero Vete,Manu Cort,Caloca,209657,True,49,3,1,4,0.449,0.674,0.611,0,0.1,-9.953,0.54,0.517,186.053,DailyMix3
++,"Aitana,Cali Y El Dandee",+,219367,False,74,8,1,4,0.106,0.561,0.666,0,0.123,-4.243,0.0322,0.675,160.019,DailyMix3
+Bailemos,Dani Fernández,Incendios,210468,False,67,1,1,4,0.0616,0.649,0.555,3.45e-06,0.0874,-4.655,0.0292,0.607,128.009,DailyMix3
+Este mensaje fue eliminado,Aren,Este mensaje fue eliminado,146302,False,23,0,0,4,0.211,0.609,0.507,0,0.227,-11.525,0.0428,0.193,146.095,DailyMix3
+Arráncame la Piel,Pol Granch,Tengo Que Calmarme,179468,False,42,9,0,4,0.684,0.726,0.51,0,0.221,-6.836,0.225,0.57,97.845,DailyMix3
+Aunque Salga Caro,"D Brío,Átiko Gris",Aunque Salga Caro,182500,False,19,8,0,4,0.244,0.757,0.557,0,0.149,-9.056,0.267,0.261,96.154,DailyMix3
+Disfruto,lejazzy,Disfruto,74004,False,42,1,0,4,0.102,0.767,0.415,0,0.0966,-8.88,0.295,0.556,90.388,DailyMix3
+Qué,Lopes,Oro Negro,280953,True,41,8,1,4,0.476,0.682,0.783,0,0.0767,-6.66,0.346,0.147,92.936,DailyMix3
+Late,Pol Granch,Late,167600,False,55,7,1,4,0.182,0.766,0.482,0,0.163,-7.166,0.216,0.635,104.166,DailyMix3
+Malamanera,fernandocosta,Malamanera,182129,True,60,7,1,4,0.522,0.829,0.589,0,0.12,-6.824,0.255,0.376,91.988,DailyMix3
+Mandamientos,Adridf,Mandamientos,128688,False,33,1,1,3,0.912,0.908,0.447,0.0841,0.108,-14.404,0.162,0.581,125.03,DailyMix3
+Batmóvil - Remix,"Hens,Pole.,Funzo & Baby Loud",Batmóvil (Remix),210000,False,72,10,1,4,0.0843,0.655,0.839,0,0.164,-6.087,0.0591,0.387,108.047,DailyMix3
+Cupido,Air Magno,Cupido,155604,False,55,4,1,4,0.93,0.732,0.413,2.03e-05,0.071,-9.269,0.0525,0.541,90.959,DailyMix3
+Entre Tú y Yo,Chema Rivas,Entre Tú y Yo,224000,False,79,9,0,4,0.288,0.854,0.669,0,0.221,-5.206,0.0617,0.484,120.023,DailyMix3
+Soldadito de Hierro,Nil Moliner,Bailando en la batalla,142964,False,61,9,1,4,0.87,0.716,0.344,0,0.0945,-7.528,0.14,0.412,81.86,DailyMix3
+Pikete Italiano,KvndySwing,Gelato,188181,True,59,8,1,4,0.327,0.835,0.473,0,0.258,-6.672,0.216,0.263,95.002,DailyMix3
+27 de Abril,Enol,27 de Abril,182723,False,33,7,1,4,0.372,0.697,0.662,0,0.0865,-8.333,0.0537,0.705,99.855,DailyMix3
+Universo,Blas Cantó,Universo,182493,False,49,5,1,4,0.604,0.562,0.645,0,0.106,-6.498,0.0538,0.597,91.922,DailyMix3
+Desastre,Pol Granch,Desastre,176663,False,49,9,1,4,0.218,0.643,0.674,7.08e-06,0.108,-5.916,0.0489,0.429,91.969,DailyMix3
+Otro Día Mas,Baron850,Otro Día Mas,156541,False,55,2,1,4,0.396,0.793,0.491,0,0.0619,-16.392,0.197,0.431,110.002,DailyMix3
+Corazón Sin Vida,"Aitana,Sebastian Yatra",Corazón Sin Vida,181978,False,77,2,1,4,0.169,0.48,0.572,0,0.0711,-4.013,0.0412,0.452,89.89,DailyMix3
+5 Sentidos,"Dvicio,Taburete",Impulso,209953,False,58,5,1,4,0.0936,0.644,0.734,0,0.116,-5.498,0.0472,0.664,175.936,DailyMix3
+Distanciaos,"Aren,ElRoca",Distanciaos,163479,False,36,1,1,4,0.468,0.756,0.485,0,0.344,-11.258,0.0768,0.115,106.848,DailyMix3
+Tu Foto Del DNI,"Marmi,Aitana",Tu Foto Del DNI,179653,False,75,10,0,4,0.0306,0.488,0.922,0,0.374,-2.542,0.0978,0.52,172.804,DailyMix3
+Paciencia,Kora,01,209542,False,51,5,1,4,0.897,0.859,0.189,0.000301,0.138,-12.279,0.0651,0.316,140.074,DailyMix3
+Como una Estrella,Miranda,Valknut,141322,False,36,1,1,4,0.785,0.445,0.576,0.0157,0.0887,-9.609,0.0477,0.0355,104.981,DailyMix3
+Borracho,Sebastián Cortés,Borracho,191133,True,52,5,1,4,0.107,0.84,0.548,0,0.362,-8.856,0.0773,0.654,93.014,DailyMix3
+Aunque Me Duelas,"Chema Rivas,Lérica",Aunque Me Duelas,178750,False,57,9,1,4,0.0452,0.588,0.773,0,0.489,-5.897,0.269,0.571,191.891,DailyMix3
+Tú y yo,Air Magno,Tú y yo,137400,False,53,4,1,4,0.0851,0.85,0.836,0,0.258,-4.949,0.0995,0.964,99.888,DailyMix3
+Te Quiodio,Pol Granch,Te Quiodio,151000,False,54,7,1,4,0.134,0.487,0.546,0,0.125,-7.729,0.209,0.446,83.006,DailyMix3
+Mi Religión,Nil Moliner,Bailando en la batalla,191379,False,58,5,1,4,0.267,0.851,0.729,1.21e-06,0.197,-5.046,0.0275,0.973,106.011,DailyMix3
+Tu Historia y la Mía,"Hens,Only",Tu Historia y la Mía,200440,False,51,8,0,4,0.367,0.696,0.725,0,0.111,-7.358,0.211,0.537,111.968,DailyMix3
+Me Noto Distinto,"Mayo 214,Fulston,La Cantera",Me Noto Distinto,195423,True,56,10,0,4,0.323,0.692,0.515,0,0.0832,-9.053,0.0966,0.392,112.921,DailyMix3
+Narcolepsia,"fernandocosta,Chichobeats",Yipiyou,149583,True,57,2,1,4,0.308,0.776,0.607,0,0.11,-8.35,0.367,0.771,93.85,DailyMix3
+Vacío,Inazio,Vacío,143999,False,45,3,1,4,0.855,0.587,0.107,0,0.198,-18.165,0.0779,0.344,128.166,DailyMix3
+Problemas,Paris Boy,Problemas,222892,True,80,1,0,4,0.677,0.787,0.238,2.2e-05,0.0869,-13.154,0.0554,0.262,98.022,DailyMix3
+"Quiero, Quiero y Quiero",Arnau Griso,"Quiero, Quiero y Quiero",205933,False,58,6,1,4,0.0993,0.771,0.748,0,0.105,-5.18,0.033,0.774,107.954,DailyMix3
+110,Luis Fercán,110,211778,True,45,11,1,4,0.872,0.606,0.182,0,0.0945,-8.472,0.0411,0.373,110.859,DailyMix3
+Chocolatito,Pol Granch,Tengo Que Calmarme,179593,False,50,2,1,4,0.103,0.793,0.433,1.52e-05,0.14,-6.81,0.0418,0.551,119.969,DailyMix3

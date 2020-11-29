@@ -1,0 +1,82 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+U Went 2 Far,"Luca Lozano,Mr. Ho",Visions of Rhythm 2 EP,362804,False,2,10,0,4,0.00275,0.796,0.78,0.89,0.0763,-14.818,0.0746,0.43,125.015,Disco
+Different Circles,"Luca Lozano,Mr. Ho",Dobb Meep / Different Circles,419013,False,27,11,0,4,0.115,0.807,0.642,0.78,0.111,-8.609,0.151,0.453,119.984,Disco
+Dripbox,"Luca Lozano,Mr. Ho",Dripbox,363518,False,3,7,1,4,0.0756,0.784,0.727,0.885,0.0784,-8.169,0.0463,0.476,123.004,Disco
+Bear Samurai,"Luca Lozano,Mr. Ho",Dripbox,368441,False,1,1,1,4,0.161,0.794,0.888,0.898,0.0466,-9.303,0.0688,0.637,126.042,Disco
+Hot Trak,"Luca Lozano,Mr. Ho",Dripbox,308285,False,2,8,1,4,6.42e-05,0.755,0.785,0.819,0.285,-11.734,0.0423,0.146,119.991,Disco
+Autonomika,"Luca Lozano,Mr. Ho",Dripbox,294299,False,1,10,0,4,0.00287,0.787,0.813,0.939,0.104,-10.616,0.0705,0.397,123.901,Disco
+Kush Groove,"Luca Lozano,Mr. Ho",Visions of Rhythm EP,380704,False,2,10,0,4,0.000143,0.806,0.835,0.918,0.106,-8.27,0.0513,0.446,119.007,Disco
+Visions of Rhythm,"Luca Lozano,Mr. Ho",Visions of Rhythm EP,308221,False,2,1,0,4,0.000203,0.807,0.577,0.478,0.0701,-5.812,0.0483,0.545,127.995,Disco
+2 Wangs in a Room,"Luca Lozano,Mr. Ho",Visions of Rhythm EP,354663,False,3,7,1,4,0.0221,0.736,0.914,0.855,0.151,-6.7,0.0556,0.472,119.977,Disco
+The Hunt,"Mr. Ho,Florian Blauensteiner",The Hunt EP,286739,False,1,1,1,4,0.000687,0.8,0.718,0.945,0.171,-12.018,0.0917,0.25,124.031,Disco
+Ammunition,"Mr. Ho,Florian Blauensteiner",The Hunt EP,295233,False,2,11,0,4,0.0105,0.8,0.936,0.876,0.104,-9.225,0.0408,0.884,123.997,Disco
+The Hunt - SW Amnesia Mix,"Mr. Ho,Florian Blauensteiner,SW",The Hunt EP,577225,False,1,11,0,4,0.00648,0.632,0.771,0.891,0.123,-11.808,0.0388,0.572,130.024,Disco
+A Gathering of Old Friends,Mr. Ho,Tales from Bao' An County EP,316707,False,5,6,1,4,0.00306,0.561,0.649,0.855,0.15,-9.87,0.0419,0.52,114.991,Disco
+000 Baby,Mr. Ho,Homeboys,396534,False,20,11,0,4,1.5e-05,0.678,0.736,0.881,0.211,-8.067,0.0396,0.126,109.019,Disco
+Contam1n8,Mr. Ho,Homeboys,292159,False,8,1,1,4,0.00236,0.694,0.829,0.903,0.079,-7.724,0.0676,0.833,193.994,Disco
+I-SOL-8,Luca Lozano,Homeboys,341674,False,7,7,1,5,0.000179,0.459,0.891,0.916,0.114,-8.274,0.071,0.178,81.993,Disco
+GagSteel,Mr. Ho,Homeboys,307988,False,8,0,1,4,9.28e-05,0.678,0.998,0.911,0.071,-7.581,0.0506,0.769,138.001,Disco
+Bail-E,"Mr. Ho,Mogwaa",Eu li EP,472841,False,30,9,0,4,0.000216,0.799,0.668,0.763,0.118,-7.394,0.0512,0.582,129.992,Disco
+Hustler's Billiard,"Mr. Ho,Mogwaa",Eu li EP,311916,False,15,4,0,4,0.000672,0.791,0.837,0.904,0.112,-12.251,0.0753,0.437,130.015,Disco
+Conquest,"Mr. Ho,Mogwaa",Eu li EP,261325,False,12,7,0,4,0.0324,0.898,0.908,0.826,0.0827,-11.295,0.109,0.362,125.003,Disco
+DistFreeStyle,"Mr. Ho,Mogwaa",Eu li EP,414927,False,14,10,0,4,0.0573,0.77,0.995,0.875,0.0697,-7.823,0.0648,0.842,124.999,Disco
+Anomaly,Carl Finlow,Introspective,400933,False,36,10,0,4,0.191,0.796,0.333,0.866,0.0935,-10.469,0.0793,0.847,126.01,Disco
+Descent,Carl Finlow,Descent,378947,False,23,2,1,4,0.0195,0.804,0.455,0.861,0.121,-9.435,0.0372,0.499,124.003,Disco
+Hashtag - Radioactiveman Remix,Carl Finlow,Boot Loop EP,404502,False,22,1,0,4,0.00105,0.785,0.838,0.84,0.111,-10.23,0.0516,0.0697,130.026,Disco
+Definition,Carl Finlow,Introspective,339677,False,13,10,0,4,0.0439,0.802,0.483,0.176,0.0907,-11.299,0.0533,0.7,128.025,Disco
+Equilibrium,Carl Finlow,Introspective,257254,False,14,10,1,4,0.82,0.814,0.274,0.905,0.0771,-13.827,0.0687,0.611,127.007,Disco
+Veiled - Original Mix,Carl Finlow,Romboid Assassin EP,340512,False,18,2,1,4,0.332,0.697,0.487,0.791,0.054,-8.584,0.0446,0.604,123.979,Disco
+Dangerous Devotion,Carl Finlow,Introspective,296000,False,11,2,1,4,0.0127,0.809,0.459,0.834,0.0683,-9.15,0.127,0.547,124.004,Disco
+Undertones,Carl Finlow,Descent,387901,False,10,9,1,4,0.0134,0.798,0.58,0.86,0.114,-8.941,0.049,0.611,124.026,Disco
+Apparatus,Carl Finlow,Apparatus,369311,False,8,10,0,4,0.000135,0.684,0.793,0.818,0.0745,-9.959,0.0547,0.379,136.006,Disco
+Differential,Carl Finlow,Apparatus,361574,False,7,1,1,4,0.000908,0.801,0.795,0.836,0.0972,-10.657,0.0481,0.354,129.997,Disco
+Carbon Deposits,Carl Finlow,Apparatus,415675,False,6,1,1,4,0.00383,0.798,0.867,0.839,0.0895,-9.003,0.0629,0.928,129.997,Disco
+Bind,Carl Finlow,Apparatus,421009,False,6,4,0,4,0.0316,0.776,0.867,0.872,0.0826,-10.383,0.0688,0.631,133.987,Disco
+Reprise,Carl Finlow,Count On It,343626,False,5,1,1,4,0.000873,0.762,0.251,0.905,0.123,-11.183,0.13,0.376,129.997,Disco
+Count On It,Carl Finlow,Count On It,367225,False,4,2,1,4,0.0168,0.8,0.628,0.885,0.122,-14.455,0.053,0.587,129.013,Disco
+Fast Lane,Carl Finlow,Count On It,385653,False,2,10,1,4,0.000909,0.797,0.379,0.782,0.0442,-11.241,0.0755,0.492,126.997,Disco
+Show Down,Carl Finlow,Show Down EP,530906,False,1,6,1,4,0.000242,0.799,0.447,0.931,0.11,-11.404,0.12,0.747,127.997,Disco
+Day Dreamer,Carl Finlow,Show Down EP,439040,False,1,11,1,4,0.00373,0.834,0.327,0.89,0.0924,-11.178,0.0984,0.719,124.0,Disco
+Deflector,Carl Finlow,Show Down EP,465040,False,0,1,1,4,1.61e-05,0.453,0.641,0.821,0.11,-10.156,0.0632,0.396,123.99,Disco
+Slide,Carl Finlow,Limitations EP,410053,False,0,10,0,4,0.00599,0.808,0.559,0.785,0.0199,-10.981,0.0519,0.97,124.006,Disco
+Motion,Carl Finlow,Limitations EP,450026,False,1,1,1,4,0.000227,0.805,0.408,0.745,0.0813,-13.442,0.0681,0.39,123.992,Disco
+Dangerous Devotion,Carl Finlow,Dangerous Devotion EP,298186,False,1,2,1,4,0.0213,0.809,0.367,0.859,0.0597,-14.729,0.167,0.624,124.002,Disco
+Autoshark 1 (I Really Like That girl),Electronic Eye,Autoshark EP,377160,False,0,0,1,4,0.518,0.698,0.547,0.937,0.103,-12.746,0.0393,0.497,130.012,Disco
+Cosmica 1 (Make It Funky/Latin Shuffle),Electronic Eye,Autoshark EP,462560,False,0,7,1,4,0.0194,0.849,0.641,0.839,0.29,-13.759,0.0567,0.723,127.98,Disco
+Autoshark 3 (I Really Like That Dub),Electronic Eye,Autoshark EP,374320,False,0,9,0,4,0.485,0.626,0.7,0.897,0.112,-14.665,0.0354,0.592,130.003,Disco
+Prelaunch Sequence,Noiseshaper,Prelaunch Sequence,361200,False,1,8,0,4,0.0021,0.721,0.696,0.746,0.12,-8.968,0.0568,0.0378,103.012,Disco
+Can't Talk,Gary Gritness,Rollin' Zebras,406298,False,6,7,0,4,0.00537,0.781,0.815,0.932,0.0686,-6.437,0.0572,0.811,136.98,Disco
+RND,Carl Finlow,Magnolia,401249,False,0,1,1,4,0.0013,0.793,0.569,0.9,0.111,-12.358,0.0873,0.235,128.011,Disco
+Reflector,Carl Finlow,Magnolia,395076,False,1,1,1,4,0.00155,0.684,0.757,0.69,0.0933,-8.38,0.0707,0.456,130.019,Disco
+Conduit - Original Mix,Carl Finlow,Boot Loop EP,370826,False,3,11,0,4,1.11e-05,0.784,0.757,0.863,0.0721,-8.072,0.0422,0.447,130.021,Disco
+Hashtag - Original Mix,Carl Finlow,Boot Loop EP,355857,False,4,11,0,4,0.00332,0.772,0.701,0.854,0.127,-11.69,0.0579,0.144,130.022,Disco
+Hashtag - Fleck Esc Remix,Carl Finlow,Boot Loop EP,380619,False,2,1,0,4,0.0812,0.792,0.913,0.831,0.0995,-7.771,0.0524,0.607,133.026,Disco
+Hashtag - C Mantle Remix,Carl Finlow,Boot Loop EP,333748,False,1,1,1,4,0.00823,0.747,0.92,0.911,0.069,-8.736,0.101,0.505,129.994,Disco
+Lateral Thoughts,Carl Finlow,Electricology EP,424253,False,1,6,0,4,0.000121,0.627,0.714,0.771,0.129,-15.318,0.041,0.0912,133.989,Disco
+Hyperloop,Carl Finlow,Electricology EP,338417,False,1,10,0,4,0.00952,0.773,0.793,0.906,0.117,-15.546,0.0655,0.24,139.013,Disco
+Suspect Reanimation,Carl Finlow,Electricology EP,358153,False,1,1,1,4,0.000408,0.791,0.648,0.898,0.104,-10.552,0.0586,0.12,129.984,Disco
+Latext,Carl Finlow,Electricology EP,395076,False,1,1,1,4,0.00089,0.679,0.823,0.775,0.0901,-15.937,0.0551,0.818,130.006,Disco
+Atomic Level,Carl Finlow,Electricology EP,312483,False,1,11,0,4,3.01e-05,0.657,0.776,0.783,0.279,-13.291,0.0493,0.826,149.004,Disco
+Beckoned,Carl Finlow,Beckoned EP,299877,False,6,7,1,4,0.00562,0.809,0.5,0.942,0.11,-12.534,0.064,0.916,120.007,Disco
+Boron,Carl Finlow,Beckoned EP,388055,False,6,7,1,4,0.000353,0.802,0.806,0.92,0.0846,-12.426,0.088,0.339,128.005,Disco
+Photonics,Carl Finlow,Beckoned EP,296695,False,3,1,1,4,0.00168,0.672,0.476,0.919,0.11,-11.624,0.0575,0.231,133.003,Disco
+Romboid Assassin - Original Mix,Carl Finlow,Romboid Assassin EP,324309,False,1,7,1,4,0.00195,0.719,0.894,0.844,0.0777,-11.154,0.0624,0.405,132.986,Disco
+Phisge - Original Mix,Carl Finlow,Romboid Assassin EP,342365,False,1,1,0,4,0.000331,0.782,0.864,0.866,0.127,-11.669,0.0454,0.0521,127.002,Disco
+Chronos,Carl Finlow,Boolean EP,365901,False,4,5,0,4,0.0044,0.753,0.722,0.868,0.0785,-7.798,0.0466,0.606,124.021,Disco
+Boolean,Carl Finlow,Boolean EP,321160,False,4,2,1,4,0.00561,0.718,0.751,0.903,0.0252,-6.571,0.0505,0.619,123.998,Disco
+Marauders,Carl Finlow,Boolean EP,272510,False,3,4,0,4,0.00101,0.804,0.832,0.858,0.0668,-6.488,0.0589,0.896,124.014,Disco
+Exige,Carl Finlow,Boolean EP,297383,False,4,4,0,4,0.0581,0.802,0.669,0.896,0.0627,-8.868,0.0462,0.53,123.989,Disco
+Unconditional,Carl Finlow,Boolean EP,255468,False,3,7,1,4,0.000269,0.806,0.661,0.853,0.115,-10.182,0.0465,0.663,126.029,Disco
+Circuitous,Carl Finlow,Holographic Emotion,403178,False,1,1,1,4,0.00675,0.724,0.853,0.794,0.374,-8.236,0.0516,0.758,130.001,Disco
+Epsilon,Carl Finlow,Holographic Emotion,419925,False,1,1,1,4,0.000798,0.781,0.856,0.88,0.1,-10.809,0.0524,0.177,130.007,Disco
+Holographic Emotion,Carl Finlow,Holographic Emotion,327580,False,2,6,1,4,0.172,0.542,0.464,0.862,0.0753,-9.95,0.0793,0.765,123.941,Disco
+Threshold,Carl Finlow,Holographic Emotion,425505,False,1,1,1,4,0.0727,0.652,0.846,0.943,0.12,-8.042,0.0368,0.405,115.998,Disco
+Convergence,Carl Finlow,Introspective,335933,False,34,11,0,4,0.000894,0.812,0.421,0.779,0.11,-10.248,0.187,0.542,119.998,Disco
+Mortal Kombat,J-Zbel,Dog's Fart Is So Bad The Cat Throws Up,247241,False,8,0,1,4,4.69e-05,0.679,0.85,0.8,0.315,-8.366,0.053,0.285,132.015,Disco
+Diablo Verde - Live At Bordeaux,J-Zbel,Hyena Sticks Head In Elephant's Butt,327184,False,7,7,1,4,0.0196,0.691,0.911,0.855,0.105,-7.434,0.068,0.417,135.021,Disco
+Lauren misogyn,J-Zbel,Hyena Sticks Head In Elephant's Butt,282413,False,4,1,1,4,0.00128,0.413,0.99,0.854,0.147,-8.458,0.0945,0.12,140.01,Disco
+Excremangue,J-Zbel,Dog's Fart Is So Bad The Cat Throws Up,193647,False,2,10,1,4,0.00486,0.744,0.775,0.858,0.455,-11.245,0.0983,0.63,145.004,Disco
+Hardcore Jusqu'au PEF,J-Zbel,Dog's Fart Is So Bad The Cat Throws Up,277226,False,3,10,0,4,0.00747,0.646,0.955,0.834,0.277,-8.326,0.0664,0.352,150.01,Disco
+The J-ZBEL Anthem,J-Zbel,Dog's Fart Is So Bad The Cat Throws Up,220354,False,4,9,1,4,0.177,0.706,0.975,0.0283,0.196,-6.524,0.231,0.361,155.008,Disco
+Urth Man,Ex-Terrestrial,Urth Born,386225,False,32,0,1,4,0.00775,0.752,0.755,0.839,0.117,-9.947,0.0559,0.66,120.04,Disco
+Techno World - Extended Mix,Go Nuclear,Techno World,419593,False,2,1,1,4,0.0019,0.788,0.725,0.643,0.254,-8.159,0.0602,0.677,129.988,Disco

@@ -1,0 +1,51 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+LA NOCHE DE ANOCHE,"Bad Bunny,ROSALÍA",EL ÚLTIMO TOUR DEL MUNDO,203200,False,80,7,1,4,0.0303,0.856,0.618,0,0.0866,-4.892,0.286,0.391,81.993,DailyMix2
+Sur y Norte,"Ñengo Flow,Anuel AA",The Goat,215172,True,64,7,0,4,0.304,0.741,0.548,0,0.0832,-4.938,0.153,0.285,87.148,DailyMix2
+Inolvidable,"Ovy On The Drums,Beéle",Inolvidable,225812,False,75,0,1,4,0.678,0.84,0.543,0,0.128,-4.941,0.0568,0.74,139.929,DailyMix2
+La Luz,"Sech,J Balvin",La Luz,216746,False,86,9,0,4,0.427,0.665,0.697,1.39e-05,0.599,-4.819,0.154,0.556,94.053,DailyMix2
+Narcos,Anuel AA,Emmanuel,259250,True,77,10,0,4,0.347,0.614,0.746,1.43e-05,0.0874,-3.527,0.196,0.601,168.072,DailyMix2
+Mi Error - Remix,"Eladio Carrion,Zion & Lennox,Wisin & Yandel,Lunay",Mi Error (Remix),315862,False,68,7,1,4,0.0985,0.663,0.841,0,0.45,-3.42,0.104,0.432,174.021,DailyMix2
+Mujeres,"Mozart La Para,Justin Quiles",Mujeres,187666,False,57,1,0,4,0.204,0.835,0.767,7.93e-05,0.261,-5.699,0.0686,0.71,99.972,DailyMix2
+Es Normal,"Menor Menor,Dalex,Milly,Lary Over,Sharo Towers",Es Normal,249213,False,0,9,1,4,0.668,0.759,0.79,0.000155,0.0973,-3.767,0.0688,0.361,95.947,DailyMix2
+Imaginaste,"Jhay Cortez,Tainy",Famouz,198613,False,62,6,1,4,0.113,0.77,0.661,0,0.299,-5.807,0.24,0.578,179.953,DailyMix2
+Diosa,Myke Towers,Easy Money Baby,214013,True,81,6,0,4,0.398,0.801,0.745,0.00603,0.153,-3.733,0.063,0.245,104.965,DailyMix2
+Mejor,"Dalex,Sech",Mejor,201361,True,35,2,1,4,0.185,0.524,0.577,0,0.103,-4.501,0.18,0.19,175.396,DailyMix2
+Latina (feat. Maluma),"Reykon,Maluma",Latina (feat. Maluma),226738,False,65,9,0,4,0.0748,0.826,0.713,0,0.331,-4.017,0.129,0.75,102.071,DailyMix2
+Trofeo,Sech,A Side,206761,False,26,6,1,4,0.266,0.744,0.757,0.000821,0.0872,-4.04,0.0554,0.879,153.919,DailyMix2
+La Difícil,Bad Bunny,YHLQMDLG,163084,True,83,8,0,4,0.0861,0.685,0.848,7.14e-06,0.0783,-4.561,0.0858,0.761,179.87,DailyMix2
+Roto,"Noreh,Nacho",Roto,195933,False,42,6,0,4,0.0521,0.771,0.739,0,0.323,-5.372,0.33,0.499,169.997,DailyMix2
+TE DESEO LO MEJOR,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,139576,True,77,1,1,4,0.158,0.763,0.597,1.83e-05,0.111,-5.054,0.0416,0.194,126.054,DailyMix2
+Que Fluya - Remix,"Yera,Jerry Di,Corina Smith,Andy G",Que Fluya (Remix),201875,True,61,8,1,5,0.292,0.569,0.677,0,0.783,-5.294,0.0703,0.801,127.929,DailyMix2
+UN PESO,"J Balvin,Bad Bunny,Marciano Cantero",OASIS,277106,False,76,5,0,4,0.125,0.627,0.675,0,0.0784,-7.125,0.213,0.961,79.31,DailyMix2
+China,"Anuel AA,Daddy Yankee,KAROL G,J Balvin,Ozuna",China,301714,False,80,7,1,4,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,0.609,105.027,DailyMix2
+Como Panas,Bryant Myers,Como Panas,198997,False,60,10,0,4,0.404,0.638,0.61,0,0.146,-5.929,0.213,0.379,157.956,DailyMix2
+B11 (feat. Myke Towers),"Rvssian,Darell,Zion & Lennox,Myke Towers",B11 (feat. Myke Towers),251929,False,68,0,1,4,0.0672,0.759,0.717,0.000455,0.131,-5.014,0.115,0.195,99.946,DailyMix2
+Como Se Siente,Jhay Cortez,Famouz Reloaded,219640,False,60,3,0,4,0.213,0.664,0.582,0,0.108,-7.139,0.0935,0.222,92.764,DailyMix2
+Mi Niña,Ozuna,Mi Niña,209826,False,68,10,1,4,0.18,0.679,0.706,0,0.0784,-4.853,0.0836,0.543,170.047,DailyMix2
+Hasta Que Dios Diga,"Anuel AA,Bad Bunny",Emmanuel,246000,True,85,8,1,4,0.464,0.691,0.765,3.29e-06,0.203,-4.727,0.111,0.855,174.021,DailyMix2
+Dakiti,"Bad Bunny,Jhay Cortez",Dakiti,205090,True,100,4,0,4,0.401,0.731,0.573,5.22e-05,0.113,-10.059,0.0544,0.145,109.928,DailyMix2
+La Curiosidad,"Jay Wheeler,DJ Nelson,Myke Towers",Platonicos,219048,False,92,11,0,4,0.269,0.845,0.677,0.000917,0.108,-4.798,0.136,0.68,90.013,DailyMix2
+Otro Trago,"Sech,Darell",Sueños,225933,True,76,0,1,4,0.136,0.746,0.7,0.000159,0.11,-4.669,0.341,0.619,176.044,DailyMix2
+Como Yo,"Juan Magán,Buxxi",The King Of Dance,192146,False,44,6,1,4,0.349,0.641,0.858,0,0.0884,-6.304,0.0683,0.931,129.966,DailyMix2
+Good Vibes,"Fuego,Nicky Jam",Good Vibes,235720,False,54,7,1,4,0.0348,0.823,0.63,6.72e-06,0.0964,-3.932,0.0797,0.184,100.04,DailyMix2
+El Boom,Chimbala,El Boom,219402,False,60,4,1,4,0.529,0.866,0.84,0.000331,0.0514,-2.591,0.04,0.936,127.996,DailyMix2
+La Cama,"Lunay,Myke Towers",La Cama,189295,False,59,2,0,4,0.2,0.7,0.904,0.000471,0.182,-2.826,0.0568,0.816,173.973,DailyMix2
+Medusa,"Jhay Cortez,Anuel AA,J Balvin",Medusa,305333,True,75,0,1,4,0.194,0.886,0.604,3.15e-06,0.107,-7.293,0.208,0.383,98.023,DailyMix2
+La Santa,"Bad Bunny,Daddy Yankee",YHLQMDLG,206420,True,84,1,1,4,0.0326,0.744,0.868,0,0.0822,-4.524,0.047,0.586,93.037,DailyMix2
+DM - Remix,"The Rudeboyz,Maikel Delacalle,Jory Boy,Lyanno,Cauty,Tommy Boysen",DM (Remix),254610,False,46,10,0,4,0.403,0.829,0.727,0.000137,0.165,-3.962,0.0835,0.774,96.055,DailyMix2
+Con Altura,"ROSALÍA,J Balvin,El Guincho",Con Altura,161626,False,78,6,1,4,0.39,0.882,0.689,0.00325,0.0501,-4.027,0.124,0.746,97.963,DailyMix2
+Girl,Myke Towers,Easy Money Baby,186426,True,77,6,1,4,0.0325,0.733,0.708,0.000327,0.324,-4.957,0.0937,0.694,93.021,DailyMix2
+Fabuloso,"Sech,Justin Quiles",1 of 1,200494,False,77,6,1,4,0.0846,0.637,0.785,0.000239,0.0392,-2.612,0.166,0.74,87.4,DailyMix2
+A Tu Merced,Bad Bunny,YHLQMDLG,175918,False,82,0,1,4,0.169,0.86,0.791,0.000106,0.106,-4.784,0.0568,0.887,92.023,DailyMix2
+Sigues Con El,"Dímelo Flow,Arcangel,Sech",Sigues Con El,226532,False,82,9,1,4,0.11,0.883,0.668,0.000529,0.0734,-2.957,0.113,0.676,87.972,DailyMix2
+Besame,"Valentino,Manuel Turizo",Besame,232146,False,50,0,1,4,0.342,0.767,0.705,0,0.25,-6.221,0.0521,0.52,94.013,DailyMix2
+Si Te Vas,"Sech,Ozuna",Si Te Vas,204906,False,72,0,1,4,0.0933,0.73,0.644,4.56e-06,0.143,-4.124,0.132,0.554,174.101,DailyMix2
+Te Vas Arrepentir - Remix,"Chris Wandell,J Alvarez,Randy,Rafa Pabön,Alex Rose,Nio Garcia,Casper Magico",Te Vas Arrepentir (Remix),338051,False,44,10,0,4,0.344,0.797,0.687,0,0.14,-6.037,0.188,0.59,91.975,DailyMix2
+De Tranquilote,"Danny Romero,Lérica",De Tranquilote,177208,False,64,2,1,4,0.105,0.682,0.669,0,0.071,-7.15,0.0951,0.889,79.929,DailyMix2
+La Bebe - Remix,"Anuel AA,Cardi B,Black Jonas Point,Secreto ""El Famoso Biberon"",Liro Shaq",La Bebe (Remix),374545,True,69,6,1,4,0.0873,0.903,0.447,0,0.136,-11.554,0.116,0.239,99.009,DailyMix2
+A Güiro,Rafa Pabön,A Güiro,163250,False,70,4,0,4,0.185,0.958,0.581,0.0707,0.0282,-5.424,0.134,0.902,120.026,DailyMix2
+Dime Cuantas Veces (Remix) [feat. Justin Quiles],"Micro TDH,Rels B,Lenny Tavárez,Justin Quiles",Dime Cuantas Veces (Remix) [feat. Justin Quiles],207248,False,75,1,1,4,0.201,0.911,0.632,9.26e-06,0.0791,-2.94,0.118,0.832,99.988,DailyMix2
+YO VISTO ASÍ,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,191526,False,77,7,0,4,0.0947,0.688,0.881,0,0.0804,-4.889,0.0474,0.677,123.013,DailyMix2
+Trukitos,"Lennis Rodriguez,Denyerkin",Trukitos,166010,False,54,2,1,4,0.454,0.839,0.805,0.00628,0.0843,-3.913,0.0644,0.806,94.007,DailyMix2
+Suena El Dembow,"Joey Montana,Sebastian Yatra",Suena El Dembow,195813,False,58,0,1,4,0.174,0.695,0.856,0,0.116,-4.446,0.0547,0.728,91.911,DailyMix2
+Ni Gucci Ni Prada,Kenny Man,Ni Gucci Ni Prada,175200,False,67,2,1,4,0.41,0.799,0.676,0.000777,0.325,-5.644,0.169,0.91,104.956,DailyMix2

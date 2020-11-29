@@ -1,0 +1,194 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Little Lion Man,Mumford & Sons,Sigh No More,245173,True,0,5,1,4,0.0275,0.517,0.492,3.2e-05,0.0873,-8.051,0.0272,0.455,138.579,BonfireSongs
+King And Lionheart,Of Monsters and Men,My Head Is An Animal,273853,False,58,3,1,4,0.104,0.52,0.655,0.00347,0.124,-6.516,0.0393,0.289,126.593,BonfireSongs
+Brother,Mighty Oaks,Howl,195320,False,33,2,1,4,0.218,0.509,0.809,0,0.0757,-6.179,0.0373,0.366,181.746,BonfireSongs
+Tears Don't Fall,Terrible Sons,Tears Don't Fall,190546,False,0,7,1,4,0.442,0.669,0.543,0.0189,0.153,-12.687,0.0301,0.849,149.363,BonfireSongs
+My Silver Lining,First Aid Kit,Stay Gold,215493,False,62,2,1,4,0.026,0.477,0.725,0.000133,0.214,-4.671,0.0337,0.427,101.854,BonfireSongs
+Love Me Better,James Blunt,Love Me Better,218529,False,0,9,1,4,0.044,0.669,0.582,1.38e-05,0.0744,-7.419,0.0665,0.492,89.99,BonfireSongs
+Mess Is Mine,Vance Joy,Dream Your Life Away (Special Edition),223640,False,67,7,1,1,0.047,0.595,0.723,0.0286,0.0995,-8.256,0.0349,0.272,108.043,BonfireSongs
+Riptide,Vance Joy,Dream Your Life Away (Special Edition),204280,False,78,1,1,4,0.431,0.484,0.731,0,0.151,-6.694,0.0379,0.51,101.654,BonfireSongs
+Shaky Ground,Freedom Fry,Shaky Ground,192893,False,54,9,1,4,0.54,0.721,0.507,3.94e-06,0.114,-7.439,0.028,0.43,116.05,BonfireSongs
+Rainy Forgiveness,Changed Habits,Rainy Forgiveness,212706,False,38,3,1,4,0.365,0.73,0.675,0.00342,0.0968,-6.363,0.0317,0.185,119.995,BonfireSongs
+My Repair,Sons Of The East,Already Gone,185583,False,52,2,1,4,0.236,0.571,0.65,0,0.113,-8.276,0.0499,0.451,123.933,BonfireSongs
+Undertow,Panama,Hope For Something (Alternate Versions),286708,False,0,2,1,4,0.887,0.693,0.529,8.88e-05,0.0855,-10.429,0.0518,0.109,122.02,BonfireSongs
+Lullaby Love - Christian Liebeskind Remix,"Roo Panes,Christian Liebeskind",Lullaby Love (Christian Liebeskind Remix),187499,False,28,9,0,4,0.0561,0.694,0.682,4.42e-05,0.177,-7.147,0.0321,0.473,99.986,BonfireSongs
+Waves,Dean Lewis,Waves,241292,False,0,11,0,4,0.163,0.518,0.776,0,0.0884,-5.791,0.0444,0.387,156.894,BonfireSongs
+Pompeii,Bastille,All This Bad Blood,214147,False,1,9,1,4,0.074,0.682,0.714,0,0.278,-6.306,0.0399,0.581,127.443,BonfireSongs
+Run Run Run,"Junge Junge,Kyle Pearce",Beautiful Girl - EP,211598,False,0,4,1,4,0.349,0.72,0.491,0.183,0.111,-10.162,0.0327,0.249,122.011,BonfireSongs
+Chemicals,Gregory Alan Isakov,Chemicals,199906,False,57,0,1,4,0.885,0.608,0.238,0.125,0.111,-13.604,0.0434,0.27,78.013,BonfireSongs
+Milestone - Stripped Down,"Joey Kidney,Matt Walden",This is Love,255968,False,34,4,1,4,0.865,0.679,0.323,0.91,0.112,-19.828,0.0467,0.094,130.051,BonfireSongs
+Backdoor To Your Heart (feat. Marc Wulf),"KIIDA,Marc Wulf",Backdoor To Your Heart (feat. Marc Wulf),193285,False,32,6,1,4,0.0288,0.532,0.865,2.08e-05,0.0486,-3.032,0.0622,0.107,113.111,BonfireSongs
+Love Ain't Cheap (feat. Alex Bayly),"Benedict Ammann,Flo Tusch,Alex Bayly",Love Ain't Cheap (feat. Alex Bayly),210000,False,31,2,1,4,0.696,0.862,0.623,0.000497,0.079,-7.562,0.0296,0.435,120.034,BonfireSongs
+The Only Boy Awake,Meadows,The Only Boy Awake,163294,False,61,5,1,4,0.61,0.52,0.48,0.0344,0.107,-10.288,0.0303,0.405,122.086,BonfireSongs
+Hum With Me,John De Sohn,Hum With Me,167870,False,51,10,1,4,0.109,0.653,0.708,0.0011,0.163,-5.385,0.0345,0.347,111.924,BonfireSongs
+Be Your Friend,"Vigiland,Alexander Tidebrink",Be Your Friend,180820,False,0,0,1,4,0.0645,0.608,0.755,0,0.155,-4.197,0.0478,0.663,128.038,BonfireSongs
+Wish You Well,Brendan James,Wish You Well,219817,False,39,0,1,4,0.271,0.67,0.775,5.25e-05,0.14,-5.458,0.059,0.345,101.019,BonfireSongs
+Run to You,Tom Gregory,Run to You,187000,False,52,7,1,4,0.374,0.821,0.656,9.84e-05,0.142,-5.622,0.0432,0.704,116.864,BonfireSongs
+I Need You,"Faul & Wad Ad,Avalanche City",I Need You,235680,False,40,4,1,4,0.457,0.654,0.693,0.00107,0.109,-6.335,0.0349,0.197,125.04,BonfireSongs
+Cigarette (feat. Cameron Douglas),"PANG!,Cameron Douglas",Cigarette (feat. Cameron Douglas),257213,False,33,0,1,4,0.109,0.743,0.709,0.00439,0.0835,-9.723,0.0316,0.26,116.987,BonfireSongs
+Oceans Away - Sam Feldt Remix,"A R I Z O N A,Sam Feldt",Oceans Away (Sam Feldt Remix),171108,False,48,1,1,4,0.316,0.741,0.613,0.0316,0.0893,-9.347,0.0354,0.271,115.031,BonfireSongs
+Sun Comes Out,"Decco,Leo Stannard",Sun Comes Out,218208,False,40,11,0,4,0.25,0.683,0.686,4.66e-06,0.12,-6.689,0.0531,0.305,120.0,BonfireSongs
+Higher,Luke Coulson,Higher,232000,False,31,11,0,4,0.0614,0.683,0.609,0.549,0.146,-11.874,0.0353,0.279,117.959,BonfireSongs
+Long Road - Alle Farben Remix,"Jake Isaac,Alle Farben",Long Road (Alle Farben Remix),206493,False,0,6,1,4,0.0355,0.688,0.689,0.00942,0.119,-7.133,0.0515,0.439,124.029,BonfireSongs
+Go On,"neumodel,Eylia",Unreleased,181786,False,34,0,0,4,0.742,0.783,0.687,0.00464,0.125,-6.459,0.0798,0.508,119.96,BonfireSongs
+The Cave,Mumford & Sons,Sigh No More,215626,False,0,4,1,4,0.0536,0.592,0.499,4.4e-05,0.113,-9.463,0.0374,0.345,141.938,BonfireSongs
+Never Come Back Again,Austin Plaine,Austin Plaine,196240,False,52,8,1,4,0.19,0.594,0.695,3.58e-06,0.119,-8.872,0.0259,0.172,104.977,BonfireSongs
+Ophelia,The Lumineers,Ophelia,160097,False,57,5,1,4,0.613,0.664,0.573,0.000363,0.0857,-6.519,0.0277,0.566,76.023,BonfireSongs
+Ho Hey,The Lumineers,The Lumineers (Deluxe Edition),163133,False,75,0,1,4,0.765,0.682,0.471,0,0.0908,-9.182,0.0301,0.421,79.907,BonfireSongs
+Renegades,X Ambassadors,VHS,195199,False,1,2,1,4,0.0127,0.514,0.858,0.0528,0.251,-5.995,0.0896,0.6,89.833,BonfireSongs
+Old Pine,Ben Howard,Every Kingdom (Deluxe Version),328506,False,0,5,1,4,0.458,0.419,0.358,0.0479,0.168,-10.749,0.033,0.226,128.764,BonfireSongs
+"Welcome Home, Son",Radical Face,Ghost,285320,False,0,6,1,3,0.743,0.601,0.537,0.732,0.143,-9.464,0.0296,0.394,144.994,BonfireSongs
+Hold Back The River,James Bay,Hold Back The River,239520,False,0,5,1,4,0.0703,0.714,0.701,0,0.0958,-7.381,0.0813,0.493,134.917,BonfireSongs
+Riptide,Vance Joy,Riptide,204280,False,55,1,1,4,0.431,0.484,0.731,0,0.151,-6.694,0.0379,0.51,101.654,BonfireSongs
+Spirits,The Strumbellas,Spirits,203653,False,0,0,1,4,0.169,0.552,0.724,0,0.11,-3.698,0.0271,0.774,80.516,BonfireSongs
+Brave,Riley Pearce,Outside The Lines,247793,False,0,4,0,4,0.569,0.505,0.409,0.00228,0.153,-10.588,0.0304,0.228,116.05,BonfireSongs
+Wildflowers,Trampled by Turtles,Wildflowers,168849,False,59,5,1,4,0.327,0.495,0.444,5.39e-06,0.269,-8.617,0.0276,0.65,105.431,BonfireSongs
+So Cool,Caamp,Boys (Side A),179067,False,54,4,1,4,0.57,0.58,0.469,0.0122,0.193,-10.02,0.0332,0.56,152.867,BonfireSongs
+Horse to Water,Tall Heights,Neptune,244960,False,59,6,0,4,0.344,0.517,0.622,0.0699,0.498,-9.135,0.0337,0.51,96.964,BonfireSongs
+The Cave,Mumford & Sons,Sigh No More,215626,False,63,4,1,4,0.0536,0.592,0.499,4.52e-05,0.113,-9.463,0.0375,0.346,141.937,BonfireSongs
+Begin - Recorded at Spotify Studios NYC,Shallou,Spotify Singles,242587,False,49,5,1,4,0.749,0.495,0.571,0.714,0.119,-10.052,0.0351,0.316,96.998,BonfireSongs
+Chemicals,Dean Lewis,Same Kind Of Different,221578,False,49,11,1,4,0.679,0.549,0.464,1.14e-06,0.142,-9.517,0.0387,0.212,80.933,BonfireSongs
+Power Over Me - Acoustic,Dermot Kennedy,Power Over Me,200435,False,1,9,0,4,0.85,0.609,0.489,0,0.104,-6.001,0.0424,0.567,115.902,BonfireSongs
+Next Year,"Ghosts,Ryan Henderson",Next Year,251500,False,0,3,1,4,0.476,0.622,0.69,0.00463,0.123,-6.589,0.132,0.219,123.04,BonfireSongs
+Lose My Mind,Dean Lewis,Same Kind Of Different,200880,False,57,8,1,4,0.047,0.554,0.642,0,0.121,-6.637,0.0306,0.228,128.039,BonfireSongs
+Gravity,"Leo Stannard,Frances",Gravity,182066,False,54,1,1,4,0.509,0.787,0.423,0,0.108,-5.313,0.0428,0.534,95.068,BonfireSongs
+Yosemite,Hider,Yosemite,225663,False,33,4,0,4,0.572,0.646,0.8,0.00252,0.115,-7.28,0.0313,0.472,113.024,BonfireSongs
+Laps Around The Sun,Ziggy Alberts,Laps Around The Sun,206166,True,63,4,0,4,0.475,0.768,0.472,0,0.11,-10.047,0.0493,0.145,110.024,BonfireSongs
+Simple Things,Ziggy Alberts,Made of Water,265045,False,58,1,1,4,0.738,0.475,0.448,0.00463,0.123,-14.74,0.0497,0.576,132.778,BonfireSongs
+Worn Out,Ziggy Alberts,Laps Around The Sun,229000,False,50,8,1,4,0.811,0.738,0.471,0.0193,0.143,-13.074,0.032,0.356,109.032,BonfireSongs
+Gone (The Pocahontas Song),Ziggy Alberts,Land & Sea,218500,False,63,1,0,4,0.828,0.688,0.503,1.28e-06,0.088,-10.356,0.046,0.458,124.903,BonfireSongs
+Chateau,Angus & Julia Stone,SNOW,273533,False,50,5,1,4,0.637,0.661,0.589,0.863,0.111,-11.217,0.0368,0.603,129.987,BonfireSongs
+Love Me Now,Ziggy Alberts,Love Me Now,240800,False,46,0,1,4,0.322,0.733,0.408,1.11e-06,0.13,-9.181,0.0312,0.613,108.982,BonfireSongs
+Run,Harrison Storm,Run,196760,False,53,1,0,4,0.402,0.553,0.539,0.000179,0.36,-8.94,0.0331,0.165,85.026,BonfireSongs
+Hands I Can Hold,Ziggy Alberts,Land & Sea,188681,False,56,0,1,4,0.831,0.539,0.432,3.82e-05,0.563,-10.702,0.0524,0.354,124.766,BonfireSongs
+Groceries,Mallrat,In the Sky,217284,False,59,0,1,4,0.13,0.686,0.539,1.94e-05,0.116,-8.623,0.0348,0.186,115.983,BonfireSongs
+Days in the Sun,Ziggy Alberts,Land & Sea,214647,False,62,6,1,4,0.819,0.625,0.459,0,0.118,-10.772,0.0413,0.312,126.125,BonfireSongs
+Only Love,Ben Howard,Every Kingdom,248278,False,49,8,1,4,0.303,0.559,0.493,0.00143,0.118,-9.903,0.0963,0.333,80.35,BonfireSongs
+More,Zeck,More,209655,False,39,9,1,4,0.886,0.659,0.467,0.0239,0.107,-10.584,0.027,0.147,86.992,BonfireSongs
+Sunlight,G Voz,Rehad,225000,False,42,4,1,4,0.685,0.524,0.51,0.111,0.0976,-13.513,0.0341,0.128,119.892,BonfireSongs
+Vibrant Scene,Jon and Roy,Let It Go,140477,False,28,8,1,4,0.777,0.702,0.615,1.62e-05,0.173,-8.541,0.0286,0.579,116.982,BonfireSongs
+Youth,Daughter,If You Leave,253013,False,70,0,1,4,0.889,0.401,0.535,0.00667,0.116,-11.09,0.0407,0.436,146.515,BonfireSongs
+The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,68,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,BonfireSongs
+"Gone, Gone, Gone",Phillip Phillips,The World From The Side Of The Moon (Deluxe),209693,False,68,6,1,4,0.129,0.664,0.642,0,0.114,-5.961,0.038,0.501,118.002,BonfireSongs
+Woman,Mumford & Sons,Delta,274552,False,62,1,0,4,0.662,0.592,0.555,0.452,0.111,-10.499,0.0381,0.142,156.957,BonfireSongs
+All's Well That Ends,Rainbow Kitten Surprise,RKS,206626,False,58,4,1,4,0.0238,0.624,0.476,0.141,0.0997,-10.993,0.0416,0.184,119.968,BonfireSongs
+It's Called: Freefall,Rainbow Kitten Surprise,"How to: Friend, Love, Freefall",152293,True,66,2,1,4,0.632,0.744,0.516,0,0.605,-6.365,0.0513,0.281,97.944,BonfireSongs
+First Class,Rainbow Kitten Surprise,Seven + Mary,343485,True,63,1,1,4,0.581,0.554,0.337,0,0.0871,-10.189,0.0351,0.216,89.961,BonfireSongs
+Stubborn Love,The Lumineers,The Lumineers (Deluxe Edition),279000,False,65,0,1,4,0.604,0.596,0.544,0.017,0.262,-11.759,0.0362,0.262,115.022,BonfireSongs
+Bright Lights,Ziggy Alberts,Laps Around The Sun,217966,False,53,4,1,4,0.863,0.704,0.274,0,0.103,-13.304,0.0352,0.509,91.957,BonfireSongs
+Left With The Wolves,Nathan Hawes,Left With The Wolves,229334,False,46,2,0,4,0.241,0.663,0.755,2.43e-06,0.222,-5.169,0.0297,0.359,108.998,BonfireSongs
+All Your Love,"Flight Facilities,Dustin Tebbutt",All Your Love,285004,False,0,5,1,4,0.43,0.648,0.752,0.12,0.112,-9.1,0.0456,0.232,119.931,BonfireSongs
+Coastline,Hollow Coves,Wanderlust,233973,False,69,2,1,4,0.627,0.67,0.496,0.00325,0.0584,-11.23,0.0277,0.427,100.17,BonfireSongs
+Come Away,Sons Of The East,Sons Of The East,260693,False,54,0,1,4,0.214,0.673,0.592,0,0.11,-8.388,0.0305,0.231,121.949,BonfireSongs
+Sink,Noah Kahan,Busyhead,225893,False,63,3,1,4,0.421,0.565,0.471,6.39e-05,0.11,-9.046,0.0306,0.355,165.055,BonfireSongs
+Young Blood,Noah Kahan,Busyhead,208533,False,62,11,1,4,0.391,0.671,0.463,0,0.162,-8.534,0.0439,0.347,85.002,BonfireSongs
+When We Were Young,Hollow Coves,When We Were Young,258786,False,44,1,1,4,0.369,0.482,0.389,4e-05,0.0507,-11.058,0.0306,0.593,74.121,BonfireSongs
+The Woods - Acoustic,Hollow Coves,The Woods (Acoustic),239960,False,61,9,1,4,0.724,0.568,0.558,0.000331,0.116,-8.553,0.0278,0.287,104.991,BonfireSongs
+The Woods,Hollow Coves,Wanderlust,241546,False,59,9,1,4,0.411,0.802,0.41,0.00107,0.0941,-12.793,0.0454,0.224,106.047,BonfireSongs
+We Will Run,Hollow Coves,Wanderlust,255520,False,48,11,1,4,0.493,0.652,0.627,0.036,0.166,-9.601,0.034,0.467,100.113,BonfireSongs
+Boardwalks - Sonny Alven Remix,"Little May,Sonny Alven",Boardwalks (Sonny Alven Remix),264925,False,47,6,1,4,0.488,0.721,0.66,0.414,0.0938,-11.805,0.0458,0.157,123.992,BonfireSongs
+Sense of Home,Harrison Storm,Sense of Home,265840,False,63,3,1,4,0.892,0.564,0.207,1.8e-06,0.102,-10.926,0.032,0.0898,139.933,BonfireSongs
+Fletcher Bay,Harry Pane,Fletcher Bay,190133,False,34,1,1,4,0.779,0.561,0.396,1.42e-06,0.249,-11.19,0.0414,0.53,85.75,BonfireSongs
+Beautiful Life,Harry Pane,Beautiful Life,205911,False,41,9,0,4,0.615,0.423,0.402,0.000122,0.109,-11.586,0.0326,0.193,93.461,BonfireSongs
+Here We Stay,Harry Pane,Here We Stay,223271,False,32,0,1,4,0.354,0.471,0.429,0.000165,0.138,-7.84,0.0277,0.128,79.885,BonfireSongs
+Mountains,Jesse Taylor,Coastline,236000,False,26,7,1,4,0.249,0.54,0.499,0.309,0.0606,-12.548,0.0292,0.0389,110.059,BonfireSongs
+Run Run Runaway,Jesse Taylor,Coastline,148000,False,12,5,0,4,0.355,0.655,0.655,0.0699,0.127,-9.66,0.0384,0.678,115.956,BonfireSongs
+Elevator,Platon Karataev,Orange Nights,223451,False,33,8,0,4,0.597,0.549,0.524,0.0154,0.0996,-9.319,0.0522,0.329,129.773,BonfireSongs
+Home,Dotan,7 Layers,268466,False,42,4,0,4,0.0708,0.756,0.704,0.000103,0.0394,-8.93,0.0428,0.301,129.99,BonfireSongs
+Spirit Cold,Tall Heights,Neptune,222293,False,61,11,1,4,0.211,0.426,0.662,0.00652,0.176,-6.158,0.0319,0.359,78.247,BonfireSongs
+Lost,Israel Cannan,Lost & Found,221051,False,15,1,1,4,0.593,0.639,0.466,1.13e-06,0.0953,-8.594,0.0345,0.565,115.79,BonfireSongs
+Out to Sea,Israel Cannan,Lost & Found,120327,False,18,0,0,4,0.891,0.69,0.428,1.27e-05,0.111,-9.217,0.0423,0.68,103.005,BonfireSongs
+Give Me Tonight,Dustin Tebbutt,First Light,262326,False,48,1,1,4,0.739,0.648,0.368,0.0109,0.179,-10.636,0.0373,0.257,88.057,BonfireSongs
+Ageless,Israel Cannan,Lost & Found,189190,False,34,,,,,,,,,,,,,BonfireSongs
+Olalla,Blanco White,Olalla,247373,False,0,,,,,,,,,,,,,BonfireSongs
+Runaway,Ziggy Alberts,Runaway,272733,False,66,,,,,,,,,,,,,BonfireSongs
+These Memories,Hollow Coves,Wanderlust,313480,False,55,,,,,,,,,,,,,BonfireSongs
+Bloom - Bonus Track,The Paper Kites,Woodland - EP,210080,False,74,,,,,,,,,,,,,BonfireSongs
+You're Somebody Else,flora cash,You're Somebody Else,218883,False,79,,,,,,,,,,,,,BonfireSongs
+Home,Hollow Coves,Wanderlust,202440,False,58,,,,,,,,,,,,,BonfireSongs
+"Welcome Home, Son",Radical Face,Ghost,287634,False,71,,,,,,,,,,,,,BonfireSongs
+Seaside,Haux,All We've Known,206160,False,46,,,,,,,,,,,,,BonfireSongs
+Girl - Acoustic,SYML,Girl (Acoustic),211881,False,3,,,,,,,,,,,,,BonfireSongs
+Two Weeks,The East Pointers,What We Leave Behind,221565,False,43,,,,,,,,,,,,,BonfireSongs
+Hold On,Sons Of The East,Hold On,230616,False,43,,,,,,,,,,,,,BonfireSongs
+Facing the Sun,Fritz Kalkbrenner,Here Today Gone Tomorrow,313084,False,55,,,,,,,,,,,,,BonfireSongs
+Love is All,The Tallest Man On Earth,The Wild Hunt,255853,False,61,,,,,,,,,,,,,BonfireSongs
+Young Blood,Graeme James,Play One We All Know,220320,False,54,,,,,,,,,,,,,BonfireSongs
+Real Peach,Henry Jamison,The Wilds,233289,False,60,,,,,,,,,,,,,BonfireSongs
+As We Ran,The National Parks,As We Ran,200321,False,56,,,,,,,,,,,,,BonfireSongs
+Stay Alive,José González,Stay Alive (From The Secret Life Of Walter Mitty),266906,False,68,,,,,,,,,,,,,BonfireSongs
+Heartbeats,José González,Veneer,160240,False,65,,,,,,,,,,,,,BonfireSongs
+Coming Home,"Frank & Friedrich,Duncan Woods",Coming Home,225200,False,36,,,,,,,,,,,,,BonfireSongs
+Hope For Something,Panama,Hope For Something (Alternate Versions),203585,False,0,,,,,,,,,,,,,BonfireSongs
+Wildfire,Seafret,Tell Me It's Real (Expanded Edition),224800,False,59,,,,,,,,,,,,,BonfireSongs
+Follow The Sun,Xavier Rudd,Spirit Bird,256266,False,71,,,,,,,,,,,,,BonfireSongs
+Part of Me,Joel Leggett,Changing Currents,284250,False,41,,,,,,,,,,,,,BonfireSongs
+The Corner,Dermot Kennedy,Without Fear,201326,False,50,,,,,,,,,,,,,BonfireSongs
+Lost,Dermot Kennedy,Without Fear,224305,False,55,,,,,,,,,,,,,BonfireSongs
+Rome,Dermot Kennedy,Without Fear,202346,False,65,,,,,,,,,,,,,BonfireSongs
+Vagabond,Caamp,Caamp,129463,False,66,,,,,,,,,,,,,BonfireSongs
+Mountain To Move,Nick Mulvey,Wake Up Now,236280,False,55,,,,,,,,,,,,,BonfireSongs
+All the Debts I Owe,Caamp,Caamp,193048,False,65,,,,,,,,,,,,,BonfireSongs
+Yours to Keep,Jordan Mackampa,Physics EP,202426,False,60,,,,,,,,,,,,,BonfireSongs
+Angela - Single Version,The Lumineers,Angela,178840,False,53,,,,,,,,,,,,,BonfireSongs
+What Could Have Been,Jordan Mackampa,Physics EP,230040,False,51,,,,,,,,,,,,,BonfireSongs
+Palace,Matthew And The Atlas,Palace,188424,False,50,,,,,,,,,,,,,BonfireSongs
+Iffy,Caamp,Caamp,236348,False,55,,,,,,,,,,,,,BonfireSongs
+Love Me Now,Ziggy Alberts,Laps Around The Sun,243800,False,58,,,,,,,,,,,,,BonfireSongs
+together,Ziggy Alberts,together,243533,False,61,,,,,,,,,,,,,BonfireSongs
+Tale of Rise and Fall,"Y.V.E. 48,Parula",Tale of Rise and Fall,152181,False,35,,,,,,,,,,,,,BonfireSongs
+Halcyon Birds - Radio Edit,Broken Back,Halcyon Birds (Radio Edit),198640,False,41,,,,,,,,,,,,,BonfireSongs
+Stronger,Ziggy Alberts,Stronger,191700,False,43,,,,,,,,,,,,,BonfireSongs
+Home,Dotan,7 Layers,268466,False,52,,,,,,,,,,,,,BonfireSongs
+Contrails,All The Luck In The World,A Blind Arcade,282168,False,49,,,,,,,,,,,,,BonfireSongs
+Palms,"Allman Brown,Liz Lawrence",Palms,281332,False,32,,,,,,,,,,,,,BonfireSongs
+Caravan,Passenger,Wide Eyes Blind Love,178933,False,0,,,,,,,,,,,,,BonfireSongs
+Barcelona,George Ezra,Wanted on Voyage,188960,False,34,,,,,,,,,,,,,BonfireSongs
+Budapest,George Ezra,Wanted on Voyage,200720,False,41,,,,,,,,,,,,,BonfireSongs
+Shotgun,George Ezra,Staying at Tamara's,201287,False,79,,,,,,,,,,,,,BonfireSongs
+Lift You Up,Sean Koch,Natural Projection,230799,False,56,,,,,,,,,,,,,BonfireSongs
+Looking Too Closely,Fink,Hard Believer,310693,False,63,,,,,,,,,,,,,BonfireSongs
+Feel The Energy,Sean Koch,Your Mind Is A Picture,301146,False,48,,,,,,,,,,,,,BonfireSongs
+Your Mind Is A Picture,Sean Koch,Your Mind Is A Picture,203684,False,44,,,,,,,,,,,,,BonfireSongs
+Chasing Gold,Dustin Tebbutt,Chasing Gold,210597,False,51,,,,,,,,,,,,,BonfireSongs
+We All Believe,Sean Koch,Your Mind Is A Picture,195096,False,47,,,,,,,,,,,,,BonfireSongs
+Talking To The Sun,CRISTALLIN,Core,205386,False,40,,,,,,,,,,,,,BonfireSongs
+Holocene,Bon Iver,Bon Iver,336613,False,64,,,,,,,,,,,,,BonfireSongs
+Another Story,The Head and the Heart,Let's Be Still,274199,False,55,,,,,,,,,,,,,BonfireSongs
+Sweetest Thing,Allman Brown,Sweetest Thing,218502,False,62,,,,,,,,,,,,,BonfireSongs
+Spirit Bird,Xavier Rudd,Spirit Bird,430760,False,63,,,,,,,,,,,,,BonfireSongs
+Kingdom,Amory Pitt,Kingdom,204770,False,38,,,,,,,,,,,,,BonfireSongs
+Vienna By The Sea (feat. Mat Kearney),"filous,Mat Kearney",For Love EP,239687,False,33,,,,,,,,,,,,,BonfireSongs
+Where's My Love,SYML,SYML,202009,False,75,,,,,,,,,,,,,BonfireSongs
+Pieces - Acoustic Version,AVAION,Pieces (Acoustic Version),134259,False,43,,,,,,,,,,,,,BonfireSongs
+Smoking Gun,Adam Wendler,Smoking Gun,199897,False,36,,,,,,,,,,,,,BonfireSongs
+One Day,JPson,One Day,215978,False,32,,,,,,,,,,,,,BonfireSongs
+Top of the World,Sean Koch,Your Mind Is A Picture,181626,False,37,,,,,,,,,,,,,BonfireSongs
+Mortal Man,Jeremy Loops,Mortal Man,235866,False,52,,,,,,,,,,,,,BonfireSongs
+Her Touch,SŸDE,Her Touch,185243,False,43,,,,,,,,,,,,,BonfireSongs
+You're Somebody Else - Nikodem Milewski Remix,"flora cash,Nikodem Milewski",You're Somebody Else (Nikodem Milewski Remix),198663,False,38,,,,,,,,,,,,,BonfireSongs
+Giants - Piano,Dermot Kennedy,Giants (Piano),176080,False,48,,,,,,,,,,,,,BonfireSongs
+Young Souls - Dim Sum Remix,"Broken Back,Dim Sum",Young Souls (Dim Sum Remix),203426,False,31,,,,,,,,,,,,,BonfireSongs
+Garden,Matt Bednarsky,Garden,221366,False,43,,,,,,,,,,,,,BonfireSongs
+The One,Cedric Saga,The One,178301,False,11,,,,,,,,,,,,,BonfireSongs
+Want You the Most,Daniel Feinberg,A Dream to Unwrap,188640,False,10,,,,,,,,,,,,,BonfireSongs
+Lighter,Sofia Dragt,Still Here,234482,False,31,,,,,,,,,,,,,BonfireSongs
+Storm,Mighty Oaks,Storm EP,221346,False,56,,,,,,,,,,,,,BonfireSongs
+Welcome to the Light,Sean Koch,Natural Projection,368572,False,50,,,,,,,,,,,,,BonfireSongs
+Remission,ÄTNA,Ätna,280400,False,52,,,,,,,,,,,,,BonfireSongs
+Minimum,Charlie Cunningham,Lines,194906,False,65,,,,,,,,,,,,,BonfireSongs
+Olalla,Blanco White,On the Other Side,248160,False,66,,,,,,,,,,,,,BonfireSongs
+Young Souls,Broken Back,"Dear Misfortune, Mother of Joy - EP",219373,False,60,,,,,,,,,,,,,BonfireSongs
+Robinson Crusoe,Jules Ahoi,Between Lines,281566,False,56,,,,,,,,,,,,,BonfireSongs
+Lights Off,Charlie Cunningham,Lines,232400,False,59,,,,,,,,,,,,,BonfireSongs
+Being Me,Jack and the Weatherman,Homewards,236200,False,45,,,,,,,,,,,,,BonfireSongs
+Traveler,Luca Aprile,Traveler,166905,False,43,,,,,,,,,,,,,BonfireSongs
+Earth,Mogli,Wanderer (Expedition Happiness Soundtrack),204026,False,36,,,,,,,,,,,,,BonfireSongs
+Feeling You,Harrison Storm,Feeling You,201195,False,56,,,,,,,,,,,,,BonfireSongs
+Grow,"Kidnap,Leo Stannard",Grow,216794,False,52,,,,,,,,,,,,,BonfireSongs
+Campfire - Acoustic Version,Satellite Stories,Pine Trails (Acoustic Versions),207468,False,37,,,,,,,,,,,,,BonfireSongs
+Hallucinogenics - Stripped,Matt Maeson,Bank On The Funeral (Stripped),187173,True,48,,,,,,,,,,,,,BonfireSongs
+Wanderer,Mogli,Wanderer (Expedition Happiness Soundtrack),238800,False,48,,,,,,,,,,,,,BonfireSongs
+Two Lungs,Mogli,Wanderer (Expedition Happiness Soundtrack),204773,False,40,,,,,,,,,,,,,BonfireSongs
+Ocean,Native,Departure,339750,False,44,,,,,,,,,,,,,BonfireSongs
+Another Life,Mogli,Another Life,233437,False,38,,,,,,,,,,,,,BonfireSongs

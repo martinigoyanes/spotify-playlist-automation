@@ -1,0 +1,51 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Un Planeta Llamado Nosotros,Maldita Nerea,Un Planeta Llamado Nosotros,224926,False,62,10,1,4,0.186,0.66,0.512,0,0.0921,-8.085,0.066,0.819,100.85,DailyMix6
+1932,La Maravillosa Orquesta del Alcohol,¿Quién Nos Va a Salvar?,180883,False,54,0,1,4,0.0179,0.551,0.361,2.11e-06,0.0997,-15.89,0.0333,0.31,135.13,DailyMix6
+Todo Me Da Igual,Pignoise,Año Zero,205026,False,49,6,1,4,0.0286,0.426,0.76,0,0.0712,-5.665,0.0449,0.876,127.904,DailyMix6
+Que Bonita la Vida,Dani Martín,Dani Martin,270653,False,54,7,1,4,0.301,0.506,0.535,5.08e-06,0.1,-5.676,0.0314,0.286,134.075,DailyMix6
+Más Colao Que el Colacao,La La Love You,La la Love You,161186,False,54,9,1,4,0.0135,0.389,0.891,0,0.0369,-3.312,0.0507,0.801,192.937,DailyMix6
+Besos,El Canto Del Loco,Zapatillas,145826,False,61,10,1,4,0.00679,0.576,0.909,4.42e-06,0.134,-3.306,0.0523,0.544,104.971,DailyMix6
+Que Alegria Mas Tonta,Pereza,Animales,181680,False,46,10,1,4,0.0428,0.628,0.911,0.00017,0.309,-3.177,0.0344,0.713,128.861,DailyMix6
+Nacidos para Creer,Amaia Montero,Nacidos para Creer,226640,False,49,4,1,4,0.639,0.607,0.599,0,0.0946,-4.582,0.0588,0.564,90.126,DailyMix6
+Presiento,"Morat,Aitana",Balas Perdidas (Edición Especial),174379,False,69,2,1,4,0.168,0.711,0.727,0,0.296,-3.15,0.162,0.465,180.039,DailyMix6
+Mi accidente preferido (con Juancho Sidecars y Sidecars),"Despistaos,Juancho Sidecars,Sidecars",Estamos enteros,206260,False,33,7,1,4,0.188,0.626,0.689,0,0.152,-5.344,0.0256,0.58,97.975,DailyMix6
+Somos,Melocos,Somos,218973,False,37,7,1,4,0.134,0.56,0.622,0,0.11,-3.554,0.027,0.306,72.478,DailyMix6
+Cómo hablar,Amaral,Una Pequeña Parte Del Mundo,241266,False,56,3,1,4,0.0356,0.606,0.775,1.74e-06,0.111,-4.752,0.0291,0.626,117.357,DailyMix6
+Tenia Tanto Que Darte,Nena Daconte,Retales De Carnaval,204560,False,58,1,1,4,0.0465,0.642,0.603,0,0.448,-3.794,0.0349,0.493,124.978,DailyMix6
+No Te Preocupes por Mi,Leiva,Nuclear,229406,False,62,7,1,4,0.119,0.481,0.598,1.72e-06,0.0938,-5.987,0.0309,0.408,76.732,DailyMix6
+Adiós,"Cali Y El Dandee,Andry Kiddos",Adiós,187386,False,61,0,1,4,0.449,0.621,0.667,0,0.165,-3.649,0.0931,0.824,72.699,DailyMix6
+Solo quiero bailar,Zenttric,Solo Quiero Bailar,184333,False,47,7,0,4,0.128,0.659,0.891,0,0.0999,-3.143,0.0259,0.583,138.989,DailyMix6
+Un Año Mas,Mecano,Siglo XXI (2CD's),271853,False,29,11,1,4,0.119,0.685,0.584,1.11e-06,0.177,-7.619,0.0345,0.817,88.834,DailyMix6
+Laponia,La La Love You,La la Love You,192253,False,51,2,1,4,0.111,0.585,0.831,0,0.0752,-3.551,0.032,0.808,140.046,DailyMix6
+Héroes del Sábado,La Maravillosa Orquesta del Alcohol,Salvavida (de las Balas Perdidas),244767,False,57,10,1,4,0.263,0.531,0.686,0,0.0975,-6.309,0.0359,0.316,135.97,DailyMix6
+Una Foto en Blanco y Negro,El Canto Del Loco,Estados de Animo,209893,False,57,1,1,4,0.0737,0.545,0.875,0,0.215,-3.714,0.0337,0.675,139.008,DailyMix6
+El Miedo Abierto,La Habitación Roja,El Miedo Abierto,303715,False,30,7,1,4,0.00264,0.512,0.864,0.000364,0.0743,-8.285,0.045,0.621,138.038,DailyMix6
+Cosas Que Suenan A...,Maldita Nerea,Es un Secreto...No Se Lo Digas a Nadie,275626,False,46,2,1,4,0.118,0.586,0.775,1.88e-05,0.0969,-8.005,0.035,0.772,148.968,DailyMix6
+Verano del 95,Rulo y la contrabanda,Basado en hechos reales,236373,False,52,7,1,4,0.00105,0.597,0.793,2.66e-05,0.244,-5.042,0.0311,0.519,138.929,DailyMix6
+Por quererte,Efecto Mariposa,40:04,254373,False,50,2,1,4,0.0762,0.703,0.833,0,0.147,-3.764,0.0336,0.887,139.959,DailyMix6
+Quiero,Pignoise,Año Zero,159773,False,45,11,1,4,0.025,0.46,0.956,0,0.0637,-4.492,0.0743,0.794,170.05,DailyMix6
+Ya Es Verano,"Jaguayano,Lester",Fromage,196209,False,30,10,1,4,0.622,0.787,0.547,0,0.0837,-6.632,0.112,0.59,132.635,DailyMix6
+Lady Madrid,Pereza,Aviones,191586,False,61,0,1,4,0.359,0.598,0.655,0,0.0922,-2.761,0.0256,0.377,115.041,DailyMix6
+Cómo Me Gustaría Contarte,Dani Martín,Lo Que Me Dé la Gana,229946,False,55,0,1,4,0.736,0.582,0.253,0,0.109,-10.095,0.0352,0.271,143.89,DailyMix6
+Dos Besos Después,Maldita Nerea,Un Planeta Llamado Nosotros,246046,False,47,9,1,4,0.00965,0.679,0.825,4.22e-06,0.283,-6.019,0.0371,0.837,129.056,DailyMix6
+Sonríe,Loquillo,Sonríe,248347,False,34,4,1,4,0.185,0.64,0.934,0.00303,0.382,-3.912,0.0356,0.882,119.986,DailyMix6
+Desde Que Te Vi,"Bustamante,Ana Guerra",Héroes En Tiempos De Guerra,231893,False,52,0,0,4,0.359,0.71,0.603,0,0.144,-6.384,0.036,0.828,128.064,DailyMix6
+Las cosas se me olvidan (con Arnau Griso),"Despistaos,Arnau Griso",Las cosas se me olvidan (con Arnau Griso),240000,False,43,5,1,4,0.0406,0.615,0.864,0,0.307,-6.544,0.0441,0.795,134.993,DailyMix6
+Cuando Me Vaya (feat. Natalia Jiménez),"Melocos,Natalia Jiménez",Cuando Me Vaya (feat. Natalia Jiménez),191466,False,49,11,0,4,0.686,0.565,0.717,0,0.165,-2.804,0.0459,0.196,143.858,DailyMix6
+Resurrección,Amaral,Pájaros En La Cabeza,174880,False,41,0,0,4,0.0378,0.54,0.857,0,0.405,-2.302,0.038,0.581,136.801,DailyMix6
+En Que Estrella Estara,Nena Daconte,He Perdido Los Zapatos,140666,False,53,5,1,4,0.279,0.73,0.378,1.67e-05,0.0869,-7.441,0.183,0.697,170.044,DailyMix6
+La Estación Eterna,Leiva,La Estación Eterna,203333,False,54,11,1,4,0.116,0.323,0.439,1.04e-05,0.108,-6.774,0.0556,0.371,168.302,DailyMix6
+Puede Ser,Conchita,Nada Más,178400,False,43,9,1,4,0.298,0.691,0.649,0,0.265,-6.931,0.154,0.776,172.023,DailyMix6
+PRMVR,La Maravillosa Orquesta del Alcohol,La Primavera del Invierno,183013,False,53,10,1,4,0.0249,0.585,0.608,2.88e-06,0.337,-5.511,0.0263,0.562,95.805,DailyMix6
+Sube a mi cohete,Pignoise,Sube a mi cohete,194146,False,43,8,1,4,0.0225,0.391,0.854,0,0.227,-2.422,0.0374,0.601,181.984,DailyMix6
+Portales,Dani Martín,Lo Que Me Dé la Gana,225520,False,59,9,1,4,0.175,0.447,0.519,0,0.0872,-4.872,0.0314,0.231,76.857,DailyMix6
+El Fin del Mundo,"La La Love You,Axolotes Mexicanos",El Fin del Mundo,188093,False,67,4,1,4,0.000839,0.6,0.866,0,0.094,-4.599,0.0477,0.676,127.056,DailyMix6
+Zapatillas,El Canto Del Loco,Zapatillas,172640,False,61,8,0,4,0.0281,0.428,0.956,0,0.58,-2.382,0.178,0.686,198.076,DailyMix6
+Pienso en Aquella Tarde - Nueva Versión,Pereza,Algo para Cantar,221693,False,43,7,1,4,0.203,0.711,0.629,0,0.0838,-6.554,0.0269,0.633,119.944,DailyMix6
+Una Ronda Más,84,Una Ronda Más,172764,False,35,0,1,4,0.491,0.62,0.284,0,0.292,-13.544,0.0286,0.477,96.111,DailyMix6
+Una Foto en Blanco y Negro,"David Otero,Taburete",Una Foto en Blanco y Negro,212090,False,67,2,1,4,0.267,0.562,0.835,0,0.0971,-5.318,0.0329,0.531,133.006,DailyMix6
+Cuando Éramos Dos,"Sinsinati,Álvaro De Luna",Cuando Éramos Dos,205059,False,67,6,0,4,0.135,0.56,0.589,0,0.109,-5.612,0.0419,0.712,100.04,DailyMix6
+Si no estás,El sueño de Morfeo,Cosas que nos hacen sentir bien,180280,False,42,1,0,4,0.0353,0.587,0.73,0,0.242,-5.96,0.0609,0.321,98.033,DailyMix6
+Cuando Todas las Historias Se Acaban (with Leire Martinez),"Maldita Nerea,Leire Martinez",Bailarina,223640,False,43,7,0,4,0.00866,0.615,0.879,3.89e-05,0.0993,-4.637,0.0388,0.889,99.998,DailyMix6
+La noche me resbala,Señor Trepador,Aforismos invertebrados,181839,False,48,8,1,4,0.0374,0.549,0.915,0,0.247,-4.726,0.0649,0.903,94.871,DailyMix6
+Princesas de barrio,Marlon,Cosas que no se pagan con dinero,232853,False,37,5,1,4,0.135,0.656,0.665,0.00012,0.266,-5.887,0.0433,0.583,130.0,DailyMix6

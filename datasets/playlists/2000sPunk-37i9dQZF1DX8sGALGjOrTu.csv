@@ -1,0 +1,101 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+A Boy Brushed Red Living In Black And White,Underoath,They're Only Chasing Safety,268000,False,60,1,0,4,0.00171,0.419,0.932,0,0.137,-3.604,0.106,0.445,169.881,2000sPunk
+The Day No One Needed to Know,Moneen,Red Tree,350760,False,29,4,1,3,0.000326,0.187,0.952,0.000494,0.592,-4.788,0.159,0.0771,100.095,2000sPunk
+The Artist In The Ambulance,Thrice,The Artist In The Ambulance,219266,False,59,5,0,4,9.38e-05,0.522,0.88,0.00111,0.0812,-4.104,0.0633,0.701,174.762,2000sPunk
+Hospitalized,Classic Case,Dress to Depress,181400,False,4,2,0,4,2.59e-05,0.436,0.965,0,0.349,-3.681,0.0908,0.4,96.502,2000sPunk
+The Downfall of Us All,A Day To Remember,Homesick,209093,False,67,0,1,4,0.000256,0.589,0.881,0,0.327,-4.62,0.0666,0.709,129.95,2000sPunk
+Pirates Belong At Sea,Close to Home,Momentum,194520,True,30,7,1,4,3.31e-05,0.453,0.933,0,0.234,-3.061,0.0574,0.418,128.011,2000sPunk
+MakeDamnSure,Taking Back Sunday,Louder Now (Deluxe Edition),208280,False,66,6,1,4,0.00941,0.553,0.837,0,0.372,-5.608,0.0452,0.432,140.495,2000sPunk
+Stand Up,A Static Lullaby,Faso Latido,222093,False,39,2,1,4,4.75e-05,0.412,0.978,0,0.168,-3.076,0.123,0.353,151.991,2000sPunk
+King For A Day,"Pierce The Veil,Kellin Quinn",Collide With The Sky,236293,True,71,6,1,4,3.81e-05,0.403,0.965,0.000276,0.341,-2.238,0.0964,0.431,112.363,2000sPunk
+Only Our Faces Hide,Beloved,Failure On,232853,False,26,2,1,4,2e-05,0.361,0.954,0.223,0.309,-4.097,0.0575,0.176,172.944,2000sPunk
+Ohio Is for Lovers,Hawthorne Heights,The Silence In Black and White - Re-Issue,244480,False,64,8,0,4,0.0411,0.568,0.835,0,0.357,-6.896,0.0687,0.625,170.045,2000sPunk
+Last Year's Nest,Boysetsfire,Tomorrow Come Today,230800,False,31,6,0,4,2.99e-05,0.573,0.882,0.0127,0.108,-4.589,0.0352,0.379,114.662,2000sPunk
+SECOND & SEBRING,Of Mice & Men,Of Mice & Men,229120,False,62,1,0,4,0.000892,0.273,0.973,0,0.388,-3.324,0.0807,0.179,133.428,2000sPunk
+The Great Wide Open,Funeral For A Friend,Tales Don't Tell Themselves,212360,False,28,11,1,4,0.000523,0.452,0.876,0,0.268,-2.512,0.0435,0.445,147.079,2000sPunk
+Wake Up,Story Of The Year,The Black Swan,211813,False,42,1,0,4,0.00478,0.385,0.979,7.99e-06,0.372,-3.716,0.0902,0.257,161.986,2000sPunk
+The Turn,A Static Lullaby,Rattlesnake!,203346,True,28,2,1,3,4.67e-05,0.253,0.984,0,0.284,-5.756,0.214,0.286,156.961,2000sPunk
+I Want To Hear You Sad,The Early November,For All Of This,210053,False,38,1,1,4,0.00604,0.507,0.748,2.93e-05,0.176,-5.264,0.0303,0.743,92.653,2000sPunk
+Dream to Make Believe,Armor For Sleep,Dream to Make Believe,181293,False,38,9,0,3,6.39e-05,0.469,0.877,0.000102,0.0967,-4.036,0.0838,0.306,162.611,2000sPunk
+Medicating,Boys Night Out,Trainwreck,240186,False,38,11,0,4,0.00353,0.461,0.934,0,0.71,-5.187,0.0653,0.777,167.126,2000sPunk
+Failure On My Lips,Beloved,Failure On,276333,False,33,2,0,4,1.06e-05,0.189,0.972,0.0094,0.227,-2.834,0.0931,0.214,172.049,2000sPunk
+Are We Really Happy With Who We Are Right Now?,Moneen,Are We Really Happy With Who We Are Right Now?,224800,False,21,11,1,4,0.00467,0.341,0.936,0,0.399,-5.289,0.0852,0.189,145.66,2000sPunk
+False Pretense,The Red Jumpsuit Apparatus,Don't You Fake It,149640,False,63,0,0,4,0.00137,0.509,0.93,0,0.152,-2.689,0.0474,0.783,154.946,2000sPunk
+Apology,Alesana,Try This With Your Eyes Closed,249613,False,50,11,0,3,7.44e-05,0.298,0.96,0.0718,0.164,-5.474,0.0859,0.105,110.473,2000sPunk
+I Set My Friends On Fire,Aiden,Our Gangs Dark Oath,186453,False,34,8,1,4,0.000118,0.282,0.955,0.000111,0.363,-5.4,0.0789,0.224,136.994,2000sPunk
+Don't Waste Your Breath,Close to Home,Momentum,214426,False,33,0,0,4,0.000205,0.262,0.951,0.000195,0.301,-3.106,0.0699,0.284,123.59,2000sPunk
+Don't Ever Tell Locke What He Can't Do,Moneen,Red Tree,177746,False,30,4,1,4,0.000155,0.282,0.991,1.08e-06,0.916,-4.271,0.263,0.155,174.447,2000sPunk
+Empire,Boysetsfire,The Misery Index: Notes From The Plague Years,217360,False,23,5,1,4,0.00876,0.502,0.873,0,0.318,-3.051,0.0668,0.381,107.57,2000sPunk
+Ambrosia,Alesana,On Frail Wings Of Vanity And Wax,185333,False,45,7,0,4,3.76e-05,0.275,0.984,0.482,0.112,-4.328,0.0601,0.319,119.376,2000sPunk
+Die Romantic,Aiden,Nightmare Anatomy,220786,False,45,8,1,4,1.37e-05,0.379,0.96,3.65e-05,0.0646,-3.754,0.13,0.551,119.991,2000sPunk
+Vices (feat. Liam Cormier),"Silverstein,Liam Cormier",A Shipwreck In The Sand,196560,False,39,6,1,4,0.0066,0.364,0.946,0,0.433,-3.66,0.152,0.397,182.139,2000sPunk
+Decoration - Rock Version,The Early November,"The Mother, The Mechanic, And The Path",197626,False,35,6,1,4,0.00171,0.554,0.925,7.02e-06,0.161,-3.866,0.0681,0.39,91.087,2000sPunk
+Rebel Love Song,Black Veil Brides,Set The World On Fire,237173,False,53,1,1,4,6.92e-06,0.343,0.98,0.0578,0.131,-4.124,0.0934,0.461,194.909,2000sPunk
+I Got Punched in the Nose for Sticking My Face in Other People's Business,Boys Night Out,Make Yourself Sick,240146,False,33,2,1,5,0.039,0.256,0.968,0,0.311,-4.597,0.346,0.246,190.928,2000sPunk
+We Sleep Forever,Aiden,Rain In Hell,197240,False,40,1,1,4,0.000234,0.369,0.875,0.00459,0.197,-4.5,0.0571,0.472,131.299,2000sPunk
+Standing on the Edge of Summer,Thursday,Full Collapse,222040,False,43,2,1,4,0.00011,0.236,0.847,0.000324,0.0985,-4.534,0.0481,0.376,168.707,2000sPunk
+Something That Produces Results,The Early November,The Room's Too Cold,162266,False,34,1,1,4,0.207,0.483,0.819,0,0.511,-4.147,0.0644,0.52,67.322,2000sPunk
+Pen And Paper,The Red Jumpsuit Apparatus,Lonely Road,204346,False,36,0,1,4,0.00476,0.456,0.95,0,0.157,-3.286,0.0522,0.384,164.959,2000sPunk
+The Thespian,Alesana,The Emptiness,237840,False,47,10,1,4,0.00116,0.319,0.973,2.18e-05,0.509,-3.194,0.175,0.293,186.99,2000sPunk
+The Drug In Me Is You,Falling In Reverse,The Drug In Me Is You,218786,False,70,3,1,4,0.0149,0.548,0.855,0,0.127,-3.266,0.151,0.644,145.133,2000sPunk
+Juneau,Funeral For A Friend,Casually Dressed And Deep In Conversation,216853,False,44,4,1,4,0.000309,0.464,0.733,0,0.162,-3.945,0.0327,0.229,103.28,2000sPunk
+Smashed Into Pieces,Silverstein,When Broken Is Easily Fixed,223200,False,22,6,0,4,0.00643,0.5,0.646,0,0.124,-5.612,0.0369,0.411,92.355,2000sPunk
+Misery Loves Its Company,The Red Jumpsuit Apparatus,Don't You Fake It,196586,False,40,4,0,4,0.00066,0.258,0.849,0,0.188,-3.415,0.0446,0.308,121.814,2000sPunk
+If You Can't Hang,Sleeping With Sirens,Let's Cheers To This,250240,False,66,2,0,4,0.00152,0.397,0.975,0,0.118,-3.532,0.365,0.451,192.021,2000sPunk
+Sing To Me,Before Their Eyes,Untouchable,183440,False,37,9,1,4,0.00179,0.469,0.978,0,0.342,-3.95,0.0774,0.547,140.116,2000sPunk
+New Medicines,Dead Poetic,New Medicines,242040,False,46,6,0,4,1.33e-05,0.489,0.891,3.16e-06,0.0722,-4.507,0.0574,0.558,145.016,2000sPunk
+Car Underwater,Armor For Sleep,What To Do When You Are Dead,228706,False,51,2,1,4,0.014,0.435,0.774,0,0.127,-5.052,0.0631,0.448,147.466,2000sPunk
+"Hey Baby, Here's That Song You Wanted",blessthefall,Witness,194800,False,57,3,0,4,0.00191,0.199,0.955,2.1e-05,0.098,-2.774,0.111,0.454,184.916,2000sPunk
+Saying Sorry,Hawthorne Heights,If Only You Were Lonely,187680,False,52,1,0,4,0.0271,0.42,0.956,1.32e-05,0.134,-2.195,0.0723,0.529,168.99,2000sPunk
+Why 6 is afraid of 7,Before Their Eyes,Before Their Eyes,206680,False,37,9,1,4,0.000654,0.333,0.814,0,0.0829,-3.148,0.0582,0.3,180.123,2000sPunk
+The Days Of The Phoenix,AFI,The Art Of Drowning,207693,False,49,11,0,4,0.000981,0.396,0.986,0.000409,0.23,-4.467,0.0574,0.546,110.72,2000sPunk
+Buried a Lie,Senses Fail,Let It Enfold You,179986,False,52,2,1,4,0.00177,0.491,0.87,0,0.517,-5.31,0.136,0.532,163.268,2000sPunk
+Right Side Of The Bed,Atreyu,The Curse,222466,False,44,8,1,4,0.00196,0.267,0.923,0.00693,0.25,-4.801,0.162,0.722,171.421,2000sPunk
+Two As One,From First To Last,From First To Last,200360,True,32,1,1,4,0.000261,0.336,0.996,0.00463,0.19,-1.51,0.178,0.204,174.102,2000sPunk
+This Armistice,The Receiving End Of Sirens,Between the Heart and the Synapse,355640,False,31,7,1,4,0.000496,0.457,0.869,0.000443,0.399,-6.663,0.0401,0.181,146.024,2000sPunk
+War All The Time,Thursday,War All The Time,272400,False,50,9,0,4,0.0127,0.544,0.756,0,0.187,-4.365,0.033,0.0902,125.278,2000sPunk
+Buried Myself Alive,The Used,The Used,242133,False,55,7,1,4,0.00108,0.26,0.923,0,0.763,-5.023,0.157,0.387,170.605,2000sPunk
+Anthem of Our Dying Day,Story Of The Year,Page Avenue (US Non-PA Version),216026,False,55,9,1,3,0.0211,0.388,0.8,0,0.212,-6.33,0.0783,0.357,194.744,2000sPunk
+Lip Gloss And Black,Atreyu,Suicide Notes And Butterfly Kisses,304613,False,46,8,1,4,0.000257,0.318,0.808,0.0146,0.283,-7.186,0.0703,0.219,147.74,2000sPunk
+Rookie,Boysetsfire,After The Eulogy,253440,False,50,10,0,4,0.000201,0.458,0.878,0.0819,0.223,-6.035,0.0601,0.348,98.144,2000sPunk
+Stare At The Sun,Thrice,The Artist In The Ambulance,203240,False,48,0,0,4,0.000266,0.234,0.98,0.00746,0.0992,-3.233,0.148,0.245,186.728,2000sPunk
+Walls,Emery,The Weak's End,203706,False,45,1,0,4,0.0139,0.274,0.915,7.37e-05,0.161,-5.259,0.167,0.419,169.161,2000sPunk
+Ex's And Oh's,Atreyu,A Death-Grip On Yesterday,211893,False,55,2,0,4,1.62e-05,0.348,0.987,0.0365,0.286,-3.172,0.232,0.135,159.995,2000sPunk
+Calling All Cars,Senses Fail,Still Searching (Deluxe 2007),203573,False,31,2,1,4,3.49e-05,0.373,0.961,1.46e-05,0.271,-3.16,0.0996,0.543,168.135,2000sPunk
+Ride The Wings Of Pestilence,From First To Last,"Dear Diary, My Teen Angst Has A Body Count",260626,False,42,7,0,3,0.000631,0.271,0.917,0,0.131,-4.156,0.0745,0.222,165.332,2000sPunk
+I'm Not Okay (I Promise),My Chemical Romance,Three Cheers for Sweet Revenge,186480,True,74,9,1,4,0.00602,0.21,0.94,0,0.269,-3.427,0.123,0.255,179.722,2000sPunk
+Refused Are Fucking Dead,Refused,The Shape Of Punk To Come (Deluxe Edition),310320,False,32,7,1,4,0.000277,0.375,0.946,0.376,0.374,-7.392,0.125,0.46,107.309,2000sPunk
+Daylight Slaving,From Autumn To Ashes,Holding a Wolf By the Ears (Bonus Version),218200,False,36,9,0,4,8.57e-06,0.169,0.932,0.709,0.31,-5.815,0.127,0.198,177.424,2000sPunk
+Roses for the Dead,Funeral For A Friend,Hours,247426,False,47,8,0,4,0.000105,0.386,0.949,0,0.132,-3.701,0.0486,0.55,105.219,2000sPunk
+Smile In Your Sleep,Silverstein,Discovering The Waterfront,194333,False,34,4,0,4,0.00317,0.434,0.951,8.53e-06,0.356,-3.193,0.219,0.326,184.067,2000sPunk
+Knives and Pens,Black Veil Brides,We Stitch These Wounds,255840,False,10,2,0,4,0.000337,0.421,0.978,0.000299,0.0636,-4.664,0.0636,0.457,186.093,2000sPunk
+This War Is Ours (The Guillotine II),Escape the Fate,This War Is Ours (Deluxe Edition),266733,False,59,4,0,4,0.00838,0.399,0.955,0,0.0759,-5.593,0.163,0.152,95.498,2000sPunk
+Niki Fm,Hawthorne Heights,The Silence In Black and White - Re-Issue,239520,False,53,1,0,4,0.139,0.434,0.556,1.07e-05,0.113,-6.905,0.0344,0.251,111.987,2000sPunk
+Caraphernelia,Pierce The Veil,Selfish Machines,268480,False,63,3,0,4,0.0017,0.531,0.984,1.13e-05,0.361,-3.767,0.0652,0.386,107.036,2000sPunk
+Note to Self,From First To Last,"Dear Diary, My Teen Angst Has A Body Count",239880,False,50,4,0,3,0.000854,0.207,0.894,2.34e-05,0.344,-5.873,0.203,0.246,85.986,2000sPunk
+The Party Song,Emery,I'm Only A Man,211453,False,35,5,0,4,0.0325,0.383,0.893,0,0.146,-3.998,0.109,0.558,178.077,2000sPunk
+Waking the Demon,Bullet For My Valentine,Scream Aim Fire,247693,False,31,2,1,4,2.98e-05,0.306,0.995,0.00859,0.254,-3.203,0.1,0.135,127.908,2000sPunk
+"If I'm James Dean, You're Audrey Hepburn",Sleeping With Sirens,With Ears To See And Eyes To Hear,219106,False,61,8,0,4,2.1e-05,0.425,0.936,0,0.926,-5.52,0.0829,0.417,158.046,2000sPunk
+Perfect Weapon,Black Veil Brides,We Stitch These Wounds,247640,False,6,9,1,4,0.000504,0.37,0.992,0.000155,0.238,-4.457,0.136,0.177,184.952,2000sPunk
+No Stars over Bethlehem,Protest The Hero,Kezia (Remaster),265409,False,43,10,0,3,2.93e-05,0.362,0.76,0.0031,0.328,-10.179,0.0787,0.321,112.738,2000sPunk
+Helena,My Chemical Romance,Three Cheers for Sweet Revenge,204733,False,73,4,1,4,0.0142,0.356,0.96,0,0.209,-3.487,0.104,0.0857,125.921,2000sPunk
+Andria,La Dispute,Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary),260959,False,48,9,0,4,0.0476,0.407,0.858,0,0.206,-3.973,0.11,0.293,141.882,2000sPunk
+Do It Now Remember It Later,Sleeping With Sirens,Let's Cheers To This,203093,False,55,1,1,4,0.000188,0.417,0.99,0,0.115,-3.203,0.208,0.413,175.977,2000sPunk
+"I'm Made of Wax, Larry, What Are You Made Of?",A Day To Remember,Homesick,180840,False,62,10,0,4,7.35e-05,0.241,0.97,0,0.904,-4.246,0.104,0.621,159.93,2000sPunk
+Cosmopolitan Blood Loss,Glassjaw,Worship And Tribute (U.S. Version),183893,False,38,9,1,4,7.03e-06,0.292,0.902,8.02e-06,0.375,-7.353,0.0692,0.27,93.101,2000sPunk
+Can't Be Saved,Senses Fail,Still Searching (Deluxe 2007),187546,False,37,2,1,4,9.11e-06,0.332,0.976,0.000117,0.318,-3.242,0.113,0.426,170.047,2000sPunk
+Not Good Enough For Truth In Cliche',Escape the Fate,Dying Is Your Latest Fashion,231506,False,60,5,1,4,0.007,0.372,0.904,1.34e-06,0.112,-4.438,0.106,0.362,159.081,2000sPunk
+Reinventing Your Exit,Underoath,They're Only Chasing Safety,262573,False,55,9,0,4,0.000124,0.45,0.978,7.14e-06,0.361,-4.198,0.0637,0.268,155.014,2000sPunk
+Until the Day I Die,Story Of The Year,Page Avenue (US Non-PA Version),235200,False,65,11,0,4,0.127,0.597,0.931,0,0.0504,-4.591,0.0984,0.534,92.003,2000sPunk
+"Two Birds, One Stone","Drop Dead, Gorgeous",The Hot N' Heavy,207426,True,40,5,0,4,0.000694,0.335,0.954,2.19e-05,0.196,-3.858,0.161,0.153,170.05,2000sPunk
+King Park,La Dispute,Wildlife,414925,False,52,11,0,4,0.0416,0.486,0.742,0.00295,0.186,-7.406,0.0637,0.181,108.335,2000sPunk
+My Darkest Hour,Scary Kids Scaring Kids,The City Sleeps in Flames,209746,False,45,2,0,4,0.00842,0.566,0.931,0,0.323,-4.292,0.0915,0.491,103.45,2000sPunk
+Arcarsenal,At The Drive In,Relationship of Command,174760,False,22,2,1,4,0.00596,0.369,0.987,0.000923,0.368,-2.517,0.219,0.232,130.214,2000sPunk
+Understanding in a Car Crash,Thursday,Full Collapse,264546,False,51,5,1,4,4.1e-05,0.4,0.907,0.000472,0.151,-4.956,0.101,0.413,162.626,2000sPunk
+Higinia,blessthefall,His Last Walk,166440,False,38,2,1,3,7.44e-05,0.268,0.921,0,0.161,-4.108,0.0825,0.368,100.885,2000sPunk
+Drown the City,A Skylit Drive,She Watched The Sky,283560,False,36,2,0,4,0.001,0.188,0.868,4.85e-06,0.59,-4.51,0.0701,0.268,153.885,2000sPunk
+Seven Years,Saosin,Translating The Name,192786,False,55,2,0,3,2.3e-05,0.239,0.941,2.38e-06,0.327,-4.535,0.0967,0.223,81.844,2000sPunk
+Planning a Prison Break,The Receiving End Of Sirens,Between the Heart and the Synapse,318120,False,40,8,1,4,0.000136,0.493,0.914,1.05e-06,0.964,-5.894,0.0557,0.74,91.045,2000sPunk
+Letters To You,Finch,What It Is To Burn,199600,False,44,1,1,4,2.17e-05,0.409,0.847,0,0.0952,-3.939,0.0519,0.336,117.935,2000sPunk
+All That I've Got,The Used,In Love and Death,238720,True,49,7,1,4,0.00284,0.336,0.851,0,0.222,-4.756,0.0505,0.48,177.956,2000sPunk
+I'm Not A Vampire,Falling In Reverse,The Drug In Me Is You,231840,False,63,2,0,4,0.00887,0.235,0.965,0,0.0448,-2.882,0.28,0.322,185.278,2000sPunk

@@ -67,12 +67,12 @@ class Playlist:
         import csv
         import os
 
-        if not os.path.exists('datasets'):
-            os.makedirs('datasets')
+        if not os.path.exists('datasets/playlists'):
+            os.makedirs('datasets/playlists')
 
-        filename = f'datasets/{self.name}-{self.id}.csv'
+        filename = f'datasets/playlists/{self.name}-{self.id}.csv'
         try:
-            with open(filename, 'w') as f:
+            with open(filename, 'w', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 writer.writerow(['Name', 'Artists', 'Album', 'Duration(ms)', 'Explicit', 'Popularity', 'Key', 'Mode', 'Time Signature', 'Acousticness',
                                  'Danceability', 'Energy', 'Instrumentalness', 'Liveness', 'Loudness', 'Speechiness', 'Valence', 'Tempo', 'Playlist'])
@@ -82,4 +82,4 @@ class Playlist:
                                      song.energy, song.instrumentalness, song.liveness, song.loudness, song.speechiness,
                                      song.valence, song.tempo, self.name])
         except BaseException as e:
-            print('BaseException:', filename)
+            print('BaseException:', filename, e)

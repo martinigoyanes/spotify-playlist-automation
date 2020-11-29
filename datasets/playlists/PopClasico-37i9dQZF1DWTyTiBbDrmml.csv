@@ -1,0 +1,86 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Tequila y Candela,Marlon,Tequila y Candela,172344,False,61,7,1,4,0.0338,0.605,0.804,0,0.0741,-4.049,0.0629,0.732,92.022,PopClasico
+Convénceme,"India Martinez,Marc Anthony",Convénceme,208567,False,68,0,0,4,0.5,0.59,0.552,0,0.12,-8.422,0.388,0.241,167.854,PopClasico
+Mi lugar,"Sinsinati,Álvaro De Luna",Mi lugar,218361,False,60,7,1,4,0.00643,0.563,0.667,0,0.25,-6.367,0.026,0.721,134.963,PopClasico
+Soy de Volar,"Dvicio,Lali",Soy de Volar,235286,False,69,5,1,4,0.478,0.753,0.474,0,0.107,-7.074,0.0442,0.751,99.979,PopClasico
+Corazón descalzo,Pablo Alborán,Corazón descalzo,254927,False,66,8,1,4,0.427,0.61,0.483,0,0.0878,-9.481,0.179,0.411,139.818,PopClasico
+Entre Sobras Y Sobras Me Faltas,Antonio Orozco,Entre Sobras Y Sobras Me Faltas,235200,False,63,10,1,3,0.476,0.416,0.358,0,0.111,-8.535,0.0462,0.116,80.643,PopClasico
+Un Beso en Madrid,"TINI,Alejandro Sanz",Un Beso en Madrid,143197,False,76,0,1,4,0.313,0.358,0.618,0,0.596,-6.794,0.0959,0.34,79.45,PopClasico
+Una Foto en Blanco y Negro,"David Otero,Taburete",Una Foto en Blanco y Negro,212090,False,67,2,1,4,0.267,0.562,0.835,0,0.0971,-5.318,0.0329,0.531,133.006,PopClasico
+Hablemos de amor,Pablo Alborán,Hablemos de amor,209221,False,64,6,1,3,0.748,0.439,0.279,0,0.0894,-11.014,0.0587,0.178,79.128,PopClasico
+Bailemos,Dani Fernández,Incendios,210468,False,67,1,1,4,0.0616,0.649,0.555,3.45e-06,0.0874,-4.655,0.0292,0.607,128.009,PopClasico
+Puñales,Dani Fernández,Puñales,205050,False,57,9,1,4,0.0169,0.523,0.7,0,0.0884,-6.169,0.0404,0.265,142.073,PopClasico
+Mi Religión,Nil Moliner,Mi Religión,191379,False,63,5,1,4,0.267,0.851,0.729,1.21e-06,0.197,-5.046,0.0275,0.973,106.011,PopClasico
+A Vuelos,Antonio Orozco,Aviónica,242333,False,55,7,1,3,0.471,0.394,0.509,0,0.298,-5.537,0.0295,0.453,180.004,PopClasico
+Con Los Pies En El Suelo,Cepeda,Con Los Pies En El Suelo,169508,False,63,1,1,4,0.0152,0.578,0.888,0,0.105,-2.904,0.0469,0.673,130.009,PopClasico
+Sueño (con Pablo Alborán),"Beret,Pablo Alborán",Prisma,185482,False,70,8,0,4,0.372,0.667,0.613,0,0.174,-5.604,0.0412,0.54,105.064,PopClasico
+Más De Lo Que Aposté,"Aitana,Morat",Más De Lo Que Aposté,205031,False,75,1,0,4,0.0754,0.621,0.918,0,0.13,-3.01,0.0552,0.834,151.988,PopClasico
+Similares (feat. Sinsinati),"Efecto Pasillo,Sinsinati",Similares (feat. Sinsinati),228910,False,59,1,1,4,0.0907,0.626,0.8,0,0.0946,-5.399,0.0681,0.876,99.978,PopClasico
+Juramento eterno de sal,Álvaro De Luna,Juramento eterno de sal,205546,False,64,2,1,4,0.0225,0.631,0.594,1.91e-06,0.351,-5.727,0.0581,0.716,129.991,PopClasico
+Volveré a Empezar,"Stay Homas,Nil Moliner",Volveré a Empezar,148000,False,59,5,1,4,0.0518,0.776,0.566,0,0.0867,-7.5,0.0563,0.884,127.925,PopClasico
+Enemigos,"Aitana,Reik",Enemigos,197393,False,68,1,0,4,0.0502,0.713,0.79,0,0.172,-3.609,0.146,0.702,89.997,PopClasico
+"Quiero, Quiero y Quiero",Arnau Griso,"Quiero, Quiero y Quiero",205933,False,58,6,1,4,0.0993,0.771,0.748,0,0.105,-5.18,0.033,0.774,107.954,PopClasico
+Puede Ser (with Amaia Montero),"El Canto Del Loco,Amaia Montero",A Contracorriente,181026,False,61,11,1,4,0.398,0.412,0.591,0,0.119,-4.673,0.0346,0.344,188.376,PopClasico
+El Mismo Aire - con Pablo Alborán,"Camilo,Pablo Alborán",El Mismo Aire (con Pablo Alborán),188213,False,84,0,0,4,0.603,0.483,0.492,0,0.323,-6.591,0.295,0.66,144.511,PopClasico
+Si por mi fuera,Beret,Si por mi fuera,208824,False,61,2,1,4,0.0269,0.701,0.748,0,0.102,-5.717,0.0317,0.875,150.078,PopClasico
+Indios y Vaqueros,"Sinsinati,Álvaro De Luna",Indios y Vaqueros,184000,False,66,8,1,4,0.0607,0.606,0.797,0,0.366,-6.23,0.0702,0.851,100.015,PopClasico
+Soldadito de Hierro,Nil Moliner,Soldadito de Hierro,142964,False,60,9,1,4,0.87,0.716,0.344,0,0.0945,-7.528,0.14,0.412,81.86,PopClasico
+Bajo La Mesa,"Morat,Sebastian Yatra",Bajo La Mesa,157080,False,76,6,0,4,0.238,0.716,0.624,0,0.128,-5.398,0.0739,0.783,90.983,PopClasico
+Un Planeta Llamado Nosotros,Maldita Nerea,Un Planeta Llamado Nosotros,225920,False,0,10,1,4,0.176,0.659,0.544,0,0.0919,-7.053,0.0589,0.826,100.932,PopClasico
+DOSIS,"Dvicio,Reik,ChocQuibTown",DOSIS,219189,False,65,4,1,4,0.149,0.747,0.772,1.07e-06,0.185,-6.363,0.0481,0.782,107.95,PopClasico
+Gentleman,Cepeda,Gentleman,221397,False,57,7,0,4,0.00437,0.606,0.921,0,0.111,-3.722,0.0327,0.77,108.011,PopClasico
+Por Última Vez,Nil Moliner,Bailando en la batalla,192419,False,59,8,1,4,0.618,0.641,0.398,0,0.186,-9.614,0.0356,0.658,85.023,PopClasico
+Despiértame,Andrés Suárez,Despiértame,195903,False,50,10,1,4,0.643,0.618,0.608,0,0.106,-6.507,0.242,0.788,90.36,PopClasico
+A Dónde Vamos,Morat,A Dónde Vamos,203102,False,69,0,1,4,0.00677,0.627,0.608,0,0.233,-12.914,0.0364,0.955,149.029,PopClasico
+Corazón Sin Vida,"Aitana,Sebastian Yatra",Corazón Sin Vida,181978,False,77,2,1,4,0.169,0.48,0.572,0,0.0711,-4.013,0.0412,0.452,89.89,PopClasico
+Sobrenatural (feat. Farina),"Dvicio,Farina",Sobrenatural (feat. Farina),178613,False,0,7,1,4,0.382,0.774,0.695,0,0.108,-4.826,0.0487,0.851,125.924,PopClasico
+Bailando (feat. Lennis Rodriguez),"Nil Moliner,Lennis Rodriguez",Bailando (feat. Lennis Rodriguez),214426,False,38,0,1,4,0.244,0.692,0.824,1.26e-05,0.163,-5.124,0.0534,0.879,139.999,PopClasico
+Brindo,Taburete,Brindo,210382,False,54,10,1,3,0.133,0.446,0.67,0,0.19,-4.84,0.0346,0.796,170.042,PopClasico
+Quién te acompañará (feat. Marlon),"Despistaos,Marlon",Quién te acompañará (feat. Marlon),215033,False,46,2,1,4,0.163,0.622,0.434,0,0.222,-7.268,0.0246,0.346,90.037,PopClasico
+Me vas a ver,Beret,Me vas a ver,135739,False,62,3,1,4,0.867,0.536,0.287,0,0.101,-8.553,0.103,0.701,78.243,PopClasico
+Qué Sabrá Neruda,Javy Ramírez,Qué Sabrá Neruda,209516,False,54,0,1,4,0.212,0.675,0.693,0,0.0855,-4.267,0.0313,0.461,124.323,PopClasico
+Bailando,Nil Moliner,Bailando,213666,False,58,0,1,4,0.132,0.718,0.742,0,0.298,-5.761,0.0467,0.944,140.055,PopClasico
+Superpoderes,Leiva,Nuclear,179117,False,60,2,1,4,0.00106,0.346,0.744,1.06e-06,0.0961,-5.622,0.0322,0.382,175.642,PopClasico
+Desde cero (con Melendi),"Beret,Melendi",Prisma,202129,False,59,2,1,5,0.249,0.495,0.461,0,0.126,-8.158,0.0496,0.25,113.029,PopClasico
+Rock'n'rolles de Chiquillos (Versión Acústica),"Sofia Ellar,Dani Fernández",Rock'n'rolles de Chiquillos (Versión Acústica),253340,False,43,1,0,3,0.965,0.384,0.244,0,0.0921,-9.97,0.129,0.169,80.078,PopClasico
+Enamórate De Alguien Más,Morat,Enamórate De Alguien Más,229107,False,71,11,1,4,0.466,0.592,0.643,0,0.315,-5.608,0.0321,0.579,145.979,PopClasico
+Si Tú Existieras,Cepeda,Si Tú Existieras,237403,False,53,9,1,4,0.262,0.291,0.549,0,0.102,-6.636,0.0338,0.182,71.258,PopClasico
+Cuando lloras (feat. David Rees),"Despistaos,David Rees",Cuando lloras (feat. David Rees),197250,False,47,5,1,4,0.0935,0.484,0.593,0,0.119,-6.359,0.0281,0.394,159.951,PopClasico
+Dos Besos Después,Maldita Nerea,Dos Besos Después,246046,False,41,9,1,4,0.00965,0.679,0.825,4.22e-06,0.283,-6.019,0.0371,0.837,129.056,PopClasico
+Si Tú La Quieres,"David Bisbal,Aitana",Si Tú La Quieres,224761,False,75,0,0,4,0.147,0.748,0.778,1.57e-06,0.093,-4.582,0.0685,0.607,100.053,PopClasico
+Pequeña,Paul Alone,Pequeña,194005,False,46,3,1,4,0.542,0.826,0.52,7.38e-06,0.111,-7.023,0.108,0.584,95.924,PopClasico
+Fuego,Estopa,Fuego,193260,False,59,9,0,4,0.049,0.669,0.85,0,0.369,-4.895,0.0763,0.845,100.103,PopClasico
+Lo Quiero Todo,Macaco,Civilizado Como Los Animales,227099,False,61,1,1,4,0.308,0.686,0.583,0,0.102,-6.392,0.09,0.798,149.94,PopClasico
+Barrer a Casa,"Sofia Ellar,Alvaro Soler",Barrer a Casa,187150,False,55,0,0,4,0.833,0.454,0.404,0,0.0843,-6.962,0.141,0.448,172.614,PopClasico
+El primer paso (con Taburete),"Despistaos,Taburete",El primer paso (con Taburete),197868,False,39,1,1,4,0.067,0.577,0.85,0,0.129,-5.747,0.0337,0.567,96.024,PopClasico
+"Por el Camino - BSO de la película ""Mamá o Papá""",Stay Homas,"Por el Camino (BSO de la película ""Mamá o Papá"")",223478,False,51,2,1,4,0.47,0.547,0.605,0,0.423,-4.887,0.0324,0.336,179.769,PopClasico
+Buscando el Sol,"David Otero,Bely Basarte",Buscando el Sol,246084,False,47,2,1,4,0.00197,0.523,0.883,0.00118,0.273,-5.087,0.0311,0.734,159.017,PopClasico
+Perdido en Madrid,Dani Fernández,En llamas,216989,False,46,8,1,4,0.0813,0.619,0.625,1.25e-06,0.109,-4.52,0.0269,0.337,127.93,PopClasico
+Los Huesos,"Dani Martín,Juanes",Los Huesos,187706,False,62,11,0,4,0.0724,0.777,0.804,0,0.0637,-4.807,0.228,0.866,165.912,PopClasico
+El Comiat de la Vida,Manel Navarro,El Comiat de la Vida,197039,False,39,0,1,4,0.518,0.533,0.432,0,0.113,-8.089,0.0306,0.264,146.759,PopClasico
+Tal Como Eres,"David Otero,Cepeda",Tal Como Eres,240646,False,54,10,1,4,0.109,0.725,0.682,1.34e-06,0.223,-5.434,0.0246,0.69,112.991,PopClasico
+Disparos,Dani Fernández,Incendios,230723,False,58,9,1,4,0.0622,0.587,0.847,1.25e-05,0.111,-5.51,0.0389,0.754,152.103,PopClasico
+Hoy,Antonio Orozco,Hoy,236746,False,57,11,1,4,0.079,0.627,0.672,6.91e-06,0.395,-6.679,0.0367,0.399,134.994,PopClasico
+Avioncito de Papel,"Dani Martín,Camilo",Avioncito de Papel,229630,False,57,4,0,4,0.888,0.506,0.284,8.96e-06,0.101,-8.484,0.035,0.162,72.034,PopClasico
+Soy Yo,Hugo Cobo,Soy Yo,193377,False,43,2,0,4,0.0762,0.695,0.654,0,0.177,-6.096,0.159,0.758,104.891,PopClasico
+Valeria,Dvicio,Valeria,222562,False,51,9,1,4,0.326,0.606,0.64,1.09e-05,0.102,-7.775,0.0283,0.222,100.056,PopClasico
+Con La Miel En Los Labios,Aitana,Con La Miel En Los Labios,202446,False,56,6,1,3,0.869,0.662,0.331,0,0.114,-8.35,0.0407,0.432,113.779,PopClasico
+Sin Remitente,Melendi,10:20:40,245573,False,56,0,1,4,0.733,0.752,0.568,0,0.133,-7.833,0.0317,0.462,130.014,PopClasico
+Qué Bonito Es Querer,Manuel Carrasco,La Cruz Del Mapa,270187,False,67,11,1,4,0.6,0.609,0.718,0,0.082,-7.177,0.045,0.426,93.94,PopClasico
+Mariposa,Pablo López,Mariposa,185637,False,58,2,0,4,0.513,0.669,0.704,0.0028,0.0653,-6.765,0.0458,0.31,97.962,PopClasico
+Insoportable,El Canto Del Loco,Estados de Animo,248720,False,59,9,1,4,0.0119,0.615,0.763,0,0.0648,-4.142,0.0294,0.426,131.022,PopClasico
+Presiento,"Morat,Aitana",Balas Perdidas (Edición Especial),174379,False,69,2,1,4,0.168,0.711,0.727,0,0.296,-3.15,0.162,0.465,180.039,PopClasico
+Casi,Melendi,Casi,270773,False,0,10,1,4,0.416,0.698,0.836,0,0.138,-5.012,0.0852,0.742,104.991,PopClasico
+Me Equivocaré,Antonio José,Me Equivocaré,152722,False,62,2,1,4,0.0623,0.563,0.729,0,0.0378,-4.178,0.16,0.726,80.51,PopClasico
+Pídeme,"Mireya Bravo,Raoul Vázquez",Pídeme,206400,False,47,5,1,3,0.756,0.491,0.5,0,0.0882,-5.803,0.0731,0.194,169.91,PopClasico
+Cada dos minutos (feat. Marta Soto),"Despistaos,Marta Soto",Cada dos minutos (feat. Marta Soto),193196,False,41,5,1,4,0.0566,0.574,0.719,0,0.0851,-3.235,0.0367,0.656,157.599,PopClasico
+No Te Preocupes por Mi,Leiva,No Te Preocupes por Mi,228325,False,0,7,1,4,0.114,0.313,0.608,1.06e-06,0.104,-5.746,0.0367,0.341,151.872,PopClasico
+El Viaje,Conchita,El Viaje,281003,False,52,0,1,4,0.692,0.684,0.362,0,0.243,-12.454,0.127,0.412,82.011,PopClasico
+Ando Perdido,Antonio José,Ando Perdido,172084,False,59,2,1,4,0.498,0.751,0.441,0,0.0899,-8.509,0.128,0.597,87.975,PopClasico
+La Mentira (feat. Joaquín Sabina),"Dani Martín,Joaquín Sabina",La Mentira (feat. Joaquín Sabina),177240,False,58,6,0,4,0.0136,0.627,0.803,0,0.0734,-2.957,0.137,0.901,169.959,PopClasico
+Si hubieras querido,Pablo Alborán,Si hubieras querido,221139,False,71,11,0,4,0.804,0.692,0.442,0,0.328,-11.466,0.483,0.406,147.912,PopClasico
+Que Te Vaya Bien,"Manel Navarro,Belén Aguilera",Que Te Vaya Bien,220168,False,43,5,1,4,0.934,0.351,0.19,8.83e-06,0.0968,-12.214,0.033,0.329,101.638,PopClasico
+Oye,"TINI,Sebastian Yatra",Oye,173021,False,73,7,0,4,0.447,0.683,0.51,0,0.175,-7.894,0.0646,0.255,95.08,PopClasico
+Te echo de menos,Beret,Te echo de menos,194986,False,63,0,1,4,0.206,0.658,0.714,0,0.114,-5.086,0.175,0.362,159.9,PopClasico
+Te Prometo Libertad,Maldita Nerea,Un Planeta Llamado Nosotros,273571,False,38,4,1,4,0.167,0.597,0.711,2.4e-05,0.0747,-6.367,0.0387,0.563,83.945,PopClasico
+Cuando estés aquí,Pablo Alborán,Cuando estés aquí,190219,False,61,11,0,3,0.84,0.46,0.488,0,0.197,-6.391,0.0491,0.249,89.1,PopClasico

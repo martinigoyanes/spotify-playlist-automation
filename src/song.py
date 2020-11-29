@@ -1,14 +1,3 @@
-import time
-import glob
-import os
-
-from mutagen.id3 import ID3, APIC
-from mutagen.mp3 import EasyMP3
-from urllib.request import urlopen
-
-import config
-
-
 class Song:
     def __init__(self, name, artists, album, len_ms, id, explicit, popularity):
         self.name = name
@@ -35,15 +24,16 @@ class Song:
         self.tempo = None
         
     def add_audio_features(self, audio_features):
-        self.key = audio_features['key']
-        self.mode = audio_features['mode']
-        self.time_signature = audio_features['time_signature']
-        self.acousticness = audio_features['acousticness']
-        self.danceability = audio_features['danceability']
-        self.energy = audio_features['energy']
-        self.instrumentalness = audio_features['instrumentalness']
-        self.liveness = audio_features['liveness']
-        self.loudness = audio_features['loudness']
-        self.speechiness = audio_features['speechiness']
-        self.valence = audio_features['valence']
-        self.tempo = audio_features['tempo']
+        if audio_features is not None:
+            self.key = audio_features['key']
+            self.mode = audio_features['mode']
+            self.time_signature = audio_features['time_signature']
+            self.acousticness = audio_features['acousticness']
+            self.danceability = audio_features['danceability']
+            self.energy = audio_features['energy']
+            self.instrumentalness = audio_features['instrumentalness']
+            self.liveness = audio_features['liveness']
+            self.loudness = audio_features['loudness']
+            self.speechiness = audio_features['speechiness']
+            self.valence = audio_features['valence']
+            self.tempo = audio_features['tempo']

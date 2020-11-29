@@ -1,0 +1,51 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Princesas de barrio,Marlon,Cosas que no se pagan con dinero,232853,False,37,5,1,4,0.135,0.656,0.665,0.00012,0.266,-5.887,0.0433,0.583,130.0,DailyMix4
+Madame Ayahuasca,Taburete,Madame Ayahuasca,250327,False,54,10,1,4,0.0907,0.51,0.803,2.01e-05,0.363,-3.942,0.0393,0.233,143.926,DailyMix4
+Que Trata De Andalucia,Los Aslándticos,El mundo está fatal de los nervios,197773,False,37,0,0,4,0.182,0.793,0.915,0,0.342,-3.836,0.182,0.891,106.029,DailyMix4
+La Noche Suena,"David Otero,Dani Fernández",La Noche Suena,199624,False,52,7,1,4,0.000656,0.686,0.799,8e-05,0.0909,-4.51,0.0435,0.49,128.981,DailyMix4
+Capítulos,Dvicio,Impulso,204920,False,63,7,0,4,0.177,0.72,0.591,1.89e-06,0.0994,-5.361,0.0554,0.737,94.998,DailyMix4
+Flamenkito,"Lérica,Belinda",Flamenkito,202153,False,71,0,1,4,0.0877,0.73,0.714,0,0.117,-2.979,0.107,0.924,94.896,DailyMix4
+Bésame,"David Bisbal,Juan Magán",Bésame,200961,False,59,6,1,4,0.0523,0.74,0.842,0,0.114,-3.408,0.0465,0.879,97.938,DailyMix4
+Guantanamera,Guitarricadelafuente,Guantanamera,190762,False,55,9,1,4,0.875,0.512,0.263,0,0.11,-10.421,0.0855,0.359,98.6,DailyMix4
+Tequila y Candela,Marlon,Tequila y Candela,172344,False,61,7,1,4,0.0338,0.605,0.804,0,0.0741,-4.049,0.0629,0.732,92.022,DailyMix4
+Cuando Éramos Dos,"Sinsinati,Álvaro De Luna",Cuando Éramos Dos,205059,False,67,6,0,4,0.135,0.56,0.589,0,0.109,-5.612,0.0419,0.712,100.04,DailyMix4
+Entre Tus Piernas,Taburete,Madame Ayahuasca,213916,False,49,6,0,4,0.365,0.662,0.714,0,0.0837,-6.196,0.0335,0.508,89.534,DailyMix4
+Nadie Como Tú,Atacados,Nadie Como Tú,212000,False,34,8,1,4,0.156,0.776,0.836,0,0.0792,-3.256,0.0819,0.874,99.033,DailyMix4
+Caraluna,Bacilos,Caraluna,266160,False,74,9,1,4,0.176,0.76,0.773,0,0.1,-5.314,0.0675,0.895,102.789,DailyMix4
+De Cabeza,Ale Ocaña,De Cabeza,186976,False,15,5,0,4,0.739,0.72,0.408,1.66e-05,0.119,-13.428,0.0767,0.613,86.037,DailyMix4
+Conmigo Subes,"Tutto Duran,Kiko Rivera",Conmigo Subes,195517,False,45,0,1,4,0.309,0.753,0.813,0.0087,0.122,-6.933,0.0642,0.498,116.009,DailyMix4
+Ni una más,Pastora Soler,La calma,212226,False,37,6,1,4,0.662,0.642,0.596,0,0.142,-5.317,0.0479,0.394,92.07,DailyMix4
+No Termino,Morat,No Termino,239826,False,66,11,1,4,0.0443,0.702,0.749,0,0.0839,-3.743,0.0328,0.817,137.98,DailyMix4
+Volveré,Marlon,Volveré,219992,False,51,9,1,4,0.00908,0.52,0.616,0,0.0728,-5.024,0.0298,0.272,145.841,DailyMix4
+Mariposas,Taburete,Tres Tequilas,300023,False,46,1,1,4,0.923,0.793,0.431,1.44e-06,0.0589,-9.036,0.0279,0.396,99.95,DailyMix4
+Qué Sabrá Neruda,Javy Ramírez,Qué Sabrá Neruda,209516,False,54,0,1,4,0.212,0.675,0.693,0,0.0855,-4.267,0.0313,0.461,124.323,DailyMix4
+Ya mi mama me decía,Guitarricadelafuente,Ya mi mama me decía,188372,False,62,6,1,3,0.54,0.677,0.423,0.00153,0.0876,-10.535,0.0865,0.296,144.421,DailyMix4
+Mi Macarena,Marlon,Cosas que no se pagan con dinero,196266,False,54,4,1,4,0.0501,0.651,0.812,0,0.857,-6.096,0.0651,0.688,127.122,DailyMix4
+Celos,Andy & Lucas,Desde Mi Barrio,232733,False,17,8,0,4,0.24,0.651,0.86,0,0.358,-5.933,0.0375,0.756,140.122,DailyMix4
+olvídate de mí,Natalia Lacunza,ep2 🌧,178500,False,54,10,1,4,0.446,0.814,0.267,1.95e-05,0.0921,-12.166,0.0808,0.335,103.97,DailyMix4
+Indios y Vaqueros,"Sinsinati,Álvaro De Luna",Indios y Vaqueros,184000,False,66,8,1,4,0.0607,0.606,0.797,0,0.366,-6.23,0.0702,0.851,100.015,DailyMix4
+Como Camarón,Estopa,Estopa,202026,False,64,9,0,4,0.216,0.499,0.721,9.74e-06,0.295,-9.615,0.0564,0.843,140.4,DailyMix4
+3 minutos,Alex Wall,3 minutos,191817,False,38,10,1,4,0.105,0.704,0.752,0,0.122,-3.597,0.0428,0.542,137.947,DailyMix4
+Addicted to You,Shakira,Sale el Sol,147480,False,63,0,1,4,0.0407,0.891,0.809,0.136,0.0743,-5.753,0.0756,0.967,126.023,DailyMix4
+Walter Palmeras,Taburete,Tres Tequilas,215967,False,50,2,1,4,0.841,0.776,0.309,0,0.209,-10.801,0.0522,0.887,139.961,DailyMix4
+Sin miedo a nada (feat. Amaia Montero),"Alex Ubago,Amaia Montero",Siempre en mi mente,310866,False,55,0,0,4,0.406,0.573,0.574,0,0.125,-4.826,0.0468,0.339,132.836,DailyMix4
+Frío Corazón,Modo Avión,Frío Corazón,202418,False,39,6,0,4,0.342,0.709,0.403,0,0.0857,-11.944,0.0514,0.318,116.976,DailyMix4
+Sanxenxo,Santi Pidal,Sanxenxo,192073,False,28,0,1,4,0.332,0.699,0.676,0.00631,0.366,-6.885,0.0584,0.605,119.884,DailyMix4
+Comértelo todo,Marlon,Cosas que no se pagan con dinero,212720,False,40,1,0,4,0.0555,0.476,0.827,0.000137,0.129,-3.593,0.0643,0.452,168.004,DailyMix4
+Dos Tequilas,Taburete,Tres Tequilas,149813,False,42,7,1,4,0.776,0.706,0.462,0,0.113,-6.004,0.0276,0.174,126.994,DailyMix4
+A Un Paso De La Luna,"Ana Mena,Rocco Hunt",A Un Paso De La Luna,167313,False,78,10,1,4,0.394,0.744,0.771,0,0.292,-5.403,0.0531,0.954,121.968,DailyMix4
+Tu Foto del DNI,Marmi,Tu Foto del DNI,171516,False,51,3,1,4,0.218,0.426,0.843,0,0.0588,-5.375,0.0521,0.66,172.901,DailyMix4
+Culpable,Tutto Duran,Culpable,185600,False,33,11,1,4,0.113,0.636,0.817,0.0386,0.165,-3.903,0.15,0.551,191.991,DailyMix4
+ABC,Guitarricadelafuente,Abc,169792,False,61,7,1,4,0.812,0.608,0.492,5.63e-05,0.13,-6.643,0.0421,0.574,83.202,DailyMix4
+Casi,Melendi,10:20:40,270773,False,59,10,1,4,0.416,0.698,0.836,0,0.138,-5.012,0.0852,0.742,104.991,DailyMix4
+Amorfina,Marlon,Amorfina,179304,False,53,6,1,4,0.639,0.669,0.308,0,0.28,-8.829,0.0726,0.318,79.619,DailyMix4
+Insoportable,El Canto Del Loco,Estados de Animo,248720,False,59,9,1,4,0.0119,0.615,0.763,0,0.0648,-4.142,0.0294,0.426,131.022,DailyMix4
+Mi lugar,"Sinsinati,Álvaro De Luna",Mi lugar,218361,False,60,7,1,4,0.00643,0.563,0.667,0,0.25,-6.367,0.026,0.721,134.963,DailyMix4
+Casa En El Aire,Arevalo,Casa En El Aire,181560,False,56,0,1,4,0.0261,0.727,0.842,0,0.0725,-3.354,0.182,0.778,75.912,DailyMix4
+5 de la Tarde (Nueva Versión),Sunvalley,C'est la Vie,205921,False,21,1,1,4,0.422,0.574,0.376,1.87e-05,0.0939,-12.463,0.0714,0.465,91.744,DailyMix4
+Belerofón,Taburete,Madame Ayahuasca,216034,False,54,11,1,4,0.229,0.607,0.823,0,0.189,-4.614,0.0376,0.688,131.017,DailyMix4
+Hablemos de amor,Pablo Alborán,Hablemos de amor,209221,False,64,6,1,3,0.748,0.439,0.279,0,0.0894,-11.014,0.0587,0.178,79.128,DailyMix4
+2018: Odisea en el Espacio,Taburete,2018: Odisea en el Espacio,212602,False,55,2,0,4,0.468,0.557,0.646,0,0.113,-4.886,0.0312,0.433,140.221,DailyMix4
+Me supo a poco,Marlon,Cosas que no se pagan con dinero,211185,False,49,10,1,4,0.0718,0.594,0.654,0,0.284,-5.068,0.0462,0.691,90.026,DailyMix4
+Mi Religión,Nil Moliner,Bailando en la batalla,191379,False,58,5,1,4,0.267,0.851,0.729,1.21e-06,0.197,-5.046,0.0275,0.973,106.011,DailyMix4
+Donna (feat. Andrés Dvicio),"Sergio Dalma,Andrés Dvicio",Sergio Dalma 30...y Tanto,186316,False,57,7,1,4,0.0205,0.726,0.681,0,0.0763,-7.841,0.127,0.905,104.996,DailyMix4

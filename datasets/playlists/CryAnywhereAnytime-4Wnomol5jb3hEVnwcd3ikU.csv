@@ -1,0 +1,64 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Cover Me Up,Morgan Wallen,Cover Me Up,292662,False,78,2,1,3,0.236,0.525,0.437,7.03e-06,0.121,-8.285,0.0272,0.195,127.994,CryAnywhereAnytime
+The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,68,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,CryAnywhereAnytime
+Say You Won't Let Go,James Arthur,Back from the Edge,211466,False,86,10,1,4,0.695,0.358,0.557,0,0.0902,-7.398,0.059,0.494,85.043,CryAnywhereAnytime
+you were good to me,"Jeremy Zucker,Chelsea Cutler",brent,219146,False,82,2,1,4,0.913,0.561,0.0848,2.62e-05,0.112,-15.099,0.0404,0.206,102.128,CryAnywhereAnytime
+Please Notice,Christian Leave,Hope,116666,False,71,2,1,4,0.843,0.55,0.271,3.21e-06,0.107,-8.451,0.0297,0.198,111.344,CryAnywhereAnytime
+Hold On,Chord Overstreet,Hold On,198853,False,83,2,1,4,0.469,0.618,0.443,0,0.0829,-9.681,0.0526,0.167,119.949,CryAnywhereAnytime
+scared,Jeremy Zucker,brent,207520,False,72,5,1,4,0.933,0.583,0.075,1.4e-06,0.111,-15.843,0.0726,0.347,108.418,CryAnywhereAnytime
+Feeling Whitney,Post Malone,Stoney (Deluxe),257266,True,79,0,1,4,0.787,0.412,0.227,4.69e-06,0.282,-12.696,0.0359,0.226,80.111,CryAnywhereAnytime
+You Are The Reason,Calum Scott,Only Human (Deluxe),204326,False,83,10,1,3,0.918,0.331,0.235,0,0.137,-7.7,0.0299,0.218,171.232,CryAnywhereAnytime
+"All I Want - From ""High School Musical: The Musical: The Series""",Olivia Rodrigo,"All I Want (From ""High School Musical: The Musical: The Series"")",177322,False,79,0,0,3,0.0902,0.376,0.43,0,0.0912,-6.585,0.0328,0.129,77.599,CryAnywhereAnytime
+You're Somebody Else,flora cash,"Baby, It's Okay",219013,False,72,1,1,4,0.847,0.706,0.46,0.00796,0.106,-9.061,0.0296,0.23,102.984,CryAnywhereAnytime
+"Up, Up & Away",Chance Peña,"Up, Up & Away",120000,False,60,9,0,3,0.943,0.656,0.0888,0.000129,0.117,-12.33,0.0428,0.576,131.611,CryAnywhereAnytime
+Medicine,Daughter,The Wild Youth EP,258986,False,69,3,1,3,0.135,0.215,0.316,0.244,0.595,-12.201,0.0297,0.19,94.619,CryAnywhereAnytime
+Wait,M83,The Fault In Our Stars: Music From The Motion Picture,341200,False,0,2,1,4,0.203,0.429,0.243,0.106,0.098,-9.827,0.0317,0.0775,147.927,CryAnywhereAnytime
+Can I Be Him,James Arthur,Back from the Edge,246880,False,79,11,1,4,0.308,0.696,0.543,0,0.0939,-6.164,0.0489,0.479,107.969,CryAnywhereAnytime
+Dancing On My Own,Calum Scott,Only Human (Deluxe),260285,False,82,1,1,4,0.839,0.682,0.173,3.26e-05,0.0983,-8.749,0.0314,0.236,112.663,CryAnywhereAnytime
+Let It Go,James Bay,Chaos And The Calm,260533,False,73,1,1,4,0.818,0.546,0.311,1.65e-05,0.107,-10.396,0.0288,0.246,147.464,CryAnywhereAnytime
+Godspeed,Frank Ocean,Blonde,177922,False,77,6,1,4,0.931,0.421,0.0952,0.000201,0.126,-12.561,0.0479,0.0773,109.698,CryAnywhereAnytime
+When You Love Someone,James TW,First Impressions,216373,False,61,7,1,4,0.248,0.675,0.444,0,0.0531,-6.067,0.028,0.356,125.884,CryAnywhereAnytime
+You're the Only One,"Chris Renzema,Moriah Hazeltine",Age to Age,337459,False,42,11,1,4,0.371,0.445,0.473,0,0.117,-8.333,0.0272,0.294,141.862,CryAnywhereAnytime
+Nothing I Hold on to (Live),"Will Reagan,United Pursuit",Live at the Banks House,376093,False,50,7,1,4,0.608,0.462,0.361,0,0.206,-10.513,0.0291,0.297,141.755,CryAnywhereAnytime
+Let You Down,NF,Perception,212120,False,82,5,0,4,0.312,0.662,0.714,0,0.179,-5.68,0.121,0.464,147.997,CryAnywhereAnytime
+Die Trying,Michl,Die Trying,209536,False,62,6,1,4,0.792,0.424,0.356,0,0.148,-8.374,0.0777,0.0738,125.41,CryAnywhereAnytime
+Heaven's Not Too Far,We Three,We Three,242746,False,55,9,1,4,0.399,0.468,0.415,0,0.0978,-6.583,0.0304,0.146,116.724,CryAnywhereAnytime
+From the Ground Up,Dan + Shay,Obsessed,253933,False,67,9,1,3,0.333,0.281,0.58,0,0.122,-5.967,0.0323,0.282,151.568,CryAnywhereAnytime
+Wanted,Hunter Hayes,Hunter Hayes (Encore),228840,False,70,0,1,4,0.268,0.421,0.476,0,0.0816,-7.692,0.0298,0.3,169.784,CryAnywhereAnytime
+Roslyn,Ben Pellow,Stories,317440,False,61,1,1,5,0.946,0.267,0.0563,0.00567,0.109,-14.171,0.0375,0.0709,134.347,CryAnywhereAnytime
+Falling Apart,Michael Schulte,Hold the Rhythm,198573,False,65,7,0,4,0.824,0.543,0.333,3.87e-06,0.168,-9.355,0.0272,0.261,109.789,CryAnywhereAnytime
+FIGURES,Jessie Reyez,Kiddo,240906,True,68,7,1,3,0.811,0.6,0.139,9.5e-06,0.0918,-8.975,0.0464,0.256,171.041,CryAnywhereAnytime
+To Build A Home,"The Cinematic Orchestra,Patrick Watson",Ma Fleur,370666,False,68,9,1,4,0.885,0.264,0.128,0.352,0.105,-15.443,0.034,0.0774,148.499,CryAnywhereAnytime
+Not About Angels,Birdy,Not About Angels,189475,False,75,0,1,4,0.964,0.405,0.111,4.37e-05,0.0872,-11.879,0.0369,0.219,116.86,CryAnywhereAnytime
+You Say,Lauren Daigle,Look Up Child,274693,False,77,5,1,4,0.682,0.494,0.632,0,0.0869,-6.89,0.0342,0.0797,147.873,CryAnywhereAnytime
+Chasing Cars,Snow Patrol,Eyes Open,267933,False,78,9,1,4,0.209,0.563,0.592,5.08e-05,0.132,-4.571,0.0276,0.136,104.016,CryAnywhereAnytime
+Reckless Love,Cory Asbury,Reckless Love,333386,False,71,6,1,4,0.0291,0.572,0.685,0,0.0963,-7.29,0.0356,0.232,110.698,CryAnywhereAnytime
+Brainstorm,Alexander 23,Brainstorm,186000,False,64,11,0,4,0.823,0.658,0.317,0.00548,0.111,-12.318,0.0424,0.262,76.849,CryAnywhereAnytime
+Hold Me While You Wait,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,205686,False,82,11,1,4,0.443,0.688,0.53,0,0.0995,-5.507,0.0333,0.162,106.958,CryAnywhereAnytime
+IDK You Yet,Alexander 23,IDK You Yet,184638,False,82,1,1,1,0.884,0.629,0.306,0.0776,0.124,-11.735,0.0424,0.191,76.994,CryAnywhereAnytime
+All I Want,Kodaline,In A Perfect World (Expanded Edition),305746,False,83,0,1,3,0.172,0.209,0.412,0.15,0.0843,-9.733,0.0443,0.162,86.26,CryAnywhereAnytime
+Falling,Harry Styles,Fine Line,240133,False,87,4,1,4,0.839,0.567,0.267,1.46e-06,0.089,-6.502,0.0299,0.0592,110.011,CryAnywhereAnytime
+Already Gone,Sleeping At Last,"Covers, Vol. 2",243007,False,75,3,1,4,0.954,0.418,0.248,4.21e-06,0.108,-9.997,0.0451,0.298,130.953,CryAnywhereAnytime
+Heather,Conan Gray,Kid Krow,198040,False,93,5,1,3,0.584,0.357,0.425,0,0.322,-7.301,0.0333,0.27,102.078,CryAnywhereAnytime
+Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),215106,False,86,3,1,4,0.604,0.459,0.575,0,0.0885,-4.858,0.0573,0.183,111.881,CryAnywhereAnytime
+With Love,HARBOUR,With Love,217381,False,41,2,1,4,0.0393,0.353,0.893,0,0.0905,-4.327,0.102,0.507,154.002,CryAnywhereAnytime
+White Blood,Oh Wonder,Oh Wonder,257426,False,63,0,1,4,0.845,0.477,0.229,0.000446,0.196,-14.402,0.0555,0.0819,131.28,CryAnywhereAnytime
+From the Dining Table,Harry Styles,Harry Styles,211960,False,76,8,1,4,0.804,0.671,0.156,0.0518,0.113,-16.288,0.0371,0.201,94.08,CryAnywhereAnytime
+She Lays Down,The 1975,"I like it when you sleep, for you are so beautiful yet so unaware of it",238733,True,52,7,1,5,0.784,0.454,0.124,0.00091,0.0899,-22.001,0.0444,0.487,110.766,CryAnywhereAnytime
+I Wouldn't Ask You,Clairo,Immunity,416373,True,60,1,1,4,0.706,0.363,0.376,0.0144,0.0841,-10.95,0.0515,0.242,133.76,CryAnywhereAnytime
+Happiest Year,Jaymes Young,Happiest Year,228442,False,81,1,1,3,0.885,0.501,0.167,0,0.111,-14.061,0.0484,0.356,112.275,CryAnywhereAnytime
+Bruises,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,220492,False,84,4,1,4,0.946,0.736,0.308,0,0.186,-7.83,0.0677,0.361,111.202,CryAnywhereAnytime
+Jealous,Labrinth,Jealous,287693,False,78,1,1,3,0.873,0.435,0.155,0,0.107,-8.948,0.046,0.0935,128.532,CryAnywhereAnytime
+Out Of Love,Alessia Cara,The Pains Of Growing,227693,False,80,7,1,3,0.8,0.481,0.267,0,0.249,-9.249,0.0339,0.137,117.64,CryAnywhereAnytime
+Half A Man,Dean Lewis,A Place We Knew,179120,False,76,0,1,4,0.855,0.507,0.204,0,0.143,-11.575,0.0504,0.343,77.765,CryAnywhereAnytime
+better off,"Jeremy Zucker,Chelsea Cutler",glisten,193946,False,71,8,0,4,0.747,0.708,0.322,9.24e-05,0.137,-12.46,0.0371,0.46,98.892,CryAnywhereAnytime
+Supermarket Flowers,Ed Sheeran,÷ (Deluxe),221106,False,77,6,1,4,0.914,0.589,0.242,0,0.0887,-10.517,0.0442,0.257,89.749,CryAnywhereAnytime
+Skinny Love,Birdy,Birdy,201080,False,75,4,1,4,0.952,0.379,0.29,0.00106,0.118,-8.485,0.051,0.169,166.467,CryAnywhereAnytime
+Goodbye To A World,Porter Robinson,Worlds,328506,False,71,9,1,3,0.453,0.444,0.35,0.109,0.0824,-7.194,0.0483,0.0973,95.979,CryAnywhereAnytime
+Oceans (Where Feet May Fail),Hillsong UNITED,Zion (Deluxe Edition),535962,False,69,2,1,4,0.508,0.262,0.361,0.00268,0.108,-10.187,0.0333,0.056,126.786,CryAnywhereAnytime
+Suffocate,Hayd,Suffocate,241967,False,62,4,1,4,0.847,0.653,0.0584,0.000361,0.175,-21.98,0.0442,0.163,122.057,CryAnywhereAnytime
+This is Love - Interlude,"Joey Kidney,Matt Walden",This is Love,261642,False,51,4,1,4,0.638,0.608,0.375,0.00512,0.35,-16.038,0.0443,0.229,130.0,CryAnywhereAnytime
+Rivers and Roads,The Head and the Heart,The Head and the Heart,284000,False,0,0,1,3,0.699,0.494,0.194,2.98e-05,0.0803,-8.965,0.0352,0.161,135.753,CryAnywhereAnytime
+Broken Ties,"Wovy,Chupapi",Broken Ties,231000,False,44,10,0,4,0.592,0.52,0.302,0.00103,0.0951,-12.375,0.0343,0.109,115.032,CryAnywhereAnytime
+Clueless,Ellie Williams,Clueless,160000,False,43,10,1,4,0.504,0.76,0.447,0.00227,0.0959,-7.922,0.365,0.368,96.046,CryAnywhereAnytime
+Changes,Hayd,Changes,214814,False,65,6,1,4,0.939,0.648,0.115,3.88e-05,0.11,-17.133,0.0445,0.29,119.967,CryAnywhereAnytime
