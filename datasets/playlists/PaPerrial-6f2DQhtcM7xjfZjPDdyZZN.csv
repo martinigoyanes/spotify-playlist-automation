@@ -1,18 +1,18 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
 Bellakeo,"Los del Control,Pepe : Vizio",Bellakeo,174666,False,41,5,0,4,0.0522,0.624,0.899,6.37e-06,0.0854,-6.403,0.0569,0.967,180.072,PaPerrial
-Que Calor (with J Balvin & El Alfa),"Major Lazer,J Balvin,El Alfa,Diplo",Que Calor (with J Balvin & El Alfa),169997,False,43,8,1,4,0.0372,0.795,0.885,0.00754,0.285,-4.129,0.0716,0.46,126.038,PaPerrial
-Bandolero y Bandolera,"J.Beren,Suave44",Bandolero y Bandolera,189818,True,27,0,0,4,0.153,0.786,0.823,0,0.102,-3.059,0.0273,0.803,109.978,PaPerrial
+Que Calor (with J Balvin & El Alfa),"Major Lazer,J Balvin,El Alfa,Diplo",Que Calor (with J Balvin & El Alfa),169997,False,42,8,1,4,0.0372,0.795,0.885,0.00754,0.285,-4.129,0.0716,0.46,126.038,PaPerrial
+Bandolero y Bandolera,"J.Beren,Suave44",Bandolero y Bandolera,189818,True,26,0,0,4,0.153,0.786,0.823,0,0.102,-3.059,0.0273,0.803,109.978,PaPerrial
 Downtown,"Anitta,J Balvin",Downtown,193456,False,72,4,0,4,0.18,0.775,0.679,7.26e-05,0.068,-4.985,0.135,0.619,166.008,PaPerrial
 La Jeepeta - Remix,"Nio Garcia,Anuel AA,Myke Towers,Brray,Juanka",La Jeepeta (Remix),345240,True,86,4,0,4,0.3,0.815,0.715,4.83e-06,0.091,-4.65,0.207,0.786,176.007,PaPerrial
 Asesina - Original mix,"Brytiago,Darell,Barloe Team",Asesina,187254,False,61,10,0,4,0.56,0.835,0.703,0,0.144,-4.177,0.231,0.502,94.211,PaPerrial
-La Cama - Remix,"Lunay,Myke Towers,Ozuna,Chencho Corleone,Rauw Alejandro",La Cama (Remix),330240,False,77,2,0,4,0.12,0.737,0.832,0,0.255,-2.622,0.0798,0.865,173.986,PaPerrial
+La Cama - Remix,"Lunay,Myke Towers,Ozuna,Chencho Corleone,Rauw Alejandro",La Cama (Remix),330240,False,76,2,0,4,0.12,0.737,0.832,0,0.255,-2.622,0.0798,0.865,173.986,PaPerrial
 PAM,"Justin Quiles,Daddy Yankee,El Alfa",PAM,201000,True,80,11,1,4,0.289,0.889,0.863,0.000603,0.0798,-3.011,0.0757,0.776,112.953,PaPerrial
 Bandido,"Anuel AA,Mariah Angeliq",Emmanuel,222385,True,72,8,1,4,0.374,0.789,0.809,0,0.202,-3.417,0.0615,0.411,95.935,PaPerrial
-Así Soy Yo,"Anuel AA,Bad Bunny",Emmanuel,226378,True,74,10,0,4,0.445,0.732,0.807,0.00152,0.0975,-3.424,0.116,0.724,176.026,PaPerrial
+Así Soy Yo,"Anuel AA,Bad Bunny",Emmanuel,226378,True,73,10,0,4,0.445,0.732,0.807,0.00152,0.0975,-3.424,0.116,0.724,176.026,PaPerrial
 Hasta Que Dios Diga,"Anuel AA,Bad Bunny",Emmanuel,246000,True,85,8,1,4,0.464,0.691,0.765,3.29e-06,0.203,-4.727,0.111,0.855,174.021,PaPerrial
-Jangueo,"Anuel AA,Tego Calderon",Emmanuel,231745,True,77,7,1,4,0.396,0.863,0.728,9.14e-06,0.0902,-2.954,0.0586,0.649,93.035,PaPerrial
-Reggaetonera,Anuel AA,Emmanuel,212312,True,83,6,1,4,0.48,0.694,0.796,0.000384,0.108,-4.164,0.0565,0.515,93.064,PaPerrial
-Para Lisa,"Urbøi,El Habano,Uzielito Mix",Para Lisa,212000,False,58,9,1,4,0.574,0.758,0.905,0.000116,0.222,-3.143,0.288,0.81,179.969,PaPerrial
+Jangueo,"Anuel AA,Tego Calderon",Emmanuel,231745,True,76,7,1,4,0.396,0.863,0.728,9.14e-06,0.0902,-2.954,0.0586,0.649,93.035,PaPerrial
+Reggaetonera,Anuel AA,Emmanuel,212312,True,82,6,1,4,0.48,0.694,0.796,0.000384,0.108,-4.164,0.0565,0.515,93.064,PaPerrial
+Para Lisa,"Urbøi,El Habano,Uzielito Mix",Para Lisa,212000,False,57,9,1,4,0.574,0.758,0.905,0.000116,0.222,-3.143,0.288,0.81,179.969,PaPerrial
 Gris,J Balvin,Colores,176626,False,72,6,0,4,0.229,0.849,0.709,0,0.329,-4.717,0.0794,0.916,93.06,PaPerrial
 PA' ROMPERLA,"Bad Bunny,Don Omar",LAS QUE NO IBAN A SALIR,194200,True,77,7,1,4,0.016,0.772,0.83,0,0.0843,-5.019,0.0599,0.697,94.011,PaPerrial
 SI ELLA SALE,Bad Bunny,LAS QUE NO IBAN A SALIR,143240,False,69,7,1,4,0.0589,0.869,0.727,0.00991,0.107,-7.397,0.123,0.92,147.967,PaPerrial
@@ -21,7 +21,7 @@ P FKN R,"Bad Bunny,Kendo Kaponi,Arcangel",YHLQMDLG,258280,True,70,5,0,4,0.409,0.
 Blanco,J Balvin,Colores,145680,False,69,10,1,4,0.0302,0.872,0.692,0.00761,0.0871,-5.376,0.187,0.693,99.982,PaPerrial
 Negro,J Balvin,Colores,182093,False,74,0,1,4,0.0157,0.795,0.911,0.206,0.131,-2.228,0.0875,0.8,164.081,PaPerrial
 Verde,"J Balvin,Sky Rompiendo",Colores,142546,False,70,8,0,4,0.0381,0.828,0.738,0.473,0.0917,-4.295,0.0516,0.818,94.995,PaPerrial
-Morado,J Balvin,Colores,200266,False,74,11,0,4,0.131,0.885,0.68,1.77e-05,0.0875,-3.837,0.0848,0.78,97.003,PaPerrial
+Morado,J Balvin,Colores,200266,False,73,11,0,4,0.131,0.885,0.68,1.77e-05,0.0875,-3.837,0.0848,0.78,97.003,PaPerrial
 Rosa,J Balvin,Colores,189826,False,70,9,0,4,0.25,0.651,0.561,0.000109,0.435,-5.715,0.25,0.369,175.992,PaPerrial
 Amarillo,J Balvin,Colores,157733,False,80,1,0,5,0.013,0.641,0.857,0.00534,0.0695,-5.725,0.301,0.961,122.728,PaPerrial
 Puesto Pa' Guerrial,"Bad Bunny,Myke Towers",YHLQMDLG,190207,True,68,4,1,4,0.311,0.867,0.686,0,0.1,-5.342,0.221,0.658,139.968,PaPerrial
@@ -31,8 +31,8 @@ La Santa,"Bad Bunny,Daddy Yankee",YHLQMDLG,206420,True,84,1,1,4,0.0326,0.744,0.8
 La Difícil,Bad Bunny,YHLQMDLG,163084,True,83,8,0,4,0.0861,0.685,0.848,7.14e-06,0.0783,-4.561,0.0858,0.761,179.87,PaPerrial
 Ignorantes,"Bad Bunny,Sech",Ignorantes,210606,True,78,1,1,4,0.267,0.85,0.536,3.89e-05,0.0996,-5.161,0.0599,0.505,96.029,PaPerrial
 Te Boté - Remix,"Nio Garcia,Casper Magico,Bad Bunny,Darell,Ozuna,Nicky Jam",Te Boté (Remix),417920,True,77,11,0,4,0.542,0.903,0.675,1.28e-05,0.0595,-3.445,0.214,0.442,96.507,PaPerrial
-Caliente,"Juan Magán,Luciana,Victor Magan",4.0,180250,False,45,5,1,4,0.183,0.76,0.827,0,0.0615,-4.991,0.0642,0.916,102.014,PaPerrial
-Se iluminaba,"Fred De Palma,Ana Mena",Uebe,174291,False,72,0,0,4,0.0811,0.791,0.693,0,0.0708,-4.98,0.0639,0.624,123.923,PaPerrial
+Caliente,"Juan Magán,Luciana,Victor Magan",4.0,180250,False,44,5,1,4,0.183,0.76,0.827,0,0.0615,-4.991,0.0642,0.916,102.014,PaPerrial
+Se iluminaba,"Fred De Palma,Ana Mena",Uebe,174291,False,71,0,0,4,0.0811,0.791,0.693,0,0.0708,-4.98,0.0639,0.624,123.923,PaPerrial
 Tusa,"KAROL G,Nicki Minaj",Tusa,200960,False,87,2,1,4,0.295,0.803,0.715,0.000134,0.0574,-3.28,0.298,0.574,101.085,PaPerrial
 Whine Up,"Nicky Jam,Anuel AA",Whine Up,215459,False,0,9,0,4,0.0549,0.817,0.665,0,0.103,-6.224,0.0758,0.662,104.957,PaPerrial
 Hasta Que Salga el Sol,Ozuna,Hasta Que Salga el Sol,188600,False,1,11,1,4,0.0206,0.857,0.823,0.00077,0.0593,-4.22,0.0516,0.57,96.048,PaPerrial
@@ -41,7 +41,7 @@ LA CANCIÓN,"J Balvin,Bad Bunny",OASIS,242573,False,84,7,1,4,0.152,0.754,0.646,1
 Prendío,Rvfv,Prendío,189718,True,55,11,0,4,0.168,0.83,0.544,1.33e-05,0.132,-9.784,0.0869,0.896,124.974,PaPerrial
 "Yo x Ti, Tu x Mi","ROSALÍA,Ozuna","Yo x Ti, Tu x Mi",201040,False,77,1,1,4,0.462,0.78,0.759,0.000868,0.143,-3.292,0.225,0.579,91.952,PaPerrial
 China,"Anuel AA,Daddy Yankee,KAROL G,J Balvin,Ozuna",China,301714,False,80,7,1,4,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,0.609,105.027,PaPerrial
-Estamos Bien,Bad Bunny,Estamos Bien,208079,True,2,9,0,4,0.831,0.793,0.557,4.45e-06,0.103,-5.618,0.1,0.468,120.118,PaPerrial
+Estamos Bien,Bad Bunny,Estamos Bien,208079,True,1,9,0,4,0.831,0.793,0.557,4.45e-06,0.103,-5.618,0.1,0.468,120.118,PaPerrial
 Danza Kuduro,"Don Omar,Lucenzo",Meet The Orphans,198773,False,75,0,1,3,0.0846,0.4,0.915,0,0.0503,-4.89,0.28,0.878,88.917,PaPerrial
 Llamado De Emergencia,Daddy Yankee,Talento De Barrio,239920,False,0,4,0,4,0.211,0.698,0.91,3.46e-06,0.156,-4.407,0.0351,0.772,97.985,PaPerrial
 "Lo Que Pasó, Pasó",Daddy Yankee,Barrio Fino (Bonus Track Version),210933,False,73,8,0,4,0.102,0.816,0.747,0,0.263,-6.468,0.0411,0.848,97.019,PaPerrial
@@ -62,7 +62,7 @@ Adan y Eva,Paulo Londra,Adan y Eva,258638,False,73,1,1,4,0.323,0.767,0.709,0,0.0
 Vaina Loca,"Ozuna,Manuel Turizo",Aura,176133,False,74,6,1,4,0.315,0.754,0.805,0,0.203,-4.249,0.0752,0.555,93.982,PaPerrial
 Baila Conmigo,"Juan Magán,Luciana",Baila Conmigo,194800,False,0,6,0,4,0.0824,0.885,0.703,2.39e-05,0.0639,-6.468,0.0878,0.824,100.002,PaPerrial
 Báilame - Remix,"Nacho,Yandel,Bad Bunny,Mambo Kingz,DJ Luian",Báilame (Remix),217080,False,1,6,1,4,0.248,0.791,0.866,5.29e-06,0.0696,-4.236,0.0497,0.71,96.011,PaPerrial
-Bailando por Ahi,Juan Magán,Bailando por Ahi,180453,False,57,4,0,4,0.0427,0.73,0.732,2.22e-06,0.262,-5.167,0.051,0.974,129.974,PaPerrial
+Bailando por Ahi,Juan Magán,Bailando por Ahi,180453,False,56,4,0,4,0.0427,0.73,0.732,2.22e-06,0.262,-5.167,0.051,0.974,129.974,PaPerrial
 Gasolina,Daddy Yankee,Barrio Fino (Bonus Track Version),192600,False,76,0,1,4,0.332,0.857,0.801,1.2e-06,0.0789,-6.499,0.0618,0.753,96.009,PaPerrial
 Bum Bum Tam Tam,"MC Fioti,Future,J Balvin,Stefflon Don,Juan Magán",Bum Bum Tam Tam,213988,True,68,1,1,4,0.346,0.896,0.675,8.11e-06,0.262,-3.908,0.124,0.659,131.999,PaPerrial
 Caliente,"Darell,Farruko",Caliente,240306,True,60,11,0,4,0.156,0.894,0.796,0.000106,0.118,-3.119,0.0807,0.408,99.993,PaPerrial
@@ -71,7 +71,7 @@ Calma - Remix,"Pedro Capó,Farruko",Calma (Remix),238200,False,79,11,0,4,0.323,0
 Chambea,Bad Bunny,Chambea,191999,True,1,0,1,4,0.24,0.854,0.868,0.00204,0.152,-3.455,0.154,0.631,115.99,PaPerrial
 Con Altura,"ROSALÍA,J Balvin,El Guincho",Con Altura,161626,False,78,6,1,4,0.39,0.882,0.689,0.00325,0.0501,-4.027,0.124,0.746,97.963,PaPerrial
 Piensas (Dile la Verdad) (feat. Gente de Zona),"Pitbull,Gente De Zona",Dale,226640,False,0,9,0,4,0.00271,0.523,0.941,0,0.108,-4.484,0.0679,0.591,107.111,PaPerrial
-Danza Kuduro (feat. Don Omar),"Lucenzo,Don Omar",Danza Kuduro (feat. Don Omar),202346,False,54,0,1,4,0.0855,0.706,0.89,0,0.0465,-6.575,0.0847,0.896,130.051,PaPerrial
+Danza Kuduro (feat. Don Omar),"Lucenzo,Don Omar",Danza Kuduro (feat. Don Omar),202346,False,53,0,1,4,0.0855,0.706,0.89,0,0.0465,-6.575,0.0847,0.896,130.051,PaPerrial
 Despacito (Featuring Daddy Yankee),"Luis Fonsi,Daddy Yankee",Despacito (Featuring Daddy Yankee),228200,False,4,2,1,4,0.209,0.66,0.786,0,0.112,-4.757,0.17,0.846,177.833,PaPerrial
 "Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)","Ozuna,Bad Bunny,Farruko,Arcangel,Ñengo Flow,DJ Luian,Mambo Kings",Diles,279276,True,2,2,0,4,0.0971,0.805,0.582,0,0.163,-5.657,0.0627,0.307,117.955,PaPerrial
 DUELE EL CORAZON (feat. Wisin),"Enrique Iglesias,Wisin",DUELE EL CORAZON (feat. Wisin),200813,False,70,8,0,4,0.0786,0.724,0.904,0,0.226,-3.354,0.0966,0.846,90.999,PaPerrial
@@ -116,7 +116,7 @@ Cambio de Temperatura,"Don Patricio,Aissa,Lucas Otero",Cambio de Temperatura,189
 Gistro Amarillo,"Ozuna,Wisin",Gistro Amarillo,230876,False,65,,,,,,,,,,,,,PaPerrial
 Me Acuerdo de Ti (feat. Darell),"Maluma,Darell",PAPI JUANCHO,223708,False,62,,,,,,,,,,,,,PaPerrial
 Booty,"C. Tangana,Becky G,Alizzz",Booty,173366,False,66,,,,,,,,,,,,,PaPerrial
-Ayer La Vi,Don Omar,King Of Kings (Armageddon Edition),252386,False,53,,,,,,,,,,,,,PaPerrial
+Ayer La Vi,Don Omar,King Of Kings (Armageddon Edition),252386,False,52,,,,,,,,,,,,,PaPerrial
 Baila Baila Baila,Ozuna,Baila Baila Baila,158400,False,10,,,,,,,,,,,,,PaPerrial
 Échame La Culpa,"Luis Fonsi,Demi Lovato",Échame La Culpa,173720,False,2,,,,,,,,,,,,,PaPerrial
 Relación - Remix,"Sech,Daddy Yankee,J Balvin,ROSALÍA,Farruko",Relación (Remix),247308,False,93,,,,,,,,,,,,,PaPerrial
@@ -126,4 +126,4 @@ No Me Conoce - Remix,"Jhay Cortez,J Balvin,Bad Bunny",No Me Conoce (Remix),30754
 Traag,"Bizzey,Jozo,Kraantje Pappie",Traag,189619,False,53,,,,,,,,,,,,,PaPerrial
 La Nota,"Manuel Turizo,Rauw Alejandro,Myke Towers",La Nota,216107,False,91,,,,,,,,,,,,,PaPerrial
 La Luz,"Sech,J Balvin",La Luz,216746,False,86,,,,,,,,,,,,,PaPerrial
-LA NOCHE DE ANOCHE,"Bad Bunny,ROSALÍA",EL ÚLTIMO TOUR DEL MUNDO,203200,False,80,,,,,,,,,,,,,PaPerrial
+LA NOCHE DE ANOCHE,"Bad Bunny,ROSALÍA",EL ÚLTIMO TOUR DEL MUNDO,203200,False,85,,,,,,,,,,,,,PaPerrial

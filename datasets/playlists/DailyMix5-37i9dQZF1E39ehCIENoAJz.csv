@@ -1,51 +1,51 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Despeinada,"Ozuna,Camilo",Despeinada,224186,False,81,8,1,4,0.173,0.727,0.78,0.000995,0.131,-3.807,0.0634,0.748,166.02,DailyMix5
-Dama y vagabundo,"Nyno Vargas,Juan Magán",Dama y vagabundo,184661,False,49,9,1,4,0.517,0.696,0.836,0,0.149,-5.066,0.0439,0.942,91.958,DailyMix5
-Me Llamas,"Arcangel,Mark B.,De La Ghetto,Bad Bunny,Amenazzy",Me Llamas,327999,True,52,2,1,4,0.259,0.799,0.595,0,0.344,-7.015,0.193,0.555,120.06,DailyMix5
-Elegí (feat. Dímelo Flow),"Rauw Alejandro,Dalex,Lenny Tavárez,Dímelo Flow",Elegí (feat. Dímelo Flow),197721,False,84,0,1,4,0.237,0.824,0.631,0.000116,0.0531,-2.791,0.0809,0.678,171.965,DailyMix5
-Negro,J Balvin,Iconos del Urbano,182506,False,24,0,1,4,0.0132,0.791,0.907,0.211,0.245,-2.223,0.0884,0.828,164.107,DailyMix5
-Te Quemaste,"Manuel Turizo,Anuel AA",ADN,199090,False,70,0,1,4,0.611,0.729,0.773,0.00106,0.287,-2.486,0.131,0.718,176.053,DailyMix5
-Dime tú,Danny Ocean,Dime tú,210302,False,72,2,1,4,0.581,0.831,0.648,0,0.114,-8.433,0.0438,0.171,117.98,DailyMix5
-TBT,"Sebastian Yatra,Rauw Alejandro,Manuel Turizo",TBT,239133,False,76,2,1,4,0.0362,0.794,0.855,0,0.142,-1.959,0.0466,0.639,91.963,DailyMix5
-Borracho De Amor,"Cali Y El Dandee,Reik",Borracho De Amor,175706,False,64,9,1,4,0.0511,0.527,0.771,0,0.0948,-2.178,0.0634,0.857,92.746,DailyMix5
-Tutu,"Camilo,Pedro Capó",Tutu,178613,False,78,9,1,4,0.273,0.731,0.832,0,0.0665,-2.592,0.0503,0.94,146.013,DailyMix5
 Caramelo,Ozuna,Caramelo,217546,False,86,6,1,4,0.0531,0.728,0.806,0.000301,0.153,-3.766,0.0623,0.698,168.084,DailyMix5
-Bobo,J Balvin,Energía,209426,False,62,10,1,4,0.115,0.742,0.893,6.67e-05,0.125,-2.671,0.117,0.777,177.879,DailyMix5
-Tusa,"KAROL G,Nicki Minaj",Tusa,200960,False,87,2,1,4,0.295,0.803,0.715,0.000134,0.0574,-3.28,0.298,0.574,101.085,DailyMix5
+Me Voy Enamorando,Chino & Nacho,Radio Universo,235720,False,52,10,1,4,0.0538,0.685,0.912,0,0.392,-3.411,0.0687,0.511,99.957,DailyMix5
+La Lá,"Mike Bahía,Ovy On The Drums",Navegando,197879,False,62,10,1,4,0.332,0.849,0.712,0,0.0688,-4.398,0.29,0.486,94.031,DailyMix5
+Encantadora (feat. Farruko & Zion & Lennox) - Remix,"Yandel,Farruko,Zion & Lennox,Egbert Rosa aka Haze",Encantadora (feat. Farruko & Zion & Lennox) [Remix],252493,False,59,8,1,4,0.172,0.644,0.895,0,0.285,-3.669,0.0469,0.887,169.98,DailyMix5
+Pa Mí - Remix,"Dalex,Rafa Pabön,Sech,Lenny Tavárez,KHEA,Cazzu,Feid",Climaxxx,360960,True,76,11,0,4,0.753,0.688,0.62,5.32e-06,0.157,-8.029,0.22,0.727,170.011,DailyMix5
+Te Quemaste,"Manuel Turizo,Anuel AA",ADN,199090,False,70,0,1,4,0.611,0.729,0.773,0.00106,0.287,-2.486,0.131,0.718,176.053,DailyMix5
 Reloj,"Rauw Alejandro,Anuel AA",Reloj,231594,True,86,8,1,4,0.176,0.823,0.537,3.98e-06,0.123,-2.639,0.209,0.615,175.946,DailyMix5
-FRESH KERIAS,"Feid,Maluma,Sky Rompiendo",FRESH KERIAS,272800,False,61,8,1,4,0.295,0.741,0.584,9.62e-05,0.152,-4.446,0.283,0.734,186.096,DailyMix5
-Una Vez Más,"Manuel Turizo,Noriel",Una Vez Más,252000,False,47,11,0,4,0.455,0.807,0.464,2.05e-06,0.139,-7.59,0.048,0.77,139.987,DailyMix5
-Controla,"Brytiago,Anuel AA",Controla,208000,True,60,6,1,4,0.504,0.758,0.699,0,0.0922,-5.636,0.171,0.594,90.013,DailyMix5
-"Rápido, Brusco, Violento","Juan Magán,Boni & Kelly","Rápido, Brusco, Violento",193608,False,51,3,1,4,0.125,0.663,0.857,0,0.265,-3.436,0.0541,0.59,97.013,DailyMix5
-Se Preparó,Ozuna,Odisea,188080,False,73,1,1,4,0.222,0.739,0.821,9.6e-06,0.311,-4.233,0.0852,0.693,171.077,DailyMix5
-Hey DJ,"CNCO,Yandel",CNCO,206920,False,69,5,1,4,0.0317,0.798,0.809,0,0.214,-6.152,0.0839,0.471,90.006,DailyMix5
-En la Intimidad,Ozuna,En la Intimidad,256183,True,62,11,1,4,0.0372,0.762,0.656,0,0.0908,-7.858,0.0565,0.106,113.076,DailyMix5
-Fantasias - Unplugged,"Rauw Alejandro,Farruko",Fantasias (Unplugged),200593,False,67,0,1,4,0.698,0.714,0.528,0,0.12,-5.219,0.0381,0.538,91.952,DailyMix5
-Bonita,"J Balvin,Jowell & Randy",Bonita,265746,False,71,5,0,4,0.0132,0.775,0.867,0.00684,0.278,-1.582,0.0414,0.869,96.038,DailyMix5
-ATEO,Feid,FERXXO (VOL 1: M.O.R),138680,False,49,4,1,4,0.904,0.457,0.42,0,0.0988,-7.27,0.103,0.261,87.035,DailyMix5
-Ahora Me Llama,"KAROL G,Bad Bunny",Ahora Me Llama,233293,False,0,7,0,4,0.0073,0.664,0.576,6.28e-05,0.0912,-5.395,0.0349,0.121,134.934,DailyMix5
-MÁS DE UNA CITA,"Bad Bunny,Zion & Lennox",LAS QUE NO IBAN A SALIR,183520,True,74,5,1,4,0.0122,0.865,0.5,7.73e-05,0.098,-10.805,0.0861,0.317,92.976,DailyMix5
-Fresa,"TINI,Lalo Ebratt",Fresa,165646,False,70,5,0,4,0.216,0.781,0.866,0,0.101,-3.493,0.0867,0.864,95.993,DailyMix5
-Tu Boca,"Jd Music,Beéle,José Cury,Vallejo",Tu Boca,209557,False,47,0,1,4,0.43,0.829,0.605,1.31e-05,0.0738,-6.625,0.208,0.689,95.066,DailyMix5
-Mayores,"Becky G,Bad Bunny",MALA SANTA,203186,False,73,5,0,4,0.145,0.745,0.836,0.00314,0.116,-4.336,0.0444,0.874,96.993,DailyMix5
-Explícale (feat. Bad Bunny),"Yandel,Bad Bunny",#Update,223146,False,67,1,1,4,0.0583,0.808,0.69,0,0.103,-4.151,0.148,0.64,125.086,DailyMix5
-Esclavo de Tus Besos,"Manuel Turizo,Ozuna",Esclavo de Tus Besos,219302,False,66,5,1,4,0.113,0.805,0.671,0,0.278,-5.316,0.111,0.522,90.979,DailyMix5
-Parce (feat. Justin Quiles),"Maluma,Lenny Tavárez,Justin Quiles",PAPI JUANCHO,248345,False,90,5,0,4,0.422,0.691,0.739,3.95e-06,0.11,-3.09,0.229,0.884,83.897,DailyMix5
-Locura,"Cali Y El Dandee,Sebastian Yatra",Colegio,209026,False,77,8,1,4,0.0858,0.643,0.769,0,0.205,-3.533,0.0877,0.532,185.669,DailyMix5
-Loco,Beéle,Loco,204000,False,73,6,1,4,0.158,0.82,0.565,2.45e-05,0.0469,-5.965,0.17,0.773,105.11,DailyMix5
-Embriágame (feat. Don Omar) - Remix,"Zion & Lennox,Don Omar",Motivan2,230373,False,50,7,1,4,0.155,0.636,0.803,2.01e-06,0.253,-5.166,0.0399,0.527,91.006,DailyMix5
-Ya No Soy Así,"Cruz,Thiago",Ya No Soy Así,177369,False,50,1,1,4,0.137,0.798,0.746,1.54e-05,0.0478,-4.16,0.101,0.541,100.036,DailyMix5
-Amor Genuino,Ozuna,Nibiru,178160,False,65,10,0,4,0.786,0.434,0.314,0,0.163,-7.78,0.0577,0.347,175.077,DailyMix5
-El Efecto,"Rauw Alejandro,Chencho Corleone",El Efecto,217142,False,80,0,0,4,0.406,0.849,0.781,0,0.0801,-4.635,0.159,0.893,84.041,DailyMix5
-UN DIA (ONE DAY) (Feat. Tainy),"J Balvin,Tainy,Dua Lipa,Bad Bunny",UN DIA (ONE DAY) (Feat. Tainy),232253,False,92,6,0,4,0.00536,0.571,0.693,0,0.173,-8.234,0.0545,0.393,168.169,DailyMix5
-Bailemos,"Manuel Turizo,Sech",ADN,206294,False,63,1,0,4,0.132,0.772,0.626,0,0.0862,-5.107,0.124,0.895,169.934,DailyMix5
-"Ay, DiOs Mío!",KAROL G,"Ay, DiOs Mío!",189653,False,91,11,1,4,0.512,0.718,0.712,0.00121,0.104,-4.366,0.174,0.531,180.034,DailyMix5
-Loca (feat. Cali y El Dandee),"Maite Perroni,Cali Y El Dandee",Loca (feat. Cali y El Dandee),234366,False,63,9,1,4,0.11,0.751,0.839,0,0.0865,-3.367,0.054,0.639,95.019,DailyMix5
-Algo Mágico,Rauw Alejandro,Algo Mágico,261603,False,72,11,1,4,0.758,0.68,0.613,0,0.161,-4.368,0.0818,0.609,100.127,DailyMix5
+Sin Pijama,"Becky G,Natti Natasha",MALA SANTA,190160,False,65,11,0,4,0.352,0.788,0.745,4.56e-05,0.0973,-4.417,0.0448,0.79,94.002,DailyMix5
+Borracho De Amor,"Cali Y El Dandee,Reik",Borracho De Amor,175706,False,64,9,1,4,0.0511,0.527,0.771,0,0.0948,-2.178,0.0634,0.857,92.746,DailyMix5
+Favorito,Camilo,Por Primera Vez,209765,False,79,9,1,4,0.237,0.606,0.853,0,0.251,-2.975,0.0545,0.822,178.043,DailyMix5
 Rojo,J Balvin,Rojo,151146,False,50,11,1,4,0.146,0.652,0.595,0.000105,0.0836,-4.041,0.116,0.422,172.26,DailyMix5
-Date La Vuelta,"Luis Fonsi,Sebastian Yatra,Nicky Jam",Date La Vuelta,219773,False,67,6,1,4,0.0487,0.747,0.825,0,0.107,-2.903,0.0566,0.866,94.006,DailyMix5
-Patek,"Ozuna,Anuel AA,Snoop Dogg",Nibiru,249733,False,55,0,1,4,0.418,0.839,0.554,0,0.0923,-6.124,0.181,0.727,139.952,DailyMix5
+Despeinada,"Ozuna,Camilo",Despeinada,224186,False,80,8,1,4,0.173,0.727,0.78,0.000995,0.131,-3.807,0.0634,0.748,166.02,DailyMix5
+Mala Mía,Maluma,Mala Mía,183752,False,68,6,1,4,0.31,0.749,0.752,0,0.232,-4.883,0.345,0.901,180.049,DailyMix5
+Tusa,"KAROL G,Nicki Minaj",Tusa,200960,False,87,2,1,4,0.295,0.803,0.715,0.000134,0.0574,-3.28,0.298,0.574,101.085,DailyMix5
 PORFA,"Feid,Justin Quiles",PORFA,233000,False,76,6,0,4,0.0948,0.843,0.549,0,0.155,-8.018,0.164,0.541,83.982,DailyMix5
-Sigo Buscandote,"Ovy On The Drums,Mau y Ricky",Sigo Buscandote,185224,False,70,8,1,4,0.244,0.859,0.691,0,0.107,-4.741,0.131,0.765,91.974,DailyMix5
-Me llamas (feat. Maluma) - Remix,"Piso 21,Maluma",Me Llamas (feat. Maluma) [Remix],210322,False,71,7,0,4,0.547,0.76,0.838,1.3e-06,0.0664,-3.828,0.0529,0.745,93.05,DailyMix5
+Motívate,Danny Romero,Motívate,206240,False,50,6,1,4,0.00381,0.711,0.841,0,0.158,-5.473,0.0399,0.617,127.998,DailyMix5
+Tu Boca,"Jd Music,Beéle,José Cury,Vallejo",Tu Boca,209557,False,47,0,1,4,0.43,0.829,0.605,1.31e-05,0.0738,-6.625,0.208,0.689,95.066,DailyMix5
+Tattoo - Remix with Camilo,"Rauw Alejandro,Camilo",Tattoo (Remix with Camilo),222680,False,89,9,1,4,0.0413,0.848,0.637,0,0.0521,-5.132,0.156,0.698,96.988,DailyMix5
+Te Soñé De Nuevo,Ozuna,Te Soñé De Nuevo,199812,False,3,7,0,4,0.0533,0.772,0.683,0,0.0936,-2.867,0.107,0.773,168.04,DailyMix5
+No Le Perteneces,"Manuel Turizo,Nicky Jam",ADN,232855,False,53,8,0,4,0.0455,0.546,0.814,1.21e-05,0.118,-4.476,0.186,0.503,93.015,DailyMix5
+No Encuentro Palabras,"Abraham Mateo,Manuel Turizo",Sigo a Lo Mío,193440,False,58,2,1,4,0.152,0.735,0.694,0,0.098,-6.178,0.0685,0.633,92.997,DailyMix5
+Fantasias - Unplugged,"Rauw Alejandro,Farruko",Fantasias (Unplugged),200593,False,67,0,1,4,0.698,0.714,0.528,0,0.12,-5.219,0.0381,0.538,91.952,DailyMix5
+Mi Niña,"Wisin,Myke Towers,Los Legendarios",Mi Niña,213313,False,90,8,0,4,0.31,0.823,0.821,4.28e-06,0.143,-3.402,0.166,0.791,99.999,DailyMix5
+Bailemos,"Manuel Turizo,Sech",ADN,206294,False,63,1,0,4,0.132,0.772,0.626,0,0.0862,-5.107,0.124,0.895,169.934,DailyMix5
+De Tranquilote,"Danny Romero,Lérica",De Tranquilote,177208,False,64,2,1,4,0.105,0.682,0.669,0,0.071,-7.15,0.0951,0.889,79.929,DailyMix5
+Yo No Sé,"Mati Gómez,La Industria Inc",Yo No Sé,164443,False,50,8,1,4,0.0535,0.912,0.625,0.00134,0.137,-4.11,0.233,0.754,94.962,DailyMix5
+Que Fluya - Remix,"Yera,Jerry Di,Corina Smith,Andy G",Que Fluya (Remix),201875,True,61,8,1,5,0.292,0.569,0.677,0,0.783,-5.294,0.0703,0.801,127.929,DailyMix5
+Loco,Beéle,Loco,204000,False,73,6,1,4,0.158,0.82,0.565,2.45e-05,0.0469,-5.965,0.17,0.773,105.11,DailyMix5
+Amigos Con Derechos,"Reik,Maluma",Ahora,227480,False,74,1,1,4,0.0464,0.678,0.806,0,0.0673,-3.334,0.0648,0.614,183.984,DailyMix5
+Patek,"Ozuna,Anuel AA,Snoop Dogg",Nibiru,249733,False,55,0,1,4,0.418,0.839,0.554,0,0.0923,-6.124,0.181,0.727,139.952,DailyMix5
+Bobo,J Balvin,Energía,209426,False,0,10,1,4,0.117,0.729,0.888,1.55e-05,0.125,-2.864,0.122,0.8,177.908,DailyMix5
+"Ay, DiOs Mío!",KAROL G,"Ay, DiOs Mío!",189653,False,91,11,1,4,0.512,0.718,0.712,0.00121,0.104,-4.366,0.174,0.531,180.034,DailyMix5
 Fantasía,Ozuna,Nibiru,175186,False,65,2,1,4,0.227,0.695,0.719,0.000171,0.0884,-5.938,0.0903,0.781,180.074,DailyMix5
+La Gozadera (feat. Marc Anthony),"Gente De Zona,Marc Anthony",Visualízate,203160,False,73,9,0,4,0.166,0.616,0.989,0,0.172,-1.698,0.0483,0.902,95.036,DailyMix5
+Borro Cassette,Maluma,"Pretty Boy, Dirty Boy",207306,False,71,5,0,4,0.132,0.73,0.701,0,0.151,-5.885,0.106,0.785,175.95,DailyMix5
+Tutu,"Camilo,Pedro Capó",Tutu,178613,False,77,9,1,4,0.273,0.731,0.832,0,0.0665,-2.592,0.0503,0.94,146.013,DailyMix5
+ATEO,Feid,FERXXO (VOL 1: M.O.R),138680,False,49,4,1,4,0.904,0.457,0.42,0,0.0988,-7.27,0.103,0.261,87.035,DailyMix5
+Locura,"Cali Y El Dandee,Sebastian Yatra",Colegio,209026,False,77,8,1,4,0.0858,0.643,0.769,0,0.205,-3.533,0.0877,0.532,185.669,DailyMix5
+Noche de Estrellas,"José de Rico,Henry Mendez,Jay Santos",Noche de Estrellas,201000,False,55,11,1,4,0.189,0.732,0.912,0,0.375,-4.144,0.0602,0.893,128.006,DailyMix5
+Báilame,Nacho,La Criatura,207013,False,62,6,1,4,0.149,0.83,0.869,0.00576,0.0538,-5.009,0.144,0.549,96.01,DailyMix5
+100 Preguntas,Ozuna,100 Preguntas,178080,False,62,5,1,4,0.689,0.768,0.462,0,0.114,-5.907,0.0369,0.605,104.008,DailyMix5
+UN DIA (ONE DAY) (Feat. Tainy),"J Balvin,Tainy,Dua Lipa,Bad Bunny",UN DIA (ONE DAY) (Feat. Tainy),232253,False,91,6,0,4,0.00536,0.571,0.693,0,0.173,-8.234,0.0545,0.393,168.169,DailyMix5
+Elegí (feat. Dímelo Flow),"Rauw Alejandro,Dalex,Lenny Tavárez,Dímelo Flow",Elegí (feat. Dímelo Flow),197721,False,84,0,1,4,0.237,0.824,0.631,0.000116,0.0531,-2.791,0.0809,0.678,171.965,DailyMix5
+Billion,Emilia,Billion,179040,False,50,7,1,4,0.0517,0.788,0.64,0,0.0596,-3.691,0.0821,0.714,169.936,DailyMix5
+Easy - Remix,"Jhay Cortez,Ozuna",Famouz Reloaded,219866,False,59,1,0,4,0.186,0.89,0.748,2.07e-06,0.133,-3.844,0.0976,0.402,94.06,DailyMix5
+Menos Mal,Danny Romero,Menos Mal,177949,False,32,0,1,4,0.18,0.787,0.913,0,0.171,-2.644,0.0375,0.552,93.97,DailyMix5
+Ahora Me Llama,"KAROL G,Bad Bunny",Ahora Me Llama,233293,False,0,7,0,4,0.0073,0.664,0.576,6.28e-05,0.0912,-5.395,0.0349,0.121,134.934,DailyMix5
+Esclavo de Tus Besos,"Manuel Turizo,Ozuna",Esclavo de Tus Besos,219302,False,66,5,1,4,0.113,0.805,0.671,0,0.278,-5.316,0.111,0.522,90.979,DailyMix5
+Me llamas (feat. Maluma) - Remix,"Piso 21,Maluma",Me Llamas (feat. Maluma) [Remix],210322,False,71,7,0,4,0.547,0.76,0.838,1.3e-06,0.0664,-3.828,0.0529,0.745,93.05,DailyMix5
+Amor Genuino,Ozuna,Amor Genuino,179936,False,4,10,0,4,0.653,0.442,0.445,0,0.118,-4.071,0.0381,0.423,85.744,DailyMix5

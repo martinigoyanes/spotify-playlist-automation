@@ -1,157 +1,157 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Jumpman,"Drake,Future",What A Time To Be Alive,205879,True,0,1,1,4,0.0462,0.853,0.558,0,0.341,-7.448,0.202,0.654,142.079,NIGRO
-2 Phones,Kevin Gates,Islah (Deluxe),240000,True,69,7,0,4,0.157,0.895,0.681,0,0.189,-5.267,0.358,0.554,121.918,NIGRO
-Black and Yellow,Wiz Khalifa,Rolling Papers,217666,True,75,2,0,4,0.0646,0.684,0.834,0,0.271,-4.524,0.0675,0.538,164.02,NIGRO
-Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),363521,True,1,7,1,4,0.403,0.712,0.838,0,0.809,-2.679,0.313,0.607,148.138,NIGRO
-Alphabet Aerobics,"Blackalicious,Lateef The Truthspeaker,Cut Chemist",A2G EP,133800,False,54,10,0,4,0.0196,0.65,0.515,0,0.0974,-8.722,0.198,0.885,97.052,NIGRO
-$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),"Lil Dicky,Fetty Wap,Rich Homie Quan",Professional Rapper,290835,True,40,2,1,4,0.114,0.858,0.697,0,0.224,-5.361,0.23,0.364,98.012,NIGRO
-Broccoli,"Shelley FKA DRAM,Lil Yachty",Broccoli,225205,True,66,8,1,4,0.236,0.886,0.525,0,0.057,-7.39,0.132,0.708,145.99,NIGRO
-Money Longer,Lil Uzi Vert,Lil Uzi Vert vs. The World,198944,True,74,5,0,4,0.0541,0.795,0.568,0,0.108,-7.817,0.142,0.478,136.173,NIGRO
-Keep The Family Close,Drake,Views,328906,True,0,9,0,3,0.132,0.373,0.56,0,0.381,-7.615,0.0448,0.187,98.858,NIGRO
-9,Drake,Views,255786,True,0,2,1,4,0.00113,0.703,0.699,0.000779,0.246,-7.322,0.044,0.0393,99.991,NIGRO
-U With Me?,Drake,Views,297373,True,0,2,1,4,0.376,0.442,0.421,7.23e-06,0.139,-11.455,0.137,0.111,87.694,NIGRO
-Hype,Drake,Views,209413,True,0,7,1,4,0.0259,0.785,0.633,0,0.368,-8.223,0.169,0.244,129.97,NIGRO
-Redemption,Drake,Views,333946,True,0,0,1,4,0.625,0.66,0.311,1.29e-06,0.116,-8.681,0.113,0.357,119.237,NIGRO
-With You,"Drake,PARTYNEXTDOOR",Views,195053,True,0,1,1,4,0.152,0.872,0.407,0.000188,0.112,-10.036,0.256,0.802,127.97,NIGRO
-Still Here,Drake,Views,189853,True,0,0,1,3,0.0212,0.834,0.438,0,0.649,-9.577,0.152,0.207,133.958,NIGRO
-Controlla,Drake,Views,245226,True,1,10,0,5,0.0773,0.607,0.476,0,0.113,-11.076,0.249,0.347,122.976,NIGRO
-One Dance,"Drake,WizKid,Kyla",Views,173986,False,3,1,1,4,0.00784,0.791,0.619,0.00423,0.351,-5.886,0.0532,0.371,103.989,NIGRO
-Grammys,"Drake,Future",Views,220426,True,0,1,1,4,0.00175,0.711,0.44,2.73e-06,0.0798,-9.509,0.471,0.121,145.116,NIGRO
-Too Good,"Drake,Rihanna",Views,263373,True,1,7,1,4,0.0573,0.804,0.648,3.49e-05,0.102,-7.805,0.117,0.392,117.983,NIGRO
-Fire & Desire,Drake,Views,238120,True,0,1,0,4,0.0803,0.709,0.259,0,0.0855,-14.341,0.0892,0.265,79.839,NIGRO
-Views,Drake,Views,311960,True,0,5,1,4,0.07,0.446,0.871,0,0.243,-5.837,0.367,0.0795,78.119,NIGRO
-Hotline Bling,Drake,Views,267066,False,1,2,1,4,0.00347,0.903,0.62,0.000119,0.0504,-8.094,0.0587,0.539,134.96,NIGRO
-Low Life (feat. The Weeknd),"Future,The Weeknd",EVOL,313546,True,74,8,1,4,0.337,0.722,0.331,0.283,0.146,-7.789,0.0725,0.102,143.974,NIGRO
-Chill Bill (feat. J. Davi$ & Spooks),"Rob $tone,J. Davi$,Spooks",Chill Bill (feat. J. Davi$ & Spooks),177184,True,77,6,1,4,0.0312,0.886,0.427,0.00099,0.0906,-10.028,0.145,0.23,108.034,NIGRO
-Move Bitch,"Disturbing Tha Peace,Ludacris,Mystikal,I-20",Word Of Mouf,270866,True,0,1,1,4,0.243,0.777,0.764,0,0.103,-5.682,0.14,0.174,177.868,NIGRO
-Really Really,Kevin Gates,Islah (Deluxe),232093,True,70,0,1,4,0.00427,0.762,0.666,0,0.127,-6.055,0.0916,0.278,118.97,NIGRO
-Wicked,Future,EVOL,173346,True,59,11,0,4,0.00191,0.718,0.679,0.0104,0.385,-5.899,0.0706,0.205,157.97,NIGRO
-Do It Like Me,DLOW,I Am DLOW,146000,False,47,10,0,4,0.308,0.883,0.85,0,0.368,-4.053,0.361,0.711,150.138,NIGRO
-Candy Shop,"50 Cent,Olivia",The Massacre (Ecopac Reissue Explicit),208143,True,0,11,1,5,0.0214,0.619,0.578,3.37e-05,0.387,-8.002,0.474,0.731,123.719,NIGRO
-Remember the Name (feat. Styles of Beyond),"Fort Minor,Styles Of Beyond",The Rising Tied (Deluxe Edition),230493,True,56,8,1,4,0.0583,0.688,0.835,2.87e-06,0.0795,-4.162,0.0911,0.88,84.858,NIGRO
-Juju on That Beat (TZ Anthem),"Zay Hilfigerrr,Zayion McCall",Juju on That Beat (TZ Anthem),144244,False,61,1,1,4,0.00381,0.807,0.887,0,0.391,-3.892,0.275,0.78,160.517,NIGRO
-Fake Love,Drake,Fake Love,207813,True,0,9,0,4,0.161,0.923,0.535,0,0.103,-7.353,0.301,0.74,133.942,NIGRO
-Black Beatles,"Rae Sremmurd,Gucci Mane",SremmLife 2 (Deluxe),291893,True,1,0,1,4,0.158,0.794,0.647,0,0.139,-6.232,0.0628,0.345,145.945,NIGRO
-Sneakin’,"Drake,21 Savage",Sneakin’,251333,True,0,8,1,4,0.00496,0.806,0.558,1.45e-06,0.16,-6.538,0.172,0.26,85.011,NIGRO
-Marvins Room,Drake,Take Care (Deluxe),347226,True,74,9,0,5,0.646,0.492,0.26,0.00178,0.0705,-17.341,0.0921,0.312,111.519,NIGRO
-No Type,Rae Sremmurd,SremmLife,200080,True,0,6,1,4,0.0138,0.885,0.479,3.18e-06,0.0925,-7.81,0.149,0.237,125.077,NIGRO
-"Two Birds, One Stone",Drake,"Two Birds, One Stone",238960,True,0,8,1,4,0.337,0.529,0.838,0,0.127,-2.619,0.212,0.355,88.052,NIGRO
-R.I.C.O. (feat. Drake),"Meek Mill,Drake",Dreams Worth More Than Money,197133,True,70,1,1,3,0.317,0.727,0.599,0,0.219,-6.941,0.327,0.386,167.909,NIGRO
-One Night,Lil Yachty,Lil Boat,243269,True,0,0,1,4,0.379,0.767,0.476,0,0.106,-12.676,0.126,0.38,129.962,NIGRO
-Gold Digger,"Kanye West,Jamie Foxx",Late Registration,207626,True,1,1,0,4,0.0192,0.646,0.696,0,0.0762,-5.572,0.342,0.625,92.88,NIGRO
-HeadBand (feat. 2 Chainz),"B.o.B,2 Chainz",Underground Luxury,220240,True,71,1,1,4,0.132,0.919,0.506,0,0.0771,-7.14,0.304,0.273,97.465,NIGRO
-Bad and Boujee (feat. Lil Uzi Vert),"Migos,Lil Uzi Vert",Bad and Boujee (feat. Lil Uzi Vert),334466,True,59,8,0,4,0.0633,0.897,0.661,0,0.116,-6.2,0.27,0.193,127.081,NIGRO
-Deja Vu,J. Cole,4 Your Eyez Only,264746,True,0,9,1,4,0.354,0.663,0.411,0.00016,0.179,-11.457,0.421,0.171,174.002,NIGRO
-I Got the Keys (feat. Jay-Z & Future),"DJ Khaled,JAY-Z,Future",Major Key,219758,True,45,1,1,4,0.00287,0.686,0.623,0.00145,0.219,-3.425,0.13,0.176,140.171,NIGRO
-iSpy (feat. Lil Yachty),"KYLE,Lil Yachty",iSpy (feat. Lil Yachty),253106,True,74,7,1,4,0.378,0.746,0.653,0,0.229,-6.745,0.289,0.672,75.016,NIGRO
-Know Yourself,Drake,If You're Reading This It's Too Late,275840,True,0,11,0,4,0.196,0.733,0.412,0,0.342,-8.687,0.225,0.179,114.413,NIGRO
-Shut Up,Stormzy,WickedSkengMan 4,180923,False,44,4,1,4,0.831,0.462,0.668,0,0.636,-9.658,0.563,0.95,86.993,NIGRO
-Bounce Back,Big Sean,I Decided.,222360,True,73,1,0,4,0.106,0.78,0.575,0,0.129,-5.628,0.139,0.273,81.502,NIGRO
-1996,Shane Moyer,1996,175253,True,31,5,0,4,0.191,0.687,0.776,0,0.0593,-7.558,0.256,0.836,169.81,NIGRO
-T-Shirt,Migos,Culture,242407,True,68,10,0,4,0.242,0.865,0.687,0,0.158,-3.744,0.217,0.486,139.023,NIGRO
-Free Smoke,Drake,More Life,218673,True,0,10,0,4,0.0681,0.736,0.491,0,0.571,-6.892,0.439,0.203,141.979,NIGRO
-Come Home,P.MO,Come Home,170467,True,37,1,0,4,0.539,0.757,0.716,0,0.264,-7.52,0.107,0.192,107.07,NIGRO
-Collard Greens,"ScHoolboy Q,Kendrick Lamar",Oxymoron (Deluxe),299960,True,0,11,1,4,0.0239,0.826,0.571,7.38e-06,0.207,-4.871,0.064,0.666,153.972,NIGRO
-Mirrors,Zovdie,Mirrors,232363,False,10,7,1,4,0.298,0.72,0.464,0,0.121,-11.821,0.0571,0.352,109.963,NIGRO
-Mask Off,Future,FUTURE,204600,True,43,2,1,4,0.0102,0.833,0.434,0.0219,0.165,-8.795,0.431,0.281,150.062,NIGRO
-Passionfruit,Drake,More Life,298940,True,2,11,1,4,0.256,0.809,0.463,0.085,0.109,-11.377,0.0396,0.364,111.98,NIGRO
-HUMBLE.,Kendrick Lamar,DAMN.,177000,True,82,1,0,4,0.000282,0.908,0.621,5.39e-05,0.0958,-6.638,0.102,0.421,150.011,NIGRO
-DNA.,Kendrick Lamar,DAMN.,185946,True,77,1,1,4,0.00454,0.638,0.523,0,0.0842,-6.664,0.357,0.422,139.913,NIGRO
-LOYALTY. FEAT. RIHANNA.,"Kendrick Lamar,Rihanna",DAMN.,227360,True,71,9,0,4,0.0265,0.658,0.535,0,0.2,-8.983,0.0573,0.419,110.684,NIGRO
-ELEMENT.,Kendrick Lamar,DAMN.,208733,True,70,4,0,4,0.204,0.748,0.705,0,0.246,-4.547,0.485,0.483,189.891,NIGRO
-Rolex,Ayo & Teo,Rolex,238586,False,76,1,1,4,0.0837,0.804,0.886,0,0.266,-2.512,0.04,0.789,144.946,NIGRO
-It Was A Good Day,Ice Cube,The Essentials,260306,True,60,5,0,4,0.135,0.78,0.754,0.034,0.0467,-5.377,0.0952,0.81,82.394,NIGRO
-Still D.R.E.,"Dr. Dre,Snoop Dogg",2001 (Explicit Version),268004,True,1,11,1,4,0.175,0.814,0.779,0.000671,0.0605,-3.271,0.235,0.544,93.43,NIGRO
-XO TOUR Llif3,Lil Uzi Vert,XO TOUR Llif3,182706,True,5,11,0,4,0.00264,0.732,0.75,0,0.109,-6.366,0.231,0.401,155.096,NIGRO
-LOVE. FEAT. ZACARI.,"Kendrick Lamar,Zacari",DAMN.,213400,True,78,10,1,4,0.264,0.8,0.585,0,0.153,-7.343,0.0924,0.779,126.058,NIGRO
-Tunnel Vision,Kodak Black,Painting Pictures,268186,True,73,11,0,4,0.0576,0.497,0.489,9.91e-05,0.122,-7.724,0.294,0.231,171.853,NIGRO
-Unforgettable,"French Montana,Swae Lee",Unforgettable,233832,True,4,6,1,4,0.0293,0.726,0.769,0.0101,0.104,-5.043,0.123,0.733,97.985,NIGRO
-The Fresh Prince of Bel-Air,DJ Jazzy Jeff & The Fresh Prince,Greatest Hits,177266,False,63,10,0,4,0.00278,0.824,0.684,1.45e-06,0.0481,-7.354,0.0935,0.87,101.152,NIGRO
-In Your Pussy,Afroman,Waiting to Inhale,439280,False,0,8,1,4,0.144,0.828,0.578,2.37e-06,0.179,-6.725,0.139,0.808,95.022,NIGRO
-Nasty Freestyle,T-Wayne,Nasty Freestyle,142212,True,64,11,1,4,0.0577,0.779,0.472,0,0.114,-7.116,0.218,0.412,135.051,NIGRO
-Gucci Gang,Lil Pump,Lil Pump,124055,True,70,5,1,4,0.239,0.936,0.523,0,0.117,-6.71,0.0597,0.699,119.889,NIGRO
-D Rose,Lil Pump,Lil Pump,135497,True,60,0,1,4,0.201,0.781,0.553,0.000233,0.383,-4.277,0.0735,0.308,121.968,NIGRO
-rockstar,"Post Malone,21 Savage",rockstar,218320,True,4,5,0,4,0.13,0.577,0.522,9.03e-05,0.142,-6.594,0.0984,0.119,159.772,NIGRO
-Man's Not Hot,Big Shaq,Man's Not Hot,186026,False,2,0,1,4,0.11,0.895,0.885,4.04e-05,0.106,-4.182,0.268,0.633,134.973,NIGRO
-Kill Jill,"Big Boi,Killer Mike,Jeezy",Kill Jill,266856,True,0,7,0,4,0.205,0.771,0.527,0,0.0978,-6.798,0.232,0.113,139.934,NIGRO
-You Was Right,Lil Uzi Vert,Lil Uzi Vert vs. The World,163944,True,70,0,1,4,0.069,0.843,0.359,0,0.12,-7.417,0.461,0.156,81.987,NIGRO
-Panda,Desiigner,New English,246761,True,0,10,0,4,0.028,0.576,0.766,1.68e-06,0.366,-4.943,0.449,0.236,144.833,NIGRO
-I Fall Apart,Post Malone,Stoney (Deluxe),223346,True,82,8,0,4,0.0689,0.556,0.538,0,0.196,-5.408,0.0382,0.291,143.95,NIGRO
-Bartier Cardi (feat. 21 Savage),"Cardi B,21 Savage",Bartier Cardi (feat. 21 Savage),224613,True,57,8,1,4,0.000704,0.909,0.546,0.000823,0.36,-7.513,0.175,0.0986,138.043,NIGRO
-No Limit,"G-Eazy,A$AP Rocky,Cardi B",The Beautiful & Damned,245386,True,74,1,1,4,0.0117,0.838,0.771,0,0.0853,-3.791,0.244,0.405,175.957,NIGRO
-Ric Flair Drip (& Metro Boomin),"Offset,Metro Boomin",Without Warning,172800,True,81,9,1,4,0.149,0.88,0.428,5.07e-05,0.114,-8.28,0.206,0.333,100.007,NIGRO
-God's Plan,Drake,Scary Hours,198960,True,4,7,1,4,0.0309,0.758,0.448,8.67e-05,0.558,-9.441,0.103,0.373,77.176,NIGRO
-Stir Fry,Migos,Culture II,190288,True,72,2,1,4,0.00263,0.817,0.816,0,0.159,-5.402,0.269,0.508,181.982,NIGRO
-Narcos,Migos,Culture II,255378,True,70,0,1,4,0.0142,0.936,0.585,0,0.132,-6.914,0.125,0.242,124.991,NIGRO
-i Shyne,"Carnage,Lil Pump",i Shyne,153350,True,37,8,1,4,0.175,0.776,0.732,0,0.364,-3.719,0.081,0.383,144.076,NIGRO
-All The Stars (with SZA),"Kendrick Lamar,SZA",Black Panther The Album Music From And Inspired By,232186,True,13,5,0,4,0.0548,0.532,0.642,0.000246,0.0991,-4.891,0.111,0.536,193.016,NIGRO
-Crank That (Soulja Boy),Soulja Boy,souljaboytellem.com,221933,False,0,0,1,4,0.526,0.732,0.731,0,0.0496,-2.171,0.0924,0.799,140.211,NIGRO
-Psycho (feat. Ty Dolla $ign),"Post Malone,Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),220880,True,1,8,1,4,0.566,0.74,0.558,0,0.112,-8.115,0.102,0.421,140.057,NIGRO
-Look Alive (feat. Drake),"BlocBoy JB,Drake",Look Alive (feat. Drake),181263,True,76,10,1,4,0.00104,0.922,0.581,5.86e-05,0.105,-7.495,0.27,0.595,140.022,NIGRO
-Esskeetit,Lil Pump,Esskeetit,181714,True,62,11,1,4,0.0229,0.934,0.505,0,0.0867,-7.648,0.168,0.691,139.93,NIGRO
-Everybody Dies In Their Nightmares,XXXTENTACION,17,95466,True,85,7,0,4,0.847,0.734,0.57,2.14e-05,0.112,-7.066,0.133,0.689,129.953,NIGRO
-SAD!,XXXTENTACION,?,166605,True,86,8,1,4,0.258,0.74,0.613,0.00372,0.123,-4.88,0.145,0.473,75.023,NIGRO
-Moonlight,XXXTENTACION,?,135090,True,85,9,0,4,0.556,0.921,0.537,0.00404,0.102,-5.723,0.0804,0.711,128.009,NIGRO
-Jocelyn Flores,XXXTENTACION,17,119133,True,87,0,0,4,0.469,0.872,0.391,4.13e-06,0.297,-9.144,0.242,0.437,134.021,NIGRO
-Look At Me!,XXXTENTACION,Look At Me!,126345,True,82,1,1,4,0.259,0.763,0.726,0,0.0976,-6.405,0.282,0.349,139.059,NIGRO
-Big Lie,Post Malone,Stoney (Deluxe),207680,True,68,6,0,4,0.191,0.442,0.684,0,0.0725,-4.888,0.168,0.218,170.861,NIGRO
-I Love It (& Lil Pump),"Kanye West,Lil Pump",I Love It,127946,True,74,2,1,4,0.0114,0.901,0.522,0,0.259,-8.304,0.33,0.329,104.053,NIGRO
-In My Feelings,Drake,Scorpion,217925,True,78,1,1,4,0.0589,0.835,0.626,6e-05,0.396,-5.833,0.125,0.35,91.03,NIGRO
-infinity (888) - feat. Joey Bada$$,"XXXTENTACION,Joey Bada$$",?,176590,True,70,10,0,4,0.274,0.562,0.579,0,0.102,-6.788,0.484,0.577,84.143,NIGRO
-Mo Bamba,Sheck Wes,Mo Bamba,180897,True,2,6,0,4,0.268,0.738,0.629,0.00114,0.163,-4.882,0.0495,0.319,146.067,NIGRO
-"Because I Got High - From ""Jay And Silent Bob Strike Back"" Soundtrack",Afroman,"No Seeds, No Stems, Just Hits",199013,True,0,,,,,,,,,,,,,NIGRO
-Money,Cardi B,Money,183527,True,77,,,,,,,,,,,,,NIGRO
-SICKO MODE,Travis Scott,ASTROWORLD,312820,True,87,,,,,,,,,,,,,NIGRO
-What They Want,Russ,What They Want,165853,True,55,,,,,,,,,,,,,NIGRO
-Wow.,Post Malone,Wow.,149520,True,22,,,,,,,,,,,,,NIGRO
-10 Freaky Girls (with 21 Savage),"Metro Boomin,21 Savage",NOT ALL HEROES WEAR CAPES,208293,True,0,,,,,,,,,,,,,NIGRO
-Bel Air (feat. Quavo),"Tyga,Quavo",Bitch I'm the Shit 2,268749,True,37,,,,,,,,,,,,,NIGRO
-Crazy Rap (Colt 45 & 2 Zig Zags),Afroman,The Good Times,328666,True,71,,,,,,,,,,,,,NIGRO
-Nonstop,Drake,Scorpion,238613,True,1,,,,,,,,,,,,,NIGRO
-Taste (feat. Offset),"Tyga,Offset",Taste (feat. Offset),232959,True,78,,,,,,,,,,,,,NIGRO
-Going Bad (feat. Drake),"Meek Mill,Drake",Championships,180522,True,81,,,,,,,,,,,,,NIGRO
-Sundress,A$AP Rocky,Sundress,158205,True,76,,,,,,,,,,,,,NIGRO
-She Loves Cocaine,"Moritz,Ramseys",She Loves Cocaine,235200,True,28,,,,,,,,,,,,,NIGRO
-Suga Suga,"Baby Bash,Frankie J",Tha Smokin' Nephew,239026,False,73,,,,,,,,,,,,,NIGRO
-Old Town Road,Lil Nas X,Old Town Road,113005,True,0,,,,,,,,,,,,,NIGRO
-Swervin (feat. 6ix9ine),"A Boogie Wit da Hoodie,6ix9ine",Hoodie SZN,189486,True,80,,,,,,,,,,,,,NIGRO
-Runaway,"Kanye West,Pusha T",My Beautiful Dark Twisted Fantasy,547733,True,73,,,,,,,,,,,,,NIGRO
-Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X,Billy Ray Cyrus",Old Town Road,157066,False,13,,,,,,,,,,,,,NIGRO
-Thotiana,Blueface,Famous Cryp,129264,True,42,,,,,,,,,,,,,NIGRO
-All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,165819,True,0,,,,,,,,,,,,,NIGRO
-goosebumps,Travis Scott,Birds In The Trap Sing McKnight,243836,True,88,,,,,,,,,,,,,NIGRO
-Dip (feat. Nicki Minaj),"Tyga,Nicki Minaj",Dip (feat. Nicki Minaj),195991,True,65,,,,,,,,,,,,,NIGRO
-Go Loko,"YG,Tyga,Jon Z",Go Loko,299226,True,9,,,,,,,,,,,,,NIGRO
-Lalala,"Y2K,bbno$",Lalala,160626,True,81,,,,,,,,,,,,,NIGRO
-BUTTERFLY EFFECT,Travis Scott,ASTROWORLD,190557,False,81,,,,,,,,,,,,,NIGRO
-Wow.,Post Malone,Hollywood's Bleeding,149546,True,83,,,,,,,,,,,,,NIGRO
-Ransom,Lil Tecca,We Love You Tecca,131240,True,2,,,,,,,,,,,,,NIGRO
-iSpy (feat. Lil Yachty),"KYLE,Lil Yachty",iSpy (feat. Lil Yachty),253106,True,74,,,,,,,,,,,,,NIGRO
-Truth Hurts,Lizzo,Cuz I Love You (Deluxe),173325,True,71,,,,,,,,,,,,,NIGRO
-HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,175720,True,88,,,,,,,,,,,,,NIGRO
-Goodbyes (Feat. Young Thug),"Post Malone,Young Thug",Goodbyes (Feat. Young Thug),174960,True,14,,,,,,,,,,,,,NIGRO
-Act My Age,Hoodie Allen,People Keep Talking,192139,True,41,,,,,,,,,,,,,NIGRO
-Stuck In A Dream (feat. Gunna),"Lil Mosey,Gunna",Certified Hitmaker,123560,True,78,,,,,,,,,,,,,NIGRO
-Camelot,NLE Choppa,Camelot,148759,True,74,,,,,,,,,,,,,NIGRO
-bury a friend,Billie Eilish,bury a friend,193143,False,2,,,,,,,,,,,,,NIGRO
-Behind Barz - Bonus,Drake,Top Boy (A Selection of Music Inspired by the Series),163120,True,66,,,,,,,,,,,,,NIGRO
-A Sinner's Story,ShooterGang Kony,A Sinner's Story,193175,True,33,,,,,,,,,,,,,NIGRO
-Life Is Good (feat. Drake),"Future,Drake",Life Is Good (feat. Drake),237735,True,85,,,,,,,,,,,,,NIGRO
-The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,196652,True,88,,,,,,,,,,,,,NIGRO
-ROXANNE,Arizona Zervas,ROXANNE,163636,True,86,,,,,,,,,,,,,NIGRO
-"Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg,Wiz Khalifa,Bruno Mars","Young, Wild & Free (feat. Bruno Mars)",207333,True,77,,,,,,,,,,,,,NIGRO
-Hit Dem Folks (feat. Young Shank & Preme Dibiasi),"Shuicide Holla,Young Shank,Preme Dibiasi",Hit Dem Folks (feat. Young Shank & Preme Dibiasi),278361,True,24,,,,,,,,,,,,,NIGRO
-Chainsaw (feat. Tedashii),Family Force 5,Chainsaw (feat. Tedashii),202686,False,49,,,,,,,,,,,,,NIGRO
-Ultimate,Denzel Curry,32 Zel / Planet Shrooms,189974,True,0,,,,,,,,,,,,,NIGRO
-We Want Some P--sy,2 LIVE CREW,2 Live Is What We Are,169000,True,0,,,,,,,,,,,,,NIGRO
-Now and Later,Sage The Gemini,Now and Later,193181,False,58,,,,,,,,,,,,,NIGRO
-London Bridge,Fergie,The Dutchess Deluxe,241306,True,0,,,,,,,,,,,,,NIGRO
-THE SCOTTS,"THE SCOTTS,Travis Scott,Kid Cudi",THE SCOTTS,165977,True,84,,,,,,,,,,,,,NIGRO
-Teenage Fever,Drake,More Life,219692,True,0,,,,,,,,,,,,,NIGRO
-How To Love,Lil Wayne,Tha Carter IV (Deluxe),240306,False,61,,,,,,,,,,,,,NIGRO
-Candy Paint,Post Malone,Candy Paint,229573,True,0,,,,,,,,,,,,,NIGRO
-Pain 1993 (with Playboi Carti),"Drake,Playboi Carti",Dark Lane Demo Tapes,149077,True,72,,,,,,,,,,,,,NIGRO
-Toosie Slide,Drake,Dark Lane Demo Tapes,247058,True,79,,,,,,,,,,,,,NIGRO
-ROCKSTAR (feat. Roddy Ricch),"DaBaby,Roddy Ricch",BLAME IT ON BABY,181733,True,93,,,,,,,,,,,,,NIGRO
-Because I Got High,Afroman,The Good Times,197760,True,67,,,,,,,,,,,,,NIGRO
-Pure Water (with Migos),"Mustard,Migos",Perfect Ten,192470,True,78,,,,,,,,,,,,,NIGRO
+Jumpman,"Drake,Future",What A Time To Be Alive,205879,True,0,1,1,4,0.0462,0.853,0.558,0,0.341,-7.448,0.202,0.654,142.079,Nigro
+2 Phones,Kevin Gates,Islah (Deluxe),240000,True,68,7,0,4,0.157,0.895,0.681,0,0.189,-5.267,0.358,0.554,121.918,Nigro
+Black and Yellow,Wiz Khalifa,Rolling Papers,217666,True,75,2,0,4,0.0646,0.684,0.834,0,0.271,-4.524,0.0675,0.538,164.02,Nigro
+Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),363521,True,1,7,1,4,0.403,0.712,0.838,0,0.809,-2.679,0.313,0.607,148.138,Nigro
+Alphabet Aerobics,"Blackalicious,Lateef The Truthspeaker,Cut Chemist",A2G EP,133800,False,53,10,0,4,0.0196,0.65,0.515,0,0.0974,-8.722,0.198,0.885,97.052,Nigro
+$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),"Lil Dicky,Fetty Wap,Rich Homie Quan",Professional Rapper,290835,True,39,2,1,4,0.114,0.858,0.697,0,0.224,-5.361,0.23,0.364,98.012,Nigro
+Broccoli,"Shelley FKA DRAM,Lil Yachty",Broccoli,225205,True,66,8,1,4,0.236,0.886,0.525,0,0.057,-7.39,0.132,0.708,145.99,Nigro
+Money Longer,Lil Uzi Vert,Lil Uzi Vert vs. The World,198944,True,74,5,0,4,0.0541,0.795,0.568,0,0.108,-7.817,0.142,0.478,136.173,Nigro
+Keep The Family Close,Drake,Views,328906,True,0,9,0,3,0.132,0.373,0.56,0,0.381,-7.615,0.0448,0.187,98.858,Nigro
+9,Drake,Views,255786,True,0,2,1,4,0.00113,0.703,0.699,0.000779,0.246,-7.322,0.044,0.0393,99.991,Nigro
+U With Me?,Drake,Views,297373,True,0,2,1,4,0.376,0.442,0.421,7.23e-06,0.139,-11.455,0.137,0.111,87.694,Nigro
+Hype,Drake,Views,209413,True,0,7,1,4,0.0259,0.785,0.633,0,0.368,-8.223,0.169,0.244,129.97,Nigro
+Redemption,Drake,Views,333946,True,0,0,1,4,0.625,0.66,0.311,1.29e-06,0.116,-8.681,0.113,0.357,119.237,Nigro
+With You,"Drake,PARTYNEXTDOOR",Views,195053,True,0,1,1,4,0.152,0.872,0.407,0.000188,0.112,-10.036,0.256,0.802,127.97,Nigro
+Still Here,Drake,Views,189853,True,0,0,1,3,0.0212,0.834,0.438,0,0.649,-9.577,0.152,0.207,133.958,Nigro
+Controlla,Drake,Views,245226,True,0,10,0,5,0.0773,0.607,0.476,0,0.113,-11.076,0.249,0.347,122.976,Nigro
+One Dance,"Drake,WizKid,Kyla",Views,173986,False,3,1,1,4,0.00784,0.791,0.619,0.00423,0.351,-5.886,0.0532,0.371,103.989,Nigro
+Grammys,"Drake,Future",Views,220426,True,0,1,1,4,0.00175,0.711,0.44,2.73e-06,0.0798,-9.509,0.471,0.121,145.116,Nigro
+Too Good,"Drake,Rihanna",Views,263373,True,1,7,1,4,0.0573,0.804,0.648,3.49e-05,0.102,-7.805,0.117,0.392,117.983,Nigro
+Fire & Desire,Drake,Views,238120,True,0,1,0,4,0.0803,0.709,0.259,0,0.0855,-14.341,0.0892,0.265,79.839,Nigro
+Views,Drake,Views,311960,True,0,5,1,4,0.07,0.446,0.871,0,0.243,-5.837,0.367,0.0795,78.119,Nigro
+Hotline Bling,Drake,Views,267066,False,0,2,1,4,0.00347,0.903,0.62,0.000119,0.0504,-8.094,0.0587,0.539,134.96,Nigro
+Low Life (feat. The Weeknd),"Future,The Weeknd",EVOL,313546,True,74,8,1,4,0.337,0.722,0.331,0.283,0.146,-7.789,0.0725,0.102,143.974,Nigro
+Chill Bill (feat. J. Davi$ & Spooks),"Rob $tone,J. Davi$,Spooks",Chill Bill (feat. J. Davi$ & Spooks),177184,True,77,6,1,4,0.0312,0.886,0.427,0.00099,0.0906,-10.028,0.145,0.23,108.034,Nigro
+Move Bitch,"Disturbing Tha Peace,Ludacris,Mystikal,I-20",Word Of Mouf,270866,True,0,1,1,4,0.243,0.777,0.764,0,0.103,-5.682,0.14,0.174,177.868,Nigro
+Really Really,Kevin Gates,Islah (Deluxe),232093,True,69,0,1,4,0.00427,0.762,0.666,0,0.127,-6.055,0.0916,0.278,118.97,Nigro
+Wicked,Future,EVOL,173346,True,59,11,0,4,0.00191,0.718,0.679,0.0104,0.385,-5.899,0.0706,0.205,157.97,Nigro
+Do It Like Me,DLOW,I Am DLOW,146000,False,47,10,0,4,0.308,0.883,0.85,0,0.368,-4.053,0.361,0.711,150.138,Nigro
+Candy Shop,"50 Cent,Olivia",The Massacre (Ecopac Reissue Explicit),208143,True,0,11,1,5,0.0214,0.619,0.578,3.37e-05,0.387,-8.002,0.474,0.731,123.719,Nigro
+Remember the Name (feat. Styles of Beyond),"Fort Minor,Styles Of Beyond",The Rising Tied (Deluxe Edition),230493,True,56,8,1,4,0.0583,0.688,0.835,2.87e-06,0.0795,-4.162,0.0911,0.88,84.858,Nigro
+Juju on That Beat (TZ Anthem),"Zay Hilfigerrr,Zayion McCall",Juju on That Beat (TZ Anthem),144244,False,61,1,1,4,0.00381,0.807,0.887,0,0.391,-3.892,0.275,0.78,160.517,Nigro
+Fake Love,Drake,Fake Love,207813,True,0,9,0,4,0.161,0.923,0.535,0,0.103,-7.353,0.301,0.74,133.942,Nigro
+Black Beatles,"Rae Sremmurd,Gucci Mane",SremmLife 2 (Deluxe),291893,True,1,0,1,4,0.158,0.794,0.647,0,0.139,-6.232,0.0628,0.345,145.945,Nigro
+Sneakin’,"Drake,21 Savage",Sneakin’,251333,True,0,8,1,4,0.00496,0.806,0.558,1.45e-06,0.16,-6.538,0.172,0.26,85.011,Nigro
+Marvins Room,Drake,Take Care (Deluxe),347226,True,74,9,0,5,0.646,0.492,0.26,0.00178,0.0705,-17.341,0.0921,0.312,111.519,Nigro
+No Type,Rae Sremmurd,SremmLife,200080,True,0,6,1,4,0.0138,0.885,0.479,3.18e-06,0.0925,-7.81,0.149,0.237,125.077,Nigro
+"Two Birds, One Stone",Drake,"Two Birds, One Stone",238960,True,0,8,1,4,0.337,0.529,0.838,0,0.127,-2.619,0.212,0.355,88.052,Nigro
+R.I.C.O. (feat. Drake),"Meek Mill,Drake",Dreams Worth More Than Money,197133,True,70,1,1,3,0.317,0.727,0.599,0,0.219,-6.941,0.327,0.386,167.909,Nigro
+One Night,Lil Yachty,Lil Boat,243269,True,0,0,1,4,0.379,0.767,0.476,0,0.106,-12.676,0.126,0.38,129.962,Nigro
+Gold Digger,"Kanye West,Jamie Foxx",Late Registration,207626,True,1,1,0,4,0.0192,0.646,0.696,0,0.0762,-5.572,0.342,0.625,92.88,Nigro
+HeadBand (feat. 2 Chainz),"B.o.B,2 Chainz",Underground Luxury,220240,True,70,1,1,4,0.132,0.919,0.506,0,0.0771,-7.14,0.304,0.273,97.465,Nigro
+Bad and Boujee (feat. Lil Uzi Vert),"Migos,Lil Uzi Vert",Bad and Boujee (feat. Lil Uzi Vert),334466,True,59,8,0,4,0.0633,0.897,0.661,0,0.116,-6.2,0.27,0.193,127.081,Nigro
+Deja Vu,J. Cole,4 Your Eyez Only,264746,True,0,9,1,4,0.354,0.663,0.411,0.00016,0.179,-11.457,0.421,0.171,174.002,Nigro
+I Got the Keys (feat. Jay-Z & Future),"DJ Khaled,JAY-Z,Future",Major Key,219758,True,45,1,1,4,0.00287,0.686,0.623,0.00145,0.219,-3.425,0.13,0.176,140.171,Nigro
+iSpy (feat. Lil Yachty),"KYLE,Lil Yachty",iSpy (feat. Lil Yachty),253106,True,73,7,1,4,0.378,0.746,0.653,0,0.229,-6.745,0.289,0.672,75.016,Nigro
+Know Yourself,Drake,If You're Reading This It's Too Late,275840,True,0,11,0,4,0.196,0.733,0.412,0,0.342,-8.687,0.225,0.179,114.413,Nigro
+Shut Up,Stormzy,WickedSkengMan 4,180923,False,44,4,1,4,0.831,0.462,0.668,0,0.636,-9.658,0.563,0.95,86.993,Nigro
+Bounce Back,Big Sean,I Decided.,222360,True,73,1,0,4,0.106,0.78,0.575,0,0.129,-5.628,0.139,0.273,81.502,Nigro
+1996,Shane Moyer,1996,175253,True,31,5,0,4,0.191,0.687,0.776,0,0.0593,-7.558,0.256,0.836,169.81,Nigro
+T-Shirt,Migos,Culture,242407,True,68,10,0,4,0.242,0.865,0.687,0,0.158,-3.744,0.217,0.486,139.023,Nigro
+Free Smoke,Drake,More Life,218673,True,0,10,0,4,0.0681,0.736,0.491,0,0.571,-6.892,0.439,0.203,141.979,Nigro
+Come Home,P.MO,Come Home,170467,True,36,1,0,4,0.539,0.757,0.716,0,0.264,-7.52,0.107,0.192,107.07,Nigro
+Collard Greens,"ScHoolboy Q,Kendrick Lamar",Oxymoron (Deluxe),299960,True,0,11,1,4,0.0239,0.826,0.571,7.38e-06,0.207,-4.871,0.064,0.666,153.972,Nigro
+Mirrors,Zovdie,Mirrors,232363,False,10,7,1,4,0.298,0.72,0.464,0,0.121,-11.821,0.0571,0.352,109.963,Nigro
+Mask Off,Future,FUTURE,204600,True,43,2,1,4,0.0102,0.833,0.434,0.0219,0.165,-8.795,0.431,0.281,150.062,Nigro
+Passionfruit,Drake,More Life,298940,True,2,11,1,4,0.256,0.809,0.463,0.085,0.109,-11.377,0.0396,0.364,111.98,Nigro
+HUMBLE.,Kendrick Lamar,DAMN.,177000,True,82,1,0,4,0.000282,0.908,0.621,5.39e-05,0.0958,-6.638,0.102,0.421,150.011,Nigro
+DNA.,Kendrick Lamar,DAMN.,185946,True,77,1,1,4,0.00454,0.638,0.523,0,0.0842,-6.664,0.357,0.422,139.913,Nigro
+LOYALTY. FEAT. RIHANNA.,"Kendrick Lamar,Rihanna",DAMN.,227360,True,71,9,0,4,0.0265,0.658,0.535,0,0.2,-8.983,0.0573,0.419,110.684,Nigro
+ELEMENT.,Kendrick Lamar,DAMN.,208733,True,70,4,0,4,0.204,0.748,0.705,0,0.246,-4.547,0.485,0.483,189.891,Nigro
+Rolex,Ayo & Teo,Rolex,238586,False,76,1,1,4,0.0837,0.804,0.886,0,0.266,-2.512,0.04,0.789,144.946,Nigro
+It Was A Good Day,Ice Cube,The Essentials,260306,True,60,5,0,4,0.135,0.78,0.754,0.034,0.0467,-5.377,0.0952,0.81,82.394,Nigro
+Still D.R.E.,"Dr. Dre,Snoop Dogg",2001 (Explicit Version),268004,True,1,11,1,4,0.175,0.814,0.779,0.000671,0.0605,-3.271,0.235,0.544,93.43,Nigro
+XO TOUR Llif3,Lil Uzi Vert,XO TOUR Llif3,182706,True,4,11,0,4,0.00264,0.732,0.75,0,0.109,-6.366,0.231,0.401,155.096,Nigro
+LOVE. FEAT. ZACARI.,"Kendrick Lamar,Zacari",DAMN.,213400,True,78,10,1,4,0.264,0.8,0.585,0,0.153,-7.343,0.0924,0.779,126.058,Nigro
+Tunnel Vision,Kodak Black,Painting Pictures,268186,True,73,11,0,4,0.0576,0.497,0.489,9.91e-05,0.122,-7.724,0.294,0.231,171.853,Nigro
+Unforgettable,"French Montana,Swae Lee",Unforgettable,233832,True,4,6,1,4,0.0293,0.726,0.769,0.0101,0.104,-5.043,0.123,0.733,97.985,Nigro
+The Fresh Prince of Bel-Air,DJ Jazzy Jeff & The Fresh Prince,Greatest Hits,177266,False,63,10,0,4,0.00278,0.824,0.684,1.45e-06,0.0481,-7.354,0.0935,0.87,101.152,Nigro
+In Your Pussy,Afroman,Waiting to Inhale,439280,False,0,8,1,4,0.144,0.828,0.578,2.37e-06,0.179,-6.725,0.139,0.808,95.022,Nigro
+Nasty Freestyle,T-Wayne,Nasty Freestyle,142212,True,64,11,1,4,0.0577,0.779,0.472,0,0.114,-7.116,0.218,0.412,135.051,Nigro
+Gucci Gang,Lil Pump,Lil Pump,124055,True,70,5,1,4,0.239,0.936,0.523,0,0.117,-6.71,0.0597,0.699,119.889,Nigro
+D Rose,Lil Pump,Lil Pump,135497,True,60,0,1,4,0.201,0.781,0.553,0.000233,0.383,-4.277,0.0735,0.308,121.968,Nigro
+rockstar,"Post Malone,21 Savage",rockstar,218320,True,3,5,0,4,0.13,0.577,0.522,9.03e-05,0.142,-6.594,0.0984,0.119,159.772,Nigro
+Man's Not Hot,Big Shaq,Man's Not Hot,186026,False,1,0,1,4,0.11,0.895,0.885,4.04e-05,0.106,-4.182,0.268,0.633,134.973,Nigro
+Kill Jill,"Big Boi,Killer Mike,Jeezy",Kill Jill,266856,True,0,7,0,4,0.205,0.771,0.527,0,0.0978,-6.798,0.232,0.113,139.934,Nigro
+You Was Right,Lil Uzi Vert,Lil Uzi Vert vs. The World,163944,True,70,0,1,4,0.069,0.843,0.359,0,0.12,-7.417,0.461,0.156,81.987,Nigro
+Panda,Desiigner,New English,246761,True,0,10,0,4,0.028,0.576,0.766,1.68e-06,0.366,-4.943,0.449,0.236,144.833,Nigro
+I Fall Apart,Post Malone,Stoney (Deluxe),223346,True,82,8,0,4,0.0689,0.556,0.538,0,0.196,-5.408,0.0382,0.291,143.95,Nigro
+Bartier Cardi (feat. 21 Savage),"Cardi B,21 Savage",Bartier Cardi (feat. 21 Savage),224613,True,57,8,1,4,0.000704,0.909,0.546,0.000823,0.36,-7.513,0.175,0.0986,138.043,Nigro
+No Limit,"G-Eazy,A$AP Rocky,Cardi B",The Beautiful & Damned,245386,True,74,1,1,4,0.0117,0.838,0.771,0,0.0853,-3.791,0.244,0.405,175.957,Nigro
+Ric Flair Drip (& Metro Boomin),"Offset,Metro Boomin",Without Warning,172800,True,81,9,1,4,0.149,0.88,0.428,5.07e-05,0.114,-8.28,0.206,0.333,100.007,Nigro
+God's Plan,Drake,Scary Hours,198960,True,4,7,1,4,0.0309,0.758,0.448,8.67e-05,0.558,-9.441,0.103,0.373,77.176,Nigro
+Stir Fry,Migos,Culture II,190288,True,71,2,1,4,0.00263,0.817,0.816,0,0.159,-5.402,0.269,0.508,181.982,Nigro
+Narcos,Migos,Culture II,255378,True,70,0,1,4,0.0142,0.936,0.585,0,0.132,-6.914,0.125,0.242,124.991,Nigro
+i Shyne,"Carnage,Lil Pump",i Shyne,153350,True,36,8,1,4,0.175,0.776,0.732,0,0.364,-3.719,0.081,0.383,144.076,Nigro
+All The Stars (with SZA),"Kendrick Lamar,SZA",Black Panther The Album Music From And Inspired By,232186,True,13,5,0,4,0.0548,0.532,0.642,0.000246,0.0991,-4.891,0.111,0.536,193.016,Nigro
+Crank That (Soulja Boy),Soulja Boy,souljaboytellem.com,221933,False,0,0,1,4,0.526,0.732,0.731,0,0.0496,-2.171,0.0924,0.799,140.211,Nigro
+Psycho (feat. Ty Dolla $ign),"Post Malone,Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),220880,True,1,8,1,4,0.566,0.74,0.558,0,0.112,-8.115,0.102,0.421,140.057,Nigro
+Look Alive (feat. Drake),"BlocBoy JB,Drake",Look Alive (feat. Drake),181263,True,76,10,1,4,0.00104,0.922,0.581,5.86e-05,0.105,-7.495,0.27,0.595,140.022,Nigro
+Esskeetit,Lil Pump,Esskeetit,181714,True,62,11,1,4,0.0229,0.934,0.505,0,0.0867,-7.648,0.168,0.691,139.93,Nigro
+Everybody Dies In Their Nightmares,XXXTENTACION,17,95466,True,85,7,0,4,0.847,0.734,0.57,2.14e-05,0.112,-7.066,0.133,0.689,129.953,Nigro
+SAD!,XXXTENTACION,?,166605,True,86,8,1,4,0.258,0.74,0.613,0.00372,0.123,-4.88,0.145,0.473,75.023,Nigro
+Moonlight,XXXTENTACION,?,135090,True,85,9,0,4,0.556,0.921,0.537,0.00404,0.102,-5.723,0.0804,0.711,128.009,Nigro
+Jocelyn Flores,XXXTENTACION,17,119133,True,87,0,0,4,0.469,0.872,0.391,4.13e-06,0.297,-9.144,0.242,0.437,134.021,Nigro
+Look At Me!,XXXTENTACION,Look At Me!,126345,True,82,1,1,4,0.259,0.763,0.726,0,0.0976,-6.405,0.282,0.349,139.059,Nigro
+Big Lie,Post Malone,Stoney (Deluxe),207680,True,68,6,0,4,0.191,0.442,0.684,0,0.0725,-4.888,0.168,0.218,170.861,Nigro
+I Love It (& Lil Pump),"Kanye West,Lil Pump",I Love It,127946,True,74,2,1,4,0.0114,0.901,0.522,0,0.259,-8.304,0.33,0.329,104.053,Nigro
+In My Feelings,Drake,Scorpion,217925,True,78,1,1,4,0.0589,0.835,0.626,6e-05,0.396,-5.833,0.125,0.35,91.03,Nigro
+infinity (888) - feat. Joey Bada$$,"XXXTENTACION,Joey Bada$$",?,176590,True,70,10,0,4,0.274,0.562,0.579,0,0.102,-6.788,0.484,0.577,84.143,Nigro
+Mo Bamba,Sheck Wes,Mo Bamba,180897,True,2,6,0,4,0.268,0.738,0.629,0.00114,0.163,-4.882,0.0495,0.319,146.067,Nigro
+"Because I Got High - From ""Jay And Silent Bob Strike Back"" Soundtrack",Afroman,"No Seeds, No Stems, Just Hits",199013,True,0,,,,,,,,,,,,,Nigro
+Money,Cardi B,Money,183527,True,77,,,,,,,,,,,,,Nigro
+SICKO MODE,Travis Scott,ASTROWORLD,312820,True,87,,,,,,,,,,,,,Nigro
+What They Want,Russ,What They Want,165853,True,55,,,,,,,,,,,,,Nigro
+Wow.,Post Malone,Wow.,149520,True,21,,,,,,,,,,,,,Nigro
+10 Freaky Girls (with 21 Savage),"Metro Boomin,21 Savage",NOT ALL HEROES WEAR CAPES,208293,True,0,,,,,,,,,,,,,Nigro
+Bel Air (feat. Quavo),"Tyga,Quavo",Bitch I'm the Shit 2,268749,True,36,,,,,,,,,,,,,Nigro
+Crazy Rap (Colt 45 & 2 Zig Zags),Afroman,The Good Times,328666,True,71,,,,,,,,,,,,,Nigro
+Nonstop,Drake,Scorpion,238613,True,1,,,,,,,,,,,,,Nigro
+Taste (feat. Offset),"Tyga,Offset",Taste (feat. Offset),232959,True,78,,,,,,,,,,,,,Nigro
+Going Bad (feat. Drake),"Meek Mill,Drake",Championships,180522,True,81,,,,,,,,,,,,,Nigro
+Sundress,A$AP Rocky,Sundress,158205,True,76,,,,,,,,,,,,,Nigro
+She Loves Cocaine,"Moritz,Ramseys",She Loves Cocaine,235200,True,28,,,,,,,,,,,,,Nigro
+Suga Suga,"Baby Bash,Frankie J",Tha Smokin' Nephew,239026,False,73,,,,,,,,,,,,,Nigro
+Old Town Road,Lil Nas X,Old Town Road,113005,True,0,,,,,,,,,,,,,Nigro
+Swervin (feat. 6ix9ine),"A Boogie Wit da Hoodie,6ix9ine",Hoodie SZN,189486,True,80,,,,,,,,,,,,,Nigro
+Runaway,"Kanye West,Pusha T",My Beautiful Dark Twisted Fantasy,547733,True,73,,,,,,,,,,,,,Nigro
+Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X,Billy Ray Cyrus",Old Town Road,157066,False,13,,,,,,,,,,,,,Nigro
+Thotiana,Blueface,Famous Cryp,129264,True,41,,,,,,,,,,,,,Nigro
+All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,165819,True,0,,,,,,,,,,,,,Nigro
+goosebumps,Travis Scott,Birds In The Trap Sing McKnight,243836,True,88,,,,,,,,,,,,,Nigro
+Dip (feat. Nicki Minaj),"Tyga,Nicki Minaj",Dip (feat. Nicki Minaj),195991,True,65,,,,,,,,,,,,,Nigro
+Go Loko,"YG,Tyga,Jon Z",Go Loko,299226,True,8,,,,,,,,,,,,,Nigro
+Lalala,"Y2K,bbno$",Lalala,160626,True,81,,,,,,,,,,,,,Nigro
+BUTTERFLY EFFECT,Travis Scott,ASTROWORLD,190557,False,81,,,,,,,,,,,,,Nigro
+Wow.,Post Malone,Hollywood's Bleeding,149546,True,83,,,,,,,,,,,,,Nigro
+Ransom,Lil Tecca,We Love You Tecca,131240,True,2,,,,,,,,,,,,,Nigro
+iSpy (feat. Lil Yachty),"KYLE,Lil Yachty",iSpy (feat. Lil Yachty),253106,True,73,,,,,,,,,,,,,Nigro
+Truth Hurts,Lizzo,Cuz I Love You (Deluxe),173325,True,70,,,,,,,,,,,,,Nigro
+HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,175720,True,88,,,,,,,,,,,,,Nigro
+Goodbyes (Feat. Young Thug),"Post Malone,Young Thug",Goodbyes (Feat. Young Thug),174960,True,14,,,,,,,,,,,,,Nigro
+Act My Age,Hoodie Allen,People Keep Talking,192139,True,41,,,,,,,,,,,,,Nigro
+Stuck In A Dream (feat. Gunna),"Lil Mosey,Gunna",Certified Hitmaker,123560,True,78,,,,,,,,,,,,,Nigro
+Camelot,NLE Choppa,Camelot,148759,True,74,,,,,,,,,,,,,Nigro
+bury a friend,Billie Eilish,bury a friend,193143,False,2,,,,,,,,,,,,,Nigro
+Behind Barz - Bonus,Drake,Top Boy (A Selection of Music Inspired by the Series),163120,True,66,,,,,,,,,,,,,Nigro
+A Sinner's Story,ShooterGang Kony,A Sinner's Story,193175,True,33,,,,,,,,,,,,,Nigro
+Life Is Good (feat. Drake),"Future,Drake",Life Is Good (feat. Drake),237735,True,85,,,,,,,,,,,,,Nigro
+The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,196652,True,88,,,,,,,,,,,,,Nigro
+ROXANNE,Arizona Zervas,ROXANNE,163636,True,86,,,,,,,,,,,,,Nigro
+"Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg,Wiz Khalifa,Bruno Mars","Young, Wild & Free (feat. Bruno Mars)",207333,True,77,,,,,,,,,,,,,Nigro
+Hit Dem Folks (feat. Young Shank & Preme Dibiasi),"Shuicide Holla,Young Shank,Preme Dibiasi",Hit Dem Folks (feat. Young Shank & Preme Dibiasi),278361,True,24,,,,,,,,,,,,,Nigro
+Chainsaw (feat. Tedashii),Family Force 5,Chainsaw (feat. Tedashii),202686,False,49,,,,,,,,,,,,,Nigro
+Ultimate,Denzel Curry,32 Zel / Planet Shrooms,189974,True,0,,,,,,,,,,,,,Nigro
+We Want Some P--sy,2 LIVE CREW,2 Live Is What We Are,169000,True,0,,,,,,,,,,,,,Nigro
+Now and Later,Sage The Gemini,Now and Later,193181,False,58,,,,,,,,,,,,,Nigro
+London Bridge,Fergie,The Dutchess Deluxe,241306,True,0,,,,,,,,,,,,,Nigro
+THE SCOTTS,"THE SCOTTS,Travis Scott,Kid Cudi",THE SCOTTS,165977,True,84,,,,,,,,,,,,,Nigro
+Teenage Fever,Drake,More Life,219692,True,0,,,,,,,,,,,,,Nigro
+How To Love,Lil Wayne,Tha Carter IV (Deluxe),240306,False,61,,,,,,,,,,,,,Nigro
+Candy Paint,Post Malone,Candy Paint,229573,True,0,,,,,,,,,,,,,Nigro
+Pain 1993 (with Playboi Carti),"Drake,Playboi Carti",Dark Lane Demo Tapes,149077,True,71,,,,,,,,,,,,,Nigro
+Toosie Slide,Drake,Dark Lane Demo Tapes,247058,True,79,,,,,,,,,,,,,Nigro
+ROCKSTAR (feat. Roddy Ricch),"DaBaby,Roddy Ricch",BLAME IT ON BABY,181733,True,93,,,,,,,,,,,,,Nigro
+Because I Got High,Afroman,The Good Times,197760,True,67,,,,,,,,,,,,,Nigro
+Pure Water (with Migos),"Mustard,Migos",Perfect Ten,192470,True,78,,,,,,,,,,,,,Nigro

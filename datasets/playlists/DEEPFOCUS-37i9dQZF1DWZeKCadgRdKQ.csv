@@ -1,191 +1,189 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Escaping Time,Benjamin Martins,Floating,200346,False,63,10,1,4,0.64,0.32,0.256,0.862,0.112,-17.98,0.0445,0.191,115.011,DEEPFOCUS
-Just Look at You,369,432 Water Crystals,187385,False,61,7,1,4,0.985,0.558,0.249,0.925,0.103,-14.715,0.0303,0.111,94.991,DEEPFOCUS
-Flowing,Lucas Delphy,Flowing,131116,False,60,0,1,4,0.896,0.2,0.138,0.929,0.207,-20.417,0.0301,0.138,71.631,DEEPFOCUS
-With Resolve,Jacob Yoffee,With Resolve,129761,False,60,9,1,4,0.982,0.456,0.0195,0.924,0.106,-33.594,0.04,0.269,126.086,DEEPFOCUS
-Infinite Sustain,Amaranth Cove,Infinite Sustain,149000,False,62,6,1,4,0.8,0.529,0.214,0.907,0.109,-19.268,0.0315,0.0903,124.069,DEEPFOCUS
-Ingénue,Eline Moss,Ingénue,158176,False,61,9,1,4,0.993,0.283,0.122,0.905,0.0927,-23.074,0.0285,0.112,83.746,DEEPFOCUS
-Hidden Chambers,Marlee Tuaine,Fragmented Thoughts,169000,False,59,2,1,3,0.957,0.297,0.209,0.907,0.134,-12.715,0.035,0.0867,141.603,DEEPFOCUS
-The Five Times I Loved You,Cora Zea,Pyramid Train,205695,False,61,4,1,4,0.988,0.41,0.0845,0.93,0.109,-21.814,0.0327,0.0795,92.033,DEEPFOCUS
-Golden,Clear Blue Skies,Chasing Rainbows,140357,False,58,2,1,3,0.483,0.521,0.322,0.904,0.108,-14.505,0.0355,0.148,140.059,DEEPFOCUS
-Atlavík,Hugar,Varða,155733,False,59,2,1,4,0.867,0.535,0.147,0.797,0.0825,-25.141,0.0382,0.238,126.823,DEEPFOCUS
-Vague,Amaranth Cove,Envision,143000,False,60,10,0,4,0.881,0.32,0.253,0.935,0.121,-17.843,0.0356,0.125,140.029,DEEPFOCUS
-Collapse Into Light,Evin Iris,Collapse Into Light,179500,False,59,1,0,4,0.933,0.305,0.229,0.904,0.104,-18.329,0.0334,0.0562,121.599,DEEPFOCUS
-Will to Live,Jacob Yoffee,Will to Live,135798,False,58,6,1,4,0.949,0.434,0.112,0.922,0.0946,-29.82,0.036,0.104,112.001,DEEPFOCUS
-When You Left,Rouge Haven,When You Left,177224,False,58,5,1,4,0.984,0.56,0.0853,0.918,0.108,-15.918,0.0324,0.113,96.646,DEEPFOCUS
-Mil Sonidos,Reina del Mar,Mil Sonidos,192000,False,59,6,1,4,0.958,0.221,0.183,0.821,0.102,-17.59,0.0362,0.057,117.321,DEEPFOCUS
-Dawning,Light of Sun,Dawning,206419,False,58,0,1,4,0.64,0.526,0.471,0.817,0.096,-11.965,0.0424,0.286,119.972,DEEPFOCUS
-Cabin Jam,Sad Monologue,Cabin Jam,192710,False,57,4,1,4,0.689,0.477,0.37,0.799,0.0977,-12.394,0.0315,0.638,179.707,DEEPFOCUS
-What You Love You Must Love Now,The Six Parts Seven,Everywhere And Right Here,322160,False,59,4,1,4,0.367,0.256,0.456,0.881,0.119,-10.865,0.0306,0.0682,70.357,DEEPFOCUS
-Curiosity,Beau Projet,Curiosity,155820,False,59,2,1,4,0.985,0.43,0.256,0.867,0.106,-22.088,0.0641,0.173,133.955,DEEPFOCUS
-Squaric,Martin Gauffin,Squaric,153152,False,57,5,0,4,0.988,0.409,0.212,0.903,0.0966,-17.016,0.0368,0.135,183.837,DEEPFOCUS
-Between Planets,Radical Blue,Between Planets,174900,False,56,3,0,4,0.828,0.521,0.121,0.876,0.116,-19.652,0.0378,0.19,100.013,DEEPFOCUS
-Coda,Jakob Ahlbom,Endeavour,180614,False,58,9,1,3,0.93,0.351,0.24,0.904,0.101,-15.363,0.034,0.0968,79.919,DEEPFOCUS
-The Times Are Tired,Alaskan Tapes,Views from Sixteen Stories,242466,False,1,8,1,3,0.792,0.216,0.195,0.93,0.102,-14.026,0.0382,0.14,61.555,DEEPFOCUS
-When They Come,Threading Hair,When They Come,262000,False,57,6,1,4,0.922,0.501,0.378,0.825,0.115,-14.959,0.0269,0.193,108.034,DEEPFOCUS
-For a Moment,Amaranth Cove,Reconstruct,169206,False,56,11,0,4,0.945,0.551,0.214,0.913,0.112,-17.887,0.0339,0.0471,140.033,DEEPFOCUS
-You Want Dark Tunes?,Ave Air,Twin Solar Sunrise,297287,False,57,1,1,4,0.702,0.403,0.44,0.927,0.556,-12.954,0.0284,0.111,176.043,DEEPFOCUS
-Event Horizon,Airwaves,Event Horizon,310666,False,57,7,1,3,0.0665,0.464,0.38,0.898,0.114,-8.052,0.0279,0.0558,100.006,DEEPFOCUS
-Feels Like Flying,Elementaries,Feels Like Flying,198077,False,56,11,1,4,0.882,0.416,0.11,0.873,0.116,-13.776,0.0423,0.347,120.024,DEEPFOCUS
-Crossing,The Tides,Crossing,153103,False,57,0,1,4,0.935,0.542,0.189,0.91,0.0932,-16.57,0.0398,0.0755,116.0,DEEPFOCUS
-Beginnings,Bon Bruit,Beginnings,199874,False,55,7,1,3,0.871,0.208,0.16,0.85,0.103,-17.301,0.0344,0.0391,86.039,DEEPFOCUS
-Eleven Shades,Lunaire,Eleven Shades,216632,False,54,3,1,4,0.958,0.408,0.135,0.902,0.0982,-23.106,0.0295,0.0379,81.975,DEEPFOCUS
-Open Fields,Faelt,Open Fields,183181,False,55,4,1,4,0.97,0.491,0.197,0.916,0.214,-19.261,0.0298,0.216,132.106,DEEPFOCUS
-Grand Central Station,Across The Great Valley,Castles in the Sky,173797,False,54,0,1,3,0.906,0.173,0.18,0.0765,0.226,-15.193,0.0333,0.0374,116.333,DEEPFOCUS
-Time Travel,AMBIE,Rooftops,160788,False,55,8,0,4,0.965,0.502,0.289,0.913,0.153,-17.378,0.0307,0.156,137.926,DEEPFOCUS
-Walking You Home,Paul Mahmal Orca,La Ventana Abierta,190588,False,54,2,1,4,0.897,0.595,0.29,0.804,0.122,-17.011,0.0301,0.28,85.0,DEEPFOCUS
-Noche Tranquila,Jaime Jacobs,Noche Tranquila,172381,False,55,1,1,3,0.953,0.286,0.169,0.978,0.115,-22.074,0.0339,0.178,79.953,DEEPFOCUS
-Laugavegur,Dreyma,Laugavegur,188795,False,54,7,1,4,0.54,0.515,0.408,0.769,0.0916,-12.688,0.0385,0.308,115.002,DEEPFOCUS
-Monumental,Antuigo,Monumental,195057,False,54,4,1,4,0.916,0.491,0.217,0.962,0.177,-6.805,0.0521,0.0647,99.97,DEEPFOCUS
-Den inre skogen,Thomas Jackson,Den inre skogen,229657,False,54,9,1,4,0.924,0.532,0.382,0.61,0.134,-17.683,0.0543,0.0455,127.038,DEEPFOCUS
-Silver Lining,Erik Reno,Summer Tales,188933,False,54,11,1,4,0.877,0.471,0.138,0.878,0.103,-23.623,0.0351,0.0493,135.934,DEEPFOCUS
-The Discovery,Sulfur Springs,The Discovery,193000,False,54,0,1,4,0.827,0.414,0.127,0.822,0.0919,-22.097,0.0383,0.0354,130.021,DEEPFOCUS
-Awaken,William Duhamel,Awaken,129936,False,54,2,1,3,0.929,0.346,0.0943,0.918,0.102,-13.632,0.0362,0.109,127.006,DEEPFOCUS
-Bouquet with Lilies,La Acacia,Bouquet with Lilies,216607,False,55,0,1,4,0.716,0.621,0.345,0.921,0.091,-12.106,0.0295,0.113,117.683,DEEPFOCUS
-Wild Flowers,MVS,Wild Flowers,134212,False,53,4,0,5,0.978,0.25,0.108,0.91,0.148,-19.773,0.0463,0.118,73.59,DEEPFOCUS
-Eidolon,Monocle Twins,Eidolon,257668,False,54,10,0,3,0.862,0.553,0.24,0.946,0.0932,-19.522,0.0304,0.164,128.986,DEEPFOCUS
-alpha waves,Eucalyptic,alpha waves,205127,False,54,4,0,4,0.795,0.561,0.314,0.876,0.115,-16.989,0.0281,0.0883,95.931,DEEPFOCUS
-The Disappearance of the Unmoved Mover,So Vea,The Disappearance of the Unmoved Mover,269296,False,53,11,0,4,0.879,0.627,0.427,0.878,0.0977,-11.498,0.0283,0.132,112.043,DEEPFOCUS
-Old Rain on a New Day,Cora Zea,Celestial Siren,225500,False,54,7,1,4,0.971,0.286,0.14,0.892,0.134,-16.496,0.0346,0.154,119.191,DEEPFOCUS
-Takeoff,Silo Silo,Takeoff,194666,False,53,4,0,4,0.625,0.44,0.32,0.886,0.0823,-12.011,0.0323,0.0694,180.036,DEEPFOCUS
-Suhpratti,Parazal,Hum,186542,False,54,11,0,4,0.974,0.564,0.0515,0.765,0.114,-15.118,0.0338,0.214,93.961,DEEPFOCUS
-Projections,Jacob Yoffee,Projections,160033,False,52,9,1,4,0.692,0.329,0.0735,0.815,0.0832,-27.372,0.0383,0.0378,112.206,DEEPFOCUS
-Curious Morning,Michael Orvind,Curious Morning,182222,False,53,3,0,4,0.969,0.391,0.231,0.954,0.116,-17.0,0.0363,0.0882,107.981,DEEPFOCUS
-If You Believe,Yonder Dale,Unification,183428,False,53,8,0,4,0.937,0.575,0.202,0.441,0.103,-18.544,0.0444,0.142,139.943,DEEPFOCUS
-mellow,cloudcrush,mellow,144434,False,52,0,1,4,0.985,0.609,0.157,0.792,0.112,-15.792,0.0322,0.0698,111.966,DEEPFOCUS
-Saving Daylight,Harvest Silence,Saving Daylight,206820,False,52,0,1,4,0.456,0.526,0.385,0.922,0.0935,-13.755,0.0296,0.212,120.008,DEEPFOCUS
-Forever Distant,The Echelon Effect,Drift Static,180914,False,45,1,1,4,0.869,0.408,0.136,0.906,0.243,-17.702,0.0319,0.108,107.105,DEEPFOCUS
-Drifting,Eroded Sky,Drifting,194571,False,55,11,0,4,0.71,0.616,0.202,0.678,0.0871,-14.144,0.0383,0.0773,139.857,DEEPFOCUS
-Momentum,Monocle Twins,Momentum,178741,False,52,4,0,3,0.891,0.636,0.248,0.922,0.106,-17.313,0.0309,0.138,117.006,DEEPFOCUS
-Adrift,Cooper Sams,Adrift,158117,False,53,7,1,4,0.497,0.382,0.333,0.918,0.106,-15.573,0.0367,0.0486,84.974,DEEPFOCUS
-Limitless,Lucas Delphy,Limitless,165685,False,54,7,0,4,0.404,0.238,0.191,0.888,0.107,-20.242,0.0351,0.0365,140.282,DEEPFOCUS
-Adjustments,Josie Mehlin,Adjustments,182000,False,52,0,0,4,0.974,0.532,0.541,0.864,0.228,-11.932,0.0283,0.329,136.063,DEEPFOCUS
-Shifts Of Light,Avery Young,Still Waters,261613,False,53,3,1,4,0.931,0.455,0.216,0.921,0.0839,-20.107,0.0363,0.179,171.936,DEEPFOCUS
-Someday,City of the Sun,Chapter I,288040,False,53,8,0,4,0.265,0.572,0.571,0.917,0.109,-10.067,0.0331,0.115,96.986,DEEPFOCUS
-De Fléche,Les Manger Tous,De Fléche,233062,False,52,8,1,4,0.668,0.435,0.333,0.834,0.084,-15.885,0.0308,0.074,90.902,DEEPFOCUS
-Waiting like the Storm,Rand Aldo,Nocturne in Green,257625,False,52,5,1,4,0.946,0.162,0.0564,0.889,0.101,-20.696,0.0341,0.0361,60.01,DEEPFOCUS
-Path to Serenity,Arya Shae,Path to Serenity,214277,False,54,7,1,1,0.961,0.134,0.0601,0.869,0.109,-19.866,0.0352,0.0388,73.855,DEEPFOCUS
-Focus,IFEELU,Focus,167142,False,56,6,0,4,0.566,0.669,0.155,0.8,0.625,-21.592,0.0343,0.0611,111.898,DEEPFOCUS
-Glaciers,Lights & Motion,Bloom,176373,False,54,7,1,4,0.733,0.0789,0.16,0.786,0.0943,-18.144,0.0362,0.0409,56.449,DEEPFOCUS
-Wild Trails,Epi-Soothe,Wild Trails,218501,False,52,4,1,3,0.742,0.213,0.233,0.881,0.149,-14.347,0.0289,0.0378,94.94,DEEPFOCUS
-I Don't Trust That Bird of Prey,Random Forest,Requiescence,210500,False,51,7,1,4,0.605,0.52,0.305,0.899,0.16,-14.38,0.0322,0.0389,120.109,DEEPFOCUS
-Solitude,Isobel Belano,Solitude,164981,False,52,7,0,3,0.811,0.171,0.168,0.918,0.111,-18.597,0.0327,0.119,85.183,DEEPFOCUS
-Lunar Eclipse,Marc Torch,Lunar Eclipse,156473,False,51,11,0,4,0.224,0.632,0.469,0.854,0.0902,-10.513,0.0307,0.316,128.0,DEEPFOCUS
-Retrospectacular,Domaine Blanc,Retrospectacular,200000,False,51,9,1,4,0.81,0.368,0.293,0.864,0.11,-16.379,0.0346,0.197,119.977,DEEPFOCUS
-Sintra,Made Of Gold,Reflections,201951,False,51,2,0,4,0.984,0.395,0.147,0.909,0.0724,-19.174,0.051,0.167,164.176,DEEPFOCUS
-Morning Shimmer,Vochey,Morning Shimmer,218880,False,51,11,0,4,0.58,0.449,0.163,0.908,0.114,-16.409,0.0361,0.0501,125.088,DEEPFOCUS
-Orbits,Halfway Escape,Orbits,204827,False,51,6,1,4,0.855,0.438,0.404,0.881,0.11,-13.924,0.039,0.4,116.142,DEEPFOCUS
-Floating Sunbeams,Michael Orvind,Floating Sunbeams,159292,False,51,1,1,4,0.98,0.205,0.202,0.85,0.128,-15.952,0.0427,0.086,113.057,DEEPFOCUS
-Bayybe 07,Bilo 503,Bayybe,114195,False,51,7,1,4,0.827,0.44,0.384,0.934,0.156,-12.331,0.0453,0.0912,127.938,DEEPFOCUS
-Water Lillies,A Teardrop In The Lake,Water Lillies,228000,False,51,0,1,5,0.848,0.234,0.226,0.942,0.111,-15.991,0.0368,0.0388,139.921,DEEPFOCUS
-Coming Home,Zoe Connelly,Coming Home,172818,False,52,5,1,4,0.854,0.198,0.139,0.856,0.0773,-18.72,0.031,0.106,82.405,DEEPFOCUS
-Stormy Weather,Lost Horse Mine,Stormy Weather,150169,False,51,2,1,3,0.00308,0.444,0.382,0.816,0.0915,-9.324,0.0397,0.197,123.59,DEEPFOCUS
-Calm Wilderness,Night Sounds,Calm Wilderness,231723,False,53,7,1,4,0.886,0.186,0.271,0.961,0.141,-17.149,0.0449,0.0684,115.896,DEEPFOCUS
-Essential Attitudes,Peals,Honey,217987,False,51,5,1,4,0.449,0.444,0.497,0.722,0.081,-12.601,0.0383,0.25,99.093,DEEPFOCUS
-Trastevere,Sebastián Escofet,Universo en Miniatura Vol. 1,167613,False,52,4,1,3,0.886,0.42,0.272,0.834,0.0841,-14.843,0.0423,0.38,180.031,DEEPFOCUS
-Hypnagogia Well,Monocle Twins,Hypnagogia Well,222000,False,51,2,0,4,0.771,0.545,0.253,0.922,0.108,-17.953,0.033,0.0529,115.848,DEEPFOCUS
-Water Colors,Star Slide,Water Colors,182079,False,51,7,1,4,0.633,0.465,0.12,0.937,0.085,-19.328,0.0386,0.0659,72.021,DEEPFOCUS
-Presence,Van Stiles,Presence,125500,False,50,2,0,1,0.966,0.616,0.292,0.927,0.0955,-16.837,0.0423,0.0633,127.008,DEEPFOCUS
-Schloss,Elmau Dunkel,Schloss,222093,False,53,1,1,4,0.968,0.438,0.073,0.755,0.0935,-21.944,0.0411,0.0668,79.973,DEEPFOCUS
-Kaolnite,Burgundy Skies,Kaolnite,180689,False,51,1,0,4,0.622,0.247,0.231,0.87,0.0878,-19.639,0.0328,0.0485,174.014,DEEPFOCUS
-North Captiva,Lundegard,North Captiva,194495,False,50,9,0,4,0.918,0.479,0.346,0.929,0.111,-17.916,0.0306,0.23,143.965,DEEPFOCUS
-mellow,cloudcrush,sleep escape,144434,False,50,0,1,4,0.985,0.609,0.157,0.792,0.112,-15.792,0.0322,0.0698,111.966,DEEPFOCUS
-Auburn Sky,Toledo Rains,Auburn Sky,162829,False,51,4,0,4,0.906,0.265,0.035,0.89,0.0932,-26.502,0.0359,0.0651,132.972,DEEPFOCUS
-Bortom Träden,Erik Reno,I Blomstertid,260564,False,51,8,1,4,0.801,0.446,0.0586,0.85,0.0876,-26.416,0.0416,0.111,124.019,DEEPFOCUS
-Willet,Dust Follows,Swan,179610,False,50,0,1,4,0.967,0.425,0.168,0.818,0.16,-14.064,0.0322,0.0376,90.076,DEEPFOCUS
-Malibu,Matthew Harvey,Malibu,150405,False,51,6,1,4,0.977,0.435,0.154,0.85,0.0728,-21.451,0.0367,0.0799,148.1,DEEPFOCUS
-Bloom,Hilder Sky,Bloom,121069,False,51,4,1,5,0.945,0.249,0.129,0.839,0.17,-18.167,0.0324,0.253,70.59,DEEPFOCUS
-Los Feliz,Search For Atlantis,Los Feliz,166927,False,50,11,0,4,0.197,0.575,0.373,0.898,0.0753,-11.642,0.0279,0.123,74.975,DEEPFOCUS
-Found,Martin Gauffin,Found,159049,False,53,0,1,4,0.901,0.517,0.397,0.867,0.11,-14.281,0.0289,0.195,100.005,DEEPFOCUS
-Placidity,Estado De Calma,Placidity,165268,False,51,7,1,4,0.474,0.261,0.25,0.893,0.0882,-18.526,0.0339,0.0827,153.045,DEEPFOCUS
-Light Year,Evan Michael Brown,Light Year,234000,False,51,9,1,4,0.99,0.301,0.189,0.893,0.106,-16.072,0.0351,0.0379,139.894,DEEPFOCUS
-Crystal Shores,Dean Valio,Crystal Shores,170958,False,52,,,,,,,,,,,,,DEEPFOCUS
-Montana,Le Verne,Montana,133645,False,50,,,,,,,,,,,,,DEEPFOCUS
-Focus,Light of Sun,Focus,190526,False,51,,,,,,,,,,,,,DEEPFOCUS
-Woodland Heart,Ghost Of Summer,Woodland Heart,160105,False,53,,,,,,,,,,,,,DEEPFOCUS
-Follow me,Andre Ehmann,Follow me,204624,False,52,,,,,,,,,,,,,DEEPFOCUS
-Petrichor,Cecelya,Petrichor,118321,False,55,,,,,,,,,,,,,DEEPFOCUS
-Clear Skies,Dhyana Thomas,Clear Skies,162085,False,51,,,,,,,,,,,,,DEEPFOCUS
-In This Moment,Lucas Delphy,In This Moment,158666,False,50,,,,,,,,,,,,,DEEPFOCUS
-The Choice,"Gustavo Santaolalla,Alan Umstead",The Last of Us,102373,False,57,,,,,,,,,,,,,DEEPFOCUS
-Lucid Alchemy,Ruud Vanderwege,Lucid Alchemy,258928,False,55,,,,,,,,,,,,,DEEPFOCUS
-Walking Away,Avery Young,Still Waters,147025,False,50,,,,,,,,,,,,,DEEPFOCUS
-Andromeda,ÆROSPHERE,Andromeda,266400,False,50,,,,,,,,,,,,,DEEPFOCUS
-Waves,Eucalyptic,Waves,202343,False,53,,,,,,,,,,,,,DEEPFOCUS
-Under The Wind,The Tides,Under The Wind,240000,False,52,,,,,,,,,,,,,DEEPFOCUS
-Meditations pt 1,Estado De Calma,Meditations pt 1,150806,False,53,,,,,,,,,,,,,DEEPFOCUS
-The Beginning,Double Singularity,The Beginning,229041,False,51,,,,,,,,,,,,,DEEPFOCUS
-Progress,Ever So Blue,Fragment,138629,False,61,,,,,,,,,,,,,DEEPFOCUS
-Breathing Like the Pastures,Rand Aldo,Breathing Like the Pastures,221177,False,51,,,,,,,,,,,,,DEEPFOCUS
-In the Clouds,Astron,In the Clouds,176796,False,53,,,,,,,,,,,,,DEEPFOCUS
-Farnley Lane,The Sleepwalkers,Farnley Lane,198304,False,51,,,,,,,,,,,,,DEEPFOCUS
-Memory Tree,Amparo,Memoir Collections I - Beginnings,174000,False,3,,,,,,,,,,,,,DEEPFOCUS
-Drifting,Silje Månsson,Drifting,123353,False,52,,,,,,,,,,,,,DEEPFOCUS
-Mars,Stratospheric,Mars,147386,False,50,,,,,,,,,,,,,DEEPFOCUS
-Arriving,Hilder Sky,Arriving,145474,False,57,,,,,,,,,,,,,DEEPFOCUS
-Epilogue,Paul Dennehy,A new beginning,257624,False,50,,,,,,,,,,,,,DEEPFOCUS
-Moment of Clarity,Light Bin,Moment of Clarity,141580,False,60,,,,,,,,,,,,,DEEPFOCUS
-Foveaux Strait,Ensemble Rivr Dane,Foveaux Strait,224000,False,49,,,,,,,,,,,,,DEEPFOCUS
-Observations From A Faraway Place,Rannar Sillard,Dream Voucher,142074,False,59,,,,,,,,,,,,,DEEPFOCUS
-Sunbleached Memory,Toledo Rains,Sunbleached Memory,155352,False,55,,,,,,,,,,,,,DEEPFOCUS
-First,Roary,First,275600,False,50,,,,,,,,,,,,,DEEPFOCUS
-Chasing Love,Mondbery,Chasing Love,131276,False,54,,,,,,,,,,,,,DEEPFOCUS
-Waiting,Sheltered Solitude,Waiting,130069,False,51,,,,,,,,,,,,,DEEPFOCUS
-Truth (Helios Remix),Balmorhea,"All Is Wild, All Is Silent Remixes",225480,False,0,,,,,,,,,,,,,DEEPFOCUS
-Someone Else,Tourist,Someone Else,247266,False,52,,,,,,,,,,,,,DEEPFOCUS
-Last Night,Jedisol,Last Night,127093,False,54,,,,,,,,,,,,,DEEPFOCUS
-L'anniversaire,William Keats,L'anniversaire,165326,False,49,,,,,,,,,,,,,DEEPFOCUS
-Final Mid,Sebastián Escofet,Universo en Miniatura Vol. 1,129199,False,49,,,,,,,,,,,,,DEEPFOCUS
-they sink,Ólafur Arnalds,re:member,155484,False,55,,,,,,,,,,,,,DEEPFOCUS
-Ether,Jakob Ahlbom,Ether,189040,False,52,,,,,,,,,,,,,DEEPFOCUS
-Blue Adrian,369,369 Seconds Of Bliss,187910,False,53,,,,,,,,,,,,,DEEPFOCUS
-Soft Upon Your Face,Ave Air,Paper Thin Reality,194836,False,0,,,,,,,,,,,,,DEEPFOCUS
-Dreams Of Another Reality,August Wilhelmsson,I Was Arthur,190000,False,0,,,,,,,,,,,,,DEEPFOCUS
-Pale Lights (Dark Dark Horse Remix),"Dark Dark Horse,This Patch of Sky",Pale Lights (Dark Dark Horse Remix),257607,False,50,,,,,,,,,,,,,DEEPFOCUS
-Alluvium,Cecelya,Alluvium,124080,False,49,,,,,,,,,,,,,DEEPFOCUS
-He Needs Help,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),190666,False,57,,,,,,,,,,,,,DEEPFOCUS
-Candlelight,Reed Goff,Candlelight,124080,False,50,,,,,,,,,,,,,DEEPFOCUS
-Dans i Vindi,Elvar Arngrimsson,Fjarlagt Ljus,184800,False,51,,,,,,,,,,,,,DEEPFOCUS
-Kohobodi Boy,Daniel Kadawatha,Kohobodi Boy,163833,False,55,,,,,,,,,,,,,DEEPFOCUS
-Cotton Spheres,Lama House,Cumulus Motion,174755,False,55,,,,,,,,,,,,,DEEPFOCUS
-Tomorrow Will Save Us,Rand Aldo,Tomorrow Will Save Us,186000,False,0,,,,,,,,,,,,,DEEPFOCUS
-Before Leaving,Gradient Layer,A Lonesome Place,115494,False,52,,,,,,,,,,,,,DEEPFOCUS
-Postcards from You,Life Below Elephants,Postcards from You,232888,False,50,,,,,,,,,,,,,DEEPFOCUS
-Clovelly Dreams,Zero Mileage,Clovelly Dreams,191162,False,50,,,,,,,,,,,,,DEEPFOCUS
-White Waves,Cooper Sams,White Waves,231723,False,51,,,,,,,,,,,,,DEEPFOCUS
-Sphere,Jakob Ahlbom,Distant Echo,200385,False,52,,,,,,,,,,,,,DEEPFOCUS
-Dakota,Sheltered Solitude,Dakota,130024,False,53,,,,,,,,,,,,,DEEPFOCUS
-"Two One, Four","Fyfe,Iskra Strings",Fyfe & Iskra Strings EP 1,277346,False,0,,,,,,,,,,,,,DEEPFOCUS
-Gloaming,Cecelya,Gloaming,135575,False,51,,,,,,,,,,,,,DEEPFOCUS
-Morro Bay,Lundegard,Morro Bay,192171,False,49,,,,,,,,,,,,,DEEPFOCUS
-Sea of Tranquility,Evan Michael Brown,Above The Clouds,175000,False,49,,,,,,,,,,,,,DEEPFOCUS
-Sunrise,Elise Magnefold,Sunrise,169687,False,49,,,,,,,,,,,,,DEEPFOCUS
-You Have Done Well,They Dream By Day,Fields Of Moab,252380,False,50,,,,,,,,,,,,,DEEPFOCUS
-Clear Language,Balmorhea,Clear Language,193386,False,0,,,,,,,,,,,,,DEEPFOCUS
-The Slide,Eucalyptic,The Slide,174947,False,49,,,,,,,,,,,,,DEEPFOCUS
-The Light of Day,Chymeris,The Light of Day,167386,False,55,,,,,,,,,,,,,DEEPFOCUS
-Waiting,Catherine Holm,Waiting,109235,False,50,,,,,,,,,,,,,DEEPFOCUS
-Overture,Lights & Motion,Bloom,197666,False,50,,,,,,,,,,,,,DEEPFOCUS
-"2 Nights, a Whisper",Arylith,La Luna,190803,False,49,,,,,,,,,,,,,DEEPFOCUS
-My World Is Changing,Eroded Sky,My World Is Changing,171613,False,49,,,,,,,,,,,,,DEEPFOCUS
-Wait Until Spring,Dhyana Thomas,Wait Until Spring,189406,False,51,,,,,,,,,,,,,DEEPFOCUS
-Monita,Vincent Brahn,Lake Navis,196000,False,56,,,,,,,,,,,,,DEEPFOCUS
-The Watchmaker,Gendrial,The Watchmaker,128481,False,50,,,,,,,,,,,,,DEEPFOCUS
-Silk And Honey,Wolfgang Snow,Silk And Honey,200492,False,50,,,,,,,,,,,,,DEEPFOCUS
-Escape,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),85466,False,49,,,,,,,,,,,,,DEEPFOCUS
-Yatta,Fukase Junichiro,Yatta,144374,False,51,,,,,,,,,,,,,DEEPFOCUS
-Northern Lights,Chasing Noise,Wonderland,216000,False,49,,,,,,,,,,,,,DEEPFOCUS
-October Skies,Ebb & Flod,Moonrise,175150,False,0,,,,,,,,,,,,,DEEPFOCUS
-Seeming,Helios,Seeming,155866,False,0,,,,,,,,,,,,,DEEPFOCUS
-Lore,Moon Hill,Lore,195300,False,49,,,,,,,,,,,,,DEEPFOCUS
-Deliverance,Avery Young,Still Waters,239024,False,49,,,,,,,,,,,,,DEEPFOCUS
-Timeless,Orchestrate the Universe,Timeless,116007,False,52,,,,,,,,,,,,,DEEPFOCUS
-Saoirse,Symon van Gent,Saoirse,179000,False,56,,,,,,,,,,,,,DEEPFOCUS
-Never Let Go,Galvic,Never Let Go,159295,False,54,,,,,,,,,,,,,DEEPFOCUS
-Migration,"Keith Kenniff,Goldmund",Migration,217757,False,52,,,,,,,,,,,,,DEEPFOCUS
-If I'd Have Known It Was The Last (Second Position),Codes In The Clouds,As The Spirit Wanes,112720,False,0,,,,,,,,,,,,,DEEPFOCUS
-Masollan,Balmorhea,Stranger,313460,False,0,,,,,,,,,,,,,DEEPFOCUS
-Bless Those Tired Eyes,Clem Leek,Rest,232221,False,52,,,,,,,,,,,,,DEEPFOCUS
-The Return Home,Daniel Kadawatha,Through Changing Forms,168377,False,52,,,,,,,,,,,,,DEEPFOCUS
-Ashes,Orchestrate the Universe,New Life,131000,False,52,,,,,,,,,,,,,DEEPFOCUS
-Revealing The Unreal,Ave Air,Suburban Call For Concrete Dreams,212894,False,57,,,,,,,,,,,,,DEEPFOCUS
+Escaping Time,Benjamin Martins,Floating,200346,False,63,10,1,4,0.64,0.32,0.256,0.862,0.112,-17.98,0.0445,0.191,115.011,DeepFocus
+Just Look at You,369,432 Water Crystals,187385,False,61,7,1,4,0.985,0.558,0.249,0.925,0.103,-14.715,0.0303,0.111,94.991,DeepFocus
+Flowing,Lucas Delphy,Flowing,131116,False,60,0,1,4,0.896,0.2,0.138,0.929,0.207,-20.417,0.0301,0.138,71.631,DeepFocus
+With Resolve,Jacob Yoffee,With Resolve,129761,False,60,9,1,4,0.982,0.456,0.0195,0.924,0.106,-33.594,0.04,0.269,126.086,DeepFocus
+Infinite Sustain,Amaranth Cove,Infinite Sustain,149000,False,62,6,1,4,0.8,0.529,0.214,0.907,0.109,-19.268,0.0315,0.0903,124.069,DeepFocus
+Ingénue,Eline Moss,Ingénue,158176,False,60,9,1,4,0.993,0.283,0.122,0.905,0.0927,-23.074,0.0285,0.112,83.746,DeepFocus
+Hidden Chambers,Marlee Tuaine,Fragmented Thoughts,169000,False,59,2,1,3,0.957,0.297,0.209,0.907,0.134,-12.715,0.035,0.0867,141.603,DeepFocus
+The Five Times I Loved You,Cora Zea,Pyramid Train,205695,False,61,4,1,4,0.988,0.41,0.0845,0.93,0.109,-21.814,0.0327,0.0795,92.033,DeepFocus
+Golden,Clear Blue Skies,Chasing Rainbows,140357,False,58,2,1,3,0.483,0.521,0.322,0.904,0.108,-14.505,0.0355,0.148,140.059,DeepFocus
+Atlavík,Hugar,Varða,155733,False,59,2,1,4,0.867,0.535,0.147,0.797,0.0825,-25.141,0.0382,0.238,126.823,DeepFocus
+Vague,Amaranth Cove,Envision,143000,False,59,10,0,4,0.881,0.32,0.253,0.935,0.121,-17.843,0.0356,0.125,140.029,DeepFocus
+Collapse Into Light,Evin Iris,Collapse Into Light,179500,False,59,1,0,4,0.933,0.305,0.229,0.904,0.104,-18.329,0.0334,0.0562,121.599,DeepFocus
+Will to Live,Jacob Yoffee,Will to Live,135798,False,58,6,1,4,0.949,0.434,0.112,0.922,0.0946,-29.82,0.036,0.104,112.001,DeepFocus
+When You Left,Rouge Haven,When You Left,177224,False,58,5,1,4,0.984,0.56,0.0853,0.918,0.108,-15.918,0.0324,0.113,96.646,DeepFocus
+Mil Sonidos,Reina del Mar,Mil Sonidos,192000,False,59,6,1,4,0.958,0.221,0.183,0.821,0.102,-17.59,0.0362,0.057,117.321,DeepFocus
+Dawning,Light of Sun,Dawning,206419,False,58,0,1,4,0.64,0.526,0.471,0.817,0.096,-11.965,0.0424,0.286,119.972,DeepFocus
+Cabin Jam,Sad Monologue,Cabin Jam,192710,False,57,4,1,4,0.689,0.477,0.37,0.799,0.0977,-12.394,0.0315,0.638,179.707,DeepFocus
+What You Love You Must Love Now,The Six Parts Seven,Everywhere And Right Here,322160,False,58,4,1,4,0.367,0.256,0.456,0.881,0.119,-10.865,0.0306,0.0682,70.357,DeepFocus
+Curiosity,Beau Projet,Curiosity,155820,False,59,2,1,4,0.985,0.43,0.256,0.867,0.106,-22.088,0.0641,0.173,133.955,DeepFocus
+Squaric,Martin Gauffin,Squaric,153152,False,57,5,0,4,0.988,0.409,0.212,0.903,0.0966,-17.016,0.0368,0.135,183.837,DeepFocus
+Between Planets,Radical Blue,Between Planets,174900,False,56,3,0,4,0.828,0.521,0.121,0.876,0.116,-19.652,0.0378,0.19,100.013,DeepFocus
+Coda,Jakob Ahlbom,Endeavour,180614,False,58,9,1,3,0.93,0.351,0.24,0.904,0.101,-15.363,0.034,0.0968,79.919,DeepFocus
+The Times Are Tired,Alaskan Tapes,Views from Sixteen Stories,242466,False,1,8,1,3,0.792,0.216,0.195,0.93,0.102,-14.026,0.0382,0.14,61.555,DeepFocus
+When They Come,Threading Hair,When They Come,262000,False,56,6,1,4,0.922,0.501,0.378,0.825,0.115,-14.959,0.0269,0.193,108.034,DeepFocus
+For a Moment,Amaranth Cove,Reconstruct,169206,False,56,11,0,4,0.945,0.551,0.214,0.913,0.112,-17.887,0.0339,0.0471,140.033,DeepFocus
+You Want Dark Tunes?,Ave Air,Twin Solar Sunrise,297287,False,56,1,1,4,0.702,0.403,0.44,0.927,0.556,-12.954,0.0284,0.111,176.043,DeepFocus
+Event Horizon,Airwaves,Event Horizon,310666,False,57,7,1,3,0.0665,0.464,0.38,0.898,0.114,-8.052,0.0279,0.0558,100.006,DeepFocus
+Feels Like Flying,Elementaries,Feels Like Flying,198077,False,55,11,1,4,0.882,0.416,0.11,0.873,0.116,-13.776,0.0423,0.347,120.024,DeepFocus
+Crossing,The Tides,Crossing,153103,False,56,0,1,4,0.935,0.542,0.189,0.91,0.0932,-16.57,0.0398,0.0755,116.0,DeepFocus
+Beginnings,Bon Bruit,Beginnings,199874,False,54,7,1,3,0.871,0.208,0.16,0.85,0.103,-17.301,0.0344,0.0391,86.039,DeepFocus
+Eleven Shades,Lunaire,Eleven Shades,216632,False,54,3,1,4,0.958,0.408,0.135,0.902,0.0982,-23.106,0.0295,0.0379,81.975,DeepFocus
+Open Fields,Faelt,Open Fields,183181,False,55,4,1,4,0.97,0.491,0.197,0.916,0.214,-19.261,0.0298,0.216,132.106,DeepFocus
+Grand Central Station,Across The Great Valley,Castles in the Sky,173797,False,54,0,1,3,0.906,0.173,0.18,0.0765,0.226,-15.193,0.0333,0.0374,116.333,DeepFocus
+Time Travel,AMBIE,Rooftops,160788,False,54,8,0,4,0.965,0.502,0.289,0.913,0.153,-17.378,0.0307,0.156,137.926,DeepFocus
+Walking You Home,Paul Mahmal Orca,La Ventana Abierta,190588,False,54,2,1,4,0.897,0.595,0.29,0.804,0.122,-17.011,0.0301,0.28,85.0,DeepFocus
+Noche Tranquila,Jaime Jacobs,Noche Tranquila,172381,False,54,1,1,3,0.953,0.286,0.169,0.978,0.115,-22.074,0.0339,0.178,79.953,DeepFocus
+Laugavegur,Dreyma,Laugavegur,188795,False,54,7,1,4,0.54,0.515,0.408,0.769,0.0916,-12.688,0.0385,0.308,115.002,DeepFocus
+Monumental,Antuigo,Monumental,195057,False,54,4,1,4,0.916,0.491,0.217,0.962,0.177,-6.805,0.0521,0.0647,99.97,DeepFocus
+Den inre skogen,Thomas Jackson,Den inre skogen,229657,False,54,9,1,4,0.924,0.532,0.382,0.61,0.134,-17.683,0.0543,0.0455,127.038,DeepFocus
+Silver Lining,Erik Reno,Summer Tales,188933,False,54,11,1,4,0.877,0.471,0.138,0.878,0.103,-23.623,0.0351,0.0493,135.934,DeepFocus
+The Discovery,Sulfur Springs,The Discovery,193000,False,54,0,1,4,0.827,0.414,0.127,0.822,0.0919,-22.097,0.0383,0.0354,130.021,DeepFocus
+Awaken,William Duhamel,Awaken,129936,False,54,2,1,3,0.929,0.346,0.0943,0.918,0.102,-13.632,0.0362,0.109,127.006,DeepFocus
+Bouquet with Lilies,La Acacia,Bouquet with Lilies,216607,False,55,0,1,4,0.716,0.621,0.345,0.921,0.091,-12.106,0.0295,0.113,117.683,DeepFocus
+Wild Flowers,MVS,Wild Flowers,134212,False,52,4,0,5,0.978,0.25,0.108,0.91,0.148,-19.773,0.0463,0.118,73.59,DeepFocus
+Eidolon,Monocle Twins,Eidolon,257668,False,53,10,0,3,0.862,0.553,0.24,0.946,0.0932,-19.522,0.0304,0.164,128.986,DeepFocus
+alpha waves,Eucalyptic,alpha waves,205127,False,54,4,0,4,0.795,0.561,0.314,0.876,0.115,-16.989,0.0281,0.0883,95.931,DeepFocus
+The Disappearance of the Unmoved Mover,So Vea,The Disappearance of the Unmoved Mover,269296,False,53,11,0,4,0.879,0.627,0.427,0.878,0.0977,-11.498,0.0283,0.132,112.043,DeepFocus
+Old Rain on a New Day,Cora Zea,Celestial Siren,225500,False,54,7,1,4,0.971,0.286,0.14,0.892,0.134,-16.496,0.0346,0.154,119.191,DeepFocus
+Takeoff,Silo Silo,Takeoff,194666,False,53,4,0,4,0.625,0.44,0.32,0.886,0.0823,-12.011,0.0323,0.0694,180.036,DeepFocus
+Suhpratti,Parazal,Hum,186542,False,53,11,0,4,0.974,0.564,0.0515,0.765,0.114,-15.118,0.0338,0.214,93.961,DeepFocus
+Projections,Jacob Yoffee,Projections,160033,False,52,9,1,4,0.692,0.329,0.0735,0.815,0.0832,-27.372,0.0383,0.0378,112.206,DeepFocus
+Curious Morning,Michael Orvind,Curious Morning,182222,False,52,3,0,4,0.969,0.391,0.231,0.954,0.116,-17.0,0.0363,0.0882,107.981,DeepFocus
+If You Believe,Yonder Dale,Unification,183428,False,53,8,0,4,0.937,0.575,0.202,0.441,0.103,-18.544,0.0444,0.142,139.943,DeepFocus
+mellow,cloudcrush,mellow,144434,False,52,0,1,4,0.985,0.609,0.157,0.792,0.112,-15.792,0.0322,0.0698,111.966,DeepFocus
+Saving Daylight,Harvest Silence,Saving Daylight,206820,False,52,0,1,4,0.456,0.526,0.385,0.922,0.0935,-13.755,0.0296,0.212,120.008,DeepFocus
+Forever Distant,The Echelon Effect,Drift Static,180914,False,46,1,1,4,0.869,0.408,0.136,0.906,0.243,-17.702,0.0319,0.108,107.105,DeepFocus
+Drifting,Eroded Sky,Drifting,194571,False,55,11,0,4,0.71,0.616,0.202,0.678,0.0871,-14.144,0.0383,0.0773,139.857,DeepFocus
+Momentum,Monocle Twins,Momentum,178741,False,52,4,0,3,0.891,0.636,0.248,0.922,0.106,-17.313,0.0309,0.138,117.006,DeepFocus
+Adrift,Cooper Sams,Adrift,158117,False,52,7,1,4,0.497,0.382,0.333,0.918,0.106,-15.573,0.0367,0.0486,84.974,DeepFocus
+Limitless,Lucas Delphy,Limitless,165685,False,54,7,0,4,0.404,0.238,0.191,0.888,0.107,-20.242,0.0351,0.0365,140.282,DeepFocus
+Adjustments,Josie Mehlin,Adjustments,182000,False,51,0,0,4,0.974,0.532,0.541,0.864,0.228,-11.932,0.0283,0.329,136.063,DeepFocus
+Shifts Of Light,Avery Young,Still Waters,261613,False,53,3,1,4,0.931,0.455,0.216,0.921,0.0839,-20.107,0.0363,0.179,171.936,DeepFocus
+Someday,City of the Sun,Chapter I,288040,False,52,8,0,4,0.265,0.572,0.571,0.917,0.109,-10.067,0.0331,0.115,96.986,DeepFocus
+De Fléche,Les Manger Tous,De Fléche,233062,False,51,8,1,4,0.668,0.435,0.333,0.834,0.084,-15.885,0.0308,0.074,90.902,DeepFocus
+Waiting like the Storm,Rand Aldo,Nocturne in Green,257625,False,51,5,1,4,0.946,0.162,0.0564,0.889,0.101,-20.696,0.0341,0.0361,60.01,DeepFocus
+Path to Serenity,Arya Shae,Path to Serenity,214277,False,54,7,1,1,0.961,0.134,0.0601,0.869,0.109,-19.866,0.0352,0.0388,73.855,DeepFocus
+Focus,IFEELU,Focus,167142,False,56,6,0,4,0.566,0.669,0.155,0.8,0.625,-21.592,0.0343,0.0611,111.898,DeepFocus
+Glaciers,Lights & Motion,Bloom,176373,False,53,7,1,4,0.733,0.0789,0.16,0.786,0.0943,-18.144,0.0362,0.0409,56.449,DeepFocus
+Wild Trails,Epi-Soothe,Wild Trails,218501,False,52,4,1,3,0.742,0.213,0.233,0.881,0.149,-14.347,0.0289,0.0378,94.94,DeepFocus
+I Don't Trust That Bird of Prey,Random Forest,Requiescence,210500,False,51,7,1,4,0.605,0.52,0.305,0.899,0.16,-14.38,0.0322,0.0389,120.109,DeepFocus
+Solitude,Isobel Belano,Solitude,164981,False,52,7,0,3,0.811,0.171,0.168,0.918,0.111,-18.597,0.0327,0.119,85.183,DeepFocus
+Lunar Eclipse,Marc Torch,Lunar Eclipse,156473,False,51,11,0,4,0.224,0.632,0.469,0.854,0.0902,-10.513,0.0307,0.316,128.0,DeepFocus
+Retrospectacular,Domaine Blanc,Retrospectacular,200000,False,51,9,1,4,0.81,0.368,0.293,0.864,0.11,-16.379,0.0346,0.197,119.977,DeepFocus
+Sintra,Made Of Gold,Reflections,201951,False,51,2,0,4,0.984,0.395,0.147,0.909,0.0724,-19.174,0.051,0.167,164.176,DeepFocus
+Morning Shimmer,Vochey,Morning Shimmer,218880,False,51,11,0,4,0.58,0.449,0.163,0.908,0.114,-16.409,0.0361,0.0501,125.088,DeepFocus
+Orbits,Halfway Escape,Orbits,204827,False,51,6,1,4,0.855,0.438,0.404,0.881,0.11,-13.924,0.039,0.4,116.142,DeepFocus
+Floating Sunbeams,Michael Orvind,Floating Sunbeams,159292,False,50,1,1,4,0.98,0.205,0.202,0.85,0.128,-15.952,0.0427,0.086,113.057,DeepFocus
+Bayybe 07,Bilo 503,Bayybe,114195,False,51,7,1,4,0.827,0.44,0.384,0.934,0.156,-12.331,0.0453,0.0912,127.938,DeepFocus
+Water Lillies,A Teardrop In The Lake,Water Lillies,228000,False,51,0,1,5,0.848,0.234,0.226,0.942,0.111,-15.991,0.0368,0.0388,139.921,DeepFocus
+Coming Home,Zoe Connelly,Coming Home,172818,False,52,5,1,4,0.854,0.198,0.139,0.856,0.0773,-18.72,0.031,0.106,82.405,DeepFocus
+Stormy Weather,Lost Horse Mine,Stormy Weather,150169,False,50,2,1,3,0.00308,0.444,0.382,0.816,0.0915,-9.324,0.0397,0.197,123.59,DeepFocus
+Calm Wilderness,Night Sounds,Calm Wilderness,231723,False,53,7,1,4,0.886,0.186,0.271,0.961,0.141,-17.149,0.0449,0.0684,115.896,DeepFocus
+Essential Attitudes,Peals,Honey,217987,False,50,5,1,4,0.449,0.444,0.497,0.722,0.081,-12.601,0.0383,0.25,99.093,DeepFocus
+Trastevere,Sebastián Escofet,Universo en Miniatura Vol. 1,167613,False,52,4,1,3,0.886,0.42,0.272,0.834,0.0841,-14.843,0.0423,0.38,180.031,DeepFocus
+Hypnagogia Well,Monocle Twins,Hypnagogia Well,222000,False,51,2,0,4,0.771,0.545,0.253,0.922,0.108,-17.953,0.033,0.0529,115.848,DeepFocus
+Water Colors,Star Slide,Water Colors,182079,False,51,7,1,4,0.633,0.465,0.12,0.937,0.085,-19.328,0.0386,0.0659,72.021,DeepFocus
+Presence,Van Stiles,Presence,125500,False,50,2,0,1,0.966,0.616,0.292,0.927,0.0955,-16.837,0.0423,0.0633,127.008,DeepFocus
+Schloss,Elmau Dunkel,Schloss,222093,False,52,1,1,4,0.968,0.438,0.073,0.755,0.0935,-21.944,0.0411,0.0668,79.973,DeepFocus
+Kaolnite,Burgundy Skies,Kaolnite,180689,False,51,1,0,4,0.622,0.247,0.231,0.87,0.0878,-19.639,0.0328,0.0485,174.014,DeepFocus
+North Captiva,Lundegard,North Captiva,194495,False,50,9,0,4,0.918,0.479,0.346,0.929,0.111,-17.916,0.0306,0.23,143.965,DeepFocus
+mellow,cloudcrush,sleep escape,144434,False,50,0,1,4,0.985,0.609,0.157,0.792,0.112,-15.792,0.0322,0.0698,111.966,DeepFocus
+Auburn Sky,Toledo Rains,Auburn Sky,162829,False,50,4,0,4,0.906,0.265,0.035,0.89,0.0932,-26.502,0.0359,0.0651,132.972,DeepFocus
+Bortom Träden,Erik Reno,I Blomstertid,260564,False,50,8,1,4,0.801,0.446,0.0586,0.85,0.0876,-26.416,0.0416,0.111,124.019,DeepFocus
+Willet,Dust Follows,Swan,179610,False,50,0,1,4,0.967,0.425,0.168,0.818,0.16,-14.064,0.0322,0.0376,90.076,DeepFocus
+Malibu,Matthew Harvey,Malibu,150405,False,51,6,1,4,0.977,0.435,0.154,0.85,0.0728,-21.451,0.0367,0.0799,148.1,DeepFocus
+Bloom,Hilder Sky,Bloom,121069,False,51,4,1,5,0.945,0.249,0.129,0.839,0.17,-18.167,0.0324,0.253,70.59,DeepFocus
+Los Feliz,Search For Atlantis,Los Feliz,166927,False,50,11,0,4,0.197,0.575,0.373,0.898,0.0753,-11.642,0.0279,0.123,74.975,DeepFocus
+Found,Martin Gauffin,Found,159049,False,53,0,1,4,0.901,0.517,0.397,0.867,0.11,-14.281,0.0289,0.195,100.005,DeepFocus
+Placidity,Estado De Calma,Placidity,165268,False,50,7,1,4,0.474,0.261,0.25,0.893,0.0882,-18.526,0.0339,0.0827,153.045,DeepFocus
+Light Year,Evan Michael Brown,Light Year,234000,False,51,9,1,4,0.99,0.301,0.189,0.893,0.106,-16.072,0.0351,0.0379,139.894,DeepFocus
+Crystal Shores,Dean Valio,Crystal Shores,170958,False,52,,,,,,,,,,,,,DeepFocus
+Montana,Le Verne,Montana,133645,False,50,,,,,,,,,,,,,DeepFocus
+Focus,Light of Sun,Focus,190526,False,51,,,,,,,,,,,,,DeepFocus
+Woodland Heart,Ghost Of Summer,Woodland Heart,160105,False,53,,,,,,,,,,,,,DeepFocus
+Follow me,Andre Ehmann,Follow me,204624,False,52,,,,,,,,,,,,,DeepFocus
+Petrichor,Cecelya,Petrichor,118321,False,55,,,,,,,,,,,,,DeepFocus
+Clear Skies,Dhyana Thomas,Clear Skies,162085,False,51,,,,,,,,,,,,,DeepFocus
+In This Moment,Lucas Delphy,In This Moment,158666,False,50,,,,,,,,,,,,,DeepFocus
+The Choice,"Gustavo Santaolalla,Alan Umstead",The Last of Us,102373,False,57,,,,,,,,,,,,,DeepFocus
+Lucid Alchemy,Ruud Vanderwege,Lucid Alchemy,258928,False,55,,,,,,,,,,,,,DeepFocus
+Walking Away,Avery Young,Still Waters,147025,False,50,,,,,,,,,,,,,DeepFocus
+Andromeda,ÆROSPHERE,Andromeda,266400,False,49,,,,,,,,,,,,,DeepFocus
+Waves,Eucalyptic,Waves,202343,False,52,,,,,,,,,,,,,DeepFocus
+Under The Wind,The Tides,Under The Wind,240000,False,52,,,,,,,,,,,,,DeepFocus
+Meditations pt 1,Estado De Calma,Meditations pt 1,150806,False,52,,,,,,,,,,,,,DeepFocus
+The Beginning,Double Singularity,The Beginning,229041,False,51,,,,,,,,,,,,,DeepFocus
+Progress,Ever So Blue,Fragment,138629,False,60,,,,,,,,,,,,,DeepFocus
+Breathing Like the Pastures,Rand Aldo,Breathing Like the Pastures,221177,False,51,,,,,,,,,,,,,DeepFocus
+In the Clouds,Astron,In the Clouds,176796,False,53,,,,,,,,,,,,,DeepFocus
+Farnley Lane,The Sleepwalkers,Farnley Lane,198304,False,50,,,,,,,,,,,,,DeepFocus
+Memory Tree,Amparo,Memoir Collections I - Beginnings,174000,False,3,,,,,,,,,,,,,DeepFocus
+Drifting,Silje Månsson,Drifting,123353,False,51,,,,,,,,,,,,,DeepFocus
+Mars,Stratospheric,Mars,147386,False,49,,,,,,,,,,,,,DeepFocus
+Arriving,Hilder Sky,Arriving,145474,False,57,,,,,,,,,,,,,DeepFocus
+Epilogue,Paul Dennehy,A new beginning,257624,False,50,,,,,,,,,,,,,DeepFocus
+Moment of Clarity,Light Bin,Moment of Clarity,141580,False,60,,,,,,,,,,,,,DeepFocus
+Foveaux Strait,Ensemble Rivr Dane,Foveaux Strait,224000,False,49,,,,,,,,,,,,,DeepFocus
+Observations From A Faraway Place,Rannar Sillard,Dream Voucher,142074,False,59,,,,,,,,,,,,,DeepFocus
+Sunbleached Memory,Toledo Rains,Sunbleached Memory,155352,False,55,,,,,,,,,,,,,DeepFocus
+First,Roary,First,275600,False,50,,,,,,,,,,,,,DeepFocus
+Chasing Love,Mondbery,Chasing Love,131276,False,54,,,,,,,,,,,,,DeepFocus
+Waiting,Sheltered Solitude,Waiting,130069,False,50,,,,,,,,,,,,,DeepFocus
+Last Night,Jedisol,Last Night,127093,False,54,,,,,,,,,,,,,DeepFocus
+L'anniversaire,William Keats,L'anniversaire,165326,False,49,,,,,,,,,,,,,DeepFocus
+Final Mid,Sebastián Escofet,Universo en Miniatura Vol. 1,129199,False,49,,,,,,,,,,,,,DeepFocus
+they sink,Ólafur Arnalds,re:member,155484,False,55,,,,,,,,,,,,,DeepFocus
+Ether,Jakob Ahlbom,Ether,189040,False,52,,,,,,,,,,,,,DeepFocus
+Blue Adrian,369,369 Seconds Of Bliss,187910,False,53,,,,,,,,,,,,,DeepFocus
+Soft Upon Your Face,Ave Air,Paper Thin Reality,194836,False,0,,,,,,,,,,,,,DeepFocus
+Dreams Of Another Reality,August Wilhelmsson,I Was Arthur,190000,False,0,,,,,,,,,,,,,DeepFocus
+Pale Lights (Dark Dark Horse Remix),"Dark Dark Horse,This Patch of Sky",Pale Lights (Dark Dark Horse Remix),257607,False,49,,,,,,,,,,,,,DeepFocus
+Alluvium,Cecelya,Alluvium,124080,False,49,,,,,,,,,,,,,DeepFocus
+He Needs Help,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),190666,False,56,,,,,,,,,,,,,DeepFocus
+Candlelight,Reed Goff,Candlelight,124080,False,49,,,,,,,,,,,,,DeepFocus
+Dans i Vindi,Elvar Arngrimsson,Fjarlagt Ljus,184800,False,51,,,,,,,,,,,,,DeepFocus
+Kohobodi Boy,Daniel Kadawatha,Kohobodi Boy,163833,False,55,,,,,,,,,,,,,DeepFocus
+Cotton Spheres,Lama House,Cumulus Motion,174755,False,54,,,,,,,,,,,,,DeepFocus
+Tomorrow Will Save Us,Rand Aldo,Tomorrow Will Save Us,186000,False,0,,,,,,,,,,,,,DeepFocus
+Before Leaving,Gradient Layer,A Lonesome Place,115494,False,52,,,,,,,,,,,,,DeepFocus
+Postcards from You,Life Below Elephants,Postcards from You,232888,False,49,,,,,,,,,,,,,DeepFocus
+Clovelly Dreams,Zero Mileage,Clovelly Dreams,191162,False,49,,,,,,,,,,,,,DeepFocus
+White Waves,Cooper Sams,White Waves,231723,False,51,,,,,,,,,,,,,DeepFocus
+Sphere,Jakob Ahlbom,Distant Echo,200385,False,52,,,,,,,,,,,,,DeepFocus
+Dakota,Sheltered Solitude,Dakota,130024,False,53,,,,,,,,,,,,,DeepFocus
+"Two One, Four","Fyfe,Iskra Strings",Fyfe & Iskra Strings EP 1,277346,False,0,,,,,,,,,,,,,DeepFocus
+Gloaming,Cecelya,Gloaming,135575,False,51,,,,,,,,,,,,,DeepFocus
+Morro Bay,Lundegard,Morro Bay,192171,False,49,,,,,,,,,,,,,DeepFocus
+Sea of Tranquility,Evan Michael Brown,Above The Clouds,175000,False,49,,,,,,,,,,,,,DeepFocus
+Sunrise,Elise Magnefold,Sunrise,169687,False,49,,,,,,,,,,,,,DeepFocus
+You Have Done Well,They Dream By Day,Fields Of Moab,252380,False,49,,,,,,,,,,,,,DeepFocus
+Clear Language,Balmorhea,Clear Language,193386,False,0,,,,,,,,,,,,,DeepFocus
+The Slide,Eucalyptic,The Slide,174947,False,49,,,,,,,,,,,,,DeepFocus
+The Light of Day,Chymeris,The Light of Day,167386,False,54,,,,,,,,,,,,,DeepFocus
+Waiting,Catherine Holm,Waiting,109235,False,50,,,,,,,,,,,,,DeepFocus
+Overture,Lights & Motion,Bloom,197666,False,50,,,,,,,,,,,,,DeepFocus
+"2 Nights, a Whisper",Arylith,La Luna,190803,False,49,,,,,,,,,,,,,DeepFocus
+My World Is Changing,Eroded Sky,My World Is Changing,171613,False,49,,,,,,,,,,,,,DeepFocus
+Wait Until Spring,Dhyana Thomas,Wait Until Spring,189406,False,50,,,,,,,,,,,,,DeepFocus
+Monita,Vincent Brahn,Lake Navis,196000,False,56,,,,,,,,,,,,,DeepFocus
+The Watchmaker,Gendrial,The Watchmaker,128481,False,49,,,,,,,,,,,,,DeepFocus
+Silk And Honey,Wolfgang Snow,Silk And Honey,200492,False,50,,,,,,,,,,,,,DeepFocus
+Escape,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),85466,False,49,,,,,,,,,,,,,DeepFocus
+Yatta,Fukase Junichiro,Yatta,144374,False,50,,,,,,,,,,,,,DeepFocus
+Northern Lights,Chasing Noise,Wonderland,216000,False,49,,,,,,,,,,,,,DeepFocus
+October Skies,Ebb & Flod,Moonrise,175150,False,0,,,,,,,,,,,,,DeepFocus
+Seeming,Helios,Seeming,155866,False,0,,,,,,,,,,,,,DeepFocus
+Lore,Moon Hill,Lore,195300,False,48,,,,,,,,,,,,,DeepFocus
+Deliverance,Avery Young,Still Waters,239024,False,49,,,,,,,,,,,,,DeepFocus
+Timeless,Orchestrate the Universe,Timeless,116007,False,52,,,,,,,,,,,,,DeepFocus
+Saoirse,Symon van Gent,Saoirse,179000,False,55,,,,,,,,,,,,,DeepFocus
+Never Let Go,Galvic,Never Let Go,159295,False,53,,,,,,,,,,,,,DeepFocus
+Migration,"Keith Kenniff,Goldmund",Migration,217757,False,51,,,,,,,,,,,,,DeepFocus
+If I'd Have Known It Was The Last (Second Position),Codes In The Clouds,As The Spirit Wanes,112720,False,0,,,,,,,,,,,,,DeepFocus
+Masollan,Balmorhea,Stranger,313460,False,0,,,,,,,,,,,,,DeepFocus
+Bless Those Tired Eyes,Clem Leek,Rest,232221,False,52,,,,,,,,,,,,,DeepFocus
+The Return Home,Daniel Kadawatha,Through Changing Forms,168377,False,52,,,,,,,,,,,,,DeepFocus
+Ashes,Orchestrate the Universe,New Life,131000,False,52,,,,,,,,,,,,,DeepFocus
+Revealing The Unreal,Ave Air,Suburban Call For Concrete Dreams,212894,False,56,,,,,,,,,,,,,DeepFocus

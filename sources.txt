@@ -14,3 +14,10 @@ https://towardsdatascience.com/playlist-classification-on-spotify-using-knn-and-
 
 multilabel playlist class:
 http://www.apsipa.org/proceedings/2018/pdfs/0001957.pdf
+
+autoencoders:
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+https://distill.pub/2016/misread-tsne/
+
+PCA:
+https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c

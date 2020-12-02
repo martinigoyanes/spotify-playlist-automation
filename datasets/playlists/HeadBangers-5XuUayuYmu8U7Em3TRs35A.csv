@@ -19,13 +19,13 @@ School's Out,Alice Cooper,School's Out,210106,False,67,5,1,4,0.05,0.294,0.745,0.
 I'm Eighteen,Alice Cooper,Love It to Death,180760,False,57,4,0,4,0.249,0.618,0.413,0.0517,0.131,-14.164,0.0302,0.531,97.84,HeadBangers
 No More Mr. Nice Guy,Alice Cooper,Billion Dollar Babies (Deluxe Reissue),187893,False,59,11,0,4,0.0936,0.498,0.515,0,0.1,-11.985,0.0395,0.616,127.761,HeadBangers
 Everybody Wants You - Remastered 1995,Billy Squier,The Best Of Billy Squier/16 Strokes,227333,False,33,7,1,4,0.263,0.531,0.894,0.000148,0.0776,-9.687,0.0553,0.946,131.781,HeadBangers
-Lonely Is The Night - Remastered,Billy Squier,Don't Say No,281453,False,64,9,1,4,0.209,0.347,0.803,4.36e-06,0.116,-4.923,0.0416,0.672,85.362,HeadBangers
+Lonely Is The Night - Remastered,Billy Squier,Don't Say No,281453,False,63,9,1,4,0.209,0.347,0.803,4.36e-06,0.116,-4.923,0.0416,0.672,85.362,HeadBangers
 N.I.B.,Black Sabbath,Black Sabbath (2009 Remastered Version),364493,False,63,4,0,4,0.0838,0.476,0.556,1.59e-05,0.125,-10.586,0.0646,0.43,103.122,HeadBangers
 Heaven and Hell - 2009 Remaster,Black Sabbath,Heaven & Hell,417840,False,62,3,0,4,0.00858,0.333,0.445,0.0451,0.167,-16.343,0.0283,0.35,89.371,HeadBangers
 Paranoid,Black Sabbath,Paranoid (2009 Remastered Version),168440,False,77,4,0,4,7.85e-05,0.429,0.631,0.00411,0.175,-11.514,0.0769,0.376,162.734,HeadBangers
-Into the Void,Black Sabbath,Master of Reality (2009 Remastered Version),372600,False,52,6,1,4,0.011,0.416,0.549,0.0378,0.109,-13.487,0.039,0.535,76.233,HeadBangers
+Into the Void,Black Sabbath,Master of Reality (2009 Remastered Version),372600,False,51,6,1,4,0.011,0.416,0.549,0.0378,0.109,-13.487,0.039,0.535,76.233,HeadBangers
 Smoke On The Water - Remastered 2012,Deep Purple,Machine Head (Remastered),340742,False,74,0,1,4,0.13,0.598,0.676,0.225,0.112,-9.211,0.0279,0.805,114.169,HeadBangers
-Photograph,Def Leppard,Pyromania,247962,False,66,4,1,4,0.000343,0.602,0.877,0.635,0.0551,-6.606,0.0515,0.617,123.679,HeadBangers
+Photograph,Def Leppard,Pyromania,247962,False,65,4,1,4,0.000343,0.602,0.877,0.635,0.0551,-6.606,0.0515,0.617,123.679,HeadBangers
 Rainbow In The Dark,Dio,Holy Diver,252693,False,64,9,0,4,7.06e-05,0.508,0.912,0.403,0.0492,-8.049,0.0368,0.682,117.582,HeadBangers
 Holy Diver,Dio,Holy Diver,340640,False,66,10,0,4,0.0125,0.473,0.783,0.475,0.268,-10.671,0.0869,0.124,91.976,HeadBangers
 Welcome To The Jungle,Guns N' Roses,Appetite For Destruction,272026,False,77,8,1,4,0.0235,0.447,0.954,0.403,0.298,-8.069,0.0751,0.331,123.453,HeadBangers
@@ -37,7 +37,7 @@ The Trooper - 1998 Remastered Version,Iron Maiden,Piece Of Mind (1998 Remastered
 Metal Gods,Judas Priest,British Steel,238293,False,46,6,0,4,0.0265,0.578,0.854,0.00141,0.146,-6.558,0.0296,0.424,101.181,HeadBangers
 Living After Midnight,Judas Priest,British Steel,210133,False,63,4,1,4,0.0136,0.61,0.824,1.75e-06,0.0606,-6.046,0.0534,0.819,134.992,HeadBangers
 Heavy Metal,Judas Priest,Ram It Down,358240,False,34,2,1,4,0.167,0.428,0.975,3.92e-05,0.414,-5.183,0.08,0.234,134.015,HeadBangers
-Electric Eye,Judas Priest,Screaming For Vengeance Special 30th Anniversary Edition,222440,False,59,4,0,4,0.000716,0.437,0.948,0.000261,0.146,-6.041,0.0554,0.361,96.72,HeadBangers
+Electric Eye,Judas Priest,Screaming For Vengeance Special 30th Anniversary Edition,222440,False,58,4,0,4,0.000716,0.437,0.948,0.000261,0.146,-6.041,0.0554,0.361,96.72,HeadBangers
 You've Got Another Thing Coming,Judas Priest,Screaming For Vengeance Special 30th Anniversary Edition,310080,False,65,6,0,4,0.00572,0.519,0.833,4.33e-06,0.104,-6.947,0.0496,0.532,138.225,HeadBangers
 Heaven's On Fire,KISS,Animalize,201400,False,66,0,1,4,0.00376,0.679,0.866,3.1e-05,0.312,-6.053,0.0635,0.785,124.324,HeadBangers
 I Was Made For Lovin' You,KISS,Dynasty,271240,False,79,4,1,4,0.214,0.768,0.852,7.36e-05,0.0723,-6.215,0.038,0.867,128.373,HeadBangers
@@ -55,18 +55,18 @@ Ace of Spades,Motörhead,Ace of Spades (Expanded Edition),166920,False,74,3,0,4,
 Bark at the Moon,Ozzy Osbourne,Bark At The Moon (Expanded Edition),257120,False,66,9,0,4,0.00253,0.303,0.961,6.2e-05,0.132,-5.333,0.243,0.305,146.591,HeadBangers
 I Don't Know,Ozzy Osbourne,Blizzard of Ozz (Expanded Edition),317173,False,27,2,1,4,0.441,0.443,0.907,1.15e-06,0.12,-5.574,0.181,0.278,134.992,HeadBangers
 The Ultimate Sin,Ozzy Osbourne,The Ultimate Sin,223693,False,46,1,0,4,0.000639,0.564,0.91,0.00633,0.0679,-6.472,0.0467,0.684,119.33,HeadBangers
-Metal Health (Bang Your Head),Quiet Riot,Metal Health,316866,False,63,2,1,4,0.0434,0.494,0.933,0.00108,0.228,-5.977,0.0808,0.507,121.201,HeadBangers
+Metal Health (Bang Your Head),Quiet Riot,Metal Health,316866,False,62,2,1,4,0.0434,0.494,0.933,0.00108,0.228,-5.977,0.0808,0.507,121.201,HeadBangers
 Let's Get Crazy,Quiet Riot,Metal Health,248200,False,29,2,1,4,0.0155,0.436,0.933,4.61e-06,0.225,-6.157,0.0606,0.598,127.926,HeadBangers
-Working Man,Rush,Spirit Of Radio: Greatest Hits (1974-1987),429866,False,27,9,1,4,0.00151,0.204,0.874,0.0112,0.0899,-9.128,0.0675,0.632,157.013,HeadBangers
+Working Man,Rush,Spirit Of Radio: Greatest Hits (1974-1987),429866,False,26,9,1,4,0.00151,0.204,0.874,0.0112,0.0899,-9.128,0.0675,0.632,157.013,HeadBangers
 The Zoo - 2015 Remaster,Scorpions,Animal Magnetism,330466,False,42,9,1,4,0.0609,0.42,0.865,0.328,0.36,-4.159,0.135,0.225,102.934,HeadBangers
 I Wanna Rock,Twisted Sister,Stay Hungry,179760,False,70,2,1,4,0.00512,0.504,0.911,0.0123,0.355,-2.97,0.0738,0.671,106.244,HeadBangers
 We're Not Gonna Take It,Twisted Sister,Stay Hungry,219666,False,73,4,1,4,0.0127,0.502,0.924,0,0.162,-6.299,0.0503,0.922,149.186,HeadBangers
 Panama - 2015 Remaster,Van Halen,1984 (Remastered),210226,False,74,8,1,4,0.00124,0.527,0.978,4.75e-05,0.0744,-5.436,0.109,0.463,141.169,HeadBangers
-Unchained - 2015 Remaster,Van Halen,Fair Warning (Remastered),209205,False,60,1,1,4,0.0145,0.528,0.875,0,0.138,-5.912,0.0436,0.479,136.83,HeadBangers
+Unchained - 2015 Remaster,Van Halen,Fair Warning (Remastered),209205,False,59,1,1,4,0.0145,0.528,0.875,0,0.138,-5.912,0.0436,0.479,136.83,HeadBangers
 Eruption - 2015 Remaster,Van Halen,Van Halen (Remastered),102080,False,66,8,1,4,0.469,0.225,0.689,0.813,0.337,-9.12,0.0555,0.5,93.798,HeadBangers
 Ain't Talkin' 'Bout Love - 2015 Remaster,Van Halen,Van Halen (Remastered),227800,False,68,8,0,4,0.021,0.518,0.938,0.000305,0.288,-5.964,0.0416,0.71,139.138,HeadBangers
 Got Me Under Pressure - 2008 Remaster,ZZ Top,Eliminator,243066,False,53,2,1,4,0.0166,0.607,0.939,0.0081,0.0941,-4.95,0.0375,0.764,157.957,HeadBangers
 Sharp Dressed Man - 2008 Remaster,ZZ Top,Eliminator,258026,False,72,5,1,4,0.000359,0.601,0.859,0.00124,0.0871,-5.263,0.0276,0.446,125.145,HeadBangers
-My Head's in Mississippi,ZZ Top,Recycler,261026,False,44,2,1,4,0.00123,0.456,0.731,0.0156,0.0773,-8.614,0.0473,0.596,75.997,HeadBangers
+My Head's in Mississippi,ZZ Top,Recycler,261026,False,43,2,1,4,0.00123,0.456,0.731,0.0156,0.0773,-8.614,0.0473,0.596,75.997,HeadBangers
 Master Of Puppets,Metallica,Master Of Puppets (Remastered),515386,False,73,4,0,4,0.000647,0.543,0.836,0.431,0.153,-9.11,0.0353,0.56,105.173,HeadBangers
-Shot In The Dark,AC/DC,Shot In The Dark,185133,False,74,2,1,4,2.07e-05,0.599,0.787,5.27e-05,0.064,-4.708,0.0338,0.822,114.065,HeadBangers
+Shot In The Dark,AC/DC,Shot In The Dark,185133,False,73,2,1,4,2.07e-05,0.599,0.787,5.27e-05,0.064,-4.708,0.0338,0.822,114.065,HeadBangers

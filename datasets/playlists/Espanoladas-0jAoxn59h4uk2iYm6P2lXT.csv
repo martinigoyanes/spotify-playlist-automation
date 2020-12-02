@@ -1,0 +1,281 @@
+Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Entre la espada y la pared,Fito y Fitipaldis,Huyendo conmigo de mí,292240,False,53,0,1,4,0.15,0.706,0.717,0,0.132,-8.108,0.0379,0.559,134.184,Espanoladas
+Lo que sobra de mí,Fito y Fitipaldis,Huyendo conmigo de mí,220120,False,49,5,0,4,0.245,0.685,0.671,0,0.143,-7.082,0.0358,0.829,142.258,Espanoladas
+Pájaros disecados,Fito y Fitipaldis,Huyendo conmigo de mí,259213,False,43,2,0,4,0.123,0.664,0.546,1.86e-06,0.138,-8.519,0.0284,0.698,130.208,Espanoladas
+Garabatos,Fito y Fitipaldis,Huyendo conmigo de mí,280293,False,49,5,0,4,0.0235,0.54,0.717,0,0.0622,-6.316,0.0642,0.801,154.176,Espanoladas
+Después del naufragio,Fito y Fitipaldis,Huyendo conmigo de mí,278586,False,30,7,1,3,0.663,0.429,0.299,1.86e-05,0.106,-10.848,0.0347,0.349,168.317,Espanoladas
+Tarde o temprano,Fito y Fitipaldis,Antes de que cuente diez,305760,False,44,0,1,4,0.0875,0.617,0.779,0.000314,0.682,-5.015,0.0301,0.686,110.052,Espanoladas
+Catorce vidas son dos gatos,Fito y Fitipaldis,Antes de que cuente diez,386293,False,46,5,1,4,0.325,0.635,0.406,1.72e-05,0.0759,-7.501,0.0355,0.355,123.923,Espanoladas
+Todo a cien,Fito y Fitipaldis,Antes de que cuente diez,230706,False,34,5,0,4,0.0101,0.447,0.827,4.73e-06,0.102,-5.215,0.0743,0.555,167.899,Espanoladas
+Los huesos de los besos,Fito y Fitipaldis,Antes de que cuente diez,269906,False,44,9,0,4,0.0625,0.676,0.757,2.25e-05,0.275,-7.267,0.0328,0.617,114.988,Espanoladas
+Que me arrastre el viento,Fito y Fitipaldis,Antes de que cuente diez,267346,False,30,5,0,4,0.508,0.361,0.334,0.000209,0.127,-8.931,0.0537,0.287,69.182,Espanoladas
+Qué necesario es el rock&roll,Fito y Fitipaldis,Antes de que cuente diez,327320,False,42,7,1,4,0.00853,0.592,0.856,3.05e-06,0.132,-4.688,0.062,0.769,140.737,Espanoladas
+Conozco un lugar,Fito y Fitipaldis,Antes de que cuente diez,245680,False,30,8,1,4,0.0772,0.711,0.659,1.06e-06,0.0841,-7.845,0.0374,0.446,126.872,Espanoladas
+La cuisine de Bernard,Fito y Fitipaldis,Antes de que cuente diez,281640,False,27,7,0,4,0.0132,0.313,0.684,0.814,0.0826,-7.961,0.0493,0.165,169.159,Espanoladas
+Por la boca vive el pez,Fito y Fitipaldis,Por la boca vive el pez,269373,False,62,0,0,4,0.255,0.641,0.892,1.01e-05,0.221,-2.812,0.0303,0.841,151.229,Espanoladas
+Me equivocaría otra vez,Fito y Fitipaldis,Por la boca vive el pez,306240,False,59,7,0,4,0.355,0.739,0.748,2.54e-06,0.177,-3.806,0.0269,0.822,132.86,Espanoladas
+Como pollo sin cabeza,Fito y Fitipaldis,Por la boca vive el pez,250399,False,43,9,1,4,0.0548,0.529,0.948,4.13e-05,0.139,-4.38,0.0535,0.801,153.988,Espanoladas
+Sobra la luz,Fito y Fitipaldis,Por la boca vive el pez,215306,False,33,9,0,4,0.22,0.764,0.657,0,0.112,-5.513,0.037,0.967,130.873,Espanoladas
+Viene y va,Fito y Fitipaldis,Por la boca vive el pez,274906,False,46,0,1,4,0.0285,0.714,0.941,0,0.0941,-3.253,0.0371,0.965,134.264,Espanoladas
+Donde todo empieza,Fito y Fitipaldis,Por la boca vive el pez,332159,False,44,10,1,4,0.112,0.413,0.599,1.16e-05,0.32,-5.86,0.0484,0.553,155.384,Espanoladas
+Acabo de llegar,Fito y Fitipaldis,Por la boca vive el pez,375119,False,54,0,1,4,0.252,0.565,0.87,0.000162,0.526,-3.895,0.0409,0.886,145.164,Espanoladas
+Medalla de cartón,Fito y Fitipaldis,Por la boca vive el pez,318746,False,34,7,0,4,0.06,0.591,0.955,1.36e-05,0.183,-3.979,0.0536,0.714,150.214,Espanoladas
+Esta noche,Fito y Fitipaldis,Por la boca vive el pez,240546,False,27,2,1,4,0.126,0.388,0.922,0.102,0.319,-3.858,0.0368,0.962,170.578,Espanoladas
+Abrazado a la tristeza,Fito y Fitipaldis,Por la boca vive el pez,208933,False,32,4,0,4,0.878,0.599,0.311,0.0778,0.364,-9.205,0.0382,0.628,78.434,Espanoladas
+La casa por el tejado,Fito y Fitipaldis,Lo mas lejos a tu lado,267760,False,61,7,0,4,0.323,0.734,0.852,2.27e-05,0.421,-5.632,0.0483,0.89,149.976,Espanoladas
+Un buen castigo,Fito y Fitipaldis,Lo mas lejos a tu lado,277866,False,50,6,0,4,0.141,0.69,0.842,0.0158,0.238,-7.683,0.0302,0.951,150.042,Espanoladas
+Feo,Fito y Fitipaldis,Lo mas lejos a tu lado,294586,False,35,7,1,4,0.376,0.717,0.519,0.0404,0.108,-9.106,0.031,0.617,120.795,Espanoladas
+Soldadito marinero,Fito y Fitipaldis,Lo mas lejos a tu lado,254373,False,66,2,1,4,0.132,0.718,0.431,0.000165,0.0686,-8.736,0.0314,0.324,139.618,Espanoladas
+Nada que decir,Fito y Fitipaldis,Lo mas lejos a tu lado,180920,False,31,7,1,4,0.0635,0.759,0.668,0.212,0.0711,-6.561,0.0335,0.968,119.854,Espanoladas
+Vamono,Fito y Fitipaldis,Lo mas lejos a tu lado,308333,False,30,7,1,4,0.112,0.698,0.873,0.877,0.119,-7.779,0.0434,0.919,98.002,Espanoladas
+Las nubes de tu pelo,Fito y Fitipaldis,Lo mas lejos a tu lado,209640,False,48,4,0,4,0.849,0.828,0.525,0.0312,0.124,-8.179,0.0762,0.772,157.956,Espanoladas
+Whisky barato,Fito y Fitipaldis,Lo mas lejos a tu lado,198893,False,53,7,1,4,0.0658,0.589,0.872,0.000493,0.329,-5.231,0.037,0.982,168.008,Espanoladas
+Siempre estoy soñando,Fito y Fitipaldis,Lo mas lejos a tu lado,248013,False,46,0,1,4,0.165,0.765,0.512,1.08e-05,0.158,-8.257,0.0393,0.89,156.005,Espanoladas
+Malabares,Estopa,Voces de Ultrarumba,205706,False,52,9,0,4,0.0631,0.498,0.888,4.92e-05,0.429,-7.424,0.0428,0.841,105.917,Espanoladas
+Que Suerte la Mía,Estopa,Voces de Ultrarumba,207386,False,48,9,0,4,0.242,0.806,0.757,0,0.0946,-9.633,0.178,0.966,95.02,Espanoladas
+Vacaciones,Estopa,Voces de Ultrarumba,192386,False,54,9,1,4,0.509,0.738,0.803,1.52e-05,0.163,-9.14,0.0483,0.968,98.016,Espanoladas
+Ninguna Parte,Estopa,Voces de Ultrarumba,206453,False,38,11,0,4,0.452,0.828,0.598,6.29e-05,0.0848,-10.814,0.0722,0.862,144.012,Espanoladas
+A Mi Me Gusta,Estopa,Voces de Ultrarumba,217360,False,38,9,0,4,0.0799,0.652,0.413,1.58e-05,0.0749,-8.805,0.239,0.847,120.072,Espanoladas
+Gulere Gulere,Estopa,Voces de Ultrarumba,205840,False,41,9,0,4,0.162,0.486,0.67,0,0.103,-8.88,0.11,0.824,94.82,Espanoladas
+Monstruos,Estopa,Voces de Ultrarumba,195173,False,40,9,0,4,0.0904,0.762,0.584,3.13e-06,0.0874,-8.831,0.0471,0.859,139.877,Espanoladas
+Fábricas de Sueños,Estopa,Voces de Ultrarumba,183720,False,37,9,1,4,0.187,0.702,0.767,1.06e-05,0.147,-8.917,0.0392,0.913,97.537,Espanoladas
+Paseo,Estopa,Voces de Ultrarumba,216440,False,59,0,1,4,0.432,0.726,0.55,0,0.155,-9.676,0.0445,0.84,102.021,Espanoladas
+Tu Calorro,Estopa,Estopa,190626,False,64,0,1,4,0.229,0.713,0.768,0,0.447,-9.115,0.0662,0.962,88.012,Espanoladas
+Por la Raja de Tu Falda,Estopa,Estopa,202826,False,60,9,0,4,0.323,0.759,0.722,0,0.719,-9.906,0.0765,0.928,97.518,Espanoladas
+Tocado y hundido,Melendi,Un alumno más,211586,False,55,11,1,4,0.136,0.693,0.919,0.0074,0.0901,-3.737,0.0651,0.729,102.052,Espanoladas
+La promesa,Melendi,Un alumno más,233040,False,61,8,1,4,0.0674,0.584,0.73,0.00849,0.288,-5.095,0.0355,0.414,153.929,Espanoladas
+La religión de los idiotas,Melendi,Un alumno más,208826,False,48,4,1,4,0.0709,0.579,0.812,0.00138,0.15,-4.876,0.0604,0.839,175.969,Espanoladas
+El amor es un arte,Melendi,Un alumno más,265880,False,48,11,1,4,0.253,0.529,0.771,4.17e-06,0.0998,-5.395,0.0786,0.377,161.913,Espanoladas
+Tu jardín con enanitos,Melendi,Lágrimas desordenadas,236975,False,65,7,1,4,0.337,0.721,0.834,0,0.104,-4.457,0.0345,0.53,127.92,Espanoladas
+Barbie de extrarradio,Melendi,Volvamos a empezar,215946,False,36,0,1,4,0.195,0.666,0.893,0,0.106,-5.151,0.118,0.315,153.014,Espanoladas
+Lágrimas desordenadas,Melendi,Lágrimas desordenadas,229308,False,54,9,1,4,0.238,0.641,0.937,0,0.108,-3.52,0.0735,0.653,160.1,Espanoladas
+Un Millon de Cicatrices,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,246306,False,52,1,1,4,0.184,0.664,0.669,0,0.131,-6.59,0.0272,0.536,124.963,Espanoladas
+Ya Nada Volvera a Ser Como Antes,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,253013,False,39,8,1,4,0.273,0.64,0.438,0,0.128,-6.935,0.0251,0.421,110.028,Espanoladas
+Quiero Aprender de Ti,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,221960,False,45,4,1,4,0.33,0.516,0.533,0,0.164,-6.731,0.0258,0.378,153.98,Espanoladas
+Volvera (feat. Alejandro Sanz),"El Canto Del Loco,Alejandro Sanz",Radio la Colifata Presenta: El Canto del Loco,180853,False,54,6,1,4,0.35,0.715,0.706,0,0.25,-6.668,0.0253,0.833,118.01,Espanoladas
+Peter Pan,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,251826,False,35,4,1,4,0.0253,0.56,0.681,0,0.301,-6.001,0.0297,0.455,92.999,Espanoladas
+Besos,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,213946,False,37,10,1,4,0.0123,0.273,0.708,0,0.122,-5.002,0.0616,0.778,204.635,Espanoladas
+Corazon,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,283573,False,31,4,1,4,0.00965,0.601,0.719,2.76e-06,0.0552,-5.281,0.028,0.553,132.999,Espanoladas
+La Madre de Jose / Sin Documentos,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,178413,False,40,1,1,4,0.00797,0.548,0.826,2.11e-06,0.105,-4.411,0.0437,0.787,101.428,Espanoladas
+Eres Tonto (feat. Vicentico),"El Canto Del Loco,Vicentico",Radio la Colifata Presenta: El Canto del Loco,211106,False,32,5,0,4,0.191,0.752,0.708,0,0.0876,-5.675,0.0421,0.961,94.951,Espanoladas
+Puede Ser,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,177400,False,47,11,1,4,0.289,0.641,0.477,0,0.103,-7.369,0.0251,0.421,94.037,Espanoladas
+Zapatillas,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,166826,False,34,8,0,4,0.00702,0.448,0.797,0,0.0719,-3.804,0.0847,0.933,197.933,Espanoladas
+Canciones,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,177266,False,29,8,1,4,0.00985,0.505,0.859,0,0.385,-4.115,0.0334,0.742,101.557,Espanoladas
+Personas,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,259813,False,30,8,1,4,0.201,0.646,0.621,0,0.197,-6.396,0.0271,0.738,116.99,Espanoladas
+Contigo (feat. Natalia Lafourcade),"El Canto Del Loco,Natalia Lafourcade",Radio la Colifata Presenta: El Canto del Loco,214853,False,62,1,0,4,0.213,0.727,0.628,0,0.12,-7.3,0.0269,0.686,118.007,Espanoladas
+LLueve en Mi,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,254120,False,39,6,1,4,0.634,0.454,0.18,0,0.117,-9.757,0.0303,0.387,187.917,Espanoladas
+El Pescao,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,203973,False,27,10,0,4,0.233,0.787,0.765,0,0.189,-5.363,0.0443,0.963,96.499,Espanoladas
+La Suerte de Mi Vida,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,226026,False,35,8,1,4,0.0711,0.622,0.675,4.88e-05,0.115,-5.205,0.0369,0.775,132.005,Espanoladas
+Una Foto en Blanco y Negro,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,213826,False,34,1,1,4,0.00823,0.527,0.817,0,0.111,-4.052,0.0319,0.395,136.955,Espanoladas
+Fin de Semana,El Canto Del Loco,Radio la Colifata Presenta: El Canto del Loco,206000,False,26,8,1,4,0.000179,0.538,0.796,3.36e-05,0.0666,-4.081,0.0313,0.707,138.898,Espanoladas
+Peter Pan (with Leiva),"El Canto Del Loco,Leiva",Radio la Colifata Presenta: El Canto del Loco,267586,False,31,2,1,4,0.902,0.481,0.137,0,0.111,-11.882,0.0365,0.193,71.46,Espanoladas
+Corazon,El Canto Del Loco,Personas,256786,False,41,4,1,4,0.0339,0.567,0.892,0.000445,0.364,-2.951,0.0344,0.747,130.057,Espanoladas
+Eres Tonto,El Canto Del Loco,Personas,192426,False,52,5,0,4,0.0146,0.412,0.902,0,0.091,-3.269,0.0534,0.899,189.146,Espanoladas
+Peter Pan,El Canto Del Loco,Personas,259720,False,58,4,1,4,0.29,0.568,0.832,0,0.204,-3.358,0.0333,0.48,92.452,Espanoladas
+Personas,El Canto Del Loco,Personas,224013,False,42,8,1,4,0.0109,0.575,0.885,7.13e-06,0.0496,-3.31,0.0344,0.914,129.96,Espanoladas
+La Suerte de Mi Vida,El Canto Del Loco,Personas,218706,False,53,8,1,4,0.0133,0.549,0.822,8.69e-05,0.332,-3.97,0.0357,0.681,132.018,Espanoladas
+Un Millon de Cicatrices,El Canto Del Loco,Personas,262720,False,37,1,1,4,0.00717,0.482,0.968,1.01e-05,0.385,-3.078,0.0471,0.653,139.973,Espanoladas
+Canciones,El Canto Del Loco,Zapatillas,183773,False,39,8,1,4,0.00403,0.451,0.964,3.27e-05,0.322,-2.901,0.0511,0.656,103.45,Espanoladas
+Volvera,El Canto Del Loco,Zapatillas,229746,False,57,1,1,4,0.0111,0.568,0.892,0,0.379,-3.091,0.0464,0.783,126.02,Espanoladas
+Zapatillas,El Canto Del Loco,Zapatillas,172640,False,61,8,0,4,0.0281,0.428,0.956,0,0.58,-2.382,0.178,0.686,198.076,Espanoladas
+Sera,El Canto Del Loco,Zapatillas,248213,False,38,6,1,4,0.00149,0.324,0.699,4e-06,0.0971,-4.541,0.0374,0.174,185.879,Espanoladas
+Besos,El Canto Del Loco,Zapatillas,145826,False,61,10,1,4,0.00679,0.576,0.909,4.42e-06,0.134,-3.306,0.0523,0.544,104.971,Espanoladas
+Vuelve,El Canto Del Loco,Zapatillas,155466,False,45,11,1,4,0.00673,0.56,0.955,0,0.178,-2.309,0.0449,0.624,101.936,Espanoladas
+El Pescao,El Canto Del Loco,Zapatillas,201093,False,33,1,1,4,0.106,0.71,0.809,7.4e-05,0.15,-3.553,0.0489,0.971,96.028,Espanoladas
+Que Caro Es el Tiempo,El Canto Del Loco,Zapatillas,177813,False,39,11,1,3,0.0194,0.474,0.697,0,0.147,-3.318,0.0375,0.462,125.107,Espanoladas
+Desaparece,El Canto Del Loco,Zapatillas,170133,False,38,8,0,4,0.00083,0.527,0.951,9.74e-06,0.158,-2.288,0.051,0.798,102.5,Espanoladas
+Tal Como Eres,El Canto Del Loco,Zapatillas,253266,False,56,11,1,3,0.0205,0.468,0.724,0,0.339,-3.326,0.0328,0.336,178.939,Espanoladas
+Por Ti,El Canto Del Loco,Zapatillas,172373,False,47,3,1,4,0.697,0.619,0.369,0,0.203,-8.25,0.0292,0.36,124.981,Espanoladas
+Son Sueños,El Canto Del Loco,A Contracorriente,230600,False,48,8,1,4,0.0351,0.591,0.899,0,0.102,-4.427,0.0377,0.536,128.041,Espanoladas
+Puede Ser (with Amaia Montero),"El Canto Del Loco,Amaia Montero",A Contracorriente,181026,False,61,11,1,4,0.398,0.412,0.591,0,0.119,-4.673,0.0346,0.344,188.376,Espanoladas
+A Contracorriente,El Canto Del Loco,A Contracorriente,181533,False,46,8,1,4,0.016,0.496,0.932,7.04e-06,0.135,-1.945,0.0393,0.736,155.006,Espanoladas
+Contigo,El Canto Del Loco,A Contracorriente,212466,False,46,1,0,4,0.0893,0.723,0.71,0,0.0897,-5.659,0.0316,0.406,130.042,Espanoladas
+Tremendo,El Canto Del Loco,A Contracorriente,180160,False,24,8,0,4,0.0199,0.584,0.956,0,0.0457,-2.982,0.0514,0.96,108.874,Espanoladas
+Super Heroe,El Canto Del Loco,A Contracorriente,187466,False,25,8,1,4,0.00784,0.548,0.96,5.83e-06,0.241,-0.091,0.0463,0.809,92.568,Espanoladas
+Crash,El Canto Del Loco,A Contracorriente,149133,False,38,10,1,4,0.0461,0.389,0.973,1.23e-06,0.287,-1.734,0.0606,0.891,174.08,Espanoladas
+Aquellos Años Locos (Bonus Track),El Canto Del Loco,A Contracorriente,141360,False,47,3,1,4,0.212,0.636,0.914,0,0.383,-3.963,0.0598,0.6,114.111,Espanoladas
+Hacia Lo Salvaje,Amaral,Hacia Lo Salvaje,254894,False,0,5,1,4,0.0548,0.521,0.815,0.00381,0.153,-4.97,0.109,0.177,133.03,Espanoladas
+Antártida,Amaral,Hacia Lo Salvaje,256040,False,0,3,0,4,0.00927,0.511,0.828,9.1e-06,0.101,-4.161,0.0375,0.32,101.901,Espanoladas
+Si Las Calles Pudieran Hablar,Amaral,Hacia Lo Salvaje,182506,False,0,0,1,4,0.0619,0.589,0.684,0,0.121,-4.562,0.0279,0.618,125.951,Espanoladas
+Esperando Un Resplandor,Amaral,Hacia Lo Salvaje,183773,False,0,5,1,4,0.014,0.545,0.949,0.525,0.246,-5.046,0.0651,0.303,141.907,Espanoladas
+Riazor,Amaral,Hacia Lo Salvaje,246666,False,0,0,0,4,0.00913,0.56,0.677,1.16e-05,0.0801,-5.461,0.0281,0.237,122.949,Espanoladas
+Cuando Suba La Marea,Amaral,Hacia Lo Salvaje,265213,False,0,8,1,4,0.386,0.634,0.643,9.61e-05,0.109,-5.177,0.0271,0.409,115.997,Espanoladas
+Como Un Martillo En La Pared,Amaral,Hacia Lo Salvaje,178520,False,0,9,0,4,0.0307,0.623,0.913,0.00028,0.0447,-4.602,0.038,0.518,115.995,Espanoladas
+Hoy Es El Principio Del Final,Amaral,Hacia Lo Salvaje,253226,False,0,9,1,4,0.0784,0.329,0.697,7.79e-05,0.0685,-5.295,0.0378,0.208,128.807,Espanoladas
+Van Como Locos,Amaral,Hacia Lo Salvaje,212243,False,0,1,0,4,0.0355,0.606,0.859,7.42e-06,0.163,-4.531,0.037,0.387,116.013,Espanoladas
+El universo sobre mí,Amaral,Pájaros En La Cabeza,249680,False,57,2,1,4,0.135,0.391,0.837,0,0.106,-4.078,0.0404,0.434,185.992,Espanoladas
+Mi alma perdida,Amaral,Pájaros En La Cabeza,248013,False,34,4,1,3,0.198,0.271,0.512,0,0.125,-6.878,0.0324,0.223,188.221,Espanoladas
+"Marta, Sebas, Guille y los demás",Amaral,Pájaros En La Cabeza,223186,False,61,2,1,4,0.269,0.598,0.853,0,0.112,-4.559,0.0506,0.66,102.473,Espanoladas
+Esta madrugada,Amaral,Pájaros En La Cabeza,255293,False,38,7,0,4,0.396,0.589,0.673,2.43e-06,0.103,-6.006,0.0297,0.344,131.92,Espanoladas
+Big Bang,Amaral,Pájaros En La Cabeza,165280,False,26,11,1,4,0.00283,0.427,0.944,2.46e-05,0.0874,-3.84,0.0549,0.457,159.869,Espanoladas
+Salta,Amaral,Pájaros En La Cabeza,224813,False,29,0,1,4,0.106,0.647,0.952,0.000516,0.117,-3.605,0.0385,0.874,108.982,Espanoladas
+No soy como tú,Amaral,Pájaros En La Cabeza,256880,False,25,7,1,4,0.15,0.538,0.655,2.74e-06,0.129,-5.067,0.0293,0.267,135.768,Espanoladas
+Es Mejor Sentir,Manolo Garcia,Es Mejor Sentir,220840,False,39,7,1,4,0.0179,0.652,0.859,0.000553,0.174,-5.185,0.0379,0.497,118.932,Espanoladas
+Pajaros de Barro,Manolo Garcia,Arena En Los Bolsillos,246240,False,62,5,0,4,0.485,0.719,0.597,0,0.0762,-5.964,0.106,0.651,144.99,Espanoladas
+Nunca el Tiempo Es Perdido,Manolo Garcia,Nunca El Tiempo Es Perdido,268080,False,52,8,0,4,0.0902,0.741,0.866,0.000194,0.0978,-5.652,0.0545,0.854,129.937,Espanoladas
+A San Fernando un Ratito a Pie y Otro Caminando,Manolo Garcia,Arena En Los Bolsillos,227666,False,55,6,0,4,0.132,0.56,0.918,2.4e-06,0.435,-4.399,0.0735,0.743,135.251,Espanoladas
+Carbon y Ramas Secas,Manolo Garcia,Arena En Los Bolsillos,283733,False,45,9,1,4,0.508,0.594,0.884,0,0.311,-4.29,0.125,0.615,148.015,Espanoladas
+Princesas,Pereza,Animales,217000,False,64,7,1,4,0.0634,0.683,0.846,0,0.346,-3.551,0.0422,0.706,131.884,Espanoladas
+Todo,Pereza,Animales,260733,False,55,0,1,4,0.154,0.579,0.741,0,0.179,-4.091,0.0455,0.538,168.02,Espanoladas
+Amelie,Pereza,Aviones,227120,False,46,11,0,4,0.758,0.646,0.328,0,0.11,-8.204,0.0299,0.327,113.911,Espanoladas
+Pienso en Aquella Tarde,Pereza,Algo para Cantar,172600,False,55,7,1,4,0.0023,0.313,0.869,0,0.47,-4.206,0.0581,0.461,83.085,Espanoladas
+Te entiendo,Pignoise,Anunciado en Television,239920,False,53,9,1,4,0.0102,0.723,0.803,1.69e-06,0.0978,-3.572,0.0296,0.629,103.997,Espanoladas
+Quiero,Pignoise,Año Zero,159773,False,44,11,1,4,0.025,0.46,0.956,0,0.0637,-4.492,0.0743,0.794,170.05,Espanoladas
+Todo Me Da Igual,Pignoise,Año Zero,205026,False,49,6,1,4,0.0286,0.426,0.76,0,0.0712,-5.665,0.0449,0.876,127.904,Espanoladas
+Estoy enfermo (con Melendi),"Pignoise,Melendi",Cuestion de directo,154226,False,50,11,1,4,0.0178,0.569,0.831,0,0.0603,-3.177,0.0454,0.824,100.022,Espanoladas
+Agua,Jarabe De Palo,Depende,254266,False,69,5,1,4,0.743,0.715,0.358,0.0133,0.104,-15.522,0.033,0.742,145.751,Espanoladas
+La flaca,Jarabe De Palo,La Flaca - Edición 10º Aniversario,261200,False,63,7,1,4,0.52,0.871,0.481,5.54e-05,0.0809,-9.068,0.0383,0.664,103.063,Espanoladas
+Depende,Jarabe De Palo,Depende,265160,False,63,0,1,4,0.117,0.703,0.534,1.04e-05,0.137,-11.589,0.0303,0.524,94.815,Espanoladas
+Esta soy yo,El sueño de Morfeo,El sueño de Morfeo (reedicion),259253,False,48,5,1,4,0.187,0.654,0.821,0,0.485,-4.163,0.0352,0.554,112.058,Espanoladas
+Perdona Si Te Llamo Amor - Live from Spotify Madrid,Maldita Nerea,Spotify Sessions,243533,False,34,7,1,4,0.639,0.498,0.488,2.44e-06,0.911,-7.364,0.0798,0.81,186.653,Espanoladas
+Perdona Si Te Llamo Amor,Maldita Nerea,Mira Dentro,211800,False,46,7,1,4,0.0648,0.623,0.766,0.000269,0.0656,-6.183,0.0667,0.848,89.996,Espanoladas
+Mira Dentro,Maldita Nerea,Mira Dentro,250533,False,40,0,1,4,0.239,0.557,0.638,5.13e-06,0.162,-7.433,0.031,0.613,88.057,Espanoladas
+Buena Energia,Maldita Nerea,Buena Energia,263173,False,46,8,1,4,0.0269,0.608,0.868,0,0.248,-6.326,0.0331,0.811,101.999,Espanoladas
+La Respuesta No Es la Huida,Maldita Nerea,Mucho + Facil,287200,False,39,9,1,4,0.00199,0.609,0.904,0.0264,0.155,-4.74,0.0279,0.749,122.006,Espanoladas
+Facil,Maldita Nerea,Facil,285746,False,27,11,1,4,0.181,0.655,0.883,2.19e-05,0.172,-8.287,0.0446,0.753,95.985,Espanoladas
+¿No Podiamos Ser Agua?,Maldita Nerea,Facil,244586,False,28,0,1,4,0.0702,0.694,0.666,0.0014,0.265,-7.817,0.0304,0.894,135.952,Espanoladas
+El Error,Maldita Nerea,Facil,235146,False,19,7,1,4,0.261,0.639,0.783,6.81e-06,0.0874,-8.589,0.0401,0.542,101.983,Espanoladas
+Buscando El Sol,David Otero,Nada-Logico,254440,False,42,7,1,4,6.76e-05,0.499,0.937,0.000716,0.198,-3.283,0.0546,0.572,162.021,Espanoladas
+Cero,Dani Martín,Dani Martin,259880,False,57,11,1,4,0.152,0.491,0.677,4.78e-06,0.221,-4.193,0.0269,0.358,82.032,Espanoladas
+Que Bonita la Vida,Dani Martín,Dani Martin,270653,False,54,7,1,4,0.301,0.506,0.535,5.08e-06,0.1,-5.676,0.0314,0.286,134.075,Espanoladas
+Emocional,Dani Martín,Dani Martin,219706,False,47,7,1,4,0.295,0.462,0.821,1.66e-05,0.337,-4.177,0.0449,0.451,150.619,Espanoladas
+Mi Teatro,Dani Martín,Dani Martin,228746,False,43,9,1,4,0.0214,0.359,0.581,0,0.102,-5.39,0.0338,0.412,82.796,Espanoladas
+Mi Lamento,Dani Martín,Pequeño,241253,False,47,7,1,4,0.25,0.554,0.466,0,0.113,-8.274,0.0338,0.295,71.116,Espanoladas
+Cuéntame al Oido,La Oreja de Van Gogh,Dile al Sol,191266,False,47,0,1,4,0.616,0.646,0.604,0,0.119,-7.041,0.0306,0.537,133.072,Espanoladas
+El 28,La Oreja de Van Gogh,Dile al Sol,167733,False,50,7,1,4,0.253,0.652,0.792,0,0.54,-6.084,0.0505,0.585,120.073,Espanoladas
+Pesadilla,La Oreja de Van Gogh,Dile al Sol,258466,False,33,2,0,4,0.0369,0.551,0.894,5.98e-05,0.369,-5.101,0.0675,0.661,120.957,Espanoladas
+Soledad,La Oreja de Van Gogh,El Viaje de Copperpot,232666,False,52,3,1,4,0.188,0.58,0.692,0,0.119,-6.202,0.0262,0.638,137.907,Espanoladas
+Paris,La Oreja de Van Gogh,El Viaje de Copperpot,226800,False,58,2,0,4,0.0673,0.528,0.692,0,0.13,-6.107,0.0309,0.402,137.026,Espanoladas
+Noche,La Oreja de Van Gogh,Guapa,269000,False,44,11,0,4,0.115,0.645,0.828,0,0.265,-2.6,0.0289,0.441,122.02,Espanoladas
+Muñeca de Trapo,La Oreja de Van Gogh,Guapa,233986,False,57,7,0,4,0.0524,0.561,0.777,8.55e-05,0.108,-3.285,0.0302,0.358,94.975,Espanoladas
+Dulce Locura,La Oreja de Van Gogh,Guapa,230106,False,58,2,1,4,0.343,0.635,0.8,0,0.122,-3.47,0.0265,0.533,132.026,Espanoladas
+Perdida,La Oreja de Van Gogh,Guapa,260760,False,46,9,1,4,0.129,0.607,0.676,1.37e-05,0.119,-4.549,0.0378,0.289,90.01,Espanoladas
+Vuelve,La Oreja de Van Gogh,Guapa,216586,False,35,5,1,4,0.201,0.65,0.931,0,0.303,-2.097,0.0529,0.562,110.047,Espanoladas
+Irreversible,La Oreja de Van Gogh,Guapa,208160,False,35,9,1,4,0.184,0.478,0.696,0,0.101,-3.727,0.033,0.339,172.056,Espanoladas
+A Diez Centimetros de Ti,La Oreja de Van Gogh,Guapa,230080,False,37,9,1,4,0.171,0.684,0.894,0,0.109,-2.478,0.0385,0.532,136.022,Espanoladas
+V.O.S.,La Oreja de Van Gogh,Guapa,138666,False,37,9,0,4,0.569,0.564,0.666,0,0.0714,-4.016,0.0472,0.735,180.008,Espanoladas
+Manhattan,La Oreja de Van Gogh,Guapa,178746,False,34,8,1,4,0.192,0.626,0.822,0,0.0831,-2.822,0.0439,0.598,139.944,Espanoladas
+Mi Vida Sin Ti,La Oreja de Van Gogh,Guapa,242626,False,38,4,0,4,0.162,0.717,0.8,0,0.57,-4.689,0.0561,0.56,114.95,Espanoladas
+Cuídate,La Oreja de Van Gogh,LOVG - Grandes Exitos,168946,False,37,8,1,4,0.348,0.661,0.847,0,0.153,-3.799,0.0314,0.571,140.995,Espanoladas
+20 de Enero,La Oreja de Van Gogh,LOVG - Grandes Exitos,223893,False,35,0,1,4,0.418,0.598,0.884,0.000577,0.156,-4.035,0.0341,0.627,145.046,Espanoladas
+La senda del tiempo,Celtas Cortos,Gente Impresentable,270466,False,53,2,1,4,0.0259,0.307,0.693,0.0237,0.212,-3.902,0.0281,0.357,149.607,Espanoladas
+Cuéntame un cuento,Celtas Cortos,Cuentame Un Cuento,258666,False,51,11,0,4,0.0426,0.442,0.912,1.5e-06,0.0798,-3.756,0.0381,0.752,119.65,Espanoladas
+Haz turismo,Celtas Cortos,20 soplando versos,206893,False,24,0,1,4,0.0166,0.539,0.924,4.11e-05,0.0639,-1.644,0.0884,0.829,136.684,Espanoladas
+Carolina - En directo 2000,M-Clan,Sin Enchufe,263679,False,61,7,1,4,0.146,0.649,0.9,0,0.694,-4.135,0.0306,0.86,123.978,Espanoladas
+Sopa fría,M-Clan,Sopa fria,242760,False,47,4,0,4,0.0729,0.61,0.862,0,0.112,-3.284,0.0283,0.805,100.049,Espanoladas
+Carolina (feat. Fito y Fitipaldis) - En Directo Price,"M-Clan,Fito y Fitipaldis",Dos noches en el Price,260453,False,38,7,1,4,0.012,0.484,0.907,2.38e-06,0.986,-6.657,0.0641,0.766,122.593,Espanoladas
+"Feo, fuerte y formal",Loquillo,"Feo, Fuerte y Formal",242266,False,0,5,0,4,0.0454,0.716,0.879,0,0.243,-6.179,0.0349,0.905,126.368,Espanoladas
+Cadillac solitario,Loquillo,Rock & Roll Star - 30 años,214560,False,57,11,0,1,0.0746,0.393,0.828,0.00192,0.148,-4.147,0.0332,0.473,129.743,Espanoladas
+Que Hace Una Chica Como Tu En Un Sitio Como Este,Loquillo,Companeros De Viaje,277946,False,38,0,1,4,0.0934,0.52,0.803,0.0479,0.976,-11.535,0.0579,0.71,106.962,Espanoladas
+Déjame,Los Secretos,25Aniversario De Los Secretos (Doble),157093,False,0,7,1,4,0.0199,0.46,0.947,1.63e-06,0.35,-4.913,0.0367,0.948,99.535,Espanoladas
+El rompeolas,Loquillo Y Los Trogloditas,El Rompeolas,288133,False,38,7,1,4,0.161,0.597,0.637,0.000508,0.118,-12.83,0.028,0.638,120.039,Espanoladas
+Camino Soria,Gabinete Caligari,Camino Soria,385800,False,0,1,0,4,0.244,0.543,0.537,7.1e-05,0.234,-14.255,0.0303,0.606,111.664,Espanoladas
+Devuélveme a mi chica,Hombres G,Lo Mejor De Los Hombres G,194560,False,62,9,0,4,0.0143,0.585,0.948,3.36e-05,0.331,-5.062,0.0869,0.42,172.365,Espanoladas
+Lo noto - Versión CD,Hombres G,Los Singles 1985-2005,259706,False,47,5,1,4,0.0475,0.767,0.614,5.72e-05,0.116,-7.373,0.0344,0.43,110.994,Espanoladas
+Depende de ti,Hombres G,Depende de ti,242032,False,20,9,1,4,0.115,0.597,0.82,0.000276,0.333,-2.047,0.0313,0.749,113.937,Espanoladas
+Lady Madrid,Pereza,Aviones,191586,False,60,0,1,4,0.359,0.598,0.655,0,0.0922,-2.761,0.0256,0.377,115.041,Espanoladas
+Miss camiseta mojada,Quique González,Ajuste de cuentas,230506,False,28,4,1,4,0.00864,0.616,0.849,0.000204,0.72,-7.417,0.0453,0.648,125.963,Espanoladas
+La ciudad del viento,Quique González,Ajuste de cuentas,267826,False,24,11,0,4,0.1,0.598,0.787,0.00456,0.963,-6.687,0.057,0.648,113.09,Espanoladas
+Pájaros Mojados,Quique González,Pájaros Mojados,201306,False,0,9,1,4,0.577,0.714,0.56,0.00183,0.261,-8.639,0.0278,0.623,92.908,Espanoladas
+Manhattan,Quique González,Pájaros Mojados,240533,False,0,8,0,4,0.639,0.703,0.422,8.21e-05,0.353,-12.311,0.0394,0.364,111.261,Espanoladas
+Calles de Madrid,Quique González,Kamikazes enamorados,212213,False,0,7,1,4,0.94,0.461,0.232,0.64,0.112,-12.323,0.0287,0.317,84.892,Espanoladas
+Las Chicas Son Magníficas,Quique González,Delantera Mítica,205866,False,13,7,1,4,0.705,0.651,0.24,0,0.0983,-11.217,0.0416,0.385,91.121,Espanoladas
+Detectives (feat. Los Detectives),"Quique González,Los Detectives",Me Mata Si Me Necesitas (feat. Los Detectives),212800,False,24,2,1,4,0.407,0.554,0.437,0.0198,0.174,-10.284,0.0307,0.209,80.987,Espanoladas
+Retales de una vida,Celtas Cortos,40 de abril,272600,False,45,5,1,4,0.0375,0.59,0.916,8.24e-06,0.199,-2.867,0.0315,0.762,124.073,Espanoladas
+El ritmo del mar,Celtas Cortos,"Grandes Exitos, Pequeños Regalos",194546,False,10,2,1,4,0.00353,0.548,0.925,2.2e-05,0.188,-3.921,0.0379,0.639,123.971,Espanoladas
+Mi Agüita Amarilla,Los Toreros Muertos,Los Toreros Muertos,344266,False,44,9,0,4,0.105,0.679,0.844,0,0.181,-6.438,0.0564,0.808,130.1,Espanoladas
+En Que Estrella Estara,Nena Daconte,He Perdido Los Zapatos,140666,False,53,5,1,4,0.279,0.73,0.378,1.67e-05,0.0869,-7.441,0.183,0.697,170.044,Espanoladas
+Terriblemente Cruel,Leiva,Polvora,227600,False,58,0,1,4,0.0281,0.549,0.831,0,0.0842,-4.17,0.0304,0.615,125.594,Espanoladas
+La Madre de Jose,El Canto Del Loco,Estados de Animo,191346,False,57,1,1,4,0.293,0.629,0.937,0,0.0744,-2.84,0.115,0.946,101.022,Espanoladas
+Caminando por la vida,Melendi,Que El Cielo Espere Sentao..,211680,False,63,5,1,4,0.0148,0.695,0.958,7.16e-06,0.154,-3.778,0.0827,0.711,108.054,Espanoladas
+Cien gaviotas,Duncan Dhu,Canciones,169773,False,56,9,1,4,0.133,0.593,0.943,4.38e-05,0.0478,-4.503,0.0424,0.846,136.027,Espanoladas
+Chica de ayer,Nacha Pop,Grandes Éxitos: Nacha Pop,208026,False,53,7,1,4,0.0579,0.674,0.854,0.00041,0.0735,-4.337,0.034,0.684,127.295,Espanoladas
+Un violinista en tu tejado,Melendi,Aún Más Curiosa La Cara De Tu Padre,222720,False,57,1,0,3,0.405,0.512,0.843,0,0.241,-6.283,0.183,0.58,156.388,Espanoladas
+Los Charcos,Dani Martín,La Montaña Rusa,258693,False,47,4,1,4,0.12,0.61,0.656,3.23e-06,0.111,-6.556,0.0289,0.597,90.023,Espanoladas
+Rosas,La Oreja de Van Gogh,LOVG - Grandes Exitos,237146,False,40,9,1,4,0.673,0.785,0.681,4.95e-06,0.111,-5.039,0.0267,0.526,107.017,Espanoladas
+Cerca de las vías,Fito y Fitipaldis,Los Sueños Locos,188986,False,43,7,1,4,0.418,0.687,0.333,0.00448,0.125,-11.401,0.0364,0.459,131.967,Espanoladas
+Cómo hablar,Amaral,Una Pequeña Parte Del Mundo,241266,False,56,3,1,4,0.0356,0.606,0.775,1.74e-06,0.111,-4.752,0.0291,0.626,117.357,Espanoladas
+Sin ti no soy nada,Amaral,Estrella De Mar,268706,False,34,9,0,4,0.0667,0.686,0.874,0.00146,0.129,-3.92,0.0512,0.563,122.099,Espanoladas
+Moriría por vos,Amaral,Estrella De Mar,227120,False,33,0,1,4,0.278,0.676,0.727,0,0.19,-4.943,0.0309,0.739,105.003,Espanoladas
+Toda la noche en la calle,Amaral,Estrella De Mar,225693,False,43,2,1,4,0.154,0.685,0.76,1.01e-06,0.0737,-3.96,0.0382,0.9,129.95,Espanoladas
+Te necesito,Amaral,Estrella De Mar,263800,False,44,6,0,4,0.052,0.658,0.794,4.86e-06,0.0877,-4.225,0.031,0.397,121.904,Espanoladas
+Salir corriendo,Amaral,Estrella De Mar,252480,False,33,,,,,,,,,,,,,Espanoladas
+Estrella de mar,Amaral,Estrella De Mar,257306,False,27,,,,,,,,,,,,,Espanoladas
+Rosa de la paz,Amaral,Estrella De Mar,303373,False,33,,,,,,,,,,,,,Espanoladas
+No sabe dónde va,Amaral,Estrella De Mar,204653,False,34,,,,,,,,,,,,,Espanoladas
+El centro de mis ojos,Amaral,Estrella De Mar,234493,False,20,,,,,,,,,,,,,Espanoladas
+Te necesito - Acústico,"Amaral,Beto Cuevas",Estrella De Mar,245520,False,58,,,,,,,,,,,,,Espanoladas
+Sin ti no soy nada - Acústico,Amaral,Estrella De Mar,269266,False,25,,,,,,,,,,,,,Espanoladas
+Moriria Por Vos - Acústico,Amaral,Estrella De Mar,233986,False,24,,,,,,,,,,,,,Espanoladas
+En sólo un segundo - Versión acústica,Amaral,Estrella De Mar,313546,False,19,,,,,,,,,,,,,Espanoladas
+Apareces Tu,La Oreja de Van Gogh,Guapa,274093,False,38,,,,,,,,,,,,,Espanoladas
+Breaking Bad,Leiva,Monstruos,258373,False,51,,,,,,,,,,,,,Espanoladas
+Sincericidio,Leiva,Monstruos,251453,False,55,,,,,,,,,,,,,Espanoladas
+La Lluvia en los Zapatos,Leiva,Monstruos,220133,False,51,,,,,,,,,,,,,Espanoladas
+Monstruos,Leiva,Monstruos,243880,False,49,,,,,,,,,,,,,Espanoladas
+El Último Incendio,Leiva,Monstruos,237786,False,43,,,,,,,,,,,,,Espanoladas
+Tenia Tanto Que Darte,Nena Daconte,Retales De Carnaval,204560,False,58,,,,,,,,,,,,,Espanoladas
+Miedo,Amaia,Sus Canciones (Operación Triunfo 2017),209106,False,47,,,,,,,,,,,,,Espanoladas
+Miedo,M-Clan,Sopa fria,297106,False,55,,,,,,,,,,,,,Espanoladas
+20 de abril,Celtas Cortos,Cuentame Un Cuento,235333,False,52,,,,,,,,,,,,,Espanoladas
+Puedes Contar Conmigo,La Oreja de Van Gogh,LOVG - Grandes Exitos,237173,False,34,,,,,,,,,,,,,Espanoladas
+Vestido Azul,La Oreja de Van Gogh,LOVG - Grandes Exitos,190520,False,31,,,,,,,,,,,,,Espanoladas
+Geografía,La Oreja de Van Gogh,LOVG - Grandes Exitos,198826,False,33,,,,,,,,,,,,,Espanoladas
+Por Mi Tripa,Pereza,Aproximaciones,227560,False,46,,,,,,,,,,,,,Espanoladas
+Insoportable,El Canto Del Loco,Estados de Animo,248720,False,58,,,,,,,,,,,,,Espanoladas
+No me importa nada,Luz Casal,Luz V,247680,False,58,,,,,,,,,,,,,Espanoladas
+Nada Fue Un Error,Coti,Coti,208200,False,66,,,,,,,,,,,,,Espanoladas
+Limón y Sal,Julieta Venegas,Limon Y Sal,205413,False,69,,,,,,,,,,,,,Espanoladas
+Me Voy,Julieta Venegas,Limon Y Sal,187520,False,69,,,,,,,,,,,,,Espanoladas
+Turnedo,Ivan Ferreiro,Canciones para el tiempo y la distancia,278333,False,57,,,,,,,,,,,,,Espanoladas
+Vidas cruzadas (feat. Ivan Ferreiro),"Quique González,Ivan Ferreiro",Ajuste de cuentas,213573,False,49,,,,,,,,,,,,,Espanoladas
+Fan de ti - Acústico,Sidecars,Contra las cuerdas,236186,False,35,,,,,,,,,,,,,Espanoladas
+Pastillas para Dormir,Estopa,Rumba a Lo Desconocido,197800,False,53,,,,,,,,,,,,,Espanoladas
+Por la Raja de Tu Falda,Estopa,Esencial Estopa,203000,False,35,,,,,,,,,,,,,Espanoladas
+Tragicomedia,Estopa,Esencial Estopa,209600,False,38,,,,,,,,,,,,,Espanoladas
+La Primavera,Estopa,Esencial Estopa,200333,False,35,,,,,,,,,,,,,Espanoladas
+Cuando Amanece,Estopa,Esencial Estopa,198306,False,36,,,,,,,,,,,,,Espanoladas
+Pastillas para Dormir,Estopa,Esencial Estopa,196906,False,35,,,,,,,,,,,,,Espanoladas
+No Quiero Verla Más,Estopa,Esencial Estopa,201333,False,34,,,,,,,,,,,,,Espanoladas
+Vino Tinto,Estopa,Esencial Estopa,197466,False,38,,,,,,,,,,,,,Espanoladas
+Exiliado en el Lavabo,Estopa,Esencial Estopa,196480,False,33,,,,,,,,,,,,,Espanoladas
+Fuente de Energia,Estopa,Esencial Estopa,217586,False,35,,,,,,,,,,,,,Espanoladas
+Me Falta el Aliento,Estopa,Esencial Estopa,218400,False,37,,,,,,,,,,,,,Espanoladas
+Luna Lunera,Estopa,Esencial Estopa,227146,False,36,,,,,,,,,,,,,Espanoladas
+Demonios,Estopa,Esencial Estopa,222880,False,33,,,,,,,,,,,,,Espanoladas
+Que Suerte la Mía,Estopa,Esencial Estopa,207546,False,32,,,,,,,,,,,,,Espanoladas
+Cuerpo Triste,Estopa,Esencial Estopa,184920,False,32,,,,,,,,,,,,,Espanoladas
+Cuando Cae la Luna,Estopa,Esencial Estopa,196613,False,33,,,,,,,,,,,,,Espanoladas
+Pastillas de Freno,Estopa,Esencial Estopa,205826,False,36,,,,,,,,,,,,,Espanoladas
+Partiendo la Pana,Estopa,Esencial Estopa,234626,False,36,,,,,,,,,,,,,Espanoladas
+Hemicraneal,Estopa,Esencial Estopa,251200,False,36,,,,,,,,,,,,,Espanoladas
+Estatua de Sal,Estopa,Esencial Estopa,203400,False,30,,,,,,,,,,,,,Espanoladas
+Me Quedaré,Estopa,Esencial Estopa,196893,False,35,,,,,,,,,,,,,Espanoladas
+Cacho a Cacho,Estopa,Esencial Estopa,149626,False,35,,,,,,,,,,,,,Espanoladas
+Malabares,Estopa,Esencial Estopa,207120,False,34,,,,,,,,,,,,,Espanoladas
+El Run Run (with Rosario),"Estopa,Rosario",Esencial Estopa,203986,False,35,,,,,,,,,,,,,Espanoladas
+Ya No Me Acuerdo,Estopa,Esencial Estopa,170880,False,37,,,,,,,,,,,,,Espanoladas
+Como Camarón,Estopa,Esencial Estopa,203213,False,34,,,,,,,,,,,,,Espanoladas
+Vacaciones,Estopa,Esencial Estopa,193000,False,35,,,,,,,,,,,,,Espanoladas
+Nasío pa la Alegria,Estopa,Esencial Estopa,206240,False,36,,,,,,,,,,,,,Espanoladas
+Era,Estopa,Esencial Estopa,182586,False,31,,,,,,,,,,,,,Espanoladas
+El del Medio de los Chichos,Estopa,Esencial Estopa,227826,False,33,,,,,,,,,,,,,Espanoladas
+Fin de Semana,Estopa,Esencial Estopa,181586,False,32,,,,,,,,,,,,,Espanoladas
+La Playa,La Oreja de Van Gogh,El Viaje de Copperpot,247693,False,69,,,,,,,,,,,,,Espanoladas
+Que Se Mueran de Envidia (feat. Carla Morrison),"Dani Martín,Carla Morrison",Que Se Mueran de Envidia (feat. Carla Morrison),251907,False,51,,,,,,,,,,,,,Espanoladas
+Mundo Marrón,Estopa,Rumba a Lo Desconocido,218146,False,50,,,,,,,,,,,,,Espanoladas
+Rojitas las orejas,Fito y Fitipaldis,A Puerta Cerrada,224133,False,55,,,,,,,,,,,,,Espanoladas
+Cuando Suba La Marea,Amaral,Hacia Lo Salvaje,265213,False,57,,,,,,,,,,,,,Espanoladas
+Me acordé de ti,Fito y Fitipaldis,Antes de que cuente diez,245213,False,52,,,,,,,,,,,,,Espanoladas
+Blues del pescador - Fisherman's Blues,Celtas Cortos,Introversiones,234960,False,37,,,,,,,,,,,,,Espanoladas
+La Vida,El Canto Del Loco,Personas,203773,False,41,,,,,,,,,,,,,Espanoladas
+Como Si Fueras a Morir Mañana,Leiva,Nuclear,240984,False,66,,,,,,,,,,,,,Espanoladas
+"No Pide Tanto, Idiota",Maldita Nerea,Mira Dentro,224280,False,53,,,,,,,,,,,,,Espanoladas
+En el Mundo Genial de las Cosas Que Dices,Maldita Nerea,Facil,257480,False,28,,,,,,,,,,,,,Espanoladas
+Bien por Ti,Viva Suecia,La Fuerza Mayor,180099,False,48,,,,,,,,,,,,,Espanoladas
+Errante (Canción Mutante),Niños Mutantes,Las Noches de Insomnio,192284,False,50,,,,,,,,,,,,,Espanoladas
+Tu Mirada Me Hace Grande,Maldita Nerea,Es un Secreto...No Se Lo Digas a Nadie,258133,False,29,,,,,,,,,,,,,Espanoladas
+No Te Preocupes por Mi,Leiva,Nuclear,229406,False,62,,,,,,,,,,,,,Espanoladas
+Volver a Disfrutar,El Canto Del Loco,Estados de Animo,191346,False,49,,,,,,,,,,,,,Espanoladas
+Leones,Pereza,Aviones,227520,False,35,,,,,,,,,,,,,Espanoladas
+No me crees (feat. Javier Ojeda),"Efecto Mariposa,Javier Ojeda",Complejidad,258693,False,46,,,,,,,,,,,,,Espanoladas

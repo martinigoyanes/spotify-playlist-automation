@@ -1,51 +1,51 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Mood (feat. iann dior),"24kGoldn,iann dior",Mood (feat. iann dior),140525,True,99,7,0,4,0.221,0.7,0.722,0,0.272,-3.558,0.0369,0.756,90.989,DOPE
-For The Night (feat. Lil Baby & DaBaby),"Pop Smoke,Lil Baby,DaBaby",Shoot For The Stars Aim For The Moon,190476,True,94,6,0,4,0.114,0.823,0.586,0,0.193,-6.606,0.2,0.347,125.971,DOPE
-Laugh Now Cry Later (feat. Lil Durk),"Drake,Lil Durk",Laugh Now Cry Later (feat. Lil Durk),261492,False,62,0,1,4,0.238,0.763,0.526,4.24e-05,0.107,-8.969,0.114,0.455,133.939,DOPE
-Wolves (feat. Post Malone),"Big Sean,Post Malone",Detroit 2,199758,True,84,2,1,4,0.0978,0.724,0.675,9.41e-06,0.351,-5.267,0.0867,0.325,160.048,DOPE
-Lemonade,"Internet Money,Gunna,Don Toliver,NAV","Lemonade (feat. Gunna, Don Toliver & NAV)",195428,True,93,1,0,4,0.256,0.799,0.66,0,0.111,-6.153,0.079,0.471,140.04,DOPE
-Spicy (feat. Post Malone),"Ty Dolla $ign,Post Malone",Featuring Ty Dolla $ign,143375,True,74,4,0,4,0.143,0.782,0.51,0,0.115,-5.724,0.0419,0.118,99.993,DOPE
-What You Know Bout Love,Pop Smoke,Shoot For The Stars Aim For The Moon,160000,True,95,10,1,4,0.65,0.709,0.548,1.59e-06,0.133,-8.493,0.353,0.543,83.995,DOPE
-Smile (with The Weeknd),"Juice WRLD,The Weeknd",Smile (with The Weeknd),196180,True,75,6,0,4,0.224,0.694,0.685,0,0.124,-6.535,0.133,0.306,158.831,DOPE
-POPSTAR (feat. Drake),"DJ Khaled,Drake",POPSTAR (feat. Drake),200221,True,90,5,0,4,0.057,0.8,0.56,0,0.134,-4.818,0.261,0.45,163.071,DOPE
-"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","Jack Harlow,Tory Lanez,DaBaby,Lil Wayne","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",227478,True,88,11,0,4,0.0631,0.904,0.723,0,0.185,-5.224,0.26,0.835,145.013,DOPE
-GREECE (feat. Drake),"DJ Khaled,Drake",GREECE (feat. Drake),218901,True,86,5,1,4,0.0743,0.695,0.343,1.04e-06,0.107,-10.798,0.0432,0.229,85.84,DOPE
-Ni**as In Paris,"JAY-Z,Kanye West",Watch The Throne (Deluxe),219333,True,79,1,1,4,0.127,0.789,0.858,0,0.349,-5.542,0.311,0.775,140.022,DOPE
-BOP,DaBaby,KIRK,159714,True,83,11,1,4,0.189,0.769,0.787,0,0.129,-3.909,0.367,0.836,126.77,DOPE
-HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,"Travis Scott,ROSALÍA,Lil Baby",JACKBOYS,244873,True,73,2,0,4,0.0567,0.559,0.491,0,0.0992,-6.406,0.0346,0.114,153.131,DOPE
-Deep End,Fousheé,Deep End,141223,True,88,4,0,4,0.758,0.711,0.592,0,0.156,-7.136,0.23,0.535,124.749,DOPE
-HOLIDAY,Lil Nas X,HOLIDAY,154997,True,87,5,0,4,0.12,0.81,0.511,0,0.0832,-6.924,0.164,0.837,151.947,DOPE
-Runnin,"21 Savage,Metro Boomin",SAVAGE MODE II,195906,True,86,10,0,4,0.00748,0.819,0.626,0.101,0.167,-4.574,0.202,0.415,143.01,DOPE
-ROCKSTAR (feat. Roddy Ricch),"DaBaby,Roddy Ricch",BLAME IT ON BABY,181733,True,93,11,1,4,0.247,0.746,0.69,0,0.101,-7.956,0.164,0.497,89.977,DOPE
-God's Plan,Drake,Scorpion,198973,True,83,7,1,4,0.0332,0.754,0.449,8.29e-05,0.552,-9.211,0.109,0.357,77.169,DOPE
-goosebumps,Travis Scott,Birds In The Trap Sing McKnight,243836,True,88,7,1,4,0.0847,0.841,0.728,0,0.149,-3.37,0.0484,0.43,130.049,DOPE
-The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,196652,True,88,10,0,4,0.104,0.896,0.586,0,0.79,-6.687,0.0559,0.642,116.971,DOPE
-DNA.,Kendrick Lamar,DAMN.,185946,True,77,1,1,4,0.00454,0.638,0.523,0,0.0842,-6.664,0.357,0.422,139.913,DOPE
-Toosie Slide,Drake,Toosie Slide,247058,True,84,1,0,4,0.321,0.834,0.454,6.15e-06,0.114,-9.75,0.201,0.837,81.618,DOPE
-Life Is Good (feat. Drake),"Future,Drake",Life Is Good (feat. Drake),237735,True,85,2,0,4,0.0706,0.676,0.609,0,0.152,-5.831,0.481,0.508,142.037,DOPE
-Skechers,DripReport,Skechers,106000,True,78,1,1,4,0.26,0.903,0.327,0.011,0.108,-9.727,0.0877,0.274,100.008,DOPE
-Needed Me,Rihanna,ANTI (Deluxe),191600,True,79,5,0,4,0.11,0.671,0.314,0,0.0825,-8.091,0.244,0.296,110.898,DOPE
-MIDDLE CHILD,J. Cole,MIDDLE CHILD,213593,True,82,8,1,4,0.149,0.837,0.364,0,0.271,-11.713,0.276,0.463,123.984,DOPE
-You Got It,Vedo,For You,201586,True,85,5,1,4,0.297,0.774,0.376,0,0.165,-9.372,0.208,0.391,122.089,DOPE
-Drankin N Smokin,"Future,Lil Uzi Vert",Pluto x Baby Pluto,213520,True,80,0,1,4,0.0421,0.752,0.658,0,0.0927,-6.297,0.342,0.387,151.951,DOPE
-SICKO MODE,Travis Scott,ASTROWORLD,312820,True,87,8,1,4,0.00513,0.834,0.73,0,0.124,-3.714,0.222,0.446,155.008,DOPE
-Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone,Swae Lee",Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),158040,False,85,2,1,4,0.556,0.76,0.479,0,0.0703,-5.574,0.0466,0.913,89.911,DOPE
-"I Do It (ft. Big Sean, Lil Baby)","Lil Wayne,Big Sean,Lil Baby",Funeral,184440,True,65,1,1,4,0.125,0.804,0.528,0,0.41,-3.231,0.378,0.321,138.005,DOPE
-Mood Swings (feat. Lil Tjay),"Pop Smoke,Lil Tjay",Shoot For The Stars Aim For The Moon,213333,True,89,10,0,4,0.487,0.48,0.602,0,0.0848,-6.335,0.368,0.269,179.798,DOPE
-Go Crazy,"Chris Brown,Young Thug",Slime & B,176960,True,88,0,0,4,0.316,0.755,0.578,0,0.25,-8.932,0.145,0.581,94.148,DOPE
-Ransom,Lil Tecca,We Love You Tecca,131240,True,83,7,0,4,0.0204,0.745,0.642,0,0.0658,-6.257,0.287,0.226,179.974,DOPE
-THE SCOTTS,"THE SCOTTS,Travis Scott,Kid Cudi",THE SCOTTS,165977,True,84,0,0,4,0.233,0.716,0.537,0,0.157,-7.648,0.0514,0.28,129.979,DOPE
-Blueberry Faygo,Lil Mosey,Certified Hitmaker,162546,True,84,0,1,4,0.207,0.774,0.554,0,0.132,-7.909,0.0383,0.349,99.034,DOPE
-Party Girl,StaySolidRocky,Fallin',147800,False,77,6,0,4,0.747,0.73,0.439,0,0.0988,-9.864,0.0609,0.615,130.09,DOPE
-FRANCHISE (feat. Young Thug & M.I.A.),"Travis Scott,Young Thug,M.I.A.",FRANCHISE (feat. Young Thug & M.I.A.),202794,True,85,8,0,4,0.00671,0.835,0.699,0,0.195,-5.405,0.277,0.547,154.981,DOPE
-Alright,Kendrick Lamar,To Pimp A Butterfly,219333,True,73,7,1,4,0.0742,0.796,0.766,0,0.0827,-5.974,0.238,0.558,110.034,DOPE
-After Hours,The Weeknd,After Hours,361026,False,79,5,0,4,0.0811,0.664,0.572,0.00604,0.121,-6.099,0.0305,0.143,108.959,DOPE
-DOLLAZ ON MY HEAD (feat. Young Thug),"Gunna,Young Thug",WUNNA,197760,True,82,0,1,4,0.114,0.825,0.458,0,0.102,-7.47,0.0577,0.161,145.115,DOPE
-EARFQUAKE,"Tyler, The Creator",IGOR,190066,True,80,9,1,4,0.23,0.554,0.498,5.98e-06,0.795,-8.866,0.0685,0.413,79.635,DOPE
-Whoopty,CJ,Whoopty,123428,True,86,3,0,4,0.19,0.711,0.598,0,0.15,-7.621,0.182,0.737,140.175,DOPE
-WAP (feat. Megan Thee Stallion),"Cardi B,Megan Thee Stallion",WAP (feat. Megan Thee Stallion),187541,True,95,1,1,4,0.0194,0.935,0.454,0,0.0824,-7.509,0.375,0.357,133.073,DOPE
-P2,Lil Uzi Vert,Eternal Atake,234626,True,78,11,0,4,0.0236,0.775,0.72,0,0.114,-5.353,0.193,0.49,155.086,DOPE
-Walk Em Down (feat. Roddy Ricch),"NLE Choppa,Roddy Ricch",Walk Em Down (feat. Roddy Ricch),173288,True,78,2,1,4,0.268,0.867,0.744,0,0.0713,-5.171,0.227,0.645,84.005,DOPE
-Come & Go (with Marshmello),"Juice WRLD,Marshmello",Legends Never Die,205484,True,53,0,1,4,0.0172,0.625,0.814,0,0.158,-5.181,0.0657,0.535,144.991,DOPE
-Body,Megan Thee Stallion,Good News,171067,True,79,8,0,4,0.0166,0.914,0.732,0,0.107,-6.1,0.241,0.469,94.066,DOPE
-Hot Shower,"Chance the Rapper,MadeinTYO,DaBaby",The Big Day,225923,True,72,9,1,4,0.00157,0.899,0.509,0,0.0573,-8.04,0.387,0.599,150.001,DOPE
+Mood (feat. iann dior),"24kGoldn,iann dior",Mood (feat. iann dior),140525,True,98,7,0,4,0.221,0.7,0.722,0,0.272,-3.558,0.0369,0.756,90.989,Dope
+For The Night (feat. Lil Baby & DaBaby),"Pop Smoke,Lil Baby,DaBaby",Shoot For The Stars Aim For The Moon,190476,True,94,6,0,4,0.114,0.823,0.586,0,0.193,-6.606,0.2,0.347,125.971,Dope
+Laugh Now Cry Later (feat. Lil Durk),"Drake,Lil Durk",Laugh Now Cry Later (feat. Lil Durk),261492,False,62,0,1,4,0.238,0.763,0.526,4.24e-05,0.107,-8.969,0.114,0.455,133.939,Dope
+Wolves (feat. Post Malone),"Big Sean,Post Malone",Detroit 2,199758,True,84,2,1,4,0.0978,0.724,0.675,9.41e-06,0.351,-5.267,0.0867,0.325,160.048,Dope
+Lemonade,"Internet Money,Gunna,Don Toliver,NAV","Lemonade (feat. Gunna, Don Toliver & NAV)",195428,True,93,1,0,4,0.256,0.799,0.66,0,0.111,-6.153,0.079,0.471,140.04,Dope
+Spicy (feat. Post Malone),"Ty Dolla $ign,Post Malone",Featuring Ty Dolla $ign,143375,True,74,4,0,4,0.143,0.782,0.51,0,0.115,-5.724,0.0419,0.118,99.993,Dope
+What You Know Bout Love,Pop Smoke,Shoot For The Stars Aim For The Moon,160000,True,95,10,1,4,0.65,0.709,0.548,1.59e-06,0.133,-8.493,0.353,0.543,83.995,Dope
+Smile (with The Weeknd),"Juice WRLD,The Weeknd",Smile (with The Weeknd),196180,True,75,6,0,4,0.224,0.694,0.685,0,0.124,-6.535,0.133,0.306,158.831,Dope
+POPSTAR (feat. Drake),"DJ Khaled,Drake",POPSTAR (feat. Drake),200221,True,90,5,0,4,0.057,0.8,0.56,0,0.134,-4.818,0.261,0.45,163.071,Dope
+"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","Jack Harlow,Tory Lanez,DaBaby,Lil Wayne","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",227478,True,88,11,0,4,0.0631,0.904,0.723,0,0.185,-5.224,0.26,0.835,145.013,Dope
+GREECE (feat. Drake),"DJ Khaled,Drake",GREECE (feat. Drake),218901,True,86,5,1,4,0.0743,0.695,0.343,1.04e-06,0.107,-10.798,0.0432,0.229,85.84,Dope
+Ni**as In Paris,"JAY-Z,Kanye West",Watch The Throne (Deluxe),219333,True,79,1,1,4,0.127,0.789,0.858,0,0.349,-5.542,0.311,0.775,140.022,Dope
+BOP,DaBaby,KIRK,159714,True,83,11,1,4,0.189,0.769,0.787,0,0.129,-3.909,0.367,0.836,126.77,Dope
+HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,"Travis Scott,ROSALÍA,Lil Baby",JACKBOYS,244873,True,73,2,0,4,0.0567,0.559,0.491,0,0.0992,-6.406,0.0346,0.114,153.131,Dope
+Deep End,Fousheé,Deep End,141223,True,88,4,0,4,0.758,0.711,0.592,0,0.156,-7.136,0.23,0.535,124.749,Dope
+HOLIDAY,Lil Nas X,HOLIDAY,154997,True,87,5,0,4,0.12,0.81,0.511,0,0.0832,-6.924,0.164,0.837,151.947,Dope
+Runnin,"21 Savage,Metro Boomin",SAVAGE MODE II,195906,True,86,10,0,4,0.00748,0.819,0.626,0.101,0.167,-4.574,0.202,0.415,143.01,Dope
+ROCKSTAR (feat. Roddy Ricch),"DaBaby,Roddy Ricch",BLAME IT ON BABY,181733,True,93,11,1,4,0.247,0.746,0.69,0,0.101,-7.956,0.164,0.497,89.977,Dope
+God's Plan,Drake,Scorpion,198973,True,83,7,1,4,0.0332,0.754,0.449,8.29e-05,0.552,-9.211,0.109,0.357,77.169,Dope
+goosebumps,Travis Scott,Birds In The Trap Sing McKnight,243836,True,88,7,1,4,0.0847,0.841,0.728,0,0.149,-3.37,0.0484,0.43,130.049,Dope
+The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,196652,True,88,10,0,4,0.104,0.896,0.586,0,0.79,-6.687,0.0559,0.642,116.971,Dope
+DNA.,Kendrick Lamar,DAMN.,185946,True,77,1,1,4,0.00454,0.638,0.523,0,0.0842,-6.664,0.357,0.422,139.913,Dope
+Toosie Slide,Drake,Toosie Slide,247058,True,84,1,0,4,0.321,0.834,0.454,6.15e-06,0.114,-9.75,0.201,0.837,81.618,Dope
+Life Is Good (feat. Drake),"Future,Drake",Life Is Good (feat. Drake),237735,True,85,2,0,4,0.0706,0.676,0.609,0,0.152,-5.831,0.481,0.508,142.037,Dope
+Skechers,DripReport,Skechers,106000,True,78,1,1,4,0.26,0.903,0.327,0.011,0.108,-9.727,0.0877,0.274,100.008,Dope
+Needed Me,Rihanna,ANTI (Deluxe),191600,True,79,5,0,4,0.11,0.671,0.314,0,0.0825,-8.091,0.244,0.296,110.898,Dope
+MIDDLE CHILD,J. Cole,MIDDLE CHILD,213593,True,82,8,1,4,0.149,0.837,0.364,0,0.271,-11.713,0.276,0.463,123.984,Dope
+You Got It,Vedo,For You,201586,True,85,5,1,4,0.297,0.774,0.376,0,0.165,-9.372,0.208,0.391,122.089,Dope
+Drankin N Smokin,"Future,Lil Uzi Vert",Pluto x Baby Pluto,213520,True,80,0,1,4,0.0421,0.752,0.658,0,0.0927,-6.297,0.342,0.387,151.951,Dope
+SICKO MODE,Travis Scott,ASTROWORLD,312820,True,87,8,1,4,0.00513,0.834,0.73,0,0.124,-3.714,0.222,0.446,155.008,Dope
+Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone,Swae Lee",Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),158040,False,85,2,1,4,0.556,0.76,0.479,0,0.0703,-5.574,0.0466,0.913,89.911,Dope
+"I Do It (ft. Big Sean, Lil Baby)","Lil Wayne,Big Sean,Lil Baby",Funeral,184440,True,64,1,1,4,0.125,0.804,0.528,0,0.41,-3.231,0.378,0.321,138.005,Dope
+Mood Swings (feat. Lil Tjay),"Pop Smoke,Lil Tjay",Shoot For The Stars Aim For The Moon,213333,True,89,10,0,4,0.487,0.48,0.602,0,0.0848,-6.335,0.368,0.269,179.798,Dope
+Go Crazy,"Chris Brown,Young Thug",Slime & B,176960,True,88,0,0,4,0.316,0.755,0.578,0,0.25,-8.932,0.145,0.581,94.148,Dope
+Ransom,Lil Tecca,We Love You Tecca,131240,True,83,7,0,4,0.0204,0.745,0.642,0,0.0658,-6.257,0.287,0.226,179.974,Dope
+THE SCOTTS,"THE SCOTTS,Travis Scott,Kid Cudi",THE SCOTTS,165977,True,84,0,0,4,0.233,0.716,0.537,0,0.157,-7.648,0.0514,0.28,129.979,Dope
+Blueberry Faygo,Lil Mosey,Certified Hitmaker,162546,True,84,0,1,4,0.207,0.774,0.554,0,0.132,-7.909,0.0383,0.349,99.034,Dope
+Party Girl,StaySolidRocky,Fallin',147800,False,77,6,0,4,0.747,0.73,0.439,0,0.0988,-9.864,0.0609,0.615,130.09,Dope
+FRANCHISE (feat. Young Thug & M.I.A.),"Travis Scott,Young Thug,M.I.A.",FRANCHISE (feat. Young Thug & M.I.A.),202794,True,84,8,0,4,0.00671,0.835,0.699,0,0.195,-5.405,0.277,0.547,154.981,Dope
+Alright,Kendrick Lamar,To Pimp A Butterfly,219333,True,73,7,1,4,0.0742,0.796,0.766,0,0.0827,-5.974,0.238,0.558,110.034,Dope
+After Hours,The Weeknd,After Hours,361026,False,79,5,0,4,0.0811,0.664,0.572,0.00604,0.121,-6.099,0.0305,0.143,108.959,Dope
+DOLLAZ ON MY HEAD (feat. Young Thug),"Gunna,Young Thug",WUNNA,197760,True,82,0,1,4,0.114,0.825,0.458,0,0.102,-7.47,0.0577,0.161,145.115,Dope
+EARFQUAKE,"Tyler, The Creator",IGOR,190066,True,80,9,1,4,0.23,0.554,0.498,5.98e-06,0.795,-8.866,0.0685,0.413,79.635,Dope
+Whoopty,CJ,Whoopty,123428,True,87,3,0,4,0.19,0.711,0.598,0,0.15,-7.621,0.182,0.737,140.175,Dope
+WAP (feat. Megan Thee Stallion),"Cardi B,Megan Thee Stallion",WAP (feat. Megan Thee Stallion),187541,True,95,1,1,4,0.0194,0.935,0.454,0,0.0824,-7.509,0.375,0.357,133.073,Dope
+P2,Lil Uzi Vert,Eternal Atake,234626,True,78,11,0,4,0.0236,0.775,0.72,0,0.114,-5.353,0.193,0.49,155.086,Dope
+Walk Em Down (feat. Roddy Ricch),"NLE Choppa,Roddy Ricch",Walk Em Down (feat. Roddy Ricch),173288,True,78,2,1,4,0.268,0.867,0.744,0,0.0713,-5.171,0.227,0.645,84.005,Dope
+Come & Go (with Marshmello),"Juice WRLD,Marshmello",Legends Never Die,205484,True,52,0,1,4,0.0172,0.625,0.814,0,0.158,-5.181,0.0657,0.535,144.991,Dope
+Body,Megan Thee Stallion,Good News,171067,True,81,8,0,4,0.0166,0.914,0.732,0,0.107,-6.1,0.241,0.469,94.066,Dope
+Hot Shower,"Chance the Rapper,MadeinTYO,DaBaby",The Big Day,225923,True,72,9,1,4,0.00157,0.899,0.509,0,0.0573,-8.04,0.387,0.599,150.001,Dope
