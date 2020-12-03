@@ -2,7 +2,7 @@ Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acou
 Stay Gold,First Aid Kit,Stay Gold,251000,False,49,0,1,4,0.262,0.514,0.74,4.7e-06,0.126,-4.377,0.0398,0.377,95.959,Folk
 Past Lives,Local Natives,Sunlit Youth,223493,False,0,2,1,4,0.000527,0.52,0.784,0.00516,0.0693,-5.645,0.0412,0.248,116.982,Folk
 Big Black Car,Gregory Alan Isakov,This Empty Northern Hemisphere,217466,False,66,3,1,4,0.897,0.572,0.183,0.00275,0.103,-16.069,0.0323,0.404,110.029,Folk
-Lost In My Mind,The Head and the Heart,The Head And The Heart,259120,False,29,2,1,4,0.43,0.372,0.542,0.000335,0.282,-8.113,0.0288,0.384,95.34,Folk
+Lost In My Mind,The Head and the Heart,The Head And The Heart,259120,False,30,2,1,4,0.43,0.372,0.542,0.000335,0.282,-8.113,0.0288,0.384,95.34,Folk
 Everything,Ben Howard,Every Kingdom (Deluxe Version),285506,False,0,3,1,4,0.722,0.525,0.261,0.00126,0.0497,-16.39,0.0521,0.341,141.805,Folk
 Reminder,Mumford & Sons,Babel (Deluxe Version),124346,False,0,9,1,4,0.84,0.564,0.188,0.000716,0.0735,-12.639,0.0483,0.241,114.3,Folk
 Ain't No Use in Tryin',Trampled by Turtles,Songs from a Ghost Town,194986,False,47,0,1,4,0.352,0.595,0.797,0.000553,0.107,-6.243,0.029,0.9,111.058,Folk
@@ -14,7 +14,7 @@ The Stable Song,Gregory Alan Isakov,"That Sea, The Gambler",360933,False,66,2,1,
 Slow It Down,The Lumineers,The Lumineers,305346,False,0,1,1,3,0.928,0.423,0.0657,1.4e-06,0.0922,-14.421,0.0386,0.105,98.489,Folk
 In Dreams,Ben Howard,I Forget Where We Were,213440,False,0,0,1,4,0.617,0.491,0.598,0.571,0.136,-13.506,0.0398,0.267,126.746,Folk
 Home,Edward Sharpe & The Magnetic Zeros,Up from Below,303200,False,73,2,1,4,0.292,0.542,0.589,0.000522,0.177,-6.623,0.0318,0.137,111.665,Folk
-Picture Of A Man,Dawes,We're All Gonna Die,260440,False,15,7,1,4,0.266,0.677,0.536,0.00779,0.077,-7.115,0.0517,0.601,136.057,Folk
+Picture Of A Man,Dawes,We're All Gonna Die,260440,False,14,7,1,4,0.266,0.677,0.536,0.00779,0.077,-7.115,0.0517,0.601,136.057,Folk
 Montezuma,Fleet Foxes,Helplessness Blues,217120,False,42,0,1,4,0.841,0.243,0.318,0.0211,0.101,-9.108,0.0303,0.0936,98.869,Folk
 Heart Sunk Hank,Johnny Flynn,Sillion,191586,False,27,5,0,4,0.825,0.568,0.467,0.00136,0.764,-10.976,0.227,0.251,76.49,Folk
 1904,The Tallest Man On Earth,There's No Leaving Now,239733,False,43,0,1,4,0.723,0.51,0.581,0,0.0996,-4.141,0.0266,0.594,104.622,Folk
@@ -108,7 +108,7 @@ Such Great Heights,Iron & Wine,Around The Well,251280,False,0,6,1,4,0.808,0.61,0
 Walk Unafraid,First Aid Kit,Wild - Original Motion Picture Soundtrack,317520,False,43,11,0,4,0.0891,0.519,0.422,0.000113,0.145,-7.894,0.0312,0.112,109.953,Folk
 Somewhere Along The Way,Dawes,All Your Favorite Bands,339439,False,37,10,1,4,0.278,0.634,0.51,2.9e-06,0.0741,-9.638,0.0299,0.316,119.051,Folk
 Nebraska - Radio Edit,Lucy Rose,Nebraska (Remixes),221946,False,38,4,0,4,0.177,0.636,0.445,3.6e-06,0.0718,-7.377,0.0285,0.188,85.989,Folk
-The Night We Met,Lord Huron,Strange Trails,208211,False,6,9,1,3,0.969,0.443,0.369,0.277,0.638,-9.514,0.0441,0.0989,174.107,Folk
+The Night We Met,Lord Huron,Strange Trails,208211,False,5,9,1,3,0.969,0.443,0.369,0.277,0.638,-9.514,0.0441,0.0989,174.107,Folk
 Emmylou - Spotify Sessions,First Aid Kit,Spotify Sessions,304226,False,52,6,1,4,0.142,0.336,0.647,0.00616,0.826,-7.718,0.039,0.207,94.948,Folk
 Barton Hollow,The Civil Wars,Barton Hollow,205773,False,37,2,1,4,0.123,0.403,0.659,0,0.0857,-7.338,0.0303,0.435,90.854,Folk
 Lighthouse,Patrick Watson,Adventures In Your Own Backyard,286053,False,54,2,0,3,0.755,0.281,0.169,0.416,0.138,-13.873,0.0307,0.155,138.267,Folk
@@ -145,7 +145,7 @@ Holland Road,Mumford & Sons,Babel (Deluxe Version),253146,False,0,2,1,4,0.0978,0
 Step Out,José González,The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture),241573,False,0,8,1,4,0.0128,0.433,0.576,0.409,0.147,-10.311,0.0455,0.159,144.908,Folk
 Mess Is Mine,Vance Joy,Dream Your Life Away,223640,False,65,7,1,1,0.047,0.595,0.723,0.0286,0.0995,-8.256,0.0349,0.272,108.043,Folk
 40 Day Dream,Edward Sharpe & The Magnetic Zeros,Up From Below,233586,False,48,2,1,4,0.202,0.571,0.645,0,0.0759,-6.083,0.0505,0.649,81.955,Folk
-Fortune - Acoustic Version,William Fitzsimmons,Acoustic Sessions,228019,False,39,1,1,4,0.926,0.531,0.058,0.031,0.109,-23.704,0.0365,0.537,78.474,Folk
+Fortune - Acoustic Version,William Fitzsimmons,Acoustic Sessions,228019,False,38,1,1,4,0.926,0.531,0.058,0.031,0.109,-23.704,0.0365,0.537,78.474,Folk
 King And Lionheart,Of Monsters and Men,My Head Is An Animal,273853,False,60,3,1,4,0.105,0.52,0.655,0.00384,0.124,-6.519,0.0394,0.29,126.593,Folk
 The Mute,Radical Face,The Family Tree: The Branches,236266,False,50,1,1,4,0.644,0.699,0.396,0.0744,0.111,-11.122,0.0348,0.213,111.229,Folk
 The Water - feat. Laura Marling,"Johnny Flynn,Laura Marling",Been Listening,254853,False,37,0,1,3,0.855,0.489,0.28,0.000276,0.118,-11.526,0.03,0.247,124.654,Folk

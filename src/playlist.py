@@ -83,3 +83,52 @@ class Playlist:
                                      song.valence, song.tempo, self.name])
         except BaseException as e:
             print('BaseException:', filename, e)
+
+    def load_tracks(self, ids):
+        import math, config
+        from decimal import Decimal, getcontext
+        limit = 50
+        getcontext().prec = 2
+        n_requests = len(ids)/limit  # 34.35 requests
+        n_requests_low = math.floor(n_requests)  # 34 requests of 100 songs
+        # (34.35 - 34)*100 -> 1 of 35 songs
+        partial_request_len = int(
+            float(Decimal(n_requests) - Decimal(n_requests_low))*limit)
+
+        # Full requests of 100
+        if n_requests >= 1:
+            for n in range(1, n_requests_low + 1):
+                tracks_json = config.spoti.get_several_tracks_json(ids[((n-1)*limit):(n*limit)])
+                self.tracks_json_to_playlist(tracks_json)
+                # Partial request of < 100 (last request)
+                if n == (n_requests_low + 1) and partial_request_len > 0:
+                   tracks_json = config.spoti.get_several_tracks_json(ids[(n*limit):((n*limit)+partial_request_len)])
+                   self.tracks_json_to_playlist(tracks_json)
+        else:
+            # Partial request of < 100
+            tracks_json = config.spoti.get_several_tracks_json(ids[0:partial_request_len])
+            self.tracks_json_to_playlist(tracks_json)
+        
+    def tracks_json_to_playlist(self, tracks_json):
+        import song as Song
+
+        usefull_tracks = (
+            track for track in tracks_json['tracks'] if track is not None)
+        
+        usefull_tracks = (
+            track for track in usefull_tracks if track['id'] is not None)
+
+        for track in usefull_tracks:
+            song_name = track['name']
+            song_artists = []
+            for artist in track['artists']:
+                song_artists.append(artist['name'])
+            song_album = track['album']['name']
+            song_len_ms = track['duration_ms']
+            song_id = track['id']
+            song_explicit = track['explicit']
+            song_popularity = track['popularity']
+            song = Song.Song(name=song_name, artists=song_artists, album=song_album,
+                             len_ms=song_len_ms, explicit=song_explicit,
+                             popularity=song_popularity, id=song_id)
+            self.song_list.append(song)

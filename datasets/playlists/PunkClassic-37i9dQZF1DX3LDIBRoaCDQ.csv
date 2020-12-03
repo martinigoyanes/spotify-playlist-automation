@@ -1,51 +1,51 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Suffer,Bad Religion,Suffer,107323,False,48,9,0,4,0.000193,0.39,0.974,0,0.119,-3.243,0.0774,0.67,144.312,PunkClassic
-I Want Some,Beastie Boys,Anthology: The Sounds Of Science,120266,True,42,2,1,4,2.94e-06,0.223,0.986,0.721,0.0733,-6.291,0.0884,0.516,175.741,PunkClassic
+Circles,Dag Nasty,Can I Say,166560,False,43,1,0,4,0.00132,0.423,0.829,6.86e-06,0.316,-5.999,0.0601,0.4,93.37,PunkClassic
 Mickey Mouse Is Dead,Subhumans,The Day the Country Died,164200,False,46,1,0,4,0.00135,0.342,0.94,0,0.0697,-10.995,0.0886,0.546,167.654,PunkClassic
+I Want Some,Beastie Boys,Anthology: The Sounds Of Science,120266,True,42,2,1,4,2.94e-06,0.223,0.986,0.721,0.0733,-6.291,0.0884,0.516,175.741,PunkClassic
 Dean's Dream,The Dead Milkmen,Big Lizard In My Back Yard,109133,False,48,6,0,4,0.00647,0.4,0.696,0.000192,0.2,-14.939,0.0352,0.888,110.651,PunkClassic
+No Class,Reagan Youth,A Collection of Pop Classics,94440,False,0,2,1,4,0.0571,0.341,0.656,5.27e-05,0.19,-14.174,0.368,0.404,206.195,PunkClassic
+Suffer,Bad Religion,Suffer,107323,False,48,9,0,4,0.000193,0.39,0.974,0,0.119,-3.243,0.0774,0.67,144.312,PunkClassic
+Sick Boy,GBH,City Baby Attacked by Rats,152746,False,1,11,0,4,4.55e-05,0.286,0.972,0.00183,0.364,-5.031,0.127,0.31,152.667,PunkClassic
+Anarchy Burger (Hold The Government),The Vandals,Peace Thru Vandalism (Re-Mastered),114133,True,0,2,1,4,0.000461,0.391,0.935,0,0.219,-10.044,0.0816,0.171,140.412,PunkClassic
+That's Progress,D.O.A.,Last Scream of the Missing Neighbors,193733,False,43,9,0,4,0.000196,0.286,0.899,0.00165,0.362,-12.53,0.0458,0.632,139.492,PunkClassic
+"Don't Care / Live Fast, Die Young",Circle Jerks,"Rat Music for Rat People, Vol. 1",137480,True,29,4,0,4,0.0166,0.228,0.972,0.0854,0.978,-6.415,0.149,0.168,113.364,PunkClassic
+Something I Learned Today,Hüsker Dü,Zen Arcade,122560,False,45,4,1,4,0.0033,0.406,0.963,0.000515,0.11,-10.842,0.0408,0.342,104.729,PunkClassic
+Straight Edge,Minor Threat,First Two 7s,47226,False,0,5,1,4,0.00098,0.251,0.958,0.00408,0.313,-6.383,0.0685,0.748,189.067,PunkClassic
 Mannequin - 2006 Remastered Version,Wire,Pink Flag,157360,False,0,11,0,4,0.0065,0.419,0.75,0.254,0.249,-8.798,0.0469,0.861,150.064,PunkClassic
 No Control,Bad Religion,No Control,106693,False,51,11,0,4,0.0207,0.459,0.966,0,0.215,-3.678,0.0924,0.729,147.624,PunkClassic
-Circles,Dag Nasty,Can I Say,166560,False,43,1,0,4,0.00132,0.423,0.829,6.86e-06,0.316,-5.999,0.0601,0.4,93.37,PunkClassic
-Something I Learned Today,Hüsker Dü,Zen Arcade,122560,False,45,4,1,4,0.0033,0.406,0.963,0.000515,0.11,-10.842,0.0408,0.342,104.729,PunkClassic
-Sick Boy,GBH,City Baby Attacked by Rats,152746,False,1,11,0,4,4.55e-05,0.286,0.972,0.00183,0.364,-5.031,0.127,0.31,152.667,PunkClassic
-In The City,The Jam,Snap,138200,False,30,7,1,4,0.000479,0.343,0.895,2.71e-05,0.295,-7.022,0.0468,0.894,177.844,PunkClassic
-No Class,Reagan Youth,A Collection of Pop Classics,94440,False,0,2,1,4,0.0571,0.341,0.656,5.27e-05,0.19,-14.174,0.368,0.404,206.195,PunkClassic
-Ex Lion Tamer - 2006 Remastered Version,Wire,Pink Flag,139693,False,0,2,1,4,0.259,0.343,0.856,0.000673,0.224,-4.666,0.085,0.679,161.846,PunkClassic
-That's Progress,D.O.A.,Last Scream of the Missing Neighbors,193733,False,43,9,0,4,0.000196,0.286,0.899,0.00165,0.362,-12.53,0.0458,0.632,139.492,PunkClassic
-See No Evil,Television,Marquee Moon,232960,False,49,7,1,4,0.0224,0.398,0.782,0.0684,0.0912,-7.944,0.0322,0.806,144.965,PunkClassic
-Straight Edge,Minor Threat,First Two 7s,47226,False,0,5,1,4,0.00098,0.251,0.958,0.00408,0.313,-6.383,0.0685,0.748,189.067,PunkClassic
-Search and Destroy,The Stooges,My Girl Hates My Heroin,229519,False,0,7,1,4,0.694,0.366,0.699,0.835,0.138,-13.356,0.0537,0.445,77.966,PunkClassic
 All This and More,Dead Boys,"Young, Loud And Snotty",167400,False,41,0,1,4,0.00359,0.374,0.978,0.0187,0.864,-6.024,0.118,0.236,129.223,PunkClassic
-Viet Nam,Minutemen,Double Nickels on the Dime,89666,False,48,2,1,4,0.0128,0.716,0.877,0.000918,0.114,-9.299,0.281,0.956,160.513,PunkClassic
-Trash,New York Dolls,New York Dolls,188306,False,45,7,1,4,0.00114,0.478,0.698,0,0.191,-9.255,0.0321,0.85,112.99,PunkClassic
-Disorder - 2007 Remaster,Joy Division,Unknown Pleasures,209039,False,19,10,0,4,0.00033,0.32,0.798,0.692,0.176,-7.078,0.124,0.74,84.696,PunkClassic
+In The City,The Jam,Snap,138200,False,30,7,1,4,0.000479,0.343,0.895,2.71e-05,0.295,-7.022,0.0468,0.894,177.844,PunkClassic
+We Must Bleed,Germs,GI,185266,False,36,11,0,4,2.27e-05,0.295,0.968,0.502,0.371,-7.587,0.0731,0.256,108.991,PunkClassic
 Suburban Home,Descendents,Milo Goes to College,100600,False,55,2,1,3,5.46e-05,0.388,0.771,0,0.359,-9.393,0.0385,0.826,99.258,PunkClassic
 Hurry Up Harry,Sham 69,Angels With Dirty Faces,206666,False,43,0,1,4,0.00326,0.403,0.918,0.372,0.0958,-6.562,0.0545,0.719,162.542,PunkClassic
-We Must Bleed,Germs,GI,185266,False,36,11,0,4,2.27e-05,0.295,0.968,0.502,0.371,-7.587,0.0731,0.256,108.991,PunkClassic
-What Do I Get?,Buzzcocks,Operators Manual (Buzzcocks Best),176293,False,0,7,1,4,0.0341,0.382,0.955,0,0.162,-5.447,0.0771,0.205,88.32,PunkClassic
-Banned In D.C.,Bad Brains,Bad Brains,132786,True,0,9,0,4,0.000612,0.139,0.712,0.816,0.0983,-12.103,0.0399,0.689,152.933,PunkClassic
-Hope,Descendents,Milo Goes to College,120360,False,55,2,1,4,0.00169,0.506,0.903,0,0.336,-8.898,0.0455,0.781,117.229,PunkClassic
-Bad Mouth,Fugazi,13 Songs,155626,False,50,9,1,4,0.000697,0.452,0.652,0.564,0.321,-8.301,0.0368,0.529,91.259,PunkClassic
-Personality Crisis,New York Dolls,New York Dolls,221506,False,51,7,1,4,0.0321,0.429,0.914,9.26e-05,0.436,-9.594,0.0505,0.685,155.588,PunkClassic
-Should I Stay or Should I Go - Remastered,The Clash,Hits Back,188240,False,65,2,1,4,0.0838,0.742,0.844,0,0.418,-6.441,0.111,0.85,113.371,PunkClassic
-Anarchy Burger (Hold The Government),The Vandals,Peace Thru Vandalism (Re-Mastered),114133,True,0,2,1,4,0.000461,0.391,0.935,0,0.219,-10.044,0.0816,0.171,140.412,PunkClassic
-Six Pack,Black Flag,Damaged,140493,False,50,2,1,4,0.157,0.33,0.784,2.08e-05,0.58,-15.285,0.19,0.196,115.402,PunkClassic
-Babylon's Burning,The Ruts,The Crack,155186,False,41,9,0,4,0.0219,0.334,0.925,0,0.186,-8.521,0.0663,0.577,168.393,PunkClassic
 Minor Threat,Minor Threat,First Two Seven Inches,91240,False,52,2,1,4,0.00101,0.276,0.91,0.0014,0.276,-7.465,0.0491,0.935,166.469,PunkClassic
-Knowledge - 2007 Remaster,Operation Ivy,Operation Ivy (2007 Remaster),102106,True,51,5,1,4,0.262,0.42,0.947,6.52e-05,0.416,-4.269,0.119,0.51,92.027,PunkClassic
 Suspect Device,Stiff Little Fingers,Inflammable Material,155960,True,47,4,1,4,0.000737,0.241,0.943,0.0269,0.349,-6.381,0.0566,0.93,187.71,PunkClassic
-Go Nowhere,Reagan Youth,A Collection of Pop Classics,82106,False,0,0,1,4,0.000391,0.433,0.545,1.93e-05,0.116,-15.215,0.185,0.709,153.588,PunkClassic
+Disorder - 2007 Remaster,Joy Division,Unknown Pleasures,209039,False,19,10,0,4,0.00033,0.32,0.798,0.692,0.176,-7.078,0.124,0.74,84.696,PunkClassic
 Code Blue,T.S.O.L.,Dance With Me,128906,True,46,7,1,4,0.00601,0.192,0.983,0,0.397,-2.85,0.097,0.339,136.36,PunkClassic
-Sailin' On,Bad Brains,Bad Brains,115040,True,0,9,1,4,0.00391,0.199,0.818,7.37e-05,0.66,-12.416,0.0506,0.0837,82.025,PunkClassic
+Ex Lion Tamer - 2006 Remastered Version,Wire,Pink Flag,139693,False,0,2,1,4,0.259,0.343,0.856,0.000673,0.224,-4.666,0.085,0.679,161.846,PunkClassic
+Trash,New York Dolls,New York Dolls,188306,False,45,7,1,4,0.00114,0.478,0.698,0,0.191,-9.255,0.0321,0.85,112.99,PunkClassic
+Hope,Descendents,Milo Goes to College,120360,False,55,2,1,4,0.00169,0.506,0.903,0,0.336,-8.898,0.0455,0.781,117.229,PunkClassic
 Bloodstains - Original Version,Agent Orange,Living In Darkness (30th Anniversary Edition),113240,False,55,10,0,4,0.0962,0.494,0.923,0,0.128,-7.69,0.182,0.577,176.216,PunkClassic
-Blank Generation,Richard Hell,Blank Generation,162075,False,0,7,1,4,0.129,0.44,0.85,3.79e-06,0.0959,-6.196,0.165,0.637,138.571,PunkClassic
-Marquee Moon,Television,Marquee Moon,638426,False,59,7,1,4,0.0391,0.49,0.536,0.371,0.116,-10.83,0.0382,0.732,118.008,PunkClassic
-New Rose,The Damned,Damned Damned Damned,164640,False,0,1,0,4,0.175,0.196,0.918,1.62e-06,0.093,-11.717,0.0547,0.384,173.566,PunkClassic
+Bad Mouth,Fugazi,13 Songs,155626,False,50,9,1,4,0.000697,0.452,0.652,0.564,0.321,-8.301,0.0368,0.529,91.259,PunkClassic
 Wild in the Streets,Circle Jerks,Wild in the Streets,155693,False,51,4,1,4,0.0061,0.459,0.966,0,0.146,-8.814,0.0302,0.38,103.421,PunkClassic
-Blitzkrieg Bop - 2001 Remastered Version,Ramones,Ramones (Expanded),133440,False,0,9,1,4,0.0103,0.547,0.733,0.131,0.117,-6.558,0.0433,0.962,176.198,PunkClassic
-She's Lost Control - 2007 Remaster,Joy Division,Unknown Pleasures,237013,False,12,11,0,4,0.0157,0.485,0.846,0.0287,0.0766,-7.63,0.0528,0.743,144.246,PunkClassic
-Redondo Beach,Patti Smith,Horses (Legacy Edition),205173,False,46,4,1,4,0.229,0.86,0.6,1.4e-05,0.126,-9.103,0.121,0.779,142.195,PunkClassic
-Going Underground,The Jam,Setting Sons (Super Deluxe),174506,False,59,11,1,4,0.00364,0.319,0.836,1.84e-05,0.1,-6.706,0.113,0.94,180.56,PunkClassic
-Sound System,Operation Ivy,Operation Ivy,134026,False,0,2,1,4,0.35,0.569,0.954,0.000265,0.0768,-4.82,0.126,0.574,91.205,PunkClassic
+Should I Stay or Should I Go - Remastered,The Clash,Hits Back,188240,False,65,2,1,4,0.0838,0.742,0.844,0,0.418,-6.441,0.111,0.85,113.371,PunkClassic
+Six Pack,Black Flag,Damaged,140493,False,50,2,1,4,0.157,0.33,0.784,2.08e-05,0.58,-15.285,0.19,0.196,115.402,PunkClassic
+Go Nowhere,Reagan Youth,A Collection of Pop Classics,82106,False,0,0,1,4,0.000391,0.433,0.545,1.93e-05,0.116,-15.215,0.185,0.709,153.588,PunkClassic
+Banned In D.C.,Bad Brains,Bad Brains,132786,True,0,9,0,4,0.000612,0.139,0.712,0.816,0.0983,-12.103,0.0399,0.689,152.933,PunkClassic
+Knowledge - 2007 Remaster,Operation Ivy,Operation Ivy (2007 Remaster),102106,True,51,5,1,4,0.262,0.42,0.947,6.52e-05,0.416,-4.269,0.119,0.51,92.027,PunkClassic
+Babylon's Burning,The Ruts,The Crack,155186,False,41,9,0,4,0.0219,0.334,0.925,0,0.186,-8.521,0.0663,0.577,168.393,PunkClassic
+Viet Nam,Minutemen,Double Nickels on the Dime,89666,False,48,2,1,4,0.0128,0.716,0.877,0.000918,0.114,-9.299,0.281,0.956,160.513,PunkClassic
+What Do I Get?,Buzzcocks,Operators Manual (Buzzcocks Best),176293,False,0,7,1,4,0.0341,0.382,0.955,0,0.162,-5.447,0.0771,0.205,88.32,PunkClassic
 Neat Neat Neat,The Damned,Damned Damned Damned,163346,False,0,1,0,4,0.00365,0.439,0.87,0,0.0672,-8.388,0.0585,0.538,88.156,PunkClassic
+Search and Destroy,The Stooges,My Girl Hates My Heroin,229519,False,0,7,1,4,0.694,0.366,0.699,0.835,0.138,-13.356,0.0537,0.445,77.966,PunkClassic
 Alternative Ulster,Stiff Little Fingers,Inflammable Material,163880,False,53,11,0,4,0.0148,0.439,0.971,1.34e-05,0.255,-5.855,0.177,0.24,118.369,PunkClassic
+Sailin' On,Bad Brains,Bad Brains,115040,True,0,9,1,4,0.00391,0.199,0.818,7.37e-05,0.66,-12.416,0.0506,0.0837,82.025,PunkClassic
+Amoeba,Adolescents,Adolescents,186626,False,54,4,1,4,7.97e-05,0.231,0.962,0.00175,0.803,-7.341,0.0753,0.534,189.29,PunkClassic
+Sound System,Operation Ivy,Operation Ivy,134026,False,0,2,1,4,0.35,0.569,0.954,0.000265,0.0768,-4.82,0.126,0.574,91.205,PunkClassic
+Rock 'N' Roll High School - Remastered,Ramones,"Loud, Fast, Ramones: Their Toughest Hits",137400,False,0,0,1,4,0.0183,0.499,0.87,0,0.0512,-4.431,0.126,0.893,188.853,PunkClassic
+She's Lost Control - 2007 Remaster,Joy Division,Unknown Pleasures,237013,False,12,11,0,4,0.0157,0.485,0.846,0.0287,0.0766,-7.63,0.0528,0.743,144.246,PunkClassic
+Going Underground,The Jam,Setting Sons (Super Deluxe),174506,False,59,11,1,4,0.00364,0.319,0.836,1.84e-05,0.1,-6.706,0.113,0.94,180.56,PunkClassic
+Blank Generation,Richard Hell,Blank Generation,162075,False,0,7,1,4,0.129,0.44,0.85,3.79e-06,0.0959,-6.196,0.165,0.637,138.571,PunkClassic
+New Rose,The Damned,Damned Damned Damned,164640,False,0,1,0,4,0.175,0.196,0.918,1.62e-06,0.093,-11.717,0.0547,0.384,173.566,PunkClassic
+Sonic Reducer,Dead Boys,"Young, Loud And Snotty",189333,False,50,1,0,4,0.00525,0.403,0.891,0.00379,0.0519,-8.907,0.139,0.427,88.936,PunkClassic
+Lexicon Devil,Germs,GI,104360,False,45,4,0,4,0.000242,0.504,0.877,2.66e-06,0.293,-7.469,0.053,0.821,106.272,PunkClassic

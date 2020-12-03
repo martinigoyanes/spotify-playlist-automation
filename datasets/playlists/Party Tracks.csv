@@ -1,0 +1,251 @@
+,Unnamed: 0,Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+0,0,The Greatest,"Sia,Kendrick Lamar",The Greatest,210893,False,1,1.0,1.0,4.0,0.0109,0.6659999999999999,0.723,0.00047,0.0507,-6.164,0.268,0.7390000000000001,192.024,Party Tracks
+1,1,My Way,Calvin Harris,My Way,219159,False,75,4.0,0.0,4.0,0.0935,0.8190000000000001,0.913,3.72e-05,0.161,-3.059,0.0427,0.536,119.989,Party Tracks
+2,2,Closer,"The Chainsmokers,Halsey",Closer,244960,False,84,8.0,1.0,4.0,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,0.6609999999999999,95.01,Party Tracks
+3,3,Treat You Better,Shawn Mendes,Treat You Better,187973,False,0,10.0,0.0,4.0,0.128,0.448,0.8170000000000001,0.0,0.105,-4.069,0.386,0.7090000000000001,83.015,Party Tracks
+4,4,Starving,"Hailee Steinfeld,Grey,Zedd",Starving,181880,False,76,4.0,1.0,4.0,0.378,0.728,0.616,0.0,0.105,-4.238,0.0645,0.508,99.962,Party Tracks
+5,5,Ain't My Fault,Zara Larsson,Ain't My Fault,224030,False,0,6.0,0.0,4.0,0.00778,0.5760000000000001,0.782,0.0,0.285,-4.825,0.0296,0.355,141.153,Party Tracks
+6,6,This Is What You Came For (feat. Rihanna),"Calvin Harris,Rihanna",This Is What You Came For (feat. Rihanna),222160,False,78,9.0,0.0,4.0,0.199,0.63,0.928,0.124,0.14800000000000002,-2.787,0.0331,0.465,123.963,Party Tracks
+7,7,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Lil Wayne,Wiz Khalifa,Imagine Dragons,X Ambassadors,Logic,Ty Dolla $ign",Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors),243490,True,77,9.0,0.0,4.0,0.255,0.502,0.7859999999999999,0.0,0.65,-4.378,0.317,0.7390000000000001,169.021,Party Tracks
+8,8,Come First,Terror Jr,Come First,171789,False,0,5.0,1.0,4.0,0.123,0.7490000000000001,0.198,0.000451,0.0866,-11.747,0.32299999999999995,0.35600000000000004,95.084,Party Tracks
+9,9,Into You,Ariana Grande,Dangerous Woman,244453,False,75,9.0,1.0,4.0,0.0162,0.623,0.7340000000000001,1.75e-06,0.145,-5.948,0.107,0.37,107.853,Party Tracks
+10,10,Cold Water,"Major Lazer,Justin Bieber,MØ",Cold Water,185360,False,68,6.0,0.0,4.0,0.0736,0.608,0.7979999999999999,0.0,0.156,-5.092,0.0432,0.501,92.943,Party Tracks
+11,11,In the Name of Love,"Martin Garrix,Bebe Rexha",In the Name of Love,195706,False,78,4.0,0.0,4.0,0.109,0.501,0.519,0.0,0.454,-5.88,0.0409,0.168,133.99,Party Tracks
+12,12,Perfect Illusion,Lady Gaga,Perfect Illusion,181506,False,0,1.0,0.0,4.0,0.0016300000000000002,0.615,0.8540000000000001,0.0,0.358,-5.478,0.0388,0.669,124.992,Party Tracks
+13,13,Side To Side,"Ariana Grande,Nicki Minaj",Dangerous Woman,226160,True,74,6.0,0.0,4.0,0.0528,0.65,0.736,0.0,0.235,-5.84,0.229,0.613,159.173,Party Tracks
+14,14,Let Me Love You,"DJ Snake,Justin Bieber",Encore,205946,False,80,8.0,1.0,4.0,0.0863,0.649,0.716,2.63e-05,0.135,-5.371,0.0349,0.163,99.988,Party Tracks
+15,15,You & Me,"Marc E. Bassy,G-Eazy",You & Me,218480,False,0,1.0,1.0,4.0,0.0362,0.687,0.645,0.0,0.201,-8.38,0.19,0.619,84.925,Party Tracks
+16,16,Final Song,MØ,Final Song,235826,False,68,1.0,0.0,4.0,0.014,0.695,0.672,8.44e-05,0.0756,-6.109,0.0345,0.245,104.988,Party Tracks
+17,17,in my miNd,Maty Noyes,In My Mind,212026,False,0,0.0,0.0,4.0,0.461,0.764,0.631,0.0,0.0413,-3.814,0.0251,0.76,102.074,Party Tracks
+18,18,Heathens,Twenty One Pilots,Heathens,195920,False,81,4.0,0.0,4.0,0.0841,0.732,0.396,3.58e-05,0.105,-9.348,0.0286,0.5479999999999999,90.024,Party Tracks
+19,19,Scars To Your Beautiful,Alessia Cara,Know-It-All (Deluxe),230226,False,73,0.0,1.0,4.0,0.0285,0.573,0.7390000000000001,0.0,0.111,-5.74,0.129,0.451,97.085,Party Tracks
+20,20,Let Me Hold You (Turn Me On),"Cheat Codes,Dante Klein",Let Me Hold You (Turn Me On),162425,False,1,1.0,0.0,4.0,0.0992,0.6809999999999999,0.774,0.0,0.35,-3.167,0.0787,0.267,102.924,Party Tracks
+21,21,Slumber Party,Britney Spears,Glory,214080,True,0,9.0,0.0,4.0,0.208,0.728,0.767,0.0,0.0795,-7.022,0.0679,0.476,135.025,Party Tracks
+22,22,Too Good,"Drake,Rihanna",Views,263373,True,56,7.0,1.0,4.0,0.0484,0.7929999999999999,0.653,4.91e-05,0.1,-7.838999999999999,0.103,0.393,117.993,Party Tracks
+23,23,Cool Girl,Tove Lo,Cool Girl,197815,True,0,9.0,0.0,4.0,0.35100000000000003,0.667,0.72,4.26e-06,0.138,-7.026,0.11,0.242,101.964,Party Tracks
+24,24,Millionaire (feat. Nelly) - Alan Walker Remix,"Cash Cash,Digital Farm Animals,Nelly,Alan Walker",Millionaire (feat. Nelly) [Alan Walker Remix],189338,False,0,5.0,1.0,4.0,0.0186,0.602,0.807,0.0,0.14800000000000002,-4.577,0.0545,0.424,96.044,Party Tracks
+25,25,Perfect Strangers,"Jonas Blue,JP Cooper",Perfect Strangers,196613,False,2,1.0,1.0,4.0,0.3720000000000001,0.742,0.8190000000000001,0.0,0.277,-5.307,0.0487,0.7090000000000001,117.986,Party Tracks
+26,26,Don't Let Me Down,"The Chainsmokers,Daya",Don't Let Me Down,208373,False,79,11.0,1.0,4.0,0.157,0.532,0.8690000000000001,0.00508,0.136,-5.0939999999999985,0.172,0.422,159.803,Party Tracks
+27,27,Capsize,"FRENSHIP,Emily Warren",Capsize,237580,False,0,5.0,0.0,4.0,0.042,0.6809999999999999,0.708,0.14,0.6759999999999999,-6.019,0.0304,0.35600000000000004,92.993,Party Tracks
+28,28,Hymn for the Weekend - Seeb Remix,"Coldplay,Seeb",Hymn for the Weekend (Seeb Remix),212647,False,68,0.0,0.0,4.0,0.00868,0.565,0.8490000000000001,4.68e-06,0.12,-3.516,0.0517,0.4270000000000001,102.034,Party Tracks
+29,29,LUV,Tory Lanez,LUV,228026,True,0,11.0,0.0,4.0,0.0121,0.524,0.505,1.28e-06,0.225,-8.256,0.275,0.306,189.978,Party Tracks
+30,30,CRZY,Kehlani,CRZY,191719,True,40,6.0,1.0,4.0,0.209,0.8240000000000001,0.711,4.14e-05,0.14400000000000002,-7.279,0.222,0.6829999999999999,130.02700000000002,Party Tracks
+31,31,Still Falling For You - Jonas Blue Remix,"Ellie Goulding,Jonas Blue",Still Falling For You (Jonas Blue Remix),188053,False,46,1.0,1.0,4.0,0.327,0.536,0.745,0.0,0.312,-7.695,0.0537,0.5,122.481,Party Tracks
+32,32,We Don't Talk Anymore (feat. Selena Gomez),"Charlie Puth,Selena Gomez",Nine Track Mind,217706,False,68,1.0,0.0,4.0,0.621,0.728,0.563,0.0,0.179,-8.052999999999999,0.134,0.35200000000000004,100.017,Party Tracks
+33,33,Write On Me,Fifth Harmony,7/27 (Deluxe),219560,False,35,7.0,0.0,4.0,0.359,0.441,0.6920000000000001,1.94e-06,0.161,-5.4270000000000005,0.128,0.475,189.879,Party Tracks
+34,34,The Ocean (feat. Shy Martin),"Mike Perry,SHY Martin",The Ocean (feat. Shy Martin),183414,False,73,5.0,1.0,4.0,0.0225,0.632,0.575,1.81e-06,0.104,-6.478,0.029,0.188,90.037,Party Tracks
+35,35,Body Say,Demi Lovato,Body Say,193893,False,61,5.0,0.0,4.0,0.00415,0.628,0.74,0.0,0.277,-4.836,0.0358,0.257,86.98299999999998,Party Tracks
+36,36,WILD - Young Bombs Remix,"Troye Sivan,Alessia Cara,Young Bombs",WILD (feat. Alessia Cara) [Young Bombs Remix],202778,False,0,10.0,1.0,4.0,0.0681,0.522,0.8340000000000001,0.0,0.126,-2.752,0.0347,0.34600000000000003,100.005,Party Tracks
+37,37,False Alarm,"Matoma,Becky Hill",False Alarm,224271,False,44,5.0,0.0,4.0,0.006809999999999999,0.643,0.732,4.57e-05,0.0606,-6.7620000000000005,0.0294,0.181,102.979,Party Tracks
+38,38,Blow Your Mind (Mwah),Dua Lipa,Blow Your Mind (Mwah),178583,True,71,2.0,0.0,4.0,0.0188,0.654,0.7959999999999999,0.0,0.0948,-4.761,0.122,0.491,108.854,Party Tracks
+39,39,Please Don't Go,Joel Adams,Please Don't Go,210580,False,74,4.0,0.0,4.0,0.0118,0.513,0.768,1.94e-05,0.294,-4.868,0.0587,0.235,84.264,Party Tracks
+40,40,Alarm,Anne-Marie,Alarm,205593,True,62,0.0,1.0,4.0,0.0812,0.7559999999999999,0.589,0.0,0.17600000000000002,-5.093,0.232,0.8109999999999999,146.928,Party Tracks
+41,41,This Girl (Kungs Vs. Cookin' On 3 Burners),"Kungs,Cookin' On 3 Burners",This Girl (Kungs Vs. Cookin' On 3 Burners),195561,False,0,3.0,1.0,4.0,0.0865,0.7859999999999999,0.69,9.03e-05,0.238,-4.665,0.04,0.485,122.006,Party Tracks
+42,42,Never Be Like You (feat. Kai),"Flume,kai",Never Be Like You (feat. Kai),234909,True,0,0.0,1.0,4.0,0.446,0.54,0.59,0.0,0.14,-4.359,0.0528,0.267,119.878,Party Tracks
+43,43,Something Wrong,Timeflies,Something Wrong,234988,True,0,7.0,0.0,4.0,0.0441,0.7120000000000001,0.775,0.0,0.185,-5.452000000000001,0.298,0.508,94.928,Party Tracks
+44,44,Mama Said,Lukas Graham,Lukas Graham,206902,False,66,7.0,0.0,4.0,0.0447,0.7120000000000001,0.799,6.4e-05,0.37,-4.564,0.0703,0.591,83.99600000000002,Party Tracks
+45,45,Kids,OneRepublic,Kids,240146,False,0,2.0,1.0,4.0,0.0144,0.599,0.733,0.0,0.34700000000000003,-6.072,0.0415,0.214,100.0,Party Tracks
+46,46,Whole Heart,"Gryffin,Bipolar Sunshine",Whole Heart,225200,False,57,9.0,1.0,4.0,0.028,0.501,0.648,1.26e-05,0.153,-7.172999999999999,0.0696,0.191,163.834,Party Tracks
+47,47,Be As You Are - JordanXL Remix,"Mike Posner,JordanXL","At Night, Alone.",203533,False,43,2.0,1.0,4.0,0.062,0.67,0.6859999999999999,0.0,0.21600000000000005,-5.4860000000000015,0.0509,0.208,170.037,Party Tracks
+48,48,Burn Brighter,Pavlova,Burn Brighter,212666,False,21,8.0,0.0,4.0,0.0296,0.731,0.81,0.00369,0.528,-4.6530000000000005,0.108,0.373,127.996,Party Tracks
+49,49,Hurts So Good,Astrid S,Hurts So Good,208728,False,0,7.0,0.0,4.0,0.0747,0.6709999999999999,0.609,0.0,0.0958,-5.02,0.0508,0.375,120.054,Party Tracks
+50,50,Overnight,Jake Miller,Overnight,217087,True,38,6.0,0.0,4.0,0.0086,0.616,0.8109999999999999,0.0,0.273,-4.232,0.0427,0.63,102.014,Party Tracks
+51,51,All In My Head (Flex) (feat. Fetty Wap),"Fifth Harmony,Fetty Wap",7/27 (Deluxe),210586,False,47,0.0,0.0,4.0,0.0243,0.691,0.79,0.0,0.0453,-5.216,0.0561,0.7340000000000001,95.047,Party Tracks
+52,52,Carry Me (feat. Julia Michaels),"Kygo,Julia Michaels",Cloud Nine,233133,False,61,7.0,1.0,4.0,0.486,0.621,0.551,0.0,0.115,-7.89,0.0474,0.222,105.052,Party Tracks
+53,53,Game Girl,Young & Divine,Game Girl,211537,True,25,0.0,1.0,4.0,0.0738,0.638,0.581,0.0,0.277,-6.365,0.0348,0.552,87.965,Party Tracks
+54,54,Dollhouse,Melanie Martinez,Cry Baby (Deluxe Edition),231853,False,72,5.0,0.0,4.0,0.22,0.725,0.708,0.0,0.777,-5.331,0.0756,0.555,130.029,Party Tracks
+55,55,Alone,Marshmello,Alone,273802,False,4,2.0,1.0,4.0,0.0244,0.636,0.953,0.0164,0.108,-3.74,0.0353,0.397,142.011,Party Tracks
+56,56,Broccoli,"Shelley FKA DRAM,Lil Yachty",Broccoli,225280,False,39,8.0,1.0,4.0,0.247,0.903,0.525,0.0,0.0584,-7.687,0.21600000000000005,0.7140000000000001,145.97299999999996,Party Tracks
+57,57,Mercy,Shawn Mendes,Mercy,208733,False,0,11.0,0.0,4.0,0.131,0.409,0.6859999999999999,0.0,0.11,-4.893,0.177,0.354,147.929,Party Tracks
+58,58,Tired of Talking,LÉON,Treasure - EP,197000,False,55,9.0,0.0,4.0,0.127,0.669,0.693,2.94e-06,0.174,-6.407,0.0695,0.398,100.946,Party Tracks
+59,59,Thinking About It (Let It Go) - KVR Remix,"Nathan Goshen,KVR",Thinking About It (Let It Go) [KVR Remix],183564,False,54,4.0,0.0,4.0,0.0136,0.6940000000000001,0.765,0.0,0.154,-7.0779999999999985,0.0297,0.5770000000000001,100.985,Party Tracks
+60,60,Out Of My System,Youngr,Out Of My System,203114,True,35,7.0,0.0,4.0,0.049,0.7190000000000001,0.721,0.00865,0.0661,-6.693,0.243,0.893,105.026,Party Tracks
+61,61,Say It (feat. Tove Lo),"Flume,Tove Lo",Say It,262521,True,0,3.0,0.0,4.0,0.0668,0.598,0.532,3.22e-06,0.0617,-6.832999999999998,0.0295,0.261,74.96300000000002,Party Tracks
+62,62,Bikini Body,"Dawin,R. City",Sunday,227240,False,47,11.0,1.0,4.0,0.0432,0.645,0.795,0.0,0.0491,-4.914,0.0985,0.779,197.683,Party Tracks
+63,63,Perfect Strangers,"Jonas Blue,JP Cooper",Perfect Strangers,196613,False,3,1.0,1.0,4.0,0.394,0.731,0.8220000000000001,0.0,0.28800000000000003,-5.305,0.0459,0.708,118.021,Party Tracks
+64,64,Controlla,Drake,Views,245226,True,57,10.0,0.0,4.0,0.0781,0.611,0.468,0.0,0.101,-11.084,0.179,0.349,92.092,Party Tracks
+65,65,One Dance,"Drake,WizKid,Kyla",One Dance,173974,False,0,1.0,1.0,4.0,0.008490000000000001,0.7759999999999999,0.624,0.0020800000000000003,0.35600000000000004,-5.815,0.0505,0.354,103.987,Party Tracks
+66,66,Cheap Thrills,Sia,This Is Acting,211666,False,76,6.0,0.0,4.0,0.0472,0.628,0.698,0.00143,0.0907,-5.608,0.105,0.732,89.976,Party Tracks
+67,67,Sexual,"NEIKED,Dyo",Sexual,188888,False,47,2.0,1.0,4.0,0.0692,0.797,0.5670000000000001,0.0,0.0705,-7.502999999999999,0.0651,0.843,108.024,Party Tracks
+68,68,Kings of Summer - Single Version,"ayokay,Quinn XCII",Kings of Summer (feat. Quinn XCII),207880,False,61,11.0,1.0,4.0,0.222,0.7340000000000001,0.6609999999999999,2.18e-06,0.201,-6.705,0.0356,0.253,134.93,Party Tracks
+69,69,Gold,Kiiara,low kii savage,225882,False,69,8.0,1.0,5.0,0.615,0.6,0.412,0.0025,0.134,-9.343,0.344,0.408,113.049,Party Tracks
+70,70,Invitation (feat. Yade Lauren),"Yellow Claw,Yade Lauren",Invitation (feat. Yade Lauren),152460,False,0,5.0,0.0,4.0,0.0978,0.598,0.8420000000000001,7.670000000000001e-05,0.644,-5.612,0.0815,0.591,103.921,Party Tracks
+71,71,Sex,"Cheat Codes,Kris Kross Amsterdam",Sex,228361,False,0,0.0,1.0,4.0,0.00451,0.51,0.6920000000000001,0.0,0.138,-5.825,0.171,0.209,102.42,Party Tracks
+72,72,Light It Up (feat. Nyla & Fuse ODG) [Remix],"Major Lazer,Nyla,Fuse ODG",Peace Is The Mission (Extended),166138,False,0,9.0,0.0,4.0,0.0375,0.747,0.877,0.000833,0.233,-3.782,0.0664,0.752,107.991,Party Tracks
+73,73,Working For It,"ZHU,Skrillex,THEY.",Genesis Series,231813,True,57,5.0,0.0,4.0,0.0971,0.7759999999999999,0.715,0.0131,0.247,-6.5870000000000015,0.0505,0.502,99.951,Party Tracks
+74,74,Needed Me,Rihanna,ANTI,191600,True,2,5.0,0.0,4.0,0.11,0.6709999999999999,0.314,0.0,0.0825,-8.091000000000001,0.244,0.29600000000000004,110.898,Party Tracks
+75,75,"All of Me (feat. Logic, ROZES)","Big Gigantic,Logic,ROZES",Brighter Future,228169,False,56,10.0,0.0,4.0,0.00189,0.628,0.877,0.0,0.228,-3.016,0.041,0.199,142.034,Party Tracks
+76,76,Don't Need Nobody,Ellie Goulding,Delirium (Deluxe),213994,False,0,4.0,0.0,4.0,0.108,0.72,0.653,1.98e-06,0.112,-6.032,0.0359,0.583,98.998,Party Tracks
+77,77,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),David Guetta,This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016],207272,False,67,9.0,0.0,4.0,0.0022,0.3670000000000001,0.915,5.81e-05,0.0905,-3.4560000000000004,0.0488,0.365,110.169,Party Tracks
+78,78,Tiimmy Turner,Desiigner,Tiimmy Turner,239853,True,70,6.0,1.0,4.0,0.174,0.603,0.725,0.0,0.0786,-3.054,0.0393,0.304,122.803,Party Tracks
+79,79,Show Me Love - EDX Remix / Radio Edit,"Sam Feldt,Kimberly Anne,EDX",Show Me Love (Remixes 2),180336,False,62,0.0,1.0,4.0,0.308,0.836,0.665,0.000925,0.0714,-5.779,0.0745,0.677,120.997,Party Tracks
+80,80,Work - R3hab Remix,"Rihanna,Drake,R3HAB",Work (Remixes),219400,True,50,1.0,0.0,4.0,0.0125,0.706,0.804,0.0,0.332,-5.377999999999999,0.0601,0.211,100.052,Party Tracks
+81,81,Takes My Body Higher (feat. Lincoln Jesser),"Shoffy,Lincoln Jesser",Conversations in the A.M.,251520,False,0,4.0,0.0,4.0,0.238,0.71,0.732,0.0,0.146,-5.266,0.0381,0.128,125.032,Party Tracks
+82,82,Aloha,"Møme,Merryn Jeann",Aloha,218400,False,47,10.0,0.0,4.0,0.195,0.6,0.726,8.22e-05,0.115,-5.988,0.166,0.395,100.075,Party Tracks
+83,83,All In My Head (Flex) (feat. Fetty Wap),"Fifth Harmony,Fetty Wap",7/27 (Deluxe),210573,False,64,0.0,0.0,4.0,0.023,0.6890000000000001,0.7909999999999999,0.0,0.0526,-5.194,0.053,0.755,95.04,Party Tracks
+84,84,Stay (feat. Maty Noyes),"Kygo,Maty Noyes",Stay (feat. Maty Noyes),239465,False,64,8.0,1.0,4.0,0.0444,0.648,0.736,0.00013700000000000002,0.171,-7.947999999999999,0.0385,0.378,103.027,Party Tracks
+85,85,Cruel (feat. ZAYN),"Snakehips,ZAYN",Cruel (feat. ZAYN),228253,True,60,5.0,1.0,4.0,0.0184,0.603,0.879,0.0,0.156,-4.098,0.124,0.318,110.125,Party Tracks
+86,86,Move - Original Mix,Sidney Samson,Move,352500,False,0,2.0,1.0,4.0,0.000409,0.778,0.906,0.373,0.078,-4.593,0.138,0.129,128.001,Party Tracks
+87,87,Kuaga (Lost Time) (Radio Edit),Pierce Fulton,Kuaga (Lost Time) (Radio Edit),177414,False,46,1.0,1.0,4.0,0.105,0.602,0.97,0.0053,0.201,-3.994,0.125,0.364,127.953,Party Tracks
+88,88,Runaway (U & I),Galantis,Pharmacy,227073,False,74,1.0,1.0,4.0,0.007109999999999998,0.506,0.805,0.00193,0.0856,-4.119,0.0469,0.383,126.008,Party Tracks
+89,89,Push (feat. Andrew Wyatt) - The Chainsmokers Radio Mix,"A-Trak,Andrew Wyatt,The Chainsmokers",Push,240000,False,0,5.0,1.0,4.0,0.0661,0.516,0.785,0.0,0.253,-4.842,0.0553,0.332,128.05,Party Tracks
+90,90,Do It Right,"Martin Solveig,Tkay Maidza",Do It Right,213211,False,61,5.0,0.0,4.0,0.0595,0.805,0.763,0.0543,0.0774,-4.337,0.0703,0.595,125.056,Party Tracks
+91,91,On My Way - Mercer Remix,"Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso",On My Way (Mercer Remix),319159,False,0,0.0,1.0,4.0,0.000214,0.602,0.963,0.0184,0.179,-3.04,0.355,0.228,128.02200000000002,Party Tracks
+92,92,Escarole,Cash Cash,"Blood, Sweat & 3 Years",240773,True,27,11.0,1.0,4.0,0.00165,0.6579999999999999,0.938,0.0379,0.851,-4.305,0.0589,0.645,124.956,Party Tracks
+93,93,How Deep Is Your Love - Chris Lake Remix,"Calvin Harris,Disciples,Chris Lake",How Deep Is Your Love (Remixes),306226,False,58,4.0,0.0,4.0,0.00224,0.727,0.85,0.00843,0.412,-4.9910000000000005,0.0425,0.28,121.973,Party Tracks
+94,94,Delirious (Boneless) (feat. Kid Ink),"Steve Aoki,Chris Lake,Tujamo,Kid Ink",Neon Future I,223413,False,60,8.0,0.0,4.0,0.0195,0.706,0.912,0.0,0.232,-4.44,0.0565,0.925,128.004,Party Tracks
+95,95,All We Need feat. Shy Girls - Dzeko & Torres Remix Radio Edit,ODESZA,All We Need feat. Shy Girls (Dzeko & Torres Remix),191250,False,0,9.0,1.0,4.0,0.0244,0.581,0.954,0.00413,0.223,-3.3360000000000003,0.081,0.616,127.959,Party Tracks
+96,96,Let You Go - Radio Edit,"The Chainsmokers,Great Good Fine Ok",Let You Go (Radio Edit),218973,False,55,5.0,1.0,4.0,0.27,0.598,0.882,0.0,0.0793,-2.894,0.0954,0.25,125.979,Party Tracks
+97,97,Need You,"FTampa,Sex Room",Need You,212509,False,27,8.0,0.0,4.0,0.625,0.636,0.833,0.0066,0.14,-4.504,0.0452,0.8170000000000001,127.991,Party Tracks
+98,98,What You Waiting For,"Gazzo,SUGARWHISKEY",What You Waiting For,231173,False,37,11.0,1.0,4.0,0.0181,0.626,0.916,1.11e-05,0.42,-2.555,0.0726,0.609,130.061,Party Tracks
+99,99,Don't Stop,Dave Winnel,Don't Stop,179250,False,24,7.0,1.0,4.0,0.0223,0.685,0.97,0.0301,0.0901,-3.849,0.084,0.7140000000000001,125.989,Party Tracks
+100,100,Body Dancing,"Qulinez,Belle Humble",Body Dancing,198468,False,29,1.0,1.0,4.0,0.00321,0.5710000000000001,0.8759999999999999,7.1e-06,0.104,-7.403,0.0462,0.319,128.005,Party Tracks
+101,101,Break Through The Silence - Radio Edit,"Martin Garrix,Matisse & Sadko",Break Through The Silence EP,204772,False,0,9.0,1.0,4.0,0.00289,0.573,0.95,0.00119,0.299,-5.167000000000002,0.0666,0.153,128.013,Party Tracks
+102,102,Poison,Martin Garrix,Poison,248447,False,0,7.0,0.0,4.0,0.00429,0.502,0.7559999999999999,0.769,0.377,-6.1179999999999986,0.0363,0.062,128.125,Party Tracks
+103,103,Together As One - Radio Edit,Dropgun,Together As One,174257,False,0,5.0,0.0,4.0,0.099,0.409,0.979,0.0029100000000000003,0.128,-1.508,0.0501,0.5820000000000001,127.609,Party Tracks
+104,104,Together,The Magician,Together,172144,False,0,10.0,0.0,4.0,0.0978,0.7190000000000001,0.853,8.58e-05,0.113,-3.938,0.0356,0.443,121.996,Party Tracks
+105,105,Bad (feat. Vassy) - Radio Edit,"David Guetta,Showtek,VASSY",Listen (Deluxe),170625,False,50,5.0,0.0,4.0,0.00125,0.614,0.972,0.0186,0.328,-3.927,0.08800000000000001,0.411,127.966,Party Tracks
+106,106,Where Are Ü Now (with Justin Bieber) - Marshmello Remix,"Jack Ü,Skrillex,Diplo,Justin Bieber,Marshmello",Where Are Ü Now (with Justin Bieber) [Remixes],206197,False,51,8.0,1.0,4.0,0.00266,0.5720000000000001,0.863,0.000307,0.127,-4.128,0.0424,0.475,141.91899999999995,Party Tracks
+107,107,The Universe - Radio Edit,Lush & Simon,The Universe,186562,False,33,6.0,1.0,4.0,0.12,0.514,0.884,0.0,0.389,-1.873,0.05,0.469,127.916,Party Tracks
+108,108,Something Better,"Audien,Lady A",Something Better,212619,False,7,2.0,1.0,4.0,0.0692,0.5489999999999999,0.835,0.0,0.212,-2.632,0.0656,0.423,126.08,Party Tracks
+109,109,Classic (feat. Fetty Wap & POWERS ),"The Knocks,Fetty Wap,POWERS",Classic (feat. Fetty Wap & POWERS),219388,False,40,2.0,1.0,4.0,0.00574,0.627,0.938,6.5e-06,0.0478,-2.535,0.0384,0.5870000000000001,101.981,Party Tracks
+110,110,Never Sleep Alone (feat. Tess Comrie) - CID Remix,"Kaskade,Tess Comrie,CID",Never Sleep Alone (feat. Tess Comrie) [Remixes],306785,False,30,9.0,1.0,4.0,0.00735,0.725,0.882,0.257,0.233,-5.205,0.0595,0.655,125.984,Party Tracks
+111,111,Desire - Gryffin Remix,"Years & Years,Gryffin",We Are Your Friends (Music From The Original Motion Picture),268853,False,51,10.0,0.0,4.0,0.0623,0.55,0.8540000000000001,1.49e-06,0.152,-5.455,0.0488,0.38,122.038,Party Tracks
+112,112,Gold Dust - East & Young Remix,"Galantis,East & Young",Gold Dust (Remixes),293157,False,41,2.0,1.0,4.0,0.0014199999999999998,0.667,0.861,0.00988,0.0613,-4.53,0.0482,0.264,126.0,Party Tracks
+113,113,Eternity - Radio Edit,"Tim Mason,Marrs TV,Harrison",Eternity,215238,False,0,7.0,0.0,4.0,0.0044,0.568,0.807,4.8e-06,0.0979,-4.967,0.0534,0.384,126.021,Party Tracks
+114,114,Another You - CID Remix,"Armin van Buuren,Mr. Probz,CID",Another You (CID Remix),179047,False,29,9.0,1.0,4.0,0.366,0.5870000000000001,0.929,0.011,0.253,-2.4730000000000003,0.0534,0.5329999999999999,126.021,Party Tracks
+115,115,Dreams - Lost Kings Remix,Life of Dillon,Prologue (Remixes),206013,False,42,7.0,1.0,4.0,0.281,0.623,0.89,0.0,0.118,-3.832,0.0377,0.665,127.978,Party Tracks
+116,116,Hands,"Gareth Emery,Alastor,London Thor",Hands,189843,False,41,7.0,1.0,4.0,0.0543,0.5589999999999999,0.672,0.000243,0.281,-6.102,0.045,0.306,128.04399999999998,Party Tracks
+117,117,Lovin,"Breathe Carolina,APEK,Neon Hitch",Lovin,221591,False,25,8.0,1.0,4.0,0.0175,0.521,0.841,0.0,0.17,-4.041,0.0709,0.446,127.986,Party Tracks
+118,118,Earthquake - Radio Edit,"Disco Fries,Command Sisters",Earthquake,225714,False,29,9.0,0.0,4.0,0.0775,0.61,0.8059999999999999,0.0,0.42,-2.99,0.0574,0.522,125.999,Party Tracks
+119,119,City Lights,Avicii,Stories,388946,False,48,7.0,0.0,4.0,0.00975,0.8,0.821,0.0838,0.297,-5.9620000000000015,0.224,0.417,128.013,Party Tracks
+120,120,One Click Headshot - Original Mix,Feed Me,Feed Me's Escape From Electric Mountain,287004,False,0,2.0,1.0,4.0,0.000364,0.677,0.91,0.00842,0.35,-4.628,0.063,0.504,109.988,Party Tracks
+121,121,Find a Way (Anevo Remix) [feat. Rudy],"Dirty South,Rudy",Find a Way (Anevo Remix) [feat. Rudy],244374,False,31,7.0,0.0,4.0,0.0148,0.716,0.833,0.0942,0.0787,-4.0360000000000005,0.0443,0.528,127.006,Party Tracks
+122,122,Renaissance (feat. Clairity),"Steve James,Clairity",Renaissance (feat. Clairity),178995,False,0,1.0,1.0,5.0,0.523,0.546,0.466,0.0008230000000000001,0.0685,-8.337,0.0478,0.5760000000000001,119.584,Party Tracks
+123,123,Landmines,"Pierce Fulton,J Hart",Landmines,196874,False,32,8.0,1.0,4.0,0.0266,0.48,0.853,0.0,0.118,-3.508,0.0753,0.311,127.94,Party Tracks
+124,124,Undercover - Yotto Radio Edit,"Lane 8,Matthew Dear",Undercover,202680,False,19,2.0,1.0,4.0,0.000874,0.595,0.7290000000000001,0.449,0.0877,-7.713999999999999,0.0332,0.268,121.993,Party Tracks
+125,125,Dechorro,Deorro,Dechorro,307500,False,0,5.0,0.0,4.0,0.00465,0.77,0.8370000000000001,0.115,0.122,-3.978,0.0696,0.18600000000000005,127.989,Party Tracks
+126,126,Fallen Angel - Dennis Sheperd Radio Edit,"Dennis Sheperd,Cold Blue,Ana Criado","Trance World, Vol. 14",214545,False,26,5.0,0.0,4.0,0.012,0.521,0.911,0.0167,0.261,-7.842,0.0406,0.338,131.967,Party Tracks
+127,127,The Journey,"Feint,Veela",Liquicity Memoirs,346000,False,40,6.0,1.0,4.0,0.00281,0.48,0.626,0.0222,0.172,-6.279,0.0538,0.227,172.041,Party Tracks
+128,128,Gasoline,"Noah Neiman,Matthew Steeper",Gasoline,228750,False,23,5.0,0.0,4.0,0.00114,0.464,0.945,0.0,0.159,-2.334,0.408,0.258,127.973,Party Tracks
+129,129,Fibreglasses - Radio Edit,Chicane,Fibreglasses,192380,False,23,8.0,1.0,4.0,0.059,0.607,0.907,0.901,0.0983,-7.624,0.034,0.81,125.985,Party Tracks
+130,130,Can't Forget You (ft. The Nicholas),"San Holo,The Nicholas",Can't Forget You,216363,False,0,6.0,0.0,4.0,0.00283,0.556,0.76,0.007409999999999998,0.364,-5.291,0.0482,0.203,131.983,Party Tracks
+131,131,Dance To The Beat,"Felguk,Lazy Rich",Dance To The Beat,219017,False,0,6.0,0.0,4.0,0.0131,0.746,0.8540000000000001,0.53,0.293,-4.408,0.117,0.91,128.001,Party Tracks
+132,132,Booty Bounce,"Tujamo,Taio Cruz",Booty Bounce,195000,False,0,7.0,0.0,4.0,0.0235,0.738,0.983,6.7e-06,0.125,-1.821,0.0549,0.693,128.006,Party Tracks
+133,133,Bring It Back,Ephwurd,Bring It Back,198750,False,0,7.0,1.0,4.0,0.000641,0.779,0.97,0.0146,0.0497,-3.047,0.34700000000000003,0.321,128.064,Party Tracks
+134,134,Blast Off - Radio Edit,"David Guetta,Kaz James",Listen Again,187931,True,42,4.0,1.0,4.0,0.00255,0.6559999999999999,0.993,2.49e-06,0.197,-1.702,0.18,0.128,127.938,Party Tracks
+135,135,When The Funk Drops,"Deorro,Uberjak'd,Far East Movement",When The Funk Drops,236253,False,0,10.0,1.0,4.0,0.0336,0.821,0.983,0.0709,0.0454,-2.573,0.0794,0.588,127.987,Party Tracks
+136,136,Encore,Mercer,Encore,186562,False,0,8.0,0.0,4.0,4.07e-05,0.5379999999999999,0.988,0.278,0.0817,-3.778,0.19,0.303,127.935,Party Tracks
+137,137,Voltage,Danny Avila,Voltage,176950,False,0,2.0,1.0,4.0,0.00432,0.618,0.912,0.214,0.428,-5.131,0.0646,0.256,128.018,Party Tracks
+138,138,Party People 2K15,Ralvero,Party People 2K15,196406,False,0,8.0,0.0,4.0,0.0034700000000000004,0.546,0.988,0.505,0.375,-2.331,0.105,0.191,127.948,Party Tracks
+139,139,I Get Up,Autoerotique,I Get Up,166451,False,0,0.0,1.0,4.0,0.000307,0.586,0.916,0.773,0.322,-5.64,0.0467,0.258,123.978,Party Tracks
+140,140,Hakuna Matata - Hardwell Radio Edit,"R3HAB,Hardwell",Hakuna Matata (Hardwell Edit),165000,False,33,5.0,0.0,4.0,0.000532,0.6659999999999999,0.93,0.374,0.397,-1.301,0.0496,0.0938,127.967,Party Tracks
+141,141,The Code - Radio Edit,"W&W,Ummet Ozcan",The Code,165000,False,33,0.0,1.0,4.0,0.0034,0.677,0.911,0.847,0.314,-3.593,0.0799,0.265,128.04,Party Tracks
+142,142,Wildfire,Thomas Newson,Wildfire,170624,False,0,1.0,1.0,4.0,0.0174,0.574,0.953,0.7759999999999999,0.5660000000000001,-4.634,0.0499,0.16699999999999998,127.972,Party Tracks
+143,143,Get Down,"Tiësto,Tony Junior",Get Down,211874,False,0,1.0,1.0,4.0,0.112,0.8,0.984,0.423,0.0312,-4.021,0.0974,0.345,128.05200000000002,Party Tracks
+144,144,Police,"Tony Junior,JETFIRE,RIVERO",Police,214866,False,0,7.0,0.0,4.0,0.00586,0.5589999999999999,0.977,0.008190000000000001,0.0524,-2.74,0.0624,0.249,128.019,Party Tracks
+145,145,Amen,"Cuebrick,RBYN",Amen,150000,False,6,8.0,0.0,4.0,0.0131,0.448,0.764,0.101,0.125,-3.524,0.157,0.34600000000000003,128.139,Party Tracks
+146,146,Another Chance - Live,"Above & Beyond,Oceanlab",Little Something Live from Wembley,329584,False,35,10.0,1.0,4.0,0.0282,0.297,0.6,0.000404,0.464,-9.097,0.0409,0.208,128.07,Party Tracks
+147,147,If It Ain't Dutch,"Armin van Buuren,W&W",If It Ain’t Dutch,173500,False,23,11.0,1.0,4.0,0.00481,0.547,0.968,0.0714,0.419,-3.956,0.258,0.166,132.106,Party Tracks
+148,148,Aperture,Unison,Aperture,202509,False,30,2.0,0.0,4.0,0.0698,0.763,0.507,2.71e-06,0.105,-6.292000000000002,0.196,0.265,128.107,Party Tracks
+149,149,Off The Hook,"Hardwell,Armin van Buuren",Off The Hook,177058,False,52,11.0,0.0,4.0,0.0113,0.705,0.951,0.503,0.34600000000000003,-3.754,0.0743,0.153,129.967,Party Tracks
+150,150,Unbroken,"Quintino,Yves V,Gia Koka",Unbroken,185625,False,0,5.0,1.0,4.0,0.000466,0.5670000000000001,0.772,3.2500000000000004e-05,0.254,-4.261,0.0582,0.11,128.07299999999998,Party Tracks
+151,151,We Are One - Radio Edit,"Disco Fries,KAAZE,Danyka Nadeau",We Are One,191250,False,33,11.0,0.0,4.0,0.0102,0.451,0.7859999999999999,0.0,0.035,-4.309,0.0511,0.327,128.11,Party Tracks
+152,152,D2B - Steve Aoki Remix,"Max Styler,Charlie Darker,Steve Aoki",D2B Remixes,232500,False,0,11.0,1.0,4.0,0.008029999999999999,0.632,0.994,0.648,0.8420000000000001,-2.49,0.103,0.307,128.04,Party Tracks
+153,153,Energetic,"Chuckie,RIVERO",Energetic,274063,False,14,2.0,0.0,4.0,0.0137,0.635,0.856,0.931,0.0683,-4.013,0.051,0.35600000000000004,128.01,Party Tracks
+154,154,Feel The Power,"Julian Jordan,Stino",Feel The Power,216485,False,0,1.0,0.0,4.0,0.0014,0.618,0.966,0.00192,0.146,-4.2810000000000015,0.0798,0.557,128.024,Party Tracks
+155,155,L'Amour Toujours - Tiësto Edit,"Dzeko & Torres,Delaney Jane,Tiësto",L'Amour Toujours (Tiësto Edit),162461,False,0,3.0,1.0,4.0,0.00763,0.591,0.931,0.000216,0.153,-2.867,0.0967,0.17,129.975,Party Tracks
+156,156,KillaSound,Laidback Luke,Focus,305707,False,21,10.0,0.0,4.0,0.00302,0.687,0.973,0.6859999999999999,0.0848,-4.467,0.0455,0.332,128.019,Party Tracks
+157,157,Lunar,Codeko,Lunar,230624,False,28,1.0,1.0,4.0,0.0156,0.596,0.941,1.8e-05,0.36,-3.838,0.0636,0.27,128.017,Party Tracks
+158,158,More Than Ever,"Breathe Carolina,Ryos",More Than Ever,223358,False,0,8.0,0.0,4.0,0.00305,0.463,0.7979999999999999,0.000196,0.13699999999999998,-4.454,0.0609,0.235,128.031,Party Tracks
+159,159,On The Run,Ummet Ozcan,On The Run,180009,False,0,11.0,1.0,4.0,0.00956,0.701,0.916,0.8540000000000001,0.6729999999999999,-4.005,0.0402,0.272,128.05200000000002,Party Tracks
+160,160,Bowser - Original Mix,"W&W,Blasterjaxx",Bowser,318750,False,35,6.0,0.0,4.0,0.00689,0.616,0.983,0.838,0.087,-3.947,0.0882,0.131,128.033,Party Tracks
+161,161,Tremors (feat. Go Comet!),"Botnek,GO COMET!",Tremors (feat. Go Comet!),176750,False,0,2.0,0.0,4.0,0.0113,0.613,0.878,0.007640000000000002,0.213,-1.48,0.0476,0.421,127.925,Party Tracks
+162,162,Gangster - Original Mix,Firebeatz,Gangster,292500,False,0,9.0,1.0,4.0,0.00055,0.8270000000000001,0.973,5.95e-06,0.0497,-2.84,0.333,0.51,128.054,Party Tracks
+163,163,WHAT - 2018 Edit,John Christian,WHAT (2018 Edit),165717,False,22,5.0,0.0,4.0,0.00132,0.5820000000000001,0.984,0.906,0.102,-2.708,0.0748,0.105,128.967,Party Tracks
+164,164,CNTRL,"Marcus Schössow,Dave Winnel",CNTRL,163139,False,0,7.0,1.0,4.0,0.0218,0.579,0.942,0.8,0.298,-5.455,0.0904,0.471,128.003,Party Tracks
+165,165,Hawt,"Brillz,Ghastly",Geekin,217046,False,0,2.0,1.0,4.0,0.00415,0.64,0.989,0.0285,0.46,-2.917,0.154,0.28600000000000003,127.972,Party Tracks
+166,166,Mercury,Hugo Cantarra,Mercury,215156,False,16,7.0,0.0,4.0,0.00146,0.515,0.996,0.81,0.151,-4.426,0.0936,0.335,128.004,Party Tracks
+167,167,Morphine,"Thomas Gold,Lush & Simon",Morphine,192000,False,34,1.0,0.0,4.0,0.0654,0.5379999999999999,0.833,0.0016699999999999998,0.685,-4.138,0.055,0.188,127.976,Party Tracks
+168,168,The Power of Now - Crystal Lake Remix,"Steve Aoki,Headhunterz,Crystal Lake",The Power of Now (Crystal Lake Remix),247734,False,21,4.0,0.0,4.0,0.00214,0.633,0.949,0.112,0.0753,-4.495,0.111,0.828,127.992,Party Tracks
+169,169,Skies,"Juicy M,Endemix",Skies,200742,False,26,0.0,0.0,4.0,0.000778,0.5920000000000001,0.7759999999999999,0.0879,0.41,-7.037000000000001,0.0374,0.501,127.99,Party Tracks
+170,170,Spacetunnel - Dyro Edit,"Prism,Funkz,Dyro",Spacetunnel (Dyro Edit),210024,False,11,2.0,1.0,4.0,0.000164,0.6890000000000001,0.949,0.872,0.121,-3.188,0.189,0.237,127.954,Party Tracks
+171,171,Sweet Harmony,DubVision,Sweet Harmony,172543,False,0,6.0,0.0,4.0,0.0065,0.6859999999999999,0.969,0.718,0.0459,-3.247,0.0526,0.27,127.993,Party Tracks
+172,172,YEAHHHH,Firebeatz,YEAHHHH,276477,False,0,4.0,1.0,4.0,0.00268,0.723,0.922,0.368,0.264,-4.175,0.0925,0.29,128.016,Party Tracks
+173,173,Perfection,"twoloud,Qulinez",Perfection,194226,False,0,4.0,0.0,4.0,0.00107,0.562,0.929,0.488,0.601,-2.899,0.0336,0.279,127.937,Party Tracks
+174,174,Cream - Radio Edit,"Tujamo,Danny Avila",Cream,151875,False,0,5.0,1.0,4.0,0.0132,0.703,0.997,0.769,0.0775,-2.48,0.0442,0.49,127.991,Party Tracks
+175,175,Deep Down Low,Valentino Khan,Deep Down Low (Remixes),184680,False,27,1.0,1.0,4.0,0.00419,0.792,0.906,0.586,0.061,-1.538,0.0592,0.471,126.016,Party Tracks
+176,176,Temptation,"Still Young,Simon De Jano,Madwill",Temptation,187500,False,0,7.0,1.0,4.0,0.00278,0.542,0.988,0.173,0.227,-3.788,0.0536,0.17800000000000002,127.955,Party Tracks
+177,177,Tonight,"An21,Max Vangeli",Tonight,302763,False,0,9.0,0.0,4.0,0.00124,0.612,0.922,0.015,0.0468,-4.643,0.083,0.55,127.994,Party Tracks
+178,178,Turn It Up,"Henry Fong,Mr. V",Turn It Up,191250,False,0,11.0,0.0,4.0,0.0108,0.585,0.987,0.00314,0.0648,-3.27,0.0856,0.274,127.941,Party Tracks
+179,179,Like A Boss,Dyro,Like A Boss,243701,False,30,0.0,1.0,4.0,0.0008289999999999999,0.4920000000000001,0.973,0.0311,0.154,-3.3,0.273,0.526,130.016,Party Tracks
+180,180,Get on Up,"Jauz,Pegboard Nerds",Get on Up,229687,False,0,4.0,0.0,4.0,0.0185,0.6509999999999999,0.894,8.93e-05,0.0745,-3.38,0.0585,0.17800000000000002,128.041,Party Tracks
+181,181,Old Skool,Armin van Buuren,Embrace,236586,False,37,0.0,1.0,4.0,0.000646,0.688,0.946,0.171,0.35,-5.694,0.0637,0.51,131.994,Party Tracks
+182,182,Million Voices - Radio Edit,Otto Knows,Casablanca Nights Vol. 1,192914,False,0,8.0,1.0,4.0,0.00302,0.583,0.871,0.0196,0.0843,-6.246,0.0405,0.0774,126.0,Party Tracks
+183,183,Lethal Industry,Sunnery James & Ryan Marciano,Lethal Industry,155611,False,0,11.0,0.0,4.0,0.00363,0.594,0.924,0.94,0.375,-4.5680000000000005,0.123,0.14400000000000002,128.003,Party Tracks
+184,184,Tung! - Radio Edit,Deniz Koyu,Tung!,171396,False,0,7.0,1.0,4.0,0.0029100000000000003,0.7,0.954,0.893,0.888,-4.3210000000000015,0.0923,0.905,127.99,Party Tracks
+185,185,Color Pop - Radio Edit,"twoloud,KAAZE",Color Pop,169531,False,26,11.0,0.0,4.0,0.0398,0.5670000000000001,0.983,0.000512,0.35100000000000003,-3.813,0.0759,0.442,128.009,Party Tracks
+186,186,La Gozadera (feat. Marc Anthony),"Gente De Zona,Marc Anthony",Visualízate,203160,False,73,9.0,0.0,4.0,0.166,0.616,0.989,0.0,0.172,-1.6980000000000002,0.0483,0.902,95.036,Party Tracks
+187,187,Bailando por el Mundo (feat. Pitbull & El Cata),"Juan Magán,Pitbull,El Cata",Bailando por el Mundo (feat. Pitbull & El Cata),195240,False,54,4.0,0.0,4.0,0.0316,0.698,0.865,0.0,0.307,-4.083,0.0418,0.969,130.004,Party Tracks
+188,188,La Mordidita (feat. Yotuel),"Ricky Martin,Yotuel",A Quien Quiera Escuchar (Deluxe Edition),211680,False,68,0.0,1.0,4.0,0.0344,0.725,0.903,0.0,0.183,-2.955,0.0658,0.946,142.006,Party Tracks
+189,189,6 AM,"J Balvin,Farruko",La Familia,243226,False,0,5.0,0.0,4.0,0.14400000000000002,0.754,0.743,0.0,0.275,-5.049,0.0918,0.74,176.015,Party Tracks
+190,190,Bailando - Spanish Version,"Enrique Iglesias,Descemer Bueno,Gente De Zona",SEX AND LOVE (Deluxe),243413,False,67,7.0,1.0,4.0,0.0426,0.723,0.777,3.68e-06,0.0451,-3.503,0.108,0.961,91.017,Party Tracks
+191,191,Hasta Que Salga El Sol,Don Omar,Don Omar Presents MTO2: New Generation,245040,False,49,4.0,1.0,3.0,0.0235,0.355,0.958,0.00072,0.331,-4.029,0.349,0.885,190.313,Party Tracks
+192,192,Borro Cassette,Maluma,"Pretty Boy, Dirty Boy",207306,False,71,5.0,0.0,4.0,0.132,0.73,0.701,0.0,0.151,-5.885,0.106,0.785,175.95,Party Tracks
+193,193,Atrévete-Te-Te,Calle 13,Calle 13 (Explicit Version),239306,True,72,9.0,1.0,4.0,0.0959,0.8290000000000001,0.878,0.0,0.7759999999999999,-5.9510000000000005,0.101,0.883,87.991,Party Tracks
+194,194,Vivir Mi Vida,Marc Anthony,3.0,252346,False,74,0.0,0.0,4.0,0.345,0.6559999999999999,0.877,0.0,0.349,-3.2310000000000003,0.0342,0.894,105.018,Party Tracks
+195,195,Loca (feat. El Cata),"Shakira,El Cata",Sale el Sol,183693,False,65,9.0,0.0,4.0,0.342,0.8,0.6920000000000001,1.92e-06,0.0554,-5.57,0.0614,0.917,112.002,Party Tracks
+196,196,Danza Kuduro,"Don Omar,Lucenzo",Meet The Orphans,198773,False,75,0.0,1.0,3.0,0.0846,0.4,0.915,0.0,0.0503,-4.89,0.28,0.878,88.917,Party Tracks
+197,197,Magalenha,Sérgio Mendes,Brasileiro,216933,False,0,9.0,1.0,4.0,0.129,0.82,0.633,0.0,0.0972,-13.816,0.0745,0.716,116.622,Party Tracks
+198,198,Mi primer millon,Bacilos,Grandes Exitos,237386,False,55,5.0,1.0,4.0,0.201,0.745,0.924,5.01e-05,0.121,-3.898,0.0355,0.909,103.033,Party Tracks
+199,199,Tiburon,Proyecto Uno,El Poder de la Música,302333,False,55,0.0,1.0,4.0,0.198,0.868,0.852,5.3e-05,0.0502,-9.403,0.0474,0.907,130.155,Party Tracks
+200,200,I Like It,"Enrique Iglesias,Pitbull",Euphoria (Standard US/Latin version),231786,False,63,,,,,,,,,,,,,Party Tracks
+201,201,La Tortura (feat. Alejandro Sanz),"Shakira,Alejandro Sanz","Fijación Oral, Vol. 1",212893,False,72,,,,,,,,,,,,,Party Tracks
+202,202,Suavemente,Elvis Crespo,Suavemente...Los Exitos,266306,False,65,,,,,,,,,,,,,Party Tracks
+203,203,La Despedida,Daddy Yankee,Daddy Yankee Mundial,202826,False,0,,,,,,,,,,,,,Party Tracks
+204,204,Mambo No. 5 (A Little Bit of...),Lou Bega,A Little Bit Of Mambo,220133,False,0,,,,,,,,,,,,,Party Tracks
+205,205,El Taxi - Spanglish Version,"Pitbull,Lil Jon,Osmani Garcia ""La Voz""",El Taxi (Spanglish Version),228708,False,0,,,,,,,,,,,,,Party Tracks
+206,206,Clavado En Un Bar,Maná,Sueños Líquidos,310813,False,72,,,,,,,,,,,,,Party Tracks
+207,207,La Dueña del Swing,Los Hermanos Rosario,Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!),259013,False,0,,,,,,,,,,,,,Party Tracks
+208,208,La Bilirrubina - En Vivo Estadio Olímpico De República Dominicana/2012,Juan Luis Guerra 4.40,Asondeguerra Tour (En Vivo Estadio Olímpico De República Dominicana/2012),232880,False,64,,,,,,,,,,,,,Party Tracks
+209,209,Dance Again,"Jennifer Lopez,Pitbull",Dance Again...The Hits,237266,False,66,,,,,,,,,,,,,Party Tracks
+210,210,Procura,ChiChi Peralta,Pa' Otro La 'o,272666,False,0,,,,,,,,,,,,,Party Tracks
+211,211,Oye Mi Canto,"N.O.R.E.,Daddy Yankee,Nina Sky,Gemstar,Big Mato",N.O.R.E. Y La Familia,240973,True,63,,,,,,,,,,,,,Party Tracks
+212,212,Time of Our Lives,"Pitbull,Ne-Yo",Globalization,229360,True,77,,,,,,,,,,,,,Party Tracks
+213,213,Hips Don't Lie (feat. Wyclef Jean),"Shakira,Wyclef Jean","Oral Fixation, Vol. 2 (Expanded Edition)",218093,False,82,,,,,,,,,,,,,Party Tracks
+214,214,Bailar (feat. Pitbull & Elvis Crespo),"Deorro,Pitbull,Elvis Crespo",Bailar (feat. Pitbull & Elvis Crespo),160304,False,56,,,,,,,,,,,,,Party Tracks
+215,215,Niña Bonita,Chino & Nacho,Mi Niña Bonita - Reloaded,216786,False,67,,,,,,,,,,,,,Party Tracks
+216,216,Te Mando Flores,Fonseca,Corazon,227735,False,1,,,,,,,,,,,,,Party Tracks
+217,217,La Negra Tiene Tumbao,Celia Cruz,Soy Mujer,253053,False,27,,,,,,,,,,,,,Party Tracks
+218,218,El Matador,Los Fabulosos Cadillacs,Los Fabulosos Cadillacs - El Matador,277600,False,0,,,,,,,,,,,,,Party Tracks
+219,219,On The Floor - Radio Edit,"Jennifer Lopez,Pitbull",On The Floor,230906,False,74,,,,,,,,,,,,,Party Tracks
+220,220,La Camisa Negra,Juanes,Mi Sangre,216706,False,70,,,,,,,,,,,,,Party Tracks
+221,221,La Bomba,Ricky Martin,The Greatest Hits,274040,False,47,,,,,,,,,,,,,Party Tracks
+222,222,El Taqui Taqui - Original Mix,"Ilegales,Pavel De Jesús,Sócrates de Jesús",The Best Of - Ultimate Collection,262000,False,36,,,,,,,,,,,,,Party Tracks
+223,223,Lloraras,Oscar D'León,15 Exitos De- Oscar D Leon,221007,False,2,,,,,,,,,,,,,Party Tracks
+224,224,Juliana,DLG,Lo Esencial,296853,False,53,,,,,,,,,,,,,Party Tracks
+225,225,Pa' Mayté,Carlos Vives,La Tierra del Olvido,188720,False,59,,,,,,,,,,,,,Party Tracks
+226,226,Rain Over Me (feat. Marc Anthony),"Pitbull,Marc Anthony",Planet Pit (Deluxe Version),231573,False,66,,,,,,,,,,,,,Party Tracks
+227,227,En Barranquilla Me Quedo,"Joe Arroyo,La Verdad",32 Cañonazos,312480,False,57,,,,,,,,,,,,,Party Tracks
+228,228,La Vida Es Un Carnaval,Celia Cruz,Mi Vida Es Cantar,275253,False,0,,,,,,,,,,,,,Party Tracks
+229,229,Mujer Latina,Thalia,Greatest Hits,217773,False,45,,,,,,,,,,,,,Party Tracks
+230,230,El Preso,Fruko Y Sus Tesos,Rough Guide To Salsa Colombia,294253,False,0,,,,,,,,,,,,,Party Tracks
+231,231,La Tanga,Oro Solido,Todos Exitos,268106,False,0,,,,,,,,,,,,,Party Tracks
+232,232,A Puro Dolor,Son By Four,Son By 4,261360,False,57,,,,,,,,,,,,,Party Tracks
+233,233,La pachanga,Vilma Palma e Vampiros,Lo Mejor de Vilma Palma,281933,False,62,,,,,,,,,,,,,Party Tracks
+234,234,Madre Tierra (Oye),Chayanne,En Todo Estaré (Deluxe Edition),205920,False,66,,,,,,,,,,,,,Party Tracks
+235,235,Fiesta - Remix,"Bomba Estéreo,Will Smith",Fiesta (Remix),196351,True,38,,,,,,,,,,,,,Party Tracks
+236,236,Get Down,MEG \ NERAK,Get Down,180472,False,10,,,,,,,,,,,,,Party Tracks
+237,237,Weekend - East & Young Remix,"Louis The Child,Icona Pop,East & Young",Weekend (Remixes),251564,True,27,,,,,,,,,,,,,Party Tracks
+238,238,Borrowed Lives (feat. NVDES),"Pierce Fulton,NVDES",Borrowed Lives,313579,False,0,,,,,,,,,,,,,Party Tracks
+239,239,Nevada (feat. Cozi Zuehlsdorff),"Vicetone,Cozi Zuehlsdorff",Nevada (feat. Cozi Zuehlsdorff),208561,False,0,,,,,,,,,,,,,Party Tracks
+240,240,This Is Love - King Arthur Remix,"Tritonal,Chris Ramos,Shanahan,King Arthur",This Is Love (Remixes),173333,False,25,,,,,,,,,,,,,Party Tracks
+241,241,Freak,"R3HAB,Quintino",Freak,160476,False,0,,,,,,,,,,,,,Party Tracks
+242,242,So Much Love,"Muzzaik,Stadiumx",So Much Love,185669,False,0,,,,,,,,,,,,,Party Tracks
+243,243,This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016] - Faustix Remix,"David Guetta,Faustix",This One's for You (feat. Zara Larsson),184500,False,36,,,,,,,,,,,,,Party Tracks
+244,244,Summer on You,"Sam Feldt,Lucas & Steve,Wulf",Summer on You,160008,False,0,,,,,,,,,,,,,Party Tracks
+245,245,Long Way Home,"Paris & Simo,Joey Dale,Brandon Lehti",Long Way Home,196765,False,21,,,,,,,,,,,,,Party Tracks
+246,246,Once Upon A Time,"Kill The Buzz,Harrison",Once Upon A Time,219069,False,28,,,,,,,,,,,,,Party Tracks
+247,247,Bring Back the Summer (feat. OLY),"Rain Man,Oly",Bring Back the Summer (feat. OLY),200204,False,0,,,,,,,,,,,,,Party Tracks
+248,248,Never Giving Up,Tom Swoon,Never Giving Up,202500,False,28,,,,,,,,,,,,,Party Tracks
+249,249,The Touch,KOLAJ,The Touch,250720,False,35,,,,,,,,,,,,,Party Tracks

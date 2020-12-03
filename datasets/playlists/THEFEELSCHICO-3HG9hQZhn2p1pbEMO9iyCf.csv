@@ -12,7 +12,7 @@ The Story Never Ends,Lauv,I met you when I was 18. (the playlist),229029,False,6
 the remedy for a broken heart (why am I so in love),XXXTENTACION,?,160184,True,83,1,1,4,0.779,0.699,0.304,0.000993,0.137,-11.192,0.0993,0.271,119.705,TheFeelsChico
 Jocelyn Flores,XXXTENTACION,17,119133,True,87,0,0,4,0.469,0.872,0.391,4.13e-06,0.297,-9.144,0.242,0.437,134.021,TheFeelsChico
 SLOW DANCING IN THE DARK,Joji,BALLADS 1,209273,True,85,3,1,4,0.544,0.515,0.479,0.00598,0.191,-7.458,0.0261,0.284,88.964,TheFeelsChico
-that's what i'd do (live),Wrabel,one nite only,487048,False,13,2,1,3,0.857,0.381,0.196,0.000484,0.465,-12.303,0.0473,0.249,102.001,TheFeelsChico
+that's what i'd do (live),Wrabel,one nite only,487048,False,13,2,1,3,0.857,0.382,0.196,0.000462,0.464,-12.304,0.0469,0.252,101.964,TheFeelsChico
 Robin Hood,Anson Seabra,Robin Hood,221538,False,70,4,1,4,0.952,0.634,0.153,0,0.134,-14.409,0.0622,0.318,77.77,TheFeelsChico
 You're My Girl (Lost Recording #6),Mark Diamond,War (The Lost Recordings),195758,False,55,8,1,4,0.928,0.45,0.189,0.000843,0.104,-11.423,0.0519,0.227,66.945,TheFeelsChico
 Everybody Dies In Their Nightmares,XXXTENTACION,17,95466,True,85,7,0,4,0.847,0.734,0.57,2.14e-05,0.112,-7.066,0.133,0.689,129.953,TheFeelsChico
@@ -41,13 +41,13 @@ oui,Jeremih,Late Nights: The Album,238320,False,74,5,1,5,0.213,0.418,0.724,0,0.1
 Midsummer Madness,"88rising,Joji,Rich Brian,Higher Brothers,AUGUST 08",Head In The Clouds,280841,True,72,9,1,4,0.359,0.409,0.678,4.76e-06,0.167,-7.731,0.0878,0.168,89.968,TheFeelsChico
 Big Lie,Post Malone,Stoney (Deluxe),207680,True,68,6,0,4,0.191,0.442,0.684,0,0.0725,-4.888,0.168,0.218,170.861,TheFeelsChico
 No Option,Post Malone,Stoney (Deluxe),179826,True,70,2,1,4,0.0757,0.575,0.734,0,0.241,-4.949,0.057,0.494,83.986,TheFeelsChico
-Leave,Post Malone,Stoney (Deluxe),324853,True,65,4,1,4,0.246,0.535,0.55,0.000105,0.124,-7.249,0.0229,0.619,90.086,TheFeelsChico
+Leave,Post Malone,Stoney (Deluxe),324853,True,66,4,1,4,0.246,0.535,0.55,0.000105,0.124,-7.249,0.0229,0.619,90.086,TheFeelsChico
 Falling,Trevor Daniel,Falling,159381,False,85,10,0,4,0.123,0.785,0.431,0,0.0887,-8.756,0.0364,0.236,127.085,TheFeelsChico
 i miss the old u,blackbear,digital druglord,211127,True,69,7,1,4,0.279,0.718,0.805,0,0.527,-5.257,0.325,0.36,132.995,TheFeelsChico
 Saved,Khalid,American Teen,206533,False,72,10,0,4,0.189,0.739,0.448,0,0.118,-10.28,0.138,0.553,81.044,TheFeelsChico
 Forever,Labrinth,Euphoria (Original Score from the HBO Series),202536,False,75,4,0,4,0.92,0.563,0.459,0.724,0.11,-7.781,0.0292,0.197,79.983,TheFeelsChico
 Drew Barrymore,Bryce Vine,Drew Barrymore,191146,True,68,11,0,4,0.46,0.758,0.574,0.00272,0.102,-6.889,0.0572,0.261,151.985,TheFeelsChico
-Medicine,Daughter,Wild Youth,258973,False,65,3,1,5,0.106,0.166,0.298,0.206,0.572,-12.439,0.032,0.207,78.437,TheFeelsChico
+Medicine,Daughter,Wild Youth,258973,False,66,3,1,5,0.106,0.166,0.298,0.206,0.572,-12.439,0.032,0.207,78.437,TheFeelsChico
 I Found,Amber Run,5AM (Expanded Edition),273000,False,75,7,0,4,0.862,0.389,0.302,0.00567,0.104,-12.485,0.0438,0.234,124.956,TheFeelsChico
 goosebumps,Travis Scott,Birds In The Trap Sing McKnight,243836,True,88,7,1,4,0.0847,0.841,0.728,0,0.149,-3.37,0.0484,0.43,130.049,TheFeelsChico
 all the kids are depressed,Jeremy Zucker,glisten,169973,True,79,9,1,4,0.836,0.773,0.437,2.42e-05,0.544,-8.281,0.0963,0.707,103.861,TheFeelsChico
@@ -55,14 +55,14 @@ Devil Eyes,Hippie Sabotage,Providence,131271,False,80,1,0,5,0.702,0.391,0.396,0.
 SOHO,Jaden,The Sunset Tapes: A Cool Tape Story,208493,True,68,8,0,4,0.342,0.547,0.596,0.335,0.148,-7.744,0.192,0.368,159.985,TheFeelsChico
 Leave Me Alone,Flipp Dinero,Leave Me Alone,195637,True,70,7,1,4,0.107,0.792,0.743,0,0.183,-2.806,0.0851,0.742,150.024,TheFeelsChico
 ILYSB - STRIPPED,LANY,Make Out,244820,False,68,5,1,4,0.546,0.661,0.393,0.000131,0.11,-8.199,0.0554,0.165,83.851,TheFeelsChico
-For Your Love,Gunnar Gehl,For Your Love,189283,False,49,0,1,4,0.0536,0.622,0.795,0,0.0891,-4.977,0.0318,0.473,137.871,TheFeelsChico
+For Your Love,Gunnar Gehl,For Your Love,189283,False,50,0,1,4,0.0536,0.622,0.795,0,0.0891,-4.977,0.0318,0.473,137.871,TheFeelsChico
 Shot Down,Khalid,Shot Down,209185,False,53,6,1,4,0.885,0.769,0.511,0.000186,0.106,-6.673,0.0609,0.507,123.954,TheFeelsChico
 SUGAR,BROCKHAMPTON,GINGER,204533,True,80,1,1,4,0.449,0.453,0.538,0,0.19,-8.212,0.0638,0.516,122.973,TheFeelsChico
 All I Want,Olivia Rodrigo,High School Musical: The Musical: The Series (Original Soundtrack),177322,False,72,0,0,3,0.0902,0.376,0.43,0,0.0912,-6.585,0.0328,0.129,77.599,TheFeelsChico
 Go Flex,Post Malone,Stoney,179613,True,0,5,1,4,0.227,0.663,0.489,0,0.0769,-8.198,0.124,0.117,81.959,TheFeelsChico
 Go Fuck Yourself,Two Feet,First Steps,129599,True,78,6,1,4,0.571,0.765,0.327,0.0479,0.0787,-8.029,0.277,0.292,74.931,TheFeelsChico
 Bye-bye Darling,BØRNS,Blue Madonna,299024,False,51,2,1,4,0.819,0.384,0.495,0.461,0.676,-6.498,0.0301,0.149,73.944,TheFeelsChico
-Love You Too Much,Lucky Daye,Painted,465816,True,55,8,0,5,0.824,0.392,0.473,1.56e-05,0.117,-11.377,0.118,0.284,111.317,TheFeelsChico
+Love You Too Much,Lucky Daye,Painted,465816,True,56,8,0,5,0.824,0.392,0.473,1.56e-05,0.117,-11.377,0.118,0.284,111.317,TheFeelsChico
 Clouds,BØRNS,Dopamine,190253,False,58,11,1,4,0.194,0.644,0.478,0.00376,0.106,-6.469,0.0529,0.496,159.898,TheFeelsChico
 Real Games,Lucky Daye,Painted,331307,True,56,1,1,4,0.432,0.759,0.374,0.000108,0.0714,-7.851,0.107,0.562,141.917,TheFeelsChico
 Only Love,Thirdstory,Cold Heart,238453,False,34,4,0,4,0.179,0.642,0.418,0.000329,0.221,-9.393,0.0831,0.313,157.847,TheFeelsChico
@@ -113,7 +113,7 @@ Hey There Delilah,Plain White T's,All That We Needed,232533,False,80,2,1,4,0.872
 Another Summer Night Without You,Alexander 23,13 Reasons Why (Season 3),158306,False,46,9,1,4,0.408,0.529,0.608,0.000137,0.135,-7.348,0.104,0.146,176.218,TheFeelsChico
 Robbery,Juice WRLD,Death Race For Love,240050,True,88,2,1,5,0.328,0.685,0.692,0,0.153,-5.122,0.0457,0.578,159.966,TheFeelsChico
 I.F.L.Y.,Bazzi,I.F.L.Y.,165714,True,1,2,1,4,0.379,0.812,0.519,0,0.13,-4.823,0.0385,0.554,104.954,TheFeelsChico
-Paradise,Bazzi,Paradise,169038,True,3,11,0,4,0.0828,0.844,0.644,0,0.113,-6.273,0.0479,0.591,122.061,TheFeelsChico
+Paradise,Bazzi,Paradise,169038,True,4,11,0,4,0.0828,0.844,0.644,0,0.113,-6.273,0.0479,0.591,122.061,TheFeelsChico
 Great One,Jessie Reyez,Kiddo,169826,False,61,1,1,4,0.412,0.559,0.507,0,0.268,-5.502,0.0437,0.48,81.823,TheFeelsChico
 Don't Give Up On Me (with R3HAB),"Andy Grammer,R3HAB",Don't Give Up On Me (with R3HAB),190645,False,61,3,1,4,0.0511,0.489,0.766,1.35e-05,0.126,-5.84,0.0851,0.117,121.445,TheFeelsChico
 Mice,Billie Marten,Feeding Seahorses by Hand,244260,False,57,5,1,3,0.695,0.65,0.195,1.26e-05,0.0851,-12.569,0.0482,0.363,122.908,TheFeelsChico
@@ -130,7 +130,7 @@ Remind Me to Forget,"Kygo,Miguel",Remind Me to Forget,217286,False,70,0,1,4,0.19
 Hide and Seek,"Brian Tyler,Breton Vivian",Five Feet Apart (Original Motion Picture Soundtrack) (Deluxe),205466,False,29,0,1,4,0.81,0.669,0.361,0.913,0.0903,-14.92,0.0337,0.0717,110.002,TheFeelsChico
 My Baby Just Cares for Me - Bonus Track,Kate Davis,Five Feet Apart (Original Motion Picture Soundtrack) (Deluxe),155346,False,35,0,1,4,0.505,0.567,0.534,0.00251,0.0829,-8.591,0.0294,0.338,117.911,TheFeelsChico
 Eres Tú,Carla Morrison,Déjenme Llorar,228253,False,68,2,1,4,0.806,0.618,0.307,0,0.108,-10.875,0.046,0.458,188.115,TheFeelsChico
-Silhouette,Ax and the Hatchetmen,Silhouette,246772,False,1,4,1,4,0.498,0.617,0.695,0.00104,0.361,-13.208,0.0932,0.56,159.846,TheFeelsChico
+Silhouette,Ax and the Hatchetmen,Silhouette,246772,False,0,4,1,4,0.498,0.617,0.695,0.00104,0.361,-13.208,0.0932,0.56,159.846,TheFeelsChico
 Never Enough - 8D Audio,8D Tunes,"8D Music, Vol. 1",163540,False,31,1,0,4,0.121,0.32,0.742,0.000115,0.167,-9.173,0.13,0.487,149.799,TheFeelsChico
 Mystery of Love,Sufjan Stevens,Mystery of Love,248960,False,72,4,0,5,0.94,0.365,0.273,0.431,0.109,-16.526,0.038,0.238,132.285,TheFeelsChico
 Be My Mistake,The 1975,A Brief Inquiry Into Online Relationships,256688,False,71,6,1,3,0.835,0.572,0.155,0.000137,0.0906,-14.405,0.0344,0.0949,109.923,TheFeelsChico
@@ -167,7 +167,7 @@ Stressed Out,Rex Orange County,Pony,105040,False,58,7,1,4,0.935,0.65,0.319,0,0.2
 Never Had The Balls,Rex Orange County,Pony,236893,False,62,5,1,4,0.387,0.691,0.68,0.000276,0.0508,-7.808,0.0365,0.361,149.974,TheFeelsChico
 Pluto Projector,Rex Orange County,Pony,267520,False,75,5,1,4,0.707,0.551,0.219,0.000691,0.118,-11.196,0.0285,0.191,80.978,TheFeelsChico
 Every Way,Rex Orange County,Pony,133440,False,55,1,1,4,0.914,0.416,0.0994,1.28e-06,0.1,-15.182,0.0787,0.429,76.667,TheFeelsChico
-Disappear Daily,Ollie MN,Disappear Daily,226037,False,47,5,1,4,0.293,0.824,0.469,0.00428,0.294,-8.993,0.0313,0.451,120.007,TheFeelsChico
+Disappear Daily,Ollie MN,Disappear Daily,226037,False,48,5,1,4,0.293,0.824,0.469,0.00428,0.294,-8.993,0.0313,0.451,120.007,TheFeelsChico
 Summertime In Paris,"Jaden,WILLOW",ERYS (Deluxe),270960,True,76,9,1,4,0.135,0.569,0.86,0,0.153,-4.116,0.043,0.289,90.937,TheFeelsChico
 2020 Vision,Caroline Manning,2020 Vision,229668,False,33,1,1,4,0.475,0.612,0.447,0,0.0881,-7.601,0.043,0.369,81.915,TheFeelsChico
 Gameboy,Jayden Bartels,Gameboy,141463,False,39,3,1,4,0.767,0.629,0.467,0,0.147,-7.836,0.185,0.314,159.896,TheFeelsChico
@@ -175,21 +175,21 @@ New You,Jayden Bartels,New You,190578,False,35,4,0,4,0.135,0.729,0.574,2.31e-05,
 Jealous,Jayden Bartels,Jealous,165767,False,27,0,1,4,0.688,0.795,0.534,0,0.0997,-8.899,0.0444,0.296,126.916,TheFeelsChico
 stupid,Tate McRae,stupid,172915,False,77,0,0,4,0.0692,0.673,0.58,8.52e-05,0.186,-6.029,0.0416,0.257,95.989,TheFeelsChico
 If We Have Each Other,Alec Benjamin,Narrated For You,181522,False,73,10,0,4,0.698,0.656,0.577,0,0.296,-5.566,0.0802,0.861,173.094,TheFeelsChico
-Oh My God,Alec Benjamin,Oh My God,187727,False,14,5,0,4,0.652,0.696,0.565,2.02e-06,0.121,-7.237,0.0605,0.599,156.11,TheFeelsChico
+Oh My God,Alec Benjamin,Oh My God,187727,False,13,5,0,4,0.652,0.696,0.565,2.02e-06,0.121,-7.237,0.0605,0.599,156.11,TheFeelsChico
 Jesus In LA,Alec Benjamin,Jesus In LA,172606,False,12,0,1,4,0.537,0.767,0.627,0,0.359,-4.096,0.0401,0.689,94.028,TheFeelsChico
 Six Feet Apart,Alec Benjamin,Six Feet Apart,173705,False,66,5,1,4,0.811,0.492,0.378,0,0.136,-7.117,0.0304,0.497,110.907,TheFeelsChico
 Down for You,"Cosmo's Midnight,Ruel",Down for You,193716,False,61,2,1,4,0.275,0.763,0.547,1.79e-06,0.108,-8.017,0.0601,0.634,97.003,TheFeelsChico
 Cinnamon Girl,Lana Del Rey,Norman Fucking Rockwell!,300683,False,71,6,0,4,0.839,0.292,0.334,0.345,0.151,-10.679,0.0378,0.148,67.836,TheFeelsChico
-July,Noah Cyrus,July,156106,False,19,9,0,4,0.868,0.708,0.186,0,0.0779,-8.953,0.0422,0.321,72.541,TheFeelsChico
+July,Noah Cyrus,July,156106,False,18,9,0,4,0.868,0.708,0.186,0,0.0779,-8.953,0.0422,0.321,72.541,TheFeelsChico
 Lonely,Noah Cyrus,Lonely,144386,False,9,5,1,3,0.779,0.594,0.26,0,0.0924,-9.062,0.0601,0.303,84.648,TheFeelsChico
 "Female Energy, Part 2",WILLOW,WILLOW,173920,False,68,4,0,3,0.0143,0.539,0.39,0.000125,0.174,-8.341,0.0293,0.361,119.791,TheFeelsChico
 Time Machine,WILLOW,WILLOW,143640,True,65,3,1,3,0.44,0.606,0.532,0,0.132,-6.076,0.0416,0.405,81.332,TheFeelsChico
 Brown Eyed Girl,Van Morrison,Blowin' Your Mind!,183306,False,79,7,1,4,0.182,0.491,0.583,0,0.407,-10.964,0.0376,0.907,150.572,TheFeelsChico
 "I miss you, I’m sorry",Gracie Abrams,"I miss you, I’m sorry",167538,False,24,7,1,4,0.734,0.617,0.451,1.56e-06,0.128,-6.096,0.0481,0.161,109.757,TheFeelsChico
 The End of Everything,Noah Cyrus,THE END OF EVERYTHING,175683,False,54,0,1,4,0.821,0.547,0.408,2.73e-05,0.103,-11.195,0.068,0.115,138.574,TheFeelsChico
-Young & Sad,Noah Cyrus,THE END OF EVERYTHING,190182,False,59,7,0,4,0.592,0.618,0.428,0,0.192,-8.5,0.038,0.359,142.021,TheFeelsChico
+Young & Sad,Noah Cyrus,THE END OF EVERYTHING,190182,False,60,7,0,4,0.592,0.618,0.428,0,0.192,-8.5,0.038,0.359,142.021,TheFeelsChico
 Mean It,Gracie Abrams,Mean It,171138,False,60,9,0,1,0.846,0.562,0.304,1.34e-06,0.1,-9.504,0.0595,0.128,123.078,TheFeelsChico
-The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,68,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,TheFeelsChico
+The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,69,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,TheFeelsChico
 That's Us,Anson Seabra,That's Us,270461,False,54,10,1,4,0.969,0.535,0.115,6.17e-06,0.175,-15.097,0.0526,0.253,129.117,TheFeelsChico
 Pretty Girl,Clairo,Pretty Girl,178352,False,80,0,1,4,0.593,0.93,0.611,0.00124,0.0592,-4.406,0.0415,0.695,112.127,TheFeelsChico
 Seven,Sleeping At Last,Atlas: Enneagram,261932,False,45,3,1,4,0.645,0.457,0.463,6.39e-05,0.108,-11.56,0.0421,0.117,119.827,TheFeelsChico
@@ -202,17 +202,17 @@ Silk Pillows,"Smino,Akenya",blkswn,207981,True,41,1,1,1,0.758,0.614,0.469,0,0.10
 Broad Shoulders (feat. Chance the Rapper),"Taylor Bennett,Chance the Rapper",Broad Shoulders,227263,False,51,0,1,4,0.822,0.6,0.524,3.29e-05,0.104,-9.297,0.146,0.449,127.5,TheFeelsChico
 Good News,Mac Miller,Circles,342040,False,76,1,0,4,0.853,0.794,0.32,0.134,0.112,-12.92,0.173,0.241,174.088,TheFeelsChico
 Nova Scotia 500,Boyscott,Goose Bumps,192542,False,53,6,0,4,0.0542,0.603,0.768,0.726,0.36,-4.515,0.0295,0.476,135.095,TheFeelsChico
-Badfish,Sublime,Sublime Greatest Hits,187213,False,1,11,0,4,0.0773,0.824,0.419,0.000935,0.385,-7.064,0.0676,0.516,92.057,TheFeelsChico
+Badfish,Sublime,Sublime Greatest Hits,187213,False,0,11,0,4,0.0773,0.824,0.419,0.000935,0.385,-7.064,0.0676,0.516,92.057,TheFeelsChico
 Moloka'i Nui,"Nina Keali’iwahamana,The Hiram Olsen Group","Authentic Polynesia, Vol. 1: Hawaii & Tonga",98000,False,33,9,1,4,0.969,0.633,0.476,0.812,0.119,-15.972,0.0315,0.958,119.068,TheFeelsChico
 666,Sugar Candy Mountain,666,255552,False,48,4,1,4,0.0022,0.445,0.724,0.000328,0.0628,-6.154,0.0256,0.655,99.548,TheFeelsChico
 Diamonds on the Soles of Her Shoes,Paul Simon,Graceland (25th Anniversary Deluxe Edition),349280,False,64,5,1,4,0.776,0.791,0.677,0.00121,0.224,-9.724,0.0356,0.876,110.64,TheFeelsChico
-To The People I Hurt,Lauren Sanderson,Midwest Kids Can Make It Big,203991,False,39,7,1,1,0.798,0.495,0.248,0,0.111,-8.943,0.0657,0.252,154.978,TheFeelsChico
+To The People I Hurt,Lauren Sanderson,Midwest Kids Can Make It Big,203991,False,40,7,1,1,0.798,0.495,0.248,0,0.111,-8.943,0.0657,0.252,154.978,TheFeelsChico
 Deja Vu,Lauren Sanderson,Deja Vu,234187,False,31,9,1,4,0.749,0.684,0.367,0,0.0746,-8.263,0.255,0.0969,130.759,TheFeelsChico
-Low,Greyson Chance,Low,207640,False,56,9,1,4,0.585,0.476,0.534,0.000236,0.112,-7.432,0.154,0.234,91.646,TheFeelsChico
+Low,Greyson Chance,Low,207640,False,55,9,1,4,0.585,0.476,0.534,0.000236,0.112,-7.432,0.154,0.234,91.646,TheFeelsChico
 like that,Bea Miller,aurora,185546,False,71,6,0,4,0.186,0.573,0.441,0,0.61,-5.799,0.0758,0.389,61.657,TheFeelsChico
 Bitter Love,Pia Mia,Bitter Love,217809,False,60,7,1,3,0.146,0.365,0.652,0,0.114,-2.666,0.0356,0.143,101.65,TheFeelsChico
 Girls Need Love,Summer Walker,Last Day Of Summer,140760,True,75,6,0,4,0.558,0.645,0.418,0.0003,0.562,-10.065,0.29,0.123,96.963,TheFeelsChico
-I Just Want to Be the One You Love,Boxout,I Just Want to Be the One You Love,80842,False,63,9,0,1,0.967,0.497,0.349,0.037,0.228,-8.749,0.0877,0.251,140.551,TheFeelsChico
+I Just Want to Be the One You Love,Boxout,I Just Want to Be the One You Love,80842,False,64,9,0,1,0.967,0.497,0.349,0.037,0.228,-8.749,0.0877,0.251,140.551,TheFeelsChico
 The Story,Conan Gray,Kid Krow,245266,False,73,0,1,4,0.817,0.542,0.299,0,0.109,-10.379,0.0305,0.274,141.917,TheFeelsChico
 Touch,Sleeping At Last,Atlas: II,256299,False,73,0,1,3,0.955,0.415,0.104,3.79e-06,0.104,-11.83,0.0426,0.18,82.006,TheFeelsChico
 Love The Way You Lie (Part II) - Pt. 2,"Rihanna,Eminem",Loud,296226,True,66,10,1,4,0.3,0.469,0.833,0,0.056,-4.487,0.165,0.402,166.526,TheFeelsChico
@@ -220,15 +220,15 @@ Redbone,Childish Gambino,"""Awaken, My Love!""",326933,True,81,1,1,4,0.167,0.743
 Wish (feat. Trippie Redd),"Diplo,Trippie Redd",California,175273,True,61,9,1,4,0.0748,0.57,0.903,0,0.199,-4.835,0.0905,0.603,93.943,TheFeelsChico
 Fine Line,Harry Styles,Fine Line,377960,False,78,2,1,4,0.172,0.306,0.347,0.00013,0.0485,-8.5,0.0334,0.0511,120.996,TheFeelsChico
 Figure It Out,Blu DeTiger,Figure It Out,164317,False,67,8,0,4,0.493,0.747,0.554,0.000425,0.332,-6.154,0.289,0.585,96.988,TheFeelsChico
-summer depression,girl in red,summer depression,151693,True,72,9,1,4,0.632,0.691,0.306,0.479,0.108,-15.651,0.0544,0.62,129.929,TheFeelsChico
+summer depression,girl in red,summer depression,151693,True,73,9,1,4,0.632,0.691,0.306,0.479,0.108,-15.651,0.0544,0.62,129.929,TheFeelsChico
 Wish You Were Sober,Conan Gray,Wish You Were Sober,168883,False,44,2,1,4,0.0175,0.596,0.702,0,0.236,-5.219,0.0883,0.652,182.038,TheFeelsChico
 Anxiety (with Selena Gomez),"Julia Michaels,Selena Gomez",Inner Monologue Part 1,210146,True,64,7,1,4,0.571,0.803,0.384,0,0.194,-6.522,0.179,0.503,141.924,TheFeelsChico
 i just wanna go home,"boy pablo,andrea",hey girl,213271,False,51,11,0,4,0.768,0.629,0.256,0.0738,0.113,-13.495,0.0325,0.251,119.895,TheFeelsChico
 not ok,Peach Tree Rascals,not ok,166108,True,45,10,1,4,0.135,0.661,0.732,0,0.117,-3.701,0.0772,0.515,151.93,TheFeelsChico
 Mango,Peach Tree Rascals,Mango,191072,True,59,6,1,4,0.0209,0.87,0.587,3.18e-06,0.0888,-6.117,0.0406,0.814,122.939,TheFeelsChico
-Tough Guy,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,187000,False,16,11,1,4,0.687,0.742,0.404,0,0.37,-8.212,0.146,0.531,79.788,TheFeelsChico
-BeVerly Hills BoYfRiEnd,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,163959,False,20,0,1,4,0.46,0.597,0.54,0,0.321,-8.563,0.416,0.583,172.901,TheFeelsChico
-Seriouslaaay,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,222375,False,14,10,1,4,0.501,0.637,0.409,0,0.553,-9.134,0.0955,0.303,121.672,TheFeelsChico
+Tough Guy,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,187000,False,15,11,1,4,0.687,0.742,0.404,0,0.37,-8.212,0.146,0.531,79.788,TheFeelsChico
+BeVerly Hills BoYfRiEnd,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,163959,False,19,0,1,4,0.46,0.597,0.54,0,0.321,-8.563,0.416,0.583,172.901,TheFeelsChico
+Seriouslaaay,Claire Rosinkranz,BeVerly Hills BoYfRiEnd,222375,False,13,10,1,4,0.501,0.637,0.409,0,0.553,-9.134,0.0955,0.303,121.672,TheFeelsChico
 Hello?,"Clairo,Rejjie Snow",diary 001,135016,False,75,10,0,4,0.641,0.839,0.473,0.000459,0.0939,-7.835,0.0607,0.0644,98.732,TheFeelsChico
 Obsessed,"Huck,Personal Trainer",Obsessed,235227,False,0,9,1,4,0.657,0.671,0.352,0.000196,0.0877,-11.431,0.0324,0.52,88.002,TheFeelsChico
 Lover Is a Day,Cuco,Wannabewithu,456000,True,0,3,1,4,0.0454,0.398,0.646,0.206,0.101,-10.457,0.0412,0.353,179.853,TheFeelsChico
@@ -262,16 +262,16 @@ Wherever You Are,Kodaline,Wherever You Are,185004,False,72,4,1,4,0.142,0.514,0.6
 Carry You,Novo Amor,Bathing Beach,273106,False,66,7,1,4,0.558,0.334,0.397,0.0774,0.126,-7.993,0.0284,0.035,93.445,TheFeelsChico
 Understand,Christian Leave,Trilogy,133478,False,50,6,1,3,0.827,0.61,0.197,0.000271,0.192,-13.791,0.0351,0.134,114.934,TheFeelsChico
 Happiest Year,Jaymes Young,Happiest Year,228442,False,81,1,1,3,0.885,0.501,0.167,0,0.111,-14.061,0.0484,0.356,112.275,TheFeelsChico
-comethru (bonus track),Jeremy Zucker,love is not dying,181613,False,50,0,1,4,0.59,0.795,0.18,0,0.621,-12.293,0.0608,0.611,94.02,TheFeelsChico
+comethru (bonus track),Jeremy Zucker,love is not dying,181613,False,49,0,1,4,0.59,0.795,0.18,0,0.621,-12.293,0.0608,0.611,94.02,TheFeelsChico
 My Room,Forrest.,My Room,214218,False,49,9,0,4,0.24,0.83,0.61,0,0.133,-7.269,0.273,0.781,127.949,TheFeelsChico
-Home for the Summer,Sara Kays,Home for the Summer,155271,False,47,4,1,4,0.785,0.682,0.531,0.000266,0.102,-9.865,0.0466,0.407,126.981,TheFeelsChico
+Home for the Summer,Sara Kays,Home for the Summer,155271,False,46,4,1,4,0.785,0.682,0.531,0.000266,0.102,-9.865,0.0466,0.407,126.981,TheFeelsChico
 Violent Crimes,Kanye West,ye,215320,True,74,1,0,4,0.376,0.669,0.419,0,0.187,-6.724,0.522,0.0397,109.813,TheFeelsChico
 To Be So Lonely,Harry Styles,Fine Line,192080,False,76,0,1,4,0.618,0.758,0.436,1.61e-05,0.335,-7.269,0.0418,0.605,104.959,TheFeelsChico
 girls,girl in red,girls,198400,False,76,5,1,4,0.227,0.515,0.449,0.0357,0.171,-14.468,0.0337,0.792,149.966,TheFeelsChico
-Otherside,Perfume Genius,No Shape,160169,False,56,8,1,3,0.906,0.277,0.137,0.000494,0.223,-11.45,0.0382,0.204,143.277,TheFeelsChico
+Otherside,Perfume Genius,No Shape,160169,False,57,8,1,3,0.906,0.277,0.137,0.000494,0.223,-11.45,0.0382,0.204,143.277,TheFeelsChico
 Not Going Out Tonight,Nick Lopez,Not Going Out Tonight,131590,False,35,0,1,4,0.366,0.723,0.48,0,0.1,-8.782,0.128,0.196,87.994,TheFeelsChico
 I Don't Think I'm Okay,Bazzi,I Don't Think I'm Okay,176250,False,68,9,1,4,0.574,0.445,0.33,0,0.102,-8.121,0.0429,0.187,128.025,TheFeelsChico
-Loved You Since College,Gion,Loved You Since College (Act I),246317,False,39,11,1,4,0.374,0.658,0.569,1.7e-05,0.1,-8.876,0.0521,0.143,93.965,TheFeelsChico
+Loved You Since College,Gion,Loved You Since College (Act I),246317,False,40,11,1,4,0.374,0.658,0.569,1.7e-05,0.1,-8.876,0.0521,0.143,93.965,TheFeelsChico
 Fly Me To The Moon,"Frank Sinatra,Count Basie",Ultimate Sinatra,147146,False,0,0,1,4,0.525,0.67,0.365,0,0.0575,-10.158,0.0564,0.45,119.342,TheFeelsChico
 Put Your Head on My Shoulder,Paul Anka,Sings His Favorites,155080,False,67,7,1,3,0.906,0.549,0.433,0.0108,0.0774,-8.526,0.0327,0.486,116.068,TheFeelsChico
 All For Us - from the HBO Original Series Euphoria,"Labrinth,Zendaya",All For Us (from the HBO Original Series Euphoria),192986,False,76,3,1,4,0.0165,0.348,0.652,0.000264,0.33,-7.145,0.0931,0.172,70.956,TheFeelsChico
@@ -305,7 +305,7 @@ I'LL SEE YOU IN 40,Joji,BALLADS 1,253780,True,61,3,1,4,0.347,0.411,0.377,0.765,0
 XNXX,Joji,BALLADS 1,127318,True,63,2,1,4,0.257,0.388,0.52,0.185,0.113,-8.354,0.0593,0.196,84.851,TheFeelsChico
 COME THRU,Joji,BALLADS 1,153168,True,63,0,1,4,0.163,0.66,0.596,0.86,0.109,-8.207,0.0358,0.0757,77.026,TheFeelsChico
 WANTED U,Joji,BALLADS 1,251015,True,67,7,1,4,0.105,0.305,0.715,0.0495,0.0906,-7.54,0.0554,0.29,82.977,TheFeelsChico
-Put Your Records On,Ritt Momney,Put Your Records On,210463,False,59,6,0,4,0.058,0.399,0.492,0.00101,0.11,-10.777,0.0538,0.159,91.066,TheFeelsChico
+Put Your Records On,Ritt Momney,Put Your Records On,210463,False,58,6,0,4,0.058,0.399,0.492,0.00101,0.11,-10.777,0.0538,0.159,91.066,TheFeelsChico
 Pollution / Disclaimer,Ritt Momney,Her and All of My Friends,272445,False,48,0,1,4,0.882,0.46,0.219,4.14e-05,0.149,-16.359,0.0949,0.0527,142.161,TheFeelsChico
 Olivia,The Backseat Lovers,When We Were Friends,192205,False,47,7,1,4,0.862,0.776,0.116,0.00903,0.0954,-15.373,0.0422,0.122,123.985,TheFeelsChico
 Out of My League,Fitz and The Tantrums,More Than Just a Dream (Deluxe Edition),209386,False,73,9,0,4,0.0387,0.545,0.968,0.00325,0.331,-3.553,0.0853,0.527,169.965,TheFeelsChico
@@ -319,9 +319,9 @@ Amour plastique,Videoclub,Amour plastique,227026,False,72,6,0,4,0.765,0.7,0.354,
 hello!,ROLE MODEL,"oh, how perfect",188546,False,64,10,1,4,0.505,0.791,0.462,0,0.0991,-4.023,0.0383,0.556,125.913,TheFeelsChico
 thank you for coming,ROLE MODEL,"oh, how perfect",165040,False,48,9,0,4,0.431,0.71,0.574,0.00419,0.286,-6.821,0.0241,0.504,99.968,TheFeelsChico
 She,dodie,Human,213611,False,71,2,1,4,0.755,0.479,0.154,0.0261,0.11,-15.051,0.0369,0.232,92.457,TheFeelsChico
-Beneath Your Beautiful (feat. Emeli Sandé),"Labrinth,Emeli Sandé",Electronic Earth (Expanded Edition),271813,False,68,2,1,4,0.228,0.558,0.522,0,0.104,-5.857,0.036,0.228,83.977,TheFeelsChico
+Beneath Your Beautiful (feat. Emeli Sandé),"Labrinth,Emeli Sandé",Electronic Earth (Expanded Edition),271813,False,69,2,1,4,0.228,0.558,0.522,0,0.104,-5.857,0.036,0.228,83.977,TheFeelsChico
 Can't Wait To Be Dead,FINNEAS,Can't Wait To Be Dead,175969,True,65,9,1,4,0.0122,0.724,0.438,2.91e-05,0.0954,-8.477,0.0285,0.322,99.947,TheFeelsChico
-courage,Ruel,"Bright Lights, Red Eyes",209826,False,61,7,1,4,0.0263,0.589,0.446,0,0.0869,-5.501,0.0285,0.292,81.983,TheFeelsChico
+courage,Ruel,"Bright Lights, Red Eyes",209826,False,60,7,1,4,0.0263,0.589,0.446,0,0.0869,-5.501,0.0285,0.292,81.983,TheFeelsChico
 Big Jet Plane,Angus & Julia Stone,Down the Way,239120,False,59,10,0,4,0.235,0.763,0.382,0.00663,0.108,-8.633,0.0276,0.264,109.944,TheFeelsChico
 Stare,Rory Adams,Stare,204750,False,43,11,1,4,0.0976,0.558,0.477,2.26e-06,0.0955,-8.576,0.0358,0.156,119.755,TheFeelsChico
 Kids Again,Sam Smith,Love Goes,207528,False,69,11,1,4,0.486,0.666,0.726,0,0.0892,-2.998,0.0262,0.468,128.044,TheFeelsChico
@@ -341,13 +341,13 @@ Dancing With Your Ghost,Sasha Sloan,Dancing With Your Ghost,197732,False,79,11,1
 Blush,Wolf Alice,Blush EP,259361,False,33,9,1,4,0.157,0.326,0.439,0.000116,0.123,-8.963,0.035,0.0875,122.892,TheFeelsChico
 Flowers,boy pablo,Flowers,211612,False,47,5,1,4,0.498,0.42,0.352,0,0.107,-8.023,0.0351,0.186,185.555,TheFeelsChico
 Better Than This,Moira & Claire,Better Than This,159473,False,23,7,1,4,0.38,0.544,0.248,5.48e-06,0.109,-10.253,0.027,0.155,95.154,TheFeelsChico
-two queens in a king sized bed,girl in red,two queens in a king sized bed,190944,False,68,9,1,4,0.911,0.361,0.218,0.000577,0.0748,-14.989,0.0338,0.167,114.476,TheFeelsChico
+two queens in a king sized bed,girl in red,two queens in a king sized bed,190944,False,69,9,1,4,0.911,0.361,0.218,0.000577,0.0748,-14.989,0.0338,0.167,114.476,TheFeelsChico
 Creative Freedom,Lauren Sanderson,Hasta La Vista,149741,True,23,7,1,5,0.943,0.591,0.393,0,0.114,-10.465,0.396,0.284,74.987,TheFeelsChico
 Line Em Up (feat. Busta Rhymes),"Russ,Busta Rhymes",CHOMP,224000,True,54,9,0,4,0.273,0.745,0.77,0,0.11,-6.126,0.32,0.816,74.363,TheFeelsChico
 Blue Skies,Birdy,Blue Skies,154869,False,58,6,0,4,0.981,0.413,0.0822,2.62e-05,0.106,-11.922,0.0562,0.173,77.299,TheFeelsChico
-The Lighthouse Keeper,Sam Smith,The Lighthouse Keeper,247493,False,72,0,1,3,0.889,0.394,0.17,0,0.105,-10.368,0.0451,0.315,130.721,TheFeelsChico
+The Lighthouse Keeper,Sam Smith,The Lighthouse Keeper,247493,False,73,0,1,3,0.889,0.394,0.17,0,0.105,-10.368,0.0451,0.315,130.721,TheFeelsChico
 Prophet,King Princess,Cheap Queen,249773,False,56,2,1,4,0.116,0.516,0.833,0.000414,0.0993,-3.046,0.108,0.605,166.007,TheFeelsChico
-Hiccup,Verzache,Hiccup,240000,False,56,4,0,4,0.654,0.519,0.414,0.0011,0.118,-9.059,0.122,0.108,96.789,TheFeelsChico
+Hiccup,Verzache,Hiccup,240000,False,57,4,0,4,0.654,0.519,0.414,0.0011,0.118,-9.059,0.122,0.108,96.789,TheFeelsChico
 im closing my eyes (Feat. shiloh),"potsu,Shiloh",im closing my eyes,118302,False,0,0,0,4,0.534,0.895,0.109,0.549,0.106,-13.853,0.0996,0.546,134.067,TheFeelsChico
 Me,The 1975,Music For Cars EP,274023,False,0,2,1,3,0.9,0.337,0.308,0.902,0.09,-14.092,0.0331,0.0617,115.161,TheFeelsChico
 Cringe - Stripped,Matt Maeson,Bank On The Funeral (Stripped),223466,False,59,5,1,4,0.876,0.752,0.276,0,0.103,-8.901,0.0463,0.275,126.135,TheFeelsChico
@@ -378,9 +378,9 @@ Leaving My Love Behind,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Ex
 Waiting Room,Rex Orange County,Apricot Princess,240346,True,54,11,1,4,0.809,0.752,0.345,5.24e-06,0.112,-8.992,0.0309,0.178,109.877,TheFeelsChico
 My Cell,The Lumineers,III,196280,False,45,8,1,4,0.922,0.629,0.229,0.000611,0.156,-9.29,0.029,0.303,134.535,TheFeelsChico
 Ex Bitch,XXXTENTACION,Bad Vibes Forever,121671,True,74,7,1,4,0.513,0.835,0.462,0,0.0875,-6.227,0.155,0.702,78.99,TheFeelsChico
-If the World Was Ending - feat. Julia Michaels,"JP Saxe,Julia Michaels",If the World Was Ending (feat. Julia Michaels),208687,False,86,1,1,4,0.866,0.464,0.473,0,0.109,-10.086,0.129,0.604,75.801,TheFeelsChico
+If the World Was Ending - feat. Julia Michaels,"JP Saxe,Julia Michaels",If the World Was Ending (feat. Julia Michaels),208687,False,87,1,1,4,0.866,0.464,0.473,0,0.109,-10.086,0.129,0.604,75.801,TheFeelsChico
 Breathe,Jack Bisonte,The Playground,285094,False,11,5,0,4,0.0112,0.617,0.628,0,0.105,-9.522,0.0415,0.229,98.006,TheFeelsChico
-Church,Coldplay,Everyday Life,230013,False,58,11,0,4,0.00865,0.449,0.736,0.145,0.147,-6.98,0.0368,0.133,123.973,TheFeelsChico
+Church,Coldplay,Everyday Life,230013,False,59,11,0,4,0.00865,0.449,0.736,0.145,0.147,-6.98,0.0368,0.133,123.973,TheFeelsChico
 BrokEn,Coldplay,Everyday Life,150200,False,54,5,1,4,0.923,0.55,0.271,0,0.147,-11.836,0.0495,0.521,130.151,TheFeelsChico
 Cry Cry Cry,Coldplay,Everyday Life,167280,False,59,8,1,3,0.89,0.491,0.262,0.288,0.207,-10.458,0.0572,0.338,204.52,TheFeelsChico
 Everyday Life,Coldplay,Everyday Life,258533,False,68,2,1,4,0.775,0.512,0.452,0.0818,0.065,-8.991,0.0292,0.235,124.103,TheFeelsChico
@@ -405,13 +405,13 @@ My Favorite Part,"Mac Miller,Ariana Grande",The Divine Feminine,216000,False,73,
 Can I Call You Tonight?,Dayglow,Fuzzybrain,278769,False,81,,,,,,,,,,,,,TheFeelsChico
 I Wish,Hayley Kiyoko,I'm Too Sensitive For This Shit,205028,True,54,,,,,,,,,,,,,TheFeelsChico
 Asido,Purity Ring,Asido,220613,False,44,,,,,,,,,,,,,TheFeelsChico
-Fuck My Friends,Eddie Benjamin,Fuck My Friends,123770,True,52,,,,,,,,,,,,,TheFeelsChico
-alive,ROLE MODEL,our little angel - EP,182880,False,52,,,,,,,,,,,,,TheFeelsChico
+Fuck My Friends,Eddie Benjamin,Fuck My Friends,123770,True,53,,,,,,,,,,,,,TheFeelsChico
+alive,ROLE MODEL,our little angel - EP,182880,False,51,,,,,,,,,,,,,TheFeelsChico
 R.I.P. 2 My Youth,The Neighbourhood,Wiped Out!,205280,False,70,,,,,,,,,,,,,TheFeelsChico
 feelings fade,"gnash,RKCB",me,240000,True,66,,,,,,,,,,,,,TheFeelsChico
-Make It Stop,COIN,Indigo Violet,218280,False,48,,,,,,,,,,,,,TheFeelsChico
+Make It Stop,COIN,Indigo Violet,218280,False,47,,,,,,,,,,,,,TheFeelsChico
 "Come on Doom, Let's Party",Emily Wells,"Come on Doom, Let's Party",216192,False,38,,,,,,,,,,,,,TheFeelsChico
-Golden G String,Miley Cyrus,Plastic Hearts,235746,False,67,,,,,,,,,,,,,TheFeelsChico
+Golden G String,Miley Cyrus,Plastic Hearts,235746,False,70,,,,,,,,,,,,,TheFeelsChico
 No Problem,Perfume Genius,Learning,130333,False,24,,,,,,,,,,,,,TheFeelsChico
 everything happens to me - timothée chalamet,timothée chalamet,timothée chalamet,142699,False,0,,,,,,,,,,,,,TheFeelsChico
 The 1975,The 1975,A Brief Inquiry Into Online Relationships,94822,False,46,,,,,,,,,,,,,TheFeelsChico

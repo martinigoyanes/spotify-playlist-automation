@@ -2,7 +2,7 @@ Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acou
 Crazy Blues,Mamie Smith,Mamie Smith Vol. 1 (1920-1921),202240,False,42,5,1,4,0.996,0.436,0.178,0.912,0.259,-13.36,0.0448,0.464,111.858,Blues
 Ash Tray Blues,Papa Charlie Jackson,Papa Charlie Jackson Vol. 2 (1926 - 1928),178729,False,40,7,1,4,0.987,0.85,0.212,0.0298,0.114,-16.888,0.0948,0.781,121.146,Blues
 Devil Got My Woman,Skip James,Legends Of Country Blues: The Complete Pre-War Recordings Of Skip James (Disc A),181786,False,44,2,1,4,0.986,0.508,0.151,0.0465,0.172,-14.984,0.0324,0.523,85.128,Blues
-All Around Man,Bo Carter,Banana In Your Fruit Basket,180093,False,5,5,1,4,0.979,0.579,0.18,0.0403,0.0948,-15.873,0.0642,0.414,145.128,Blues
+All Around Man,Bo Carter,Banana In Your Fruit Basket,180093,False,4,5,1,4,0.979,0.579,0.18,0.0403,0.0948,-15.873,0.0642,0.414,145.128,Blues
 You Was Born To Die,Curley Weaver,Curley Weaver (1933-1935),171546,False,39,2,1,4,0.995,0.564,0.269,0.00483,0.132,-13.749,0.0443,0.602,103.355,Blues
 Cross Road Blues,Robert Johnson,King Of The Delta Blues Singers,149560,False,54,9,1,4,0.93,0.675,0.311,0.000261,0.102,-11.959,0.0525,0.638,97.159,Blues
 Match Box Blues (4446),Blind Lemon Jefferson,Blind Lemon Jefferson Vol. 2 (1927),183066,False,39,10,1,4,0.976,0.475,0.157,0.0348,0.0776,-19.063,0.0567,0.519,169.224,Blues
@@ -13,16 +13,16 @@ Where Did You Sleep Last Night,Lead Belly,Absolutely The Best,181892,False,43,4,
 Baby Please Don't Go,Big Joe Williams,"And Friends, Going Back To Crawford",164506,False,0,7,1,4,0.752,0.499,0.302,0.0266,0.129,-15.15,0.0495,0.565,167.083,Blues
 Goin' Down Slow,St. Louis Jimmy Oden,Blues Legend - The Best Of,191533,False,20,3,1,4,0.993,0.678,0.228,0.0618,0.163,-15.007,0.0409,0.445,82.978,Blues
 Truckin' My Blues Away,Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,188447,False,40,7,0,4,0.995,0.615,0.255,0.0123,0.169,-14.599,0.0618,0.69,181.12,Blues
-Lead Pencil Blues (1935),Johnny Temple,Back To The Crossroads: The Roots Of Robert Johnson,186520,False,4,11,1,4,0.972,0.662,0.222,4.74e-05,0.12,-15.116,0.0511,0.786,104.68,Blues
+Lead Pencil Blues (1935),Johnny Temple,Back To The Crossroads: The Roots Of Robert Johnson,186520,False,3,11,1,4,0.972,0.662,0.222,4.74e-05,0.12,-15.116,0.0511,0.786,104.68,Blues
 Some Day Baby,Lonnie Johnson,Lonnie Johnson Vol. 3 (1944-1947),188290,False,39,3,1,4,0.964,0.647,0.204,0.00351,0.123,-15.263,0.0454,0.686,83.102,Blues
 Anna Lou Blues,Tampa Red,Tampa Red Vol. 11 1939-1940,174158,False,37,10,1,4,0.965,0.555,0.393,0.015,0.151,-11.949,0.0327,0.782,102.5,Blues
 Come Back Baby,Doctor Ross,Rockin' Blues Essentials,170440,False,37,10,1,4,0.87,0.65,0.424,0.0443,0.0869,-11.238,0.0646,0.865,91.977,Blues
 Down The Dirt Road Blues,Charley Patton,Charley Patton Vol. 1 (1929),174576,False,40,1,1,4,0.97,0.473,0.281,0.0936,0.11,-11.337,0.0354,0.523,119.161,Blues
-The Twelves (The Dirty Dozens),"Casey Bill Weldon,Kokomo Arnold",Bottleneck Guitar Trendsetters Of The 1930s,191106,False,3,6,1,4,0.94,0.569,0.394,0.00239,0.117,-12.499,0.0559,0.712,102.364,Blues
+The Twelves (The Dirty Dozens),"Casey Bill Weldon,Kokomo Arnold",Bottleneck Guitar Trendsetters Of The 1930s,191106,False,2,6,1,4,0.94,0.569,0.394,0.00239,0.117,-12.499,0.0559,0.712,102.364,Blues
 I Got the Cross the River Jordan,Blind Willie McTell,Atlanta Twelve String,240360,False,40,0,1,4,0.91,0.538,0.177,0.00825,0.0927,-14.158,0.0447,0.415,77.396,Blues
-That's No Way To Get Along,Robert Wilkins,Ghost World Soundtrack,172533,False,4,8,1,4,0.904,0.446,0.315,0,0.235,-14.961,0.0352,0.371,99.155,Blues
-Downtown Blues,Frank Stokes,The Best Of Frank Stokes,197426,False,3,11,1,4,0.969,0.539,0.264,0.000681,0.361,-14.354,0.0383,0.677,162.935,Blues
-Catfish Blues,Robert Petway,"Mississippi Blues Vol. 3 ""Catfish Blues""",174471,False,37,1,1,4,0.977,0.596,0.308,0.0106,0.108,-17.814,0.0495,0.834,183.398,Blues
+That's No Way To Get Along,Robert Wilkins,Ghost World Soundtrack,172533,False,3,8,1,4,0.904,0.446,0.315,0,0.235,-14.961,0.0352,0.371,99.155,Blues
+Downtown Blues,Frank Stokes,The Best Of Frank Stokes,197426,False,2,11,1,4,0.969,0.539,0.264,0.000681,0.361,-14.354,0.0383,0.677,162.935,Blues
+Catfish Blues,Robert Petway,"Mississippi Blues Vol. 3 ""Catfish Blues""",174471,False,38,1,1,4,0.977,0.596,0.308,0.0106,0.108,-17.814,0.0495,0.834,183.398,Blues
 Man Stealer Blues,Lucille Bogan,Shave 'Em Dry: The Best Of Lucille Bogan,182400,False,36,5,0,4,0.992,0.539,0.228,2.19e-06,0.126,-8.234,0.0466,0.518,84.324,Blues
 Back Door Blues,James Kokomo Arnold,Kokomo Arnold - His 20 Greatest Songs,204320,False,35,1,1,4,0.985,0.797,0.208,0.232,0.0434,-11.383,0.0672,0.596,86.605,Blues
 Papa's on the House Top,Leroy Carr,"Whiskey Is My Habit, Good Women Is All I Crave: The Best Of Leroy Carr",175400,False,29,3,1,4,0.994,0.683,0.285,0.603,0.122,-12.101,0.0366,0.783,94.913,Blues

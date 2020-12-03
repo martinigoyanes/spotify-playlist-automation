@@ -9,7 +9,7 @@ Se Me Olvidó Otra Vez,Juan Gabriel,15 Años De Exitos Rancheros,176320,False,50
 Tatuajes,Joan Sebastian,Tatuajes,211929,False,2,7,1,4,0.73,0.782,0.534,4.14e-06,0.13,-5.401,0.0281,0.917,100.565,MariachiClassic
 Amor Eterno,Rocío Dúrcal,Amor Eterno,408506,False,55,0,1,4,0.231,0.279,0.157,0.000463,0.564,-17.564,0.0334,0.385,177.312,MariachiClassic
 Por Una Mujer Bonita,Pepe Aguilar,Por Una Mujer Bonita,162632,False,0,4,0,4,0.749,0.454,0.476,0,0.326,-6.156,0.032,0.558,141.991,MariachiClassic
-Mátalas,Alejandro Fernández,Niña Amada Mia,177226,False,59,11,1,4,0.706,0.771,0.392,0,0.0575,-6.627,0.0751,0.8,117.242,MariachiClassic
+Mátalas,Alejandro Fernández,Niña Amada Mia,177226,False,58,11,1,4,0.706,0.771,0.392,0,0.0575,-6.627,0.0751,0.8,117.242,MariachiClassic
 Volver Volver,Vicente Fernández,Arriba Huentitan,180733,False,65,9,1,4,0.39,0.355,0.351,0.00257,0.394,-9.513,0.0455,0.471,164.933,MariachiClassic
 Si Nos Dejan - En Vivo,Luis Miguel,El Concierto,152173,False,58,5,1,4,0.5,0.501,0.685,0,0.953,-7.349,0.0325,0.382,105.468,MariachiClassic
 Échame a Mi La Culpa,Luis Miguel,Mexico en la Piel (edicion diamante),189800,False,64,7,1,4,0.143,0.571,0.5,0,0.303,-5.178,0.028,0.633,125.887,MariachiClassic
@@ -19,7 +19,7 @@ Nube Viajera,Alejandro Fernández,Muy Dentro De Mi Corazon,244426,False,55,10,1,
 México En La Piel,Luis Miguel,Mexico en la Piel (edicion diamante),209213,False,64,0,1,3,0.43,0.483,0.53,0,0.222,-6.989,0.0295,0.676,150.68,MariachiClassic
 Déjame Vivir (with Juan Gabriel),"Rocío Dúrcal,Juan Gabriel",Amor Eterno,223573,False,50,7,1,4,0.66,0.753,0.26,0,0.0929,-15.042,0.0505,0.76,131.702,MariachiClassic
 No,Alejandro Fernández,Grandes Exitos A La Manera De Alejandro Fernandez,195266,False,63,2,1,4,0.573,0.527,0.224,6.28e-06,0.283,-11.76,0.0282,0.314,86.23,MariachiClassic
-Directo Al Corazon,Pepe Aguilar,Por Mujeres Como Tu,198832,False,1,4,1,4,0.867,0.298,0.278,6.3e-05,0.128,-7.675,0.0322,0.292,183.167,MariachiClassic
+Directo Al Corazon,Pepe Aguilar,Por Mujeres Como Tu,198832,False,2,4,1,4,0.867,0.298,0.278,6.3e-05,0.128,-7.675,0.0322,0.292,183.167,MariachiClassic
 La bikina - En vivo,Luis Miguel,Vivo,179040,False,66,5,1,3,0.161,0.389,0.71,0,0.918,-6.265,0.0351,0.666,160.397,MariachiClassic
 Y - En vivo,Luis Miguel,Vivo,162093,False,53,0,1,4,0.236,0.576,0.675,4.03e-06,0.934,-6.624,0.0311,0.566,93.473,MariachiClassic
 La fiesta del mariachi,Luis Miguel,¡MÉXICO Por Siempre!,164413,False,53,7,1,3,0.0942,0.573,0.861,0,0.101,-2.726,0.0381,0.869,88.044,MariachiClassic
@@ -55,7 +55,7 @@ Perdoname,Pepe Aguilar,Por Una Mujer Bonita,209769,False,0,0,1,4,0.683,0.506,0.3
 El Milagro De Tus Ojos,Jose Julian,El Milagro De Tus Ojos,192712,False,0,5,1,4,0.808,0.601,0.358,0,0.0928,-8.088,0.0298,0.432,131.928,MariachiClassic
 Gema,Javier Solís,Sombras,159073,False,0,5,1,4,0.782,0.449,0.467,0,0.267,-4.653,0.0442,0.566,99.407,MariachiClassic
 Que Chulada De Mujer,Vicente Fernández,Vicente Fernandez La Tragedia del Vaquero,180200,False,39,2,1,4,0.291,0.68,0.46,0,0.103,-4.262,0.0322,0.865,117.233,MariachiClassic
-La Mano de Dios,José Alfredo Jimenez,La Malagradecida,161840,False,48,0,1,3,0.836,0.463,0.247,0,0.111,-10.489,0.0481,0.586,84.366,MariachiClassic
+La Mano de Dios,José Alfredo Jimenez,La Malagradecida,161840,False,47,0,1,3,0.836,0.463,0.247,0,0.111,-10.489,0.0481,0.586,84.366,MariachiClassic
 En Tu Pelo,Pepe Aguilar,No Soy de Nadie,157881,False,0,4,0,4,0.591,0.567,0.491,7.63e-06,0.107,-7.769,0.03,0.696,145.896,MariachiClassic
 Guadalajara,Vicente Fernández,Lo Mejor De La Baraja Con El Rey,277893,False,39,4,1,1,0.63,0.485,0.732,0.000237,0.24,-5.056,0.0505,0.6,97.19,MariachiClassic
 Caminos de Michoacán,Federico Villa,15 Exitos De Federico Villa - Versiones Originales,209666,False,0,10,1,4,0.479,0.589,0.483,0,0.331,-6.285,0.0336,0.804,123.589,MariachiClassic
@@ -65,7 +65,7 @@ Por Tu Maldito Amor,Vicente Fernández,Por Tu Maldito Amor,236480,False,58,9,1,4
 Mujeres Divinas,Vicente Fernández,El Cuatrero,189720,False,55,5,0,3,0.565,0.607,0.296,9.17e-05,0.324,-9.541,0.0601,0.577,71.136,MariachiClassic
 Lástima Que Seas Ajena,Vicente Fernández,Lastima Que Seas Ajena,257266,False,59,9,1,4,0.592,0.478,0.336,0,0.146,-8.84,0.0371,0.585,110.881,MariachiClassic
 Sombras - Versión Trío,Javier Solís,Exitos Con Trio,207146,False,58,7,1,4,0.594,0.723,0.664,1.35e-06,0.31,-4.77,0.034,0.483,94.962,MariachiClassic
-Fue un Placer Conocerte (En Vivo) (with Juan Gabriel) - Desde el Auditorio Nacional,"Rocío Dúrcal,Juan Gabriel",El Concierto ... En Vivo,200000,False,55,5,1,4,0.638,0.434,0.562,0,0.974,-9.048,0.0743,0.563,84.859,MariachiClassic
+Fue un Placer Conocerte (En Vivo) (with Juan Gabriel) - Desde el Auditorio Nacional,"Rocío Dúrcal,Juan Gabriel",El Concierto ... En Vivo,200000,False,56,5,1,4,0.638,0.434,0.562,0,0.974,-9.048,0.0743,0.563,84.859,MariachiClassic
 Y...,Javier Solís,10 Exitos De Oro,160200,False,0,9,1,4,0.83,0.468,0.363,0,0.333,-11.738,0.0326,0.669,95.408,MariachiClassic
 Loco,Alejandro Fernández,Mi Verdad,196266,False,54,10,1,4,0.856,0.61,0.265,0.00159,0.111,-12.736,0.0339,0.415,88.468,MariachiClassic
 Mátalas,Alejandro Fernández,Lo Esencial De Alejandro Fernández,174000,False,62,11,1,4,0.724,0.779,0.396,0,0.0859,-6.55,0.0672,0.799,117.184,MariachiClassic
@@ -87,7 +87,7 @@ El Mariachi Loco,Mariachi Vargas De Tecalitlan,La Más Completa Colección,17730
 Un Millon De Primaveras,Vicente Fernández,Vicente Fernandez Para Siempre,173080,False,67,3,1,3,0.651,0.73,0.341,0.000181,0.0917,-8.521,0.0578,0.822,100.558,MariachiClassic
 Recuérdame Bonito,Pepe Aguilar,Recuérdame Bonito,191800,False,54,4,1,4,0.489,0.348,0.342,2.37e-05,0.0922,-8.156,0.0315,0.426,97.72,MariachiClassic
 Voy A Conquistarte,Diego Verdaguer,Mexicano Hasta Las Pampas,174157,False,62,9,0,3,0.582,0.838,0.359,1.19e-05,0.0564,-7.719,0.0453,0.68,96.951,MariachiClassic
-El Hijo Desobediente,Antonio Aguilar,"Rancherísimo, Vol. 2",195117,False,63,9,1,3,0.745,0.402,0.424,0,0.106,-4.484,0.0637,0.864,204.269,MariachiClassic
+El Hijo Desobediente,Antonio Aguilar,"Rancherísimo, Vol. 2",195117,False,62,9,1,3,0.745,0.402,0.424,0,0.106,-4.484,0.0637,0.864,204.269,MariachiClassic
 Pelea de gallos,Mariachi Silvestre Vargas,Mexico Gran Colección Ranchera - Mariachi Silvestre Vargas,188533,False,43,5,0,4,0.726,0.521,0.463,0,0.268,-8.43,0.0848,0.724,92.902,MariachiClassic
 El Rey - En Vivo,Luis Miguel,El Concierto,141600,False,45,2,1,4,0.435,0.473,0.619,0,0.963,-8.242,0.032,0.698,97.624,MariachiClassic
 Que De Raro Tiene,Vicente Fernández,Que De Raro Tiene,202093,False,64,4,1,3,0.426,0.6,0.356,0,0.379,-7.725,0.0587,0.542,67.164,MariachiClassic
@@ -104,10 +104,10 @@ Le Hace Falta Un Beso,El Chapo De Sinaloa,Le Hace Falta Un Beso,167897,False,65,
 Triste Recuerdo,Antonio Aguilar,Antonio Aguilar con Mariachi,233116,False,64,,,,,,,,,,,,,MariachiClassic
 Probablemente,Christian Nodal,Me Dejé Llevar,233546,False,70,,,,,,,,,,,,,MariachiClassic
 Te Quedó Grande La Yegua,Alicia Villarreal,Soy Lo Prohibido,217040,False,59,,,,,,,,,,,,,MariachiClassic
-México Lindo Y Querido,Vicente Fernández,Vicente Fernandez La Leyenda Viviente (Digi-Pack),212573,False,53,,,,,,,,,,,,,MariachiClassic
+México Lindo Y Querido,Vicente Fernández,Vicente Fernandez La Leyenda Viviente (Digi-Pack),212573,False,52,,,,,,,,,,,,,MariachiClassic
 La Venia Bendita,Marco Antonio Solís,Marco Antonio Solis,191640,False,66,,,,,,,,,,,,,MariachiClassic
 Almohada,Pepe Aguilar,Por Mujeres Como Tú,191216,False,52,,,,,,,,,,,,,MariachiClassic
-Si Tú No Vuelves,Alejandro Fernández,Orígenes,194693,False,54,,,,,,,,,,,,,MariachiClassic
+Si Tú No Vuelves,Alejandro Fernández,Orígenes,194693,False,55,,,,,,,,,,,,,MariachiClassic
 Inocente Pobre Amigo,Juan Gabriel,Con el Mariachi de América de Jesús Rodríguez de Hijar,245133,False,56,,,,,,,,,,,,,MariachiClassic
 La Farsante,Juan Gabriel,Todo,175400,False,59,,,,,,,,,,,,,MariachiClassic
 "Ay, jalisco no te rajes (remastered)",Jorge Negrete,Jorge Negrete. Sus 40 Grandes Canciones (1911-1953),144266,False,45,,,,,,,,,,,,,MariachiClassic
@@ -132,7 +132,7 @@ Directo Al Corazón,Pepe Aguilar,Por Mujeres Como Tú,200480,False,66,,,,,,,,,,,
 El Viajero,Luis Miguel,Mexico en la Piel (edicion diamante),216920,False,51,,,,,,,,,,,,,MariachiClassic
 Por un amor,Luis Miguel,Mexico en la Piel (edicion diamante),162920,False,47,,,,,,,,,,,,,MariachiClassic
 Mi Ciudad,Luis Miguel,Mexico en la Piel (edicion diamante),217013,False,46,,,,,,,,,,,,,MariachiClassic
-Amarte A La Antigua,Pedro Fernández,Amarte A La Antigua,218533,False,61,,,,,,,,,,,,,MariachiClassic
+Amarte A La Antigua,Pedro Fernández,Amarte A La Antigua,218533,False,62,,,,,,,,,,,,,MariachiClassic
 Secreto De Amor,Joan Sebastian,Secreto De Amor,273008,False,67,,,,,,,,,,,,,MariachiClassic
 Eso Y Más,Joan Sebastian,Más Allá Del Sol,159172,False,71,,,,,,,,,,,,,MariachiClassic
 Soy Lo Prohibido,Alicia Villarreal,Soy Lo Prohibido,185133,False,43,,,,,,,,,,,,,MariachiClassic
@@ -147,7 +147,7 @@ La Ley del Monte,Vicente Fernández,La Historia De Un Idolo,204133,False,31,,,,,
 Bohemio De Aficion,Vicente Fernández,Entre El Amor Y Yo,206533,False,60,,,,,,,,,,,,,MariachiClassic
 La Derrota,Vicente Fernández,Vicente Fernandez Para Siempre,196253,False,59,,,,,,,,,,,,,MariachiClassic
 Me Está Llorando El Corazón,Pepe Aguilar,Por Mujeres Como Tú,217254,False,51,,,,,,,,,,,,,MariachiClassic
-Estos Celos - En Vivo,Vicente Fernández,Primera Fila,292733,False,49,,,,,,,,,,,,,MariachiClassic
+Estos Celos - En Vivo,Vicente Fernández,Primera Fila,292733,False,48,,,,,,,,,,,,,MariachiClassic
 Cascos Ligeros,Alejandro Fernández,Piel De Niña,125200,False,44,,,,,,,,,,,,,MariachiClassic
 Amorcito corazón,Pedro Infante,15 Inmortales de Pedro Infante,181720,False,54,,,,,,,,,,,,,MariachiClassic
 No Te Contaron Mal,Christian Nodal,Ahora,156520,False,73,,,,,,,,,,,,,MariachiClassic

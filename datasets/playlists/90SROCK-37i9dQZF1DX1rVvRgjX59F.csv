@@ -3,7 +3,7 @@ Smells Like Teen Spirit,Nirvana,Nevermind (Remastered),301920,False,74,1,1,4,2.5
 Zombie,The Cranberries,No Need To Argue,306426,False,80,7,1,4,0.0154,0.307,0.635,0.00483,0.366,-8.957,0.0339,0.304,166.973,90sRock
 Under the Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),264306,False,80,4,1,4,0.0576,0.559,0.345,0.000105,0.141,-13.496,0.0459,0.458,84.581,90sRock
 Killing In The Name,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),313573,True,78,7,1,4,0.0266,0.466,0.833,0,0.0327,-4.215,0.304,0.661,88.785,90sRock
-Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],258732,False,38,2,1,4,0.000453,0.372,0.865,0,0.234,-4.918,0.0381,0.478,174.53,90sRock
+Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],258732,False,37,2,1,4,0.000453,0.372,0.865,0,0.234,-4.918,0.0381,0.478,174.53,90sRock
 Enter Sandman,Metallica,Metallica,331573,False,2,6,0,4,0.00206,0.579,0.824,0.00903,0.059,-8.71,0.03,0.635,123.331,90sRock
 Come As You Are,Nirvana,Nevermind (Remastered),218920,False,72,4,0,4,0.00016,0.5,0.824,0.00161,0.0916,-5.846,0.0388,0.539,120.125,90sRock
 Bitter Sweet Symphony,The Verve,Urban Hymns,358426,False,1,9,1,4,0.0415,0.389,0.889,0,0.463,-6.546,0.0442,0.524,171.121,90sRock
@@ -31,8 +31,8 @@ Closer,Nine Inch Nails,The Downward Spiral,373306,True,0,10,0,4,0.000365,0.559,0
 Are You Gonna Go My Way,Lenny Kravitz,Are You Gonna Go My Way,211933,False,73,11,0,4,0.00165,0.619,0.67,0.0109,0.331,-10.322,0.0353,0.777,129.269,90sRock
 Disarm - Remastered,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),196905,False,0,4,0,4,0.142,0.527,0.418,0.775,0.139,-10.205,0.0277,0.218,129.516,90sRock
 Shine,Collective Soul,"Hints, Allegations & Things Left Unsaid",306040,False,0,6,1,4,0.294,0.54,0.423,0.0884,0.152,-8.799,0.0283,0.353,150.135,90sRock
-Don't Look Back In Anger - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],289559,False,30,0,1,4,0.0596,0.333,0.922,2.05e-06,0.126,-4.087,0.0592,0.335,162.978,90sRock
-Sabotage,Beastie Boys,Ill Communication,178440,True,71,6,0,4,0.032,0.324,0.938,0.0321,0.0961,-7.332,0.102,0.543,168.131,90sRock
+Don't Look Back In Anger - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],289559,False,29,0,1,4,0.0596,0.333,0.922,2.05e-06,0.126,-4.087,0.0592,0.335,162.978,90sRock
+Sabotage,Beastie Boys,Ill Communication,178440,True,72,6,0,4,0.032,0.324,0.938,0.0321,0.0961,-7.332,0.102,0.543,168.131,90sRock
 Machinehead,Bush,Sixteen Stone (Remastered),256333,False,0,9,1,3,2.84e-05,0.137,0.916,0.00403,0.127,-4.429,0.101,0.19,178.065,90sRock
 Come Out and Play,The Offspring,Smash [Remastered],197800,False,0,7,1,4,0.0943,0.514,0.884,1.52e-06,0.0654,-3.765,0.151,0.898,158.262,90sRock
 Celebrity Skin,Hole,Celebrity Skin,162666,False,66,9,1,4,9.44e-06,0.438,0.905,5.4e-05,0.363,-6.161,0.0419,0.723,134.163,90sRock
@@ -59,12 +59,12 @@ Hunger Strike - 25th Anniversary Mix,Temple Of The Dog,Temple Of The Dog (Deluxe
 No Excuses,Alice In Chains,Jar Of Flies,255573,False,64,3,1,4,0.0206,0.527,0.838,0.000662,0.07,-6.013,0.0323,0.721,117.454,90sRock
 My Own Worst Enemy,Lit,My Own Worst Enemy - Single,169405,False,56,4,1,4,0.0252,0.427,0.952,0,0.407,-3.383,0.0565,0.588,103.523,90sRock
 Runaway Train,Soul Asylum,Grave Dancers Union,265866,False,69,0,1,4,0.0132,0.613,0.72,0,0.104,-7.957,0.0425,0.561,117.341,90sRock
-Santa Monica,Everclear,Sparkle And Fade,191506,False,43,7,1,4,0.156,0.491,0.942,0,0.367,-5.333,0.132,0.387,100.446,90sRock
+Santa Monica,Everclear,Sparkle And Fade,191506,False,42,7,1,4,0.156,0.491,0.942,0,0.367,-5.333,0.132,0.387,100.446,90sRock
 Even Flow,Pearl Jam,Ten,292580,False,75,10,0,4,0.00178,0.394,0.944,4.54e-06,0.298,-6.506,0.0761,0.265,105.338,90sRock
 About A Girl,Nirvana,MTV Unplugged In New York,218000,False,63,3,0,4,0.14,0.606,0.769,1.64e-05,0.841,-9.215,0.0713,0.593,121.042,90sRock
 Lump,The Presidents Of The United States Of America,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,134200,False,67,6,1,4,0.00468,0.499,0.873,0,0.165,-3.902,0.0386,0.864,142.726,90sRock
 Crazy,Aerosmith,Get A Grip,316693,False,74,6,0,3,0.0868,0.37,0.866,0,0.137,-3.879,0.0384,0.427,162.086,90sRock
-Interstate Love Song,Stone Temple Pilots,Purple,193613,False,23,4,1,4,0.000552,0.214,0.947,0.00352,0.238,-5.053,0.0507,0.483,170.616,90sRock
+Interstate Love Song,Stone Temple Pilots,Purple,193613,False,24,4,1,4,0.000552,0.214,0.947,0.00352,0.238,-5.053,0.0507,0.483,170.616,90sRock
 Welcome to Paradise,Green Day,Dookie,224133,False,67,3,0,4,0.000241,0.37,0.96,0.0116,0.0563,-4.162,0.0378,0.717,89.428,90sRock
 Take a Picture,Filter,Title Of Record,359520,False,0,2,1,4,0.000103,0.446,0.762,7.2e-05,0.26,-8.971,0.0422,0.276,98.993,90sRock
 "Tonight, Tonight - Remastered 2012",The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Remastered),254626,False,0,6,1,4,6.28e-05,0.277,0.67,0.751,0.237,-9.381,0.0376,0.217,148.342,90sRock
@@ -81,7 +81,7 @@ Sugar,System Of A Down,System Of A Down,153800,True,69,1,1,4,0.00167,0.451,0.889
 Shimmer,Fuel,Sunburn,214106,False,62,4,0,4,0.00236,0.479,0.795,0,0.19,-6.408,0.0421,0.432,114.675,90sRock
 Dammit,blink-182,Dude Ranch,165373,True,64,0,1,4,0.0017,0.426,0.972,0,0.171,-5.122,0.0954,0.341,111.221,90sRock
 Fell On Black Days,Soundgarden,Superunknown,282426,False,0,4,0,3,0.00164,0.604,0.611,0.000349,0.147,-9.484,0.0238,0.559,101.428,90sRock
-Man in the Box,Alice In Chains,Facelift,285200,True,72,8,1,4,0.00045,0.355,0.791,0,0.0969,-7.565,0.0453,0.758,106.392,90sRock
+Man in the Box,Alice In Chains,Facelift,285200,True,73,8,1,4,0.00045,0.355,0.791,0,0.0969,-7.565,0.0453,0.758,106.392,90sRock
 Laid,James,James: The Best Of,156866,False,57,0,1,4,0.0196,0.477,0.965,0.000126,0.138,-5.735,0.0361,0.642,116.251,90sRock
 Sex Type Thing,Stone Temple Pilots,Core,218293,False,54,9,1,4,1.52e-06,0.397,0.969,0.517,0.0513,-3.892,0.0463,0.702,134.288,90sRock
 Pepper,Butthole Surfers,Electriclarryland,297266,False,64,7,1,4,0.00589,0.631,0.804,0.00116,0.16,-5.492,0.166,0.671,79.898,90sRock
@@ -95,7 +95,7 @@ Possum Kingdom,Toadies,Rubberneck,308333,False,62,9,1,4,0.000772,0.643,0.726,0.0
 Good,Better Than Ezra,Deluxe,185093,False,62,7,1,4,0.000372,0.615,0.657,0.0204,0.132,-6.873,0.029,0.792,109.95,90sRock
 Where Did You Sleep Last Night,Nirvana,MTV Unplugged In New York,308306,False,0,3,1,3,0.668,0.559,0.565,0.000315,0.272,-8.534,0.0498,0.344,108.241,90sRock
 Cherub Rock - Remastered 2011,The Smashing Pumpkins,Siamese Dream (2011 - Remaster),298253,False,0,9,1,4,5.91e-06,0.382,0.867,0.581,0.196,-7.426,0.0399,0.453,87.309,90sRock
-Live Forever - Remastered,Oasis,Definitely Maybe (Remastered) [Deluxe Edition],276661,False,22,9,0,4,2.39e-05,0.104,0.794,1.46e-05,0.355,-4.353,0.0426,0.179,83.972,90sRock
+Live Forever - Remastered,Oasis,Definitely Maybe (Remastered) [Deluxe Edition],276661,False,21,9,0,4,2.39e-05,0.104,0.794,1.46e-05,0.355,-4.353,0.0426,0.179,83.972,90sRock
 Down,311,311 (Deluxe Version),172053,False,0,6,0,4,0.000165,0.44,0.935,1.77e-06,0.32,-6.304,0.0692,0.578,175.253,90sRock
 Flagpole Sitta,Harvey Danger,Where Have All The Merrymakers Gone?,217266,False,63,4,0,4,0.00152,0.361,0.901,0.000263,0.286,-4.133,0.0443,0.482,144.97,90sRock
 You,Candlebox,The Candlebox Collection,297173,True,50,11,0,3,0.00789,0.329,0.861,2.88e-06,0.0844,-5.855,0.147,0.599,195.303,90sRock

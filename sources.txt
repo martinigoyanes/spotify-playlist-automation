@@ -24,3 +24,6 @@ https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-
 
 Categorial Correlation:
 https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9
+
+Data Prep:
+https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization

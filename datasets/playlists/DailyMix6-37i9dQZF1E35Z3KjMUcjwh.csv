@@ -1,51 +1,51 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-En otra historia,Don Patricio,En otra historia,182828,False,53,1,0,4,0.581,0.529,0.636,0.0173,0.155,-6.131,0.33,0.544,92.074,DailyMix6
-El último verano,"Pole.,333.Empty",El último verano,200045,True,59,10,0,4,0.76,0.738,0.733,7.53e-06,0.15,-7.777,0.0787,0.725,105.031,DailyMix6
-Romeo y Julieta,Pedro el Flamenkito,Romeo y Julieta,283880,False,39,10,1,4,0.636,0.746,0.865,0.000113,0.373,-6.2,0.155,0.492,99.98,DailyMix6
-Nubes,DELLAFUENTE,Descanso En Poder,235244,False,45,9,0,4,0.614,0.596,0.572,0.000503,0.112,-7.144,0.131,0.532,96.957,DailyMix6
-Otra Copa,Bandaga,Otra Copa,216000,True,55,4,0,4,0.288,0.871,0.556,0.000295,0.307,-7.566,0.228,0.6,99.981,DailyMix6
-Tranquilito,"Natos y Waor,Alejandro Deese",Tranquilito,184142,True,57,9,1,4,0.0906,0.793,0.523,0,0.0737,-10.68,0.249,0.224,99.949,DailyMix6
-Millones,"Hens,Only",Millones,157500,False,40,1,1,4,0.172,0.477,0.689,0,0.305,-8.748,0.0702,0.624,127.434,DailyMix6
-Contando Lunares (feat. Cruz Cafuné),"Don Patricio,Cruz Cafuné",La Dura Vida del Joven Rapero,219666,False,71,4,0,4,0.442,0.856,0.523,0,0.0537,-10.481,0.131,0.709,105.935,DailyMix6
-Interesá´,Robledo,Interesá´,174823,False,47,5,0,4,0.324,0.729,0.847,0,0.345,-3.973,0.0397,0.46,89.992,DailyMix6
-Replay,Maikel Delacalle,Replay,217103,False,54,11,0,4,0.203,0.726,0.8,0.000175,0.107,-5.858,0.0588,0.765,109.984,DailyMix6
-HDP,Kaydy Cain,El Niño de Tus Ojos,213666,True,51,11,0,4,0.46,0.807,0.647,0,0.0937,-6.341,0.0638,0.933,89.998,DailyMix6
-Alocao (With Bad Gyal),"Omar Montes,Bad Gyal",Alocao (With Bad Gyal),209320,False,67,11,0,4,0.214,0.673,0.752,1.53e-06,0.106,-4.705,0.0567,0.699,178.005,DailyMix6
-Pa Que No Te Duermas,"DELLAFUENTE,Rels B",Descanso En Poder,177639,False,60,0,1,4,0.36,0.664,0.68,3.6e-05,0.125,-5.584,0.226,0.368,179.945,DailyMix6
-Trukitos,"Lennis Rodriguez,Denyerkin",Trukitos,166010,False,54,2,1,4,0.454,0.839,0.805,0.00628,0.0843,-3.913,0.0644,0.806,94.007,DailyMix6
-ELLA,"Borja Rubio,Jose De Las Heras,Chema Rivas",ELLA,178064,True,44,1,1,4,0.543,0.779,0.76,2.16e-05,0.141,-2.826,0.103,0.832,93.014,DailyMix6
-Merece la Pena,"Pole.,Only",Merece la Pena,194223,False,58,5,1,4,0.0592,0.592,0.822,0,0.114,-7.128,0.136,0.357,125.246,DailyMix6
-Vuelve,Air Magno,Vuelve,199687,False,51,4,1,4,0.0506,0.784,0.88,0,0.136,-3.258,0.0503,0.767,128.022,DailyMix6
-Bandida,Pole.,Bandida,188029,False,56,5,1,4,0.746,0.608,0.578,0,0.137,-8.07,0.114,0.454,116.875,DailyMix6
-Bebe,"Moncho Chavea,Omar Montes,Original Elias",Bebe,214117,False,43,0,1,4,0.0492,0.763,0.735,0,0.218,-3.908,0.19,0.503,101.844,DailyMix6
-Dañándome,"SamiThePrince,Cubanbeef,Robledo,Young Vene,Denyerkin",Dañándome,320000,False,44,9,0,4,0.13,0.798,0.662,6.69e-06,0.0978,-6.164,0.0621,0.401,96.026,DailyMix6
-Y a mi qué?,"Don Patricio,InnerCut",Y a mi qué?,181392,False,52,2,0,4,0.33,0.926,0.44,0,0.113,-8.285,0.482,0.894,139.937,DailyMix6
-Benicàssim,"Juancho Marqués,Don Patricio,InnerCut",Benicàssim,199591,False,56,5,0,4,0.183,0.748,0.572,3.46e-06,0.0666,-7.692,0.212,0.357,97.723,DailyMix6
-Venganza,"La Tentación,Sergio Contreras",Venganza,182400,False,37,0,0,4,0.486,0.698,0.958,0,0.0306,-3.158,0.158,0.815,99.993,DailyMix6
-Tu Culo Krazy,"Yung Beef,Steve Lean",A.D.R.O.M.I.C.F.M.S. 2,196048,True,36,6,0,4,0.139,0.795,0.613,0,0.0689,-9.186,0.199,0.795,90.021,DailyMix6
-34 Amor y Mafia,"JC Reyes,Camin",34 Amor y Mafia,206954,False,74,9,1,4,0.331,0.844,0.771,0,0.0893,-4.026,0.043,0.829,94.029,DailyMix6
-Romea y Julieto,DELLAFUENTE,Romea y Julieto,189985,False,46,1,1,4,0.285,0.786,0.678,2.21e-06,0.0499,-7.106,0.217,0.572,83.942,DailyMix6
-No Ves Que Es un Sueño?,Don Patricio,La Dura Vida del Joven Rapero,256418,True,43,8,0,4,0.581,0.539,0.304,1.45e-06,0.134,-10.564,0.315,0.178,119.741,DailyMix6
-Adrenalina,"Pole.,333.Empty",Adrenalina,219742,True,52,11,1,4,0.67,0.666,0.554,0.00025,0.0631,-10.353,0.0325,0.414,130.052,DailyMix6
-Pa toda la vida (feat. Mozart La Para),"Don Patricio,Mozart La Para",Pa toda la vida (feat. Mozart La Para),212330,False,69,2,1,4,0.218,0.692,0.639,3.91e-05,0.147,-5.336,0.228,0.511,98.461,DailyMix6
+Porrito en París,Don Patricio,La Dura Vida del Joven Rapero,299971,True,46,5,0,4,0.242,0.827,0.486,0,0.119,-10.057,0.0368,0.677,116.02,DailyMix6
+Romeo y Julieta,Pedro el Flamenkito,Romeo y Julieta,283880,False,38,10,1,4,0.636,0.746,0.865,0.000113,0.373,-6.2,0.155,0.492,99.98,DailyMix6
+Jóvenes to Locos,Funzo & Baby Loud,Jóvenes to Locos,161442,False,53,4,1,4,0.558,0.511,0.772,0,0.267,-5.551,0.115,0.612,163.061,DailyMix6
 Quédate conmigo,"Pole.,Pilar Moxó",Quédate conmigo,216032,False,0,1,1,4,0.676,0.58,0.715,0,0.244,-4.735,0.0394,0.464,145.917,DailyMix6
-Te Sale,Lennis Rodriguez,Te Sale,180009,False,57,4,0,4,0.0172,0.875,0.686,0.00195,0.0759,-5.546,0.152,0.311,97.023,DailyMix6
-L'Arena,Xriz,L'Arena,169142,False,32,7,1,4,0.00783,0.741,0.714,0,0.257,-7.564,0.0643,0.551,104.962,DailyMix6
-Si Te Beso (Remix),"Borja Rubio,Juan Magán,Moncho Chavea",Si Te Beso (Remix),206086,False,52,8,1,4,0.106,0.803,0.804,0,0.225,-3.953,0.142,0.687,92.012,DailyMix6
-Consentia,DELLAFUENTE,Consentia,201340,False,55,6,0,4,0.541,0.496,0.679,0,0.105,-7.835,0.106,0.298,104.054,DailyMix6
-Si Tú Me Quisieras,"Maikel Delacalle,Eladio Carrion",Si Tú Me Quisieras,167894,False,41,6,0,4,0.117,0.635,0.678,2.41e-05,0.0892,-6.012,0.0931,0.346,177.919,DailyMix6
-Dime Bbsita,"Robledo,Alex Martini",Dime Bbsita,174196,False,61,5,1,4,0.0766,0.813,0.544,0,0.371,-8.884,0.0577,0.707,95.019,DailyMix6
-Lo Siento,"Kaydy Cain,Maikel Delacalle,Steve Lean",Calle Amor,218895,False,53,7,0,4,0.415,0.851,0.556,0,0.0983,-5.673,0.0479,0.272,124.922,DailyMix6
-Como el Agua,Omar Montes,La Vida Mártir,240933,False,45,2,1,4,0.67,0.706,0.573,0,0.0556,-6.237,0.101,0.506,149.67,DailyMix6
+Dime Bbsita Remix,"Robledo,Ovy On The Drums,Lalo Ebratt,Omar Montes,Alex Martini",Dime Bbsita Remix,197997,False,64,0,1,4,0.122,0.8,0.73,0,0.548,-2.051,0.0917,0.774,94.932,DailyMix6
 Como no te voy a querer,"JdM,Galvan Real,Dr. López",Como no te voy a querer,228223,False,52,8,1,4,0.303,0.747,0.903,5.32e-06,0.313,-4.477,0.0568,0.849,95.013,DailyMix6
-Quiero Pensar,"León Bravo,Galvan Real",Quiero Pensar,202718,False,54,10,0,4,0.287,0.764,0.845,3.53e-05,0.108,-7.245,0.0597,0.315,102.923,DailyMix6
-Apriétala,"Rvfv,Pablo Mas",Apriétala,145043,True,51,8,1,4,0.181,0.897,0.683,0.000503,0.0483,-6.172,0.056,0.68,124.96,DailyMix6
-蓝,DELLAFUENTE,蓝,169900,False,53,5,1,3,0.801,0.507,0.385,0,0.109,-11.732,0.105,0.0723,97.202,DailyMix6
+Consentia,DELLAFUENTE,Consentia,201351,False,0,6,0,4,0.537,0.737,0.671,0,0.107,-7.755,0.0614,0.313,105.041,DailyMix6
+Replay,Maikel Delacalle,Replay,217103,False,54,11,0,4,0.203,0.726,0.8,0.000175,0.107,-5.858,0.0588,0.765,109.984,DailyMix6
+Alocao (With Bad Gyal),"Omar Montes,Bad Gyal",Alocao (With Bad Gyal),209320,False,67,11,0,4,0.214,0.673,0.752,1.53e-06,0.106,-4.705,0.0567,0.699,178.005,DailyMix6
+Si te preguntan,Pole.,Si te preguntan,146023,False,52,1,1,4,0.014,0.684,0.547,0,0.0866,-8.336,0.0459,0.557,129.938,DailyMix6
+El Momento Perfecto,La La Love You,La la Love You,168120,False,39,10,1,4,0.0888,0.441,0.877,4.05e-06,0.0782,-3.847,0.0418,0.636,174.992,DailyMix6
+El Final,Juanfran,El Final,159975,False,63,8,1,4,0.312,0.677,0.596,0,0.103,-10.036,0.121,0.306,172.015,DailyMix6
+Suave - Remix,"Jey Blessing,Rauw Alejandro,Los Fantastikos",Suave (Remix),203000,False,63,10,1,4,0.557,0.673,0.694,0,0.118,-4.01,0.166,0.78,175.912,DailyMix6
+Con Los Míos,"Love Yi,Delarue,Naes Beats",Con Los Míos,185880,False,56,4,0,4,0.587,0.768,0.684,0.00463,0.187,-6.082,0.079,0.408,115.02,DailyMix6
+Poca Suerte,Funzo & Baby Loud,Poca Suerte,238461,False,58,8,0,4,0.356,0.737,0.513,0,0.177,-6.978,0.0519,0.271,156.05,DailyMix6
+Como vas?,Kidd Keo,BACK TO ROCKPORT,160266,True,61,10,1,4,0.0918,0.886,0.57,0,0.214,-7.841,0.175,0.805,144.017,DailyMix6
 Comunicado de prensa,Don Patricio,Comunicado de prensa,183637,False,46,8,1,4,0.789,0.843,0.53,4.39e-05,0.25,-6.304,0.106,0.667,96.027,DailyMix6
-Amorfina,Marlon,Amorfina,179304,False,53,6,1,4,0.639,0.669,0.308,0,0.28,-8.829,0.0726,0.318,79.619,DailyMix6
-Menos Mal,Pole.,Menos Mal,178037,False,58,1,1,4,0.102,0.793,0.554,0,0.112,-11.11,0.12,0.489,110.09,DailyMix6
-Voy Detrás de Ti,"José Antonio León,Dr. Bellido",Voy Detrás de Ti,207157,False,37,11,1,4,0.105,0.822,0.847,0,0.165,-7.83,0.232,0.815,94.985,DailyMix6
-Roma,Pole.,Roma,220029,True,64,4,1,4,0.678,0.62,0.655,0,0.217,-7.946,0.0505,0.202,93.983,DailyMix6
+Carmela,Sami Duque,Carmela,181890,False,52,0,0,4,0.302,0.675,0.622,1.16e-06,0.176,-6.966,0.251,0.725,180.124,DailyMix6
+Malibú con Piña,Funzo & Baby Loud,Malibú con Piña,167999,False,61,11,0,4,0.359,0.642,0.705,0,0.16,-6.514,0.0409,0.681,96.411,DailyMix6
+Casa de Papel,El Jhota,Casa de Papel,218571,False,48,5,0,4,0.146,0.813,0.915,0,0.0664,-3.876,0.385,0.66,112.02,DailyMix6
+Apriétala,"Rvfv,Pablo Mas",Apriétala,145043,True,51,8,1,4,0.181,0.897,0.683,0.000503,0.0483,-6.172,0.056,0.68,124.96,DailyMix6
+ELLA,"Borja Rubio,Jose De Las Heras,Chema Rivas",ELLA,178064,True,44,1,1,4,0.543,0.779,0.76,2.16e-05,0.141,-2.826,0.103,0.832,93.014,DailyMix6
+¿Entonces?,"Robledo,Cubanbeef",¿Entonces?,200000,False,52,0,0,4,0.43,0.765,0.485,0.0136,0.104,-12.122,0.169,0.508,96.065,DailyMix6
 22:23,Don Patricio,22:23,201818,False,49,6,0,4,0.036,0.772,0.821,0.000231,0.0888,-4.889,0.326,0.55,175.818,DailyMix6
-Solterita De Oro,"Lérica,Gente De Zona,Leslie Shaw",Solterita De Oro,203251,False,52,9,0,4,0.271,0.706,0.898,0,0.281,-2.703,0.0786,0.911,91.026,DailyMix6
+Yo Quiero Saber,"La Puri,La Cebolla",Yo Quiero Saber,195499,False,47,4,0,4,0.48,0.773,0.594,2.69e-05,0.153,-5.058,0.135,0.558,100.009,DailyMix6
+Quiero Pensar,"León Bravo,Galvan Real",Quiero Pensar,202718,False,54,10,0,4,0.287,0.764,0.845,3.53e-05,0.108,-7.245,0.0597,0.315,102.923,DailyMix6
+Ojalá Te Vaya Bien,Funzo & Baby Loud,Ojalá Te Vaya Bien,158945,False,53,7,0,4,0.517,0.684,0.599,0,0.115,-7.009,0.0333,0.387,94.008,DailyMix6
+Y a mi qué?,"Don Patricio,InnerCut",Y a mi qué?,181392,False,52,2,0,4,0.33,0.926,0.44,0,0.113,-8.285,0.482,0.894,139.937,DailyMix6
+Roma,Pole.,Roma,220029,True,64,4,1,4,0.678,0.62,0.655,0,0.217,-7.946,0.0505,0.202,93.983,DailyMix6
+Open The Door,"Bad Gyal,Govana,Dj Papis",Open The Door,223600,False,50,8,1,4,0.0783,0.735,0.846,0,0.139,-4.843,0.208,0.478,99.938,DailyMix6
+El último verano,"Pole.,333.Empty",El último verano,200045,True,59,10,0,4,0.76,0.738,0.733,7.53e-06,0.15,-7.777,0.0787,0.725,105.031,DailyMix6
+Como Llora,Juanfran,Como Llora,187500,False,77,6,0,4,0.183,0.827,0.629,0,0.084,-3.966,0.185,0.486,88.064,DailyMix6
+Touchdown,"Kidd Keo,Aleman",Touchdown,193500,True,62,6,0,4,0.468,0.785,0.675,0,0.349,-6.404,0.221,0.569,159.911,DailyMix6
+Si Tú Me Quisieras,"Maikel Delacalle,Eladio Carrion",Si Tú Me Quisieras,167894,False,41,6,0,4,0.117,0.635,0.678,2.41e-05,0.0892,-6.012,0.0931,0.346,177.919,DailyMix6
+Relax,Paulo Londra,Relax,233142,False,60,1,0,4,0.786,0.832,0.348,2.65e-05,0.104,-13.025,0.367,0.546,112.969,DailyMix6
+No Ves Que Es un Sueño?,Don Patricio,La Dura Vida del Joven Rapero,256418,True,43,8,0,4,0.581,0.539,0.304,1.45e-06,0.134,-10.564,0.315,0.178,119.741,DailyMix6
+Qué Bonito Fue,Funzo & Baby Loud,Qué Bonito Fue,201459,False,61,5,1,4,0.71,0.669,0.556,0,0.106,-6.532,0.0314,0.465,136.931,DailyMix6
+Dime Bbsita,"Robledo,Alex Martini",Dime Bbsita,174196,False,61,5,1,4,0.0766,0.813,0.544,0,0.371,-8.884,0.0577,0.707,95.019,DailyMix6
+Jóvenes no tan Locos,Funzo & Baby Loud,Jóvenes no tan Locos,178578,False,59,3,1,4,0.634,0.546,0.451,0,0.134,-8.083,0.0917,0.639,160.11,DailyMix6
+Adrenalina,"Pole.,333.Empty",Adrenalina,219742,True,52,11,1,4,0.67,0.666,0.554,0.00025,0.0631,-10.353,0.0325,0.414,130.052,DailyMix6
+La Moet - Remix,"La Nueva Escuela,Lirico En La Casa,Beza Flow,Galien La Moyeta",La Moet (Remix),238968,False,38,1,0,4,0.0302,0.903,0.817,0,0.164,-3.89,0.12,0.919,117.986,DailyMix6
+Contando Lunares (feat. Cruz Cafuné),"Don Patricio,Cruz Cafuné",La Dura Vida del Joven Rapero,219666,False,71,4,0,4,0.442,0.856,0.523,0,0.0537,-10.481,0.131,0.709,105.935,DailyMix6
+Mi Planta,"El Yman,Ñengo Flow",Mi Planta,222979,True,47,1,1,4,0.427,0.667,0.734,0,0.104,-3.873,0.293,0.534,110.005,DailyMix6
+HDP,Kaydy Cain,El Niño de Tus Ojos,213666,True,51,11,0,4,0.46,0.807,0.647,0,0.0937,-6.341,0.0638,0.933,89.998,DailyMix6
+34 Amor y Mafia,"JC Reyes,Camin",34 Amor y Mafia,206954,False,73,9,1,4,0.331,0.844,0.771,0,0.0893,-4.026,0.043,0.829,94.029,DailyMix6
+En otra historia,Don Patricio,En otra historia,182828,False,53,1,0,4,0.581,0.529,0.636,0.0173,0.155,-6.131,0.33,0.544,92.074,DailyMix6
+Cupido,Air Magno,Cupido,155604,False,55,4,1,4,0.93,0.732,0.413,2.03e-05,0.071,-9.269,0.0525,0.541,90.959,DailyMix6
 Qué Le Voy a Hacer,Skechi Kid,Qué Le Voy a Hacer,231176,False,74,9,1,4,0.526,0.794,0.664,0,0.118,-7.599,0.146,0.863,101.963,DailyMix6
+Huella (feat. Pitizion),"Arce,Pitizion",Pedigrí,188219,True,49,0,1,4,0.0953,0.771,0.681,0,0.119,-7.336,0.297,0.587,146.116,DailyMix6
+Bobo,Morad,Bobo,215314,False,65,3,0,4,0.032,0.746,0.865,9.62e-05,0.105,-3.672,0.0508,0.511,126.966,DailyMix6

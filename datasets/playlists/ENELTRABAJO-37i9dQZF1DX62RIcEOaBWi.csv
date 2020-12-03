@@ -1,81 +1,81 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
+Mil Tequilas,Chema Rivas,Mil Tequilas,255450,False,8,1,1,4,0.226,0.698,0.77,0,0.0957,-3.937,0.132,0.288,100.102,EnElTrabajo
 Cuando Éramos Dos,"Sinsinati,Álvaro De Luna",Cuando Éramos Dos,205059,False,67,6,0,4,0.135,0.56,0.589,0,0.109,-5.612,0.0419,0.712,100.04,EnElTrabajo
-Mil Tequilas,Chema Rivas,Mil Tequilas,255450,False,9,1,1,4,0.226,0.698,0.77,0,0.0957,-3.937,0.132,0.288,100.102,EnElTrabajo
 Quédate conmigo,"Pole.,Pilar Moxó",Quédate conmigo,216032,False,0,1,1,4,0.676,0.58,0.715,0,0.244,-4.735,0.0394,0.464,145.917,EnElTrabajo
-Caramelo,Ozuna,Caramelo,217546,False,86,6,1,4,0.0531,0.728,0.806,0.000301,0.153,-3.766,0.0623,0.698,168.084,EnElTrabajo
 Bailemos,Dani Fernández,Incendios,210468,False,66,1,1,4,0.0616,0.649,0.555,3.45e-06,0.0874,-4.655,0.0292,0.607,128.009,EnElTrabajo
 El Manual,Anuel AA,Emmanuel,210623,False,77,0,1,4,0.35,0.843,0.845,0.00168,0.0527,-2.344,0.0503,0.898,126.989,EnElTrabajo
 Carita de Inocente (feat. Myke Towers) - Remix,"Prince Royce,Myke Towers",Carita de Inocente (feat. Myke Towers) [Remix],192698,False,78,10,0,4,0.364,0.565,0.781,0,0.0984,-3.358,0.061,0.943,129.959,EnElTrabajo
+Caramelo,Ozuna,Caramelo,217546,False,86,6,1,4,0.0531,0.728,0.806,0.000301,0.153,-3.766,0.0623,0.698,168.084,EnElTrabajo
 Aún me amas,Beret,Aún me amas,220000,False,67,5,1,4,0.272,0.478,0.591,0,0.107,-7.278,0.0377,0.466,78.121,EnElTrabajo
-Mi Religión,Nil Moliner,Mi Religión,191379,False,63,5,1,4,0.267,0.851,0.729,1.21e-06,0.197,-5.046,0.0275,0.973,106.011,EnElTrabajo
 TBT,"Sebastian Yatra,Rauw Alejandro,Manuel Turizo",TBT,239133,False,76,2,1,4,0.0362,0.794,0.855,0,0.142,-1.959,0.0466,0.639,91.963,EnElTrabajo
-Mi Pequeño Chernóbil,Leiva,Mi Pequeño Chernóbil,260030,False,56,7,1,4,0.00538,0.509,0.669,0.00494,0.107,-7.763,0.0423,0.305,131.846,EnElTrabajo
-Djadja (feat. Maluma) - Remix,"Aya Nakamura,Maluma",Djadja (feat. Maluma) [Remix],166850,False,84,5,1,4,0.175,0.791,0.682,0,0.0926,-7.328,0.158,0.672,98.031,EnElTrabajo
-Sueño (con Pablo Alborán),"Beret,Pablo Alborán",Prisma,185482,False,70,8,0,4,0.372,0.667,0.613,0,0.174,-5.604,0.0412,0.54,105.064,EnElTrabajo
-Pa toda la vida (feat. Mozart La Para),"Don Patricio,Mozart La Para",Pa toda la vida (feat. Mozart La Para),212330,False,69,2,1,4,0.218,0.692,0.639,3.91e-05,0.147,-5.336,0.228,0.511,98.461,EnElTrabajo
 Soldadito de Hierro,Nil Moliner,Soldadito de Hierro,142964,False,59,9,1,4,0.87,0.716,0.344,0,0.0945,-7.528,0.14,0.412,81.86,EnElTrabajo
-Relación,Sech,Relación,184254,False,47,7,0,4,0.125,0.805,0.562,4.96e-06,0.148,-3.117,0.105,0.767,172.094,EnElTrabajo
-Me Vale,Miki Núñez,Me Vale,195538,False,64,9,1,4,0.00145,0.525,0.782,0,0.0778,-4.158,0.0619,0.738,159.926,EnElTrabajo
+Pa toda la vida (feat. Mozart La Para),"Don Patricio,Mozart La Para",Pa toda la vida (feat. Mozart La Para),212330,False,68,2,1,4,0.218,0.692,0.639,3.91e-05,0.147,-5.336,0.228,0.511,98.461,EnElTrabajo
+Favorito,Camilo,Favorito,211613,False,80,9,1,4,0.229,0.611,0.851,0,0.232,-2.982,0.0598,0.823,178.032,EnElTrabajo
+Djadja (feat. Maluma) - Remix,"Aya Nakamura,Maluma",Djadja (feat. Maluma) [Remix],166850,False,84,5,1,4,0.175,0.791,0.682,0,0.0926,-7.328,0.158,0.672,98.031,EnElTrabajo
+Mi Pequeño Chernóbil,Leiva,Mi Pequeño Chernóbil,260030,False,56,7,1,4,0.00538,0.509,0.669,0.00494,0.107,-7.763,0.0423,0.305,131.846,EnElTrabajo
+Un Planeta Llamado Nosotros,Maldita Nerea,Un Planeta Llamado Nosotros,225920,False,0,10,1,4,0.176,0.659,0.544,0,0.0919,-7.053,0.0589,0.826,100.932,EnElTrabajo
+Sueño (con Pablo Alborán),"Beret,Pablo Alborán",Prisma,185482,False,70,8,0,4,0.372,0.667,0.613,0,0.174,-5.604,0.0412,0.54,105.064,EnElTrabajo
+Quiéreme Mientras Se Pueda,Manuel Turizo,Quiéreme Mientras Se Pueda,191945,False,85,4,1,4,0.447,0.793,0.782,0,0.124,-3.945,0.0582,0.81,143.86,EnElTrabajo
+Mi Religión,Nil Moliner,Mi Religión,191379,False,63,5,1,4,0.267,0.851,0.729,1.21e-06,0.197,-5.046,0.0275,0.973,106.011,EnElTrabajo
 Indios y Vaqueros,"Sinsinati,Álvaro De Luna",Indios y Vaqueros,184000,False,66,8,1,4,0.0607,0.606,0.797,0,0.366,-6.23,0.0702,0.851,100.015,EnElTrabajo
 El Mismo Aire - con Pablo Alborán,"Camilo,Pablo Alborán",El Mismo Aire (con Pablo Alborán),188213,False,83,0,0,4,0.603,0.483,0.492,0,0.323,-6.591,0.295,0.66,144.511,EnElTrabajo
-Bailando,Nil Moliner,Bailando,213666,False,58,0,1,4,0.132,0.718,0.742,0,0.298,-5.761,0.0467,0.944,140.055,EnElTrabajo
-Quiéreme Mientras Se Pueda,Manuel Turizo,Quiéreme Mientras Se Pueda,191945,False,85,4,1,4,0.447,0.793,0.782,0,0.124,-3.945,0.0582,0.81,143.86,EnElTrabajo
-La Jeepeta - Remix,"Nio Garcia,Anuel AA,Myke Towers,Brray,Juanka",La Jeepeta (Remix),345240,True,86,4,0,4,0.3,0.815,0.715,4.83e-06,0.091,-4.65,0.207,0.786,176.007,EnElTrabajo
-Un Planeta Llamado Nosotros,Maldita Nerea,Un Planeta Llamado Nosotros,225920,False,0,10,1,4,0.176,0.659,0.544,0,0.0919,-7.053,0.0589,0.826,100.932,EnElTrabajo
-Favorito,Camilo,Favorito,211613,False,80,9,1,4,0.229,0.611,0.851,0,0.232,-2.982,0.0598,0.823,178.032,EnElTrabajo
-Si por mi fuera,Beret,Prisma,208824,False,63,2,1,4,0.0271,0.701,0.75,0,0.102,-5.717,0.0316,0.876,150.078,EnElTrabajo
+Relación,Sech,Relación,184254,False,47,7,0,4,0.125,0.805,0.562,4.96e-06,0.148,-3.117,0.105,0.767,172.094,EnElTrabajo
 Bajo La Mesa,"Morat,Sebastian Yatra",Bajo La Mesa,157080,False,75,6,0,4,0.238,0.716,0.624,0,0.128,-5.398,0.0739,0.783,90.983,EnElTrabajo
-Flamenkito,"Lérica,Belinda",Flamenkito,202153,False,70,0,1,4,0.0877,0.73,0.714,0,0.117,-2.979,0.107,0.924,94.896,EnElTrabajo
-Besos,El Canto Del Loco,Zapatillas,145826,False,61,10,1,4,0.00679,0.576,0.909,4.42e-06,0.134,-3.306,0.0523,0.544,104.971,EnElTrabajo
-Hasta Que Dios Diga,"Anuel AA,Bad Bunny",Emmanuel,246000,True,85,8,1,4,0.464,0.691,0.765,3.29e-06,0.203,-4.727,0.111,0.855,174.021,EnElTrabajo
-"Quiero, Quiero y Quiero",Arnau Griso,"Quiero, Quiero y Quiero",205933,False,58,6,1,4,0.0993,0.771,0.748,0,0.105,-5.18,0.033,0.774,107.954,EnElTrabajo
-Gentleman,Cepeda,Gentleman,221397,False,57,7,0,4,0.00437,0.606,0.921,0,0.111,-3.722,0.0327,0.77,108.011,EnElTrabajo
 +,"Aitana,Cali Y El Dandee",+,219367,False,74,8,1,4,0.106,0.561,0.666,0,0.123,-4.243,0.0322,0.675,160.019,EnElTrabajo
-La Bella y la Bestia,"Reik,Morat",La Bella y la Bestia,186359,False,76,8,1,4,0.0254,0.625,0.759,0,0.114,-4.861,0.0592,0.566,89.951,EnElTrabajo
+Si por mi fuera,Beret,Prisma,208824,False,63,2,1,4,0.0271,0.701,0.75,0,0.102,-5.717,0.0316,0.876,150.078,EnElTrabajo
+"Quiero, Quiero y Quiero",Arnau Griso,"Quiero, Quiero y Quiero",205933,False,58,6,1,4,0.0993,0.771,0.748,0,0.105,-5.18,0.033,0.774,107.954,EnElTrabajo
+Bailando,Nil Moliner,Bailando,213666,False,58,0,1,4,0.132,0.718,0.742,0,0.298,-5.761,0.0467,0.944,140.055,EnElTrabajo
+Gentleman,Cepeda,Gentleman,221397,False,57,7,0,4,0.00437,0.606,0.921,0,0.111,-3.722,0.0327,0.77,108.011,EnElTrabajo
+Hasta Que Dios Diga,"Anuel AA,Bad Bunny",Emmanuel,246000,True,85,8,1,4,0.464,0.691,0.765,3.29e-06,0.203,-4.727,0.111,0.855,174.021,EnElTrabajo
+Me Vale,Miki Núñez,Me Vale,195538,False,63,9,1,4,0.00145,0.525,0.782,0,0.0778,-4.158,0.0619,0.738,159.926,EnElTrabajo
+Flamenkito,"Lérica,Belinda",Flamenkito,202153,False,70,0,1,4,0.0877,0.73,0.714,0,0.117,-2.979,0.107,0.924,94.896,EnElTrabajo
+Locura,"Cali Y El Dandee,Sebastian Yatra",Colegio,209026,False,77,8,1,4,0.0858,0.643,0.769,0,0.205,-3.533,0.0877,0.532,185.669,EnElTrabajo
+Nunca Te Olvidé,Morat,Nunca Te Olvidé,211970,False,68,6,1,4,0.0521,0.564,0.83,0,0.069,-4.46,0.0477,0.832,93.787,EnElTrabajo
+Si Me Dices Que Sí,"Reik,Farruko,Camilo",Si Me Dices Que Sí,211651,False,82,8,0,4,0.00473,0.578,0.634,0,0.132,-5.979,0.333,0.216,183.89,EnElTrabajo
+Besos,El Canto Del Loco,Zapatillas,145826,False,61,10,1,4,0.00679,0.576,0.909,4.42e-06,0.134,-3.306,0.0523,0.544,104.971,EnElTrabajo
+Si Tú La Quieres,"David Bisbal,Aitana",Si Tú La Quieres,224761,False,75,0,0,4,0.147,0.748,0.778,1.57e-06,0.093,-4.582,0.0685,0.607,100.053,EnElTrabajo
+La Jeepeta - Remix,"Nio Garcia,Anuel AA,Myke Towers,Brray,Juanka",La Jeepeta (Remix),345240,True,86,4,0,4,0.3,0.815,0.715,4.83e-06,0.091,-4.65,0.207,0.786,176.007,EnElTrabajo
+Se iluminaba,"Fred De Palma,Ana Mena",Se iluminaba,174291,False,0,0,0,4,0.0811,0.791,0.693,0,0.0708,-4.98,0.0639,0.624,123.923,EnElTrabajo
 De Tranquilote,"Danny Romero,Lérica",De Tranquilote,177208,False,64,2,1,4,0.105,0.682,0.669,0,0.071,-7.15,0.0951,0.889,79.929,EnElTrabajo
 Física o química,Despistaos,Lo que hemos vivido,191853,False,59,7,1,4,0.0559,0.624,0.897,0,0.377,-3.824,0.0508,0.963,100.007,EnElTrabajo
-Se iluminaba,"Fred De Palma,Ana Mena",Se iluminaba,174291,False,0,0,0,4,0.0811,0.791,0.693,0,0.0708,-4.98,0.0639,0.624,123.923,EnElTrabajo
-Locura,"Cali Y El Dandee,Sebastian Yatra",Colegio,209026,False,77,8,1,4,0.0858,0.643,0.769,0,0.205,-3.533,0.0877,0.532,185.669,EnElTrabajo
-Si Me Dices Que Sí,"Reik,Farruko,Camilo",Si Me Dices Que Sí,211651,False,82,8,0,4,0.00473,0.578,0.634,0,0.132,-5.979,0.333,0.216,183.89,EnElTrabajo
-Nunca Te Olvidé,Morat,Nunca Te Olvidé,211970,False,68,6,1,4,0.0521,0.564,0.83,0,0.069,-4.46,0.0477,0.832,93.787,EnElTrabajo
-Si Tú La Quieres,"David Bisbal,Aitana",Si Tú La Quieres,224761,False,75,0,0,4,0.147,0.748,0.778,1.57e-06,0.093,-4.582,0.0685,0.607,100.053,EnElTrabajo
-Princesas,Pereza,Animales,217000,False,64,7,1,4,0.0634,0.683,0.846,0,0.346,-3.551,0.0422,0.706,131.884,EnElTrabajo
+A Dónde Vamos,Morat,A Dónde Vamos,203102,False,69,0,1,4,0.00677,0.627,0.608,0,0.233,-12.914,0.0364,0.955,149.029,EnElTrabajo
+Cosas de la Edad,Modestia Aparte,Cosas de la Edad,173081,False,47,4,0,4,0.0364,0.558,0.908,1.56e-06,0.0618,-11.133,0.0502,0.694,102.685,EnElTrabajo
+Borracho De Amor,"Cali Y El Dandee,Reik",Borracho De Amor,175706,False,64,9,1,4,0.0511,0.527,0.771,0,0.0948,-2.178,0.0634,0.857,92.746,EnElTrabajo
 Fuego,Estopa,Fuego,193260,False,59,9,0,4,0.049,0.669,0.85,0,0.369,-4.895,0.0763,0.845,100.103,EnElTrabajo
 PAM,"Justin Quiles,Daddy Yankee,El Alfa",PAM,201000,True,80,11,1,4,0.289,0.889,0.863,0.000603,0.0798,-3.011,0.0757,0.776,112.953,EnElTrabajo
-A Dónde Vamos,Morat,A Dónde Vamos,203102,False,69,0,1,4,0.00677,0.627,0.608,0,0.233,-12.914,0.0364,0.955,149.029,EnElTrabajo
-Enemigos,"Aitana,Reik",Enemigos,197393,False,68,1,0,4,0.0502,0.713,0.79,0,0.172,-3.609,0.146,0.702,89.997,EnElTrabajo
-Cosas de la Edad,Modestia Aparte,Cosas de la Edad,173081,False,47,4,0,4,0.0364,0.558,0.908,1.56e-06,0.0618,-11.133,0.0502,0.694,102.685,EnElTrabajo
-Caminando por la vida,Melendi,Que El Cielo Espere Sentao..,211680,False,63,5,1,4,0.0148,0.695,0.958,7.16e-06,0.154,-3.778,0.0827,0.711,108.054,EnElTrabajo
-Tutu,"Camilo,Pedro Capó",Tutu,178613,False,77,9,1,4,0.273,0.731,0.832,0,0.0665,-2.592,0.0503,0.94,146.013,EnElTrabajo
-Qué Bonito Es Querer,Manuel Carrasco,La Cruz Del Mapa,270187,False,67,11,1,4,0.6,0.609,0.718,0,0.082,-7.177,0.045,0.426,93.94,EnElTrabajo
-"Marta, Sebas, Guille y los demás",Amaral,Pájaros En La Cabeza,223186,False,61,2,1,4,0.269,0.598,0.853,0,0.112,-4.559,0.0506,0.66,102.473,EnElTrabajo
-Antes Que Ver El Sol - Con Dani (El Canto Del Loco),Coti,Coti,221626,False,58,9,1,4,0.0832,0.678,0.69,0,0.167,-7.496,0.0312,0.887,134.04,EnElTrabajo
-Borracho De Amor,"Cali Y El Dandee,Reik",Borracho De Amor,175706,False,64,9,1,4,0.0511,0.527,0.771,0,0.0948,-2.178,0.0634,0.857,92.746,EnElTrabajo
-Disparos,Dani Fernández,Disparos - EP,230723,False,48,9,1,4,0.0622,0.587,0.847,1.25e-05,0.111,-5.51,0.0389,0.754,152.103,EnElTrabajo
-Insoportable,El Canto Del Loco,Estados de Animo,248720,False,58,9,1,4,0.0119,0.615,0.763,0,0.0648,-4.142,0.0294,0.426,131.022,EnElTrabajo
-China,"Anuel AA,Daddy Yankee,KAROL G,J Balvin,Ozuna",China,301714,False,80,7,1,4,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,0.609,105.027,EnElTrabajo
-La Mentira (feat. Joaquín Sabina),"Dani Martín,Joaquín Sabina",La Mentira (feat. Joaquín Sabina),177240,False,58,6,0,4,0.0136,0.627,0.803,0,0.0734,-2.957,0.137,0.901,169.959,EnElTrabajo
-"Yo x Ti, Tu x Mi","ROSALÍA,Ozuna","Yo x Ti, Tu x Mi",201040,False,77,1,1,4,0.462,0.78,0.759,0.000868,0.143,-3.292,0.225,0.579,91.952,EnElTrabajo
 Me llama,Beret,Me llama,211180,False,56,1,1,4,0.175,0.682,0.55,0,0.116,-5.91,0.105,0.271,90.727,EnElTrabajo
-Ya Nada Volvera a Ser Como Antes,El Canto Del Loco,Estados de Animo,175866,False,53,8,1,4,0.0819,0.644,0.784,0,0.0765,-4.577,0.0286,0.918,132.028,EnElTrabajo
+Antes Que Ver El Sol - Con Dani (El Canto Del Loco),Coti,Coti,221626,False,58,9,1,4,0.0832,0.678,0.69,0,0.167,-7.496,0.0312,0.887,134.04,EnElTrabajo
+Tutu,"Camilo,Pedro Capó",Tutu,178613,False,77,9,1,4,0.273,0.731,0.832,0,0.0665,-2.592,0.0503,0.94,146.013,EnElTrabajo
+Caminando por la vida,Melendi,Que El Cielo Espere Sentao..,211680,False,63,5,1,4,0.0148,0.695,0.958,7.16e-06,0.154,-3.778,0.0827,0.711,108.054,EnElTrabajo
+Disparos,Dani Fernández,Disparos - EP,230723,False,48,9,1,4,0.0622,0.587,0.847,1.25e-05,0.111,-5.51,0.0389,0.754,152.103,EnElTrabajo
+La Bella y la Bestia,"Reik,Morat",La Bella y la Bestia,186359,False,76,8,1,4,0.0254,0.625,0.759,0,0.114,-4.861,0.0592,0.566,89.951,EnElTrabajo
+Princesas,Pereza,Animales,217000,False,64,7,1,4,0.0634,0.683,0.846,0,0.346,-3.551,0.0422,0.706,131.884,EnElTrabajo
+China,"Anuel AA,Daddy Yankee,KAROL G,J Balvin,Ozuna",China,301714,False,80,7,1,4,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,0.609,105.027,EnElTrabajo
+Qué Bonito Es Querer,Manuel Carrasco,La Cruz Del Mapa,270187,False,67,11,1,4,0.6,0.609,0.718,0,0.082,-7.177,0.045,0.426,93.94,EnElTrabajo
 Con La Miel En Los Labios,Aitana,Con La Miel En Los Labios,202446,False,56,6,1,3,0.869,0.662,0.331,0,0.114,-8.35,0.0407,0.432,113.779,EnElTrabajo
-Ahora Dime,Sofia Ellar,Ahora Dime,194031,False,47,0,1,4,0.507,0.654,0.716,7.88e-06,0.221,-6.551,0.0386,0.794,95.783,EnElTrabajo
-Nada Fue Un Error,Coti,Coti,208200,False,66,9,1,4,0.0831,0.622,0.818,0,0.31,-6.784,0.0327,0.849,138.495,EnElTrabajo
 Cuando estés aquí,Pablo Alborán,Cuando estés aquí,190219,False,61,11,0,3,0.84,0.46,0.488,0,0.197,-6.391,0.0491,0.249,89.1,EnElTrabajo
+"Marta, Sebas, Guille y los demás",Amaral,Pájaros En La Cabeza,223186,False,61,2,1,4,0.269,0.598,0.853,0,0.112,-4.559,0.0506,0.66,102.473,EnElTrabajo
+La Mentira (feat. Joaquín Sabina),"Dani Martín,Joaquín Sabina",La Mentira (feat. Joaquín Sabina),177240,False,58,6,0,4,0.0136,0.627,0.803,0,0.0734,-2.957,0.137,0.901,169.959,EnElTrabajo
+Nada Fue Un Error,Coti,Coti,208200,False,66,9,1,4,0.0831,0.622,0.818,0,0.31,-6.784,0.0327,0.849,138.495,EnElTrabajo
+Insoportable,El Canto Del Loco,Estados de Animo,248720,False,58,9,1,4,0.0119,0.615,0.763,0,0.0648,-4.142,0.0294,0.426,131.022,EnElTrabajo
+"Yo x Ti, Tu x Mi","ROSALÍA,Ozuna","Yo x Ti, Tu x Mi",201040,False,77,1,1,4,0.462,0.78,0.759,0.000868,0.143,-3.292,0.225,0.579,91.952,EnElTrabajo
 Celébrate,Miki Núñez,Celébrate,219997,False,46,7,1,4,0.125,0.633,0.745,0,0.08,-4.091,0.0595,0.792,172.115,EnElTrabajo
-Fuera De Mi Mente,"Lérica,Juan Magán",Fuera De Mi Mente,181433,False,64,1,1,4,0.169,0.741,0.94,0,0.0542,-2.068,0.101,0.702,93.994,EnElTrabajo
-El Mundo Tras el Cristal,La Guardia,2 En 1 - Vamonos - Cuando Brille El Sol,205066,False,53,11,1,4,0.262,0.679,0.709,0,0.132,-10.982,0.0398,0.818,106.731,EnElTrabajo
-Prisión Esperanza,Manuel Carrasco,Prisión Esperanza,299002,False,49,11,0,4,0.707,0.359,0.368,2.63e-05,0.0906,-9.731,0.0665,0.461,75.161,EnElTrabajo
-El Secreto de las Tortugas - Version 2010,Maldita Nerea,El Secreto de las Tortugas (Version 2010),238440,False,61,1,1,4,0.106,0.547,0.884,9.56e-06,0.0715,-5.483,0.0457,0.886,169.954,EnElTrabajo
-Soldadito marinero,Fito y Fitipaldis,Lo mas lejos a tu lado,254373,False,66,2,1,4,0.132,0.718,0.431,0.000165,0.0686,-8.736,0.0314,0.324,139.618,EnElTrabajo
-11 PM,Maluma,11:11,175733,False,80,10,1,4,0.217,0.777,0.712,0,0.091,-4.84,0.277,0.68,95.692,EnElTrabajo
+Enemigos,"Aitana,Reik",Enemigos,197393,False,68,1,0,4,0.0502,0.713,0.79,0,0.172,-3.609,0.146,0.702,89.997,EnElTrabajo
 Tabú,"Pablo Alborán,Ava Max",Tabú,179774,False,68,9,0,4,0.0366,0.748,0.808,3.66e-05,0.11,-5.943,0.0619,0.553,99.997,EnElTrabajo
-Soltera - Remix,"Lunay,Daddy Yankee,Bad Bunny",Soltera (Remix),266086,False,77,5,1,4,0.361,0.795,0.783,0,0.437,-4.271,0.0432,0.799,92.01,EnElTrabajo
+Fuera De Mi Mente,"Lérica,Juan Magán",Fuera De Mi Mente,181433,False,64,1,1,4,0.169,0.741,0.94,0,0.0542,-2.068,0.101,0.702,93.994,EnElTrabajo
+Vuelve,"Sebastian Yatra,Beret",FANTASÍA,225213,False,67,11,1,4,0.47,0.692,0.49,0,0.109,-6.077,0.0464,0.255,155.834,EnElTrabajo
 Sin Aire,Ana Mena,Sin Aire,173108,False,49,0,1,4,0.557,0.66,0.522,0,0.121,-6.887,0.0875,0.445,86.961,EnElTrabajo
+RITMO (Bad Boys For Life),"Black Eyed Peas,J Balvin",RITMO (Bad Boys For Life),221714,True,81,10,0,4,0.0334,0.721,0.716,0.00084,0.237,-7.037,0.0657,0.667,104.994,EnElTrabajo
 Deja A Ese Idiota,Antonio José,Antídoto,166630,False,46,9,1,4,0.165,0.67,0.547,0,0.0878,-5.554,0.0436,0.873,94.012,EnElTrabajo
+Soltera - Remix,"Lunay,Daddy Yankee,Bad Bunny",Soltera (Remix),266086,False,77,5,1,4,0.361,0.795,0.783,0,0.437,-4.271,0.0432,0.799,92.01,EnElTrabajo
+Ahora Dime,Sofia Ellar,Ahora Dime,194031,False,47,0,1,4,0.507,0.654,0.716,7.88e-06,0.221,-6.551,0.0386,0.794,95.783,EnElTrabajo
+11 PM,Maluma,11:11,175733,False,80,10,1,4,0.217,0.777,0.712,0,0.091,-4.84,0.277,0.68,95.692,EnElTrabajo
 Colgando en tus manos (con Marta Sánchez),"Carlos Baute,Marta Sánchez",De mi puño y letra - Edicion Coleccionista,230280,False,75,6,1,4,0.535,0.836,0.637,0,0.129,-4.803,0.0367,0.875,120.025,EnElTrabajo
 Cristina,Sebastian Yatra,Cristina,202040,False,69,5,1,3,0.286,0.649,0.502,0,0.166,-4.368,0.0437,0.695,87.0,EnElTrabajo
-Tenia Tanto Que Darte,Nena Daconte,Retales De Carnaval,204560,False,58,1,1,4,0.0465,0.642,0.603,0,0.448,-3.794,0.0349,0.493,124.978,EnElTrabajo
-RITMO (Bad Boys For Life),"Black Eyed Peas,J Balvin",RITMO (Bad Boys For Life),221714,True,81,10,0,4,0.0334,0.721,0.716,0.00084,0.237,-7.037,0.0657,0.667,104.994,EnElTrabajo
-Cero,Dani Martín,Grandes Éxitos y Pequeños Desastres,260053,False,52,11,1,4,0.152,0.491,0.677,4.78e-06,0.438,-4.193,0.0269,0.358,82.037,EnElTrabajo
-Resistiré,"Resistiré 2020,Alex Ubago,Carlos Baute,Despistaos,Diana Navarro,Efecto Pasillo,Georgina,Mikel Erentxun,Nil Moliner,Rosana,Rulo y la contrabanda,Alvaro Soler,Conchita,David Bisbal,David Otero,David Summers,Dvicio,Efecto Mariposa,ELE,India Martinez,Jose Merce,Josemi Carmona,Manuel Carrasco,Pedro Guerra,Pitingo,Rozalén,Sofia Ellar,Andrés Suárez,Pastora Soler,Vanesa Martín,Blas Cantó,Melendi",Resistiré,285610,False,64,4,0,4,0.167,0.704,0.764,0,0.235,-6.508,0.026,0.709,100.018,EnElTrabajo
+El Mundo Tras el Cristal,La Guardia,2 En 1 - Vamonos - Cuando Brille El Sol,205066,False,53,11,1,4,0.262,0.679,0.709,0,0.132,-10.982,0.0398,0.818,106.731,EnElTrabajo
+Prisión Esperanza,Manuel Carrasco,Prisión Esperanza,299002,False,49,11,0,4,0.707,0.359,0.368,2.63e-05,0.0906,-9.731,0.0665,0.461,75.161,EnElTrabajo
+Ya Nada Volvera a Ser Como Antes,El Canto Del Loco,Estados de Animo,175866,False,53,8,1,4,0.0819,0.644,0.784,0,0.0765,-4.577,0.0286,0.918,132.028,EnElTrabajo
+Espaldas Mojadas,"Tam Tam Go!,IZAL",Volando Sobre un Tacón,247946,False,38,2,1,4,0.00255,0.728,0.74,6.48e-06,0.305,-6.863,0.0281,0.843,119.103,EnElTrabajo
+Lo siento,Beret,Prisma,230646,False,66,2,1,4,0.655,0.362,0.42,0,0.133,-7.951,0.0582,0.284,77.077,EnElTrabajo
+El Secreto de las Tortugas - Version 2010,Maldita Nerea,El Secreto de las Tortugas (Version 2010),238440,False,61,1,1,4,0.106,0.547,0.884,9.56e-06,0.0715,-5.483,0.0457,0.886,169.954,EnElTrabajo
+Limón y Sal,Julieta Venegas,Limon Y Sal,205413,False,69,11,1,4,0.138,0.634,0.649,0,0.288,-6.056,0.0255,0.491,111.03,EnElTrabajo

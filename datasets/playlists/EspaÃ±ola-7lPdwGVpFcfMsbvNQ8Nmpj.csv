@@ -2,7 +2,7 @@ Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acou
 Tormenta Sideral,84,La Hierba Bajo el Asfalto,219626,False,21,5,1,4,0.365,0.634,0.884,0,0.128,-3.302,0.0281,0.934,134.879,EspaÃ±ola
 Sentado en tu Arena,84,La Hierba Bajo el Asfalto,230001,False,26,7,1,4,0.381,0.64,0.717,0,0.259,-3.734,0.0272,0.384,100.032,EspaÃ±ola
 27 Días,84,La Hierba Bajo el Asfalto,219733,False,15,0,1,4,0.0371,0.562,0.925,0,0.0827,-3.754,0.0424,0.868,150.008,EspaÃ±ola
-La Hierba Bajo el Asfalto,84,La Hierba Bajo el Asfalto,172760,False,31,11,1,4,0.353,0.577,0.911,0,0.359,-3.688,0.035,0.708,142.994,EspaÃ±ola
+La Hierba Bajo el Asfalto,84,La Hierba Bajo el Asfalto,172760,False,32,11,1,4,0.353,0.577,0.911,0,0.359,-3.688,0.035,0.708,142.994,EspaÃ±ola
 Historias del Arte,84,La Hierba Bajo el Asfalto,228013,False,31,4,1,4,0.729,0.618,0.516,0,0.113,-7.443,0.0321,0.367,145.989,EspaÃ±ola
 El Burdel de las Sirenas,84,El Burdel de las Sirenas,221306,False,35,9,1,4,0.424,0.683,0.588,0,0.271,-13.045,0.0408,0.758,131.901,EspaÃ±ola
 Flor de Primavera,84,El Burdel de las Sirenas,208725,False,36,11,1,4,0.277,0.618,0.701,0,0.0882,-13.593,0.0505,0.607,130.093,EspaÃ±ola
@@ -21,12 +21,12 @@ La promesa,Melendi,Un alumno más,233040,False,61,8,1,4,0.0674,0.584,0.73,0.0084
 Tocado y hundido,Melendi,Un alumno más,211586,False,55,11,1,4,0.136,0.693,0.919,0.0074,0.0901,-3.737,0.0651,0.729,102.052,EspaÃ±ola
 La religión de los idiotas,Melendi,Un alumno más,208826,False,48,4,1,4,0.0709,0.579,0.812,0.00138,0.15,-4.876,0.0604,0.839,175.969,EspaÃ±ola
 Septiembre,Melendi,Un alumno más,246466,False,47,0,0,4,0.0554,0.685,0.713,0.00275,0.302,-6.037,0.038,0.521,100.062,EspaÃ±ola
-Tu jardín con enanitos,Melendi,Lágrimas desordenadas,236975,False,65,7,1,4,0.337,0.721,0.834,0,0.104,-4.457,0.0345,0.53,127.92,EspaÃ±ola
+Tu jardín con enanitos,Melendi,Lágrimas desordenadas,236975,False,66,7,1,4,0.337,0.721,0.834,0,0.104,-4.457,0.0345,0.53,127.92,EspaÃ±ola
 Lágrimas desordenadas,Melendi,Lágrimas desordenadas,229308,False,54,9,1,4,0.238,0.641,0.937,0,0.108,-3.52,0.0735,0.653,160.1,EspaÃ±ola
-Mi primer beso,Melendi,Lágrimas desordenadas,255760,False,45,2,1,4,0.336,0.631,0.862,0,0.111,-4.151,0.102,0.407,144.997,EspaÃ±ola
+Mi primer beso,Melendi,Lágrimas desordenadas,255760,False,46,2,1,4,0.336,0.631,0.862,0,0.111,-4.151,0.102,0.407,144.997,EspaÃ±ola
 Cómo Te Atreves,Morat,Cómo Te Atreves,241059,False,0,4,1,4,0.091,0.618,0.901,0,0.117,-4.382,0.0404,0.794,130.958,EspaÃ±ola
 La roja baila - Himno oficial de la selección española,"Sergio Ramos,Niña Pastori,RedOne",La Roja Baila (Himno Oficial de la Selección Española),235384,False,43,0,0,4,0.0318,0.65,0.789,2.23e-06,0.902,-5.893,0.0497,0.587,129.972,EspaÃ±ola
-Estadio Azteca,Andrés Calamaro,El cantante,217973,False,56,7,1,4,0.716,0.751,0.62,0.0016,0.0651,-6.753,0.0451,0.473,142.028,EspaÃ±ola
+Estadio Azteca,Andrés Calamaro,El cantante,217973,False,57,7,1,4,0.716,0.751,0.62,0.0016,0.0651,-6.753,0.0451,0.473,142.028,EspaÃ±ola
 Paseo,Estopa,Voces de Ultrarumba,216440,False,59,0,1,4,0.432,0.726,0.55,0,0.155,-9.676,0.0445,0.84,102.021,EspaÃ±ola
 Eres Tonto,El Canto Del Loco,Personas,192426,False,52,5,0,4,0.0146,0.412,0.902,0,0.091,-3.269,0.0534,0.899,189.146,EspaÃ±ola
 Por que no ser amigos (feat. Dani Martín),"Hombres G,Dani Martín",Por que no ser amigos,198173,False,20,2,1,4,0.0155,0.413,0.976,0,0.357,-2.752,0.0587,0.666,169.961,EspaÃ±ola
@@ -149,8 +149,8 @@ Blanco y Negro,Nikone,Blanco y Negro,201956,False,0,7,0,5,0.169,0.461,0.646,0,0.
 Amos del Piano Bar (Mezcal Edit),"Taburete,Hombres G",Tres Tequilas & Un Mezcal,200523,False,35,0,1,4,0.122,0.4,0.565,0,0.115,-7.939,0.0558,0.126,141.072,EspaÃ±ola
 Por Nosotros,Ocer y Rade,Por Nosotros,235822,False,0,5,1,4,0.778,0.74,0.819,0,0.083,-3.807,0.226,0.704,91.935,EspaÃ±ola
 Cicatrices,Natos y Waor,Cicatrices,180000,True,48,8,1,4,0.695,0.718,0.814,0,0.125,-5.467,0.345,0.27,120.04,EspaÃ±ola
-Chacho,"Dollar Selmouni,fernandocosta",Chacho,151469,True,6,1,1,4,0.64,0.687,0.575,5.43e-06,0.691,-7.726,0.307,0.616,91.907,EspaÃ±ola
-Marcamos las Normas (feat. Zannou),"Terry,Zannou",Marcamos las Normas (feat. Zannou),208533,False,30,8,1,4,0.209,0.735,0.729,0,0.0785,-8.479,0.204,0.723,125.962,EspaÃ±ola
+Chacho,"Dollar Selmouni,fernandocosta",Chacho,151469,True,5,1,1,4,0.64,0.687,0.575,5.43e-06,0.691,-7.726,0.307,0.616,91.907,EspaÃ±ola
+Marcamos las Normas (feat. Zannou),"Terry,Zannou",Marcamos las Normas (feat. Zannou),208533,False,31,8,1,4,0.209,0.735,0.729,0,0.0785,-8.479,0.204,0.723,125.962,EspaÃ±ola
 Camarón,Natos y Waor,Martes 13,133333,True,48,6,0,4,0.0565,0.525,0.804,3.1e-06,0.137,-9.091,0.431,0.26,141.72,EspaÃ±ola
 El Vals del Obrero,Ska-P,Todo Ska-p,277920,False,44,5,1,4,0.0383,0.467,0.879,1.25e-06,0.172,-3.941,0.0814,0.635,101.983,EspaÃ±ola
 La Llamada,Leiva,La Llamada,240205,False,59,2,1,4,0.5,0.623,0.488,0.000211,0.131,-8.246,0.029,0.169,114.019,EspaÃ±ola
@@ -172,7 +172,7 @@ Aqui No Hay Playa,The Refrescos,Universal.es The Refrescos,215574,False,0,9,1,4,
 Cuando Nadie Ve,Morat,Cuando Nadie Ve,219184,False,66,1,0,4,0.118,0.804,0.788,0,0.215,-4.586,0.0598,0.837,96.005,EspaÃ±ola
 Electricidad,Leiva,Monstruos,243546,False,49,2,1,4,0.0535,0.462,0.55,1.14e-06,0.106,-6.222,0.0447,0.171,145.633,EspaÃ±ola
 Entre dos mares,Fito y Fitipaldis,Fitografía,280933,False,40,2,1,4,0.00274,0.493,0.814,0,0.237,-4.752,0.0379,0.499,151.154,EspaÃ±ola
-Windsor,Pereza,Aviones,248626,False,39,4,1,4,0.195,0.654,0.559,0,0.13,-5.833,0.0253,0.703,109.536,EspaÃ±ola
+Windsor,Pereza,Aviones,248626,False,40,4,1,4,0.195,0.654,0.559,0,0.13,-5.833,0.0253,0.703,109.536,EspaÃ±ola
 Pienso en Aquella Tarde,Pereza,Esencial Pereza,172600,False,30,7,1,4,0.00235,0.313,0.868,0,0.47,-4.207,0.0556,0.489,83.104,EspaÃ±ola
 Chica de ayer,Nacha Pop,Grandes Éxitos: Nacha Pop,208026,False,53,7,1,4,0.0579,0.674,0.854,0.00041,0.0735,-4.337,0.034,0.684,127.295,EspaÃ±ola
 MALAMENTE - Cap.1: Augurio,ROSALÍA,MALAMENTE (Cap.1: Augurio),149450,False,61,5,0,4,0.565,0.895,0.483,0.0137,0.0737,-4.709,0.0881,0.52,98.057,EspaÃ±ola
@@ -208,8 +208,8 @@ Química,"Juancho Marqués,Gabriel Fernández",Química,226666,True,33,9,1,4,0.0
 Guinda,One Path,Guinda,156065,False,0,2,1,4,0.27,0.957,0.229,1.36e-05,0.0683,-8.613,0.124,0.861,104.963,EspaÃ±ola
 Colgando en tus manos (con Marta Sánchez),"Carlos Baute,Marta Sánchez",De mi puño y letra - Edicion Coleccionista,230280,False,75,6,1,4,0.535,0.836,0.637,0,0.129,-4.803,0.0367,0.875,120.025,EspaÃ±ola
 Como Mario,Akapellah,Como Mario,184000,True,59,0,1,4,0.149,0.849,0.482,0,0.302,-9.968,0.0887,0.624,74.997,EspaÃ±ola
-Hemicraneal,Estopa,Allenrok,250173,False,49,7,1,4,0.316,0.816,0.74,0.0025,0.109,-5.84,0.0332,0.645,132.019,EspaÃ±ola
-La Séptima Canción,Mon Vázquez,La Séptima Canción,210514,False,2,9,1,4,0.246,0.703,0.671,0,0.187,-7.799,0.0283,0.87,114.077,EspaÃ±ola
+Hemicraneal,Estopa,Allenrok,250173,False,50,7,1,4,0.316,0.816,0.74,0.0025,0.109,-5.84,0.0332,0.645,132.019,EspaÃ±ola
+La Séptima Canción,Mon Vázquez,La Séptima Canción,210514,False,1,9,1,4,0.246,0.703,0.671,0,0.187,-7.799,0.0283,0.87,114.077,EspaÃ±ola
 5 Sentidos,"Dvicio,Taburete",5 Sentidos,209953,False,59,5,1,4,0.0961,0.644,0.735,0,0.116,-5.499,0.0473,0.664,175.913,EspaÃ±ola
 El Patio,Pablo López,"Camino, Fuego Y Libertad",283093,False,57,11,1,4,0.161,0.497,0.486,2.84e-06,0.132,-7.263,0.0276,0.138,138.081,EspaÃ±ola
 Confía,Ocer y Rade,Confía,251562,False,0,9,1,4,0.163,0.762,0.814,0,0.134,-3.496,0.0385,0.037,100.02,EspaÃ±ola
@@ -237,7 +237,7 @@ Lo Que no Ves,Pol 3.14,Pol 3.14,247933,False,48,11,1,4,0.0095,0.541,0.6,2.43e-06
 Bipolar,Pol 3.14,Bipolar,262111,False,45,8,1,4,0.00342,0.559,0.754,0,0.092,-6.487,0.0349,0.48,120.057,EspaÃ±ola
 Jóvenes Eternamente,Pol 3.14,Jóvenes Eternamente,267645,False,58,11,1,4,0.43,0.49,0.507,7.03e-05,0.113,-5.799,0.0286,0.396,146.034,EspaÃ±ola
 Lluvia en Las Pestañas,Pol 3.14,Pol 3.14,208360,False,24,9,1,4,0.00811,0.642,0.7,6.24e-05,0.116,-6.571,0.0352,0.676,141.976,EspaÃ±ola
-Piensa,Pol 3.14,Pol 3.14,268746,False,32,8,1,4,0.0637,0.583,0.698,5.64e-05,0.104,-6.236,0.0302,0.651,95.002,EspaÃ±ola
+Piensa,Pol 3.14,Pol 3.14,268746,False,33,8,1,4,0.0637,0.583,0.698,5.64e-05,0.104,-6.236,0.0302,0.651,95.002,EspaÃ±ola
 Querida Música,"Capitan Mr Litro,Nota",Sobre la Marcha,515500,False,38,7,1,4,0.502,0.668,0.621,0,0.391,-11.886,0.471,0.824,92.762,EspaÃ±ola
 "Quien Más, Quien Menos",Joaquín Sabina,Lo Niego Todo,248053,False,49,7,1,4,0.484,0.473,0.613,0,0.2,-6.961,0.051,0.338,108.807,EspaÃ±ola
 Oasis del Color,Lupas,Oasis del Color,234929,False,22,6,1,3,0.0462,0.58,0.733,0,0.0632,-4.958,0.0583,0.293,157.102,EspaÃ±ola
@@ -247,7 +247,7 @@ Indios y Vaqueros,Sinsinati,Indios y Vaqueros,184425,False,0,8,1,4,0.322,0.593,0
 Cuando Éramos Dos,Sinsinati,Cuando Éramos Dos,205413,False,0,6,0,4,0.22,0.628,0.721,0,0.0842,-6.976,0.0425,0.6,100.024,EspaÃ±ola
 Volar,Sinsinati,Volar,188082,False,53,6,0,4,0.114,0.585,0.579,0,0.0702,-7.559,0.0358,0.518,102.107,EspaÃ±ola
 Oh Mi Cabaret,Lupas,Oh Mi Cabaret,196241,False,9,2,1,4,0.0975,0.591,0.85,0,0.183,-5.629,0.0517,0.722,163.94,EspaÃ±ola
-Miradas de Verdad,Lupas,Miradas de Verdad,214257,False,11,11,0,4,0.0125,0.399,0.659,0,0.117,-5.589,0.0337,0.775,168.065,EspaÃ±ola
+Miradas de Verdad,Lupas,Miradas de Verdad,214257,False,12,11,0,4,0.0125,0.399,0.659,0,0.117,-5.589,0.0337,0.775,168.065,EspaÃ±ola
 Perdiendo el Norte,Lupas,Perdiendo el Norte,211000,False,17,0,1,4,0.000753,0.583,0.823,0,0.176,-5.038,0.0493,0.704,119.979,EspaÃ±ola
 Santiago,Lupas,Perdiendo el Norte,181179,False,19,10,1,4,0.0526,0.69,0.868,0,0.0524,-5.184,0.0523,0.861,147.959,EspaÃ±ola
 Futuro Albino,Lupas,Perdiendo el Norte,236689,False,17,7,0,4,0.0118,0.601,0.716,0.00184,0.122,-6.516,0.0379,0.385,145.104,EspaÃ±ola
@@ -265,7 +265,7 @@ Nuclear,Leiva,Nuclear,235645,False,52,0,1,4,0.032,0.282,0.681,0,0.195,-5.594,0.0
 Las Calles Que Inventamos,Silvia Lorenzo,Las Calles Que Inventamos,188717,False,14,0,1,4,0.338,0.751,0.343,1.85e-06,0.134,-12.737,0.0476,0.151,116.946,EspaÃ±ola
 Lucha De Gigantes,"Love of Lesbian,Zahara",Lucha De Gigantes,206880,False,56,4,0,4,0.339,0.729,0.482,4.38e-05,0.159,-6.5,0.0301,0.361,108.133,EspaÃ±ola
 El Gigante de Big Fish,Leiva,Nuclear,192086,False,48,5,0,4,0.483,0.562,0.302,0,0.114,-9.575,0.0314,0.34,85.169,EspaÃ±ola
-Emocional,Dani Martín,Dani Martin,219706,False,47,7,1,4,0.295,0.462,0.821,1.66e-05,0.337,-4.177,0.0449,0.451,150.619,EspaÃ±ola
+Emocional,Dani Martín,Dani Martin,219706,False,48,7,1,4,0.295,0.462,0.821,1.66e-05,0.337,-4.177,0.0449,0.451,150.619,EspaÃ±ola
 Que Bonita la Vida,Dani Martín,Grandes Éxitos y Pequeños Desastres,270853,False,47,7,1,4,0.337,0.508,0.53,1.32e-06,0.113,-5.653,0.0306,0.31,134.063,EspaÃ±ola
 Cero,Dani Martín,Grandes Éxitos y Pequeños Desastres,260053,False,52,11,1,4,0.152,0.491,0.677,4.78e-06,0.438,-4.193,0.0269,0.358,82.037,EspaÃ±ola
 Que Se Mueran de Envidia (feat. Carla Morrison),"Dani Martín,Carla Morrison",Que Se Mueran de Envidia (feat. Carla Morrison),251907,False,51,9,1,4,0.766,0.546,0.496,0,0.085,-6.88,0.0285,0.266,147.619,EspaÃ±ola
@@ -287,7 +287,7 @@ El universo sobre mí,Amaral,Pájaros En La Cabeza,249680,False,57,2,1,4,0.135,0
 Cadillac solitario,Loquillo,Rock & Roll Star - 30 años,214560,False,57,11,0,1,0.0746,0.393,0.828,0.00192,0.148,-4.147,0.0332,0.473,129.743,EspaÃ±ola
 16 Añitos,Dani Martín,Grandes Éxitos y Pequeños Desastres,253733,False,45,0,1,4,0.0364,0.62,0.587,0,0.111,-8.014,0.0275,0.412,112.023,EspaÃ±ola
 Contrarreloj,Silvia Lorenzo,Contrarreloj,140689,False,11,1,1,4,0.829,0.688,0.543,3.39e-06,0.287,-12.131,0.0457,0.641,144.994,EspaÃ±ola
-El Pasado,84,La Hierba Bajo el Asfalto,288933,False,19,2,1,4,0.13,0.524,0.683,0,0.264,-3.459,0.0278,0.52,76.987,EspaÃ±ola
+El Pasado,84,La Hierba Bajo el Asfalto,288933,False,21,2,1,4,0.13,0.524,0.683,0,0.264,-3.459,0.0278,0.52,76.987,EspaÃ±ola
 Tu mejor pesadilla,Sidecars,Cuestión de gravedad,235600,False,45,7,1,4,0.186,0.652,0.781,0.0022,0.153,-4.965,0.0262,0.571,129.007,EspaÃ±ola
 Amasijo de huesos,Sidecars,Cuestión de gravedad,275640,False,55,11,1,4,0.232,0.725,0.725,0,0.105,-4.881,0.0278,0.494,131.989,EspaÃ±ola
 Nada que perder,Pignoise,Anunciado en Television,197600,False,50,7,1,4,0.0025,0.549,0.902,4.19e-06,0.0508,-2.352,0.0563,0.775,154.095,EspaÃ±ola
@@ -328,14 +328,14 @@ Abril,Mon Vázquez,La Séptima Canción,261166,False,5,0,1,4,0.11,0.548,0.603,0,
 La Cuesta,Mon Vázquez,La Séptima Canción,184385,False,2,9,1,4,0.715,0.573,0.624,0,0.188,-9.563,0.0259,0.836,144.918,EspaÃ±ola
 Labios Pintados,Mon Vázquez,La Séptima Canción,187920,False,1,0,1,4,0.328,0.466,0.64,0,0.0917,-7.59,0.0473,0.851,173.731,EspaÃ±ola
 Adrenalina,Mon Vázquez,La Séptima Canción,203584,False,3,9,1,4,0.145,0.345,0.678,0,0.367,-7.428,0.0306,0.77,170.132,EspaÃ±ola
-Espiral,Mon Vázquez,La Séptima Canción,301873,False,2,10,1,4,0.0928,0.636,0.605,0,0.324,-9.15,0.0284,0.58,120.001,EspaÃ±ola
+Espiral,Mon Vázquez,La Séptima Canción,301873,False,3,10,1,4,0.0928,0.636,0.605,0,0.324,-9.15,0.0284,0.58,120.001,EspaÃ±ola
 Canción Conmovedora,Mon Vázquez,La Séptima Canción,222423,False,1,2,1,4,0.115,0.507,0.388,0,0.0656,-9.039,0.0293,0.562,150.045,EspaÃ±ola
 Agujero Negro,Mon Vázquez,La Séptima Canción,224668,False,1,9,1,4,0.732,0.566,0.299,0,0.113,-10.903,0.0324,0.228,135.775,EspaÃ±ola
 Recuperarlo,Mon Vázquez,La Séptima Canción,232949,False,1,9,1,4,0.0391,0.498,0.57,0,0.14,-8.331,0.0351,0.468,122.026,EspaÃ±ola
 Pacto Entre Dama y Vagabundo,Mon Vázquez,La Séptima Canción,182890,False,1,11,1,3,0.449,0.508,0.414,0,0.079,-9.432,0.0324,0.349,135.07,EspaÃ±ola
 De Cero,Silvia Lorenzo,De Cero,211278,False,3,3,1,4,0.227,0.747,0.539,0,0.0881,-7.541,0.0484,0.256,120.046,EspaÃ±ola
 Rock'n'rolles de Chiquillos,Sofia Ellar,Seis Peniques,213019,False,47,2,0,4,0.881,0.811,0.186,0,0.274,-12.106,0.116,0.396,108.814,EspaÃ±ola
-Niña Buena (Edición Especial),Ignacio Serrano,Niña Buena (Edición Especial),176007,False,9,11,1,4,0.279,0.515,0.752,0,0.157,-6.504,0.0958,0.721,75.836,EspaÃ±ola
+Niña Buena (Edición Especial),Ignacio Serrano,Niña Buena (Edición Especial),176007,False,8,11,1,4,0.279,0.515,0.752,0,0.157,-6.504,0.0958,0.721,75.836,EspaÃ±ola
 Cuídate,La Oreja de Van Gogh,El Viaje de Copperpot,169533,False,63,8,1,4,0.306,0.662,0.798,0,0.174,-4.627,0.0335,0.542,141.007,EspaÃ±ola
 Ojalá,La Maravillosa Orquesta del Alcohol,Ojalá,246120,False,51,10,1,4,0.653,0.523,0.47,0,0.315,-7.131,0.0402,0.47,120.255,EspaÃ±ola
 Lunes de Medicación - Studio Version,Modo Avión,Sefiní,179289,False,32,4,1,4,0.3,0.441,0.66,0.000518,0.18,-9.435,0.0333,0.518,98.128,EspaÃ±ola
@@ -395,7 +395,7 @@ Que Quieres Ser,84,El Burdel de las Sirenas,243086,False,19,4,0,4,0.106,0.58,0.5
 Pausa,IZAL,Autoterapia,172516,False,57,11,0,4,0.862,0.503,0.311,0.00225,0.0969,-11.379,0.028,0.0832,81.937,EspaÃ±ola
 Bailemos,Dani Fernández,Incendios,210468,False,66,1,1,4,0.0616,0.649,0.555,3.45e-06,0.0874,-4.655,0.0292,0.607,128.009,EspaÃ±ola
 Qué Bonito Es Querer,Manuel Carrasco,La Cruz Del Mapa,270187,False,67,11,1,4,0.6,0.609,0.718,0,0.082,-7.177,0.045,0.426,93.94,EspaÃ±ola
-Vine un Finde y Me Quedé,Kisko Espinosa,Vine un Finde y Me Quedé,202461,False,42,0,1,4,0.0571,0.469,0.81,0,0.125,-5.156,0.197,0.722,97.57,EspaÃ±ola
+Vine un Finde y Me Quedé,Kisko Espinosa,Vine un Finde y Me Quedé,202461,False,43,0,1,4,0.0571,0.469,0.81,0,0.125,-5.156,0.197,0.722,97.57,EspaÃ±ola
 Ya mi mama me decía,Guitarricadelafuente,Ya mi mama me decía,188372,False,62,6,1,3,0.54,0.677,0.423,0.00153,0.0876,-10.535,0.0865,0.296,144.421,EspaÃ±ola
 Vacío,Inazio,Vacío,143999,False,45,3,1,4,0.855,0.587,0.107,0,0.198,-18.165,0.0779,0.344,128.166,EspaÃ±ola
 Soy mitad,84,Varcelona,265226,False,12,5,1,4,0.121,0.522,0.606,0,0.0368,-5.912,0.0293,0.326,77.982,EspaÃ±ola
@@ -406,8 +406,8 @@ Volveré a Empezar,"Stay Homas,Nil Moliner",Volveré a Empezar,148000,False,59,,
 Soldadito de Hierro (feat. Dani Fernández),"Nil Moliner,Dani Fernández",Bailando en la batalla,213841,False,55,,,,,,,,,,,,,EspaÃ±ola
 chiquita suelta,Giulia Be,chiquita suelta,160718,False,65,,,,,,,,,,,,,EspaÃ±ola
 Mi accidente preferido (con Juancho Sidecars y Sidecars),"Despistaos,Juancho Sidecars,Sidecars",Estamos enteros,206260,False,32,,,,,,,,,,,,,EspaÃ±ola
-Perdido en Madrid,Dani Fernández,En llamas,216989,False,46,,,,,,,,,,,,,EspaÃ±ola
+Perdido en Madrid,Dani Fernández,En llamas,216989,False,45,,,,,,,,,,,,,EspaÃ±ola
 Madrid,Pereza,Esencial Pereza,218520,False,38,,,,,,,,,,,,,EspaÃ±ola
 Otra Noche,Kaotiko,Mundo Kaotiko,190746,True,55,,,,,,,,,,,,,EspaÃ±ola
-Besos en el Ascensor,Jarabe De Palo,Tragas o Escupes,213630,False,41,,,,,,,,,,,,,EspaÃ±ola
+Besos en el Ascensor,Jarabe De Palo,Tragas o Escupes,213630,False,42,,,,,,,,,,,,,EspaÃ±ola
 Amor de Anticuario,Sofia Ellar,Seis Peniques,236277,False,53,,,,,,,,,,,,,EspaÃ±ola

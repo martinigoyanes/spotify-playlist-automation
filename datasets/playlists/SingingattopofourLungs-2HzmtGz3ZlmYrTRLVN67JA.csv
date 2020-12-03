@@ -2,7 +2,7 @@ Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acou
 On My Own,Ross Lynch,Teen Beach 2 (Original TV Movie Soundtrack),145413,False,68,7,1,4,0.14,0.669,0.593,0,0.119,-6.628,0.0406,0.281,87.965,SingingAtTopOfOurLungs
 He Could Be the One,Hannah Montana,Hannah Montana 3,180800,False,66,4,1,4,0.00154,0.602,0.894,0,0.433,-3.975,0.032,0.643,125.988,SingingAtTopOfOurLungs
 Closer,"The Chainsmokers,Halsey",Closer,244960,False,84,8,1,4,0.414,0.748,0.524,0,0.111,-5.599,0.0338,0.661,95.01,SingingAtTopOfOurLungs
-The Way,"Ariana Grande,Mac Miller",Yours Truly,227026,False,68,5,0,4,0.294,0.645,0.877,0,0.0759,-3.208,0.113,0.861,82.324,SingingAtTopOfOurLungs
+The Way,"Ariana Grande,Mac Miller",Yours Truly,227026,False,69,5,0,4,0.294,0.645,0.877,0,0.0759,-3.208,0.113,0.861,82.324,SingingAtTopOfOurLungs
 The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,190213,False,71,11,1,4,0.332,0.738,0.804,0,0.279,-3.851,0.0621,0.949,174.943,SingingAtTopOfOurLungs
 Billionaire (feat. Bruno Mars),"Travie McCoy,Bruno Mars",Billionaire (feat. Bruno Mars),211160,True,72,6,0,4,0.297,0.633,0.673,0,0.206,-6.403,0.258,0.659,86.776,SingingAtTopOfOurLungs
 Miss Independent,Ne-Yo,Year Of The Gentleman,232000,False,70,1,1,4,0.48,0.668,0.673,0,0.194,-5.714,0.145,0.727,171.812,SingingAtTopOfOurLungs
@@ -20,11 +20,11 @@ Mr. Brightside,The Killers,Hot Fuss,222200,False,68,1,1,4,0.00119,0.355,0.918,0,
 Let Me Love You,Mario,Turning Point,249093,False,65,7,0,4,0.163,0.622,0.593,0,0.0979,-8.352,0.0916,0.607,94.364,SingingAtTopOfOurLungs
 Pompeii,Bastille,Bad Blood,214147,False,70,9,1,4,0.0755,0.679,0.715,0,0.271,-6.383,0.0407,0.571,127.435,SingingAtTopOfOurLungs
 Best Day Of My Life,American Authors,Best Day Of My Life,194000,False,1,2,1,4,0.0545,0.672,0.901,0.000285,0.0792,-2.415,0.0353,0.507,99.989,SingingAtTopOfOurLungs
-Wake Me Up,Avicii,True,247426,False,58,2,1,4,0.0038,0.532,0.783,0.0012,0.161,-5.697,0.0523,0.643,124.08,SingingAtTopOfOurLungs
+Wake Me Up,Avicii,True,247426,False,57,2,1,4,0.0038,0.532,0.783,0.0012,0.161,-5.697,0.0523,0.643,124.08,SingingAtTopOfOurLungs
 Body Like A Back Road,Sam Hunt,Body Like A Back Road,165386,False,74,5,1,4,0.447,0.732,0.458,0,0.136,-7.225,0.0311,0.661,98.938,SingingAtTopOfOurLungs
 Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream,230733,False,67,3,0,4,0.00125,0.652,0.812,3.01e-05,0.667,-3.797,0.0409,0.72,126.023,SingingAtTopOfOurLungs
 Sweet Caroline - Single Version,Neil Diamond,In My Lifetime,201800,False,0,11,1,4,0.505,0.556,0.161,4.36e-05,0.28,-13.944,0.0297,0.588,126.534,SingingAtTopOfOurLungs
-Dancing Queen,ABBA,Arrival,230693,False,59,9,1,4,0.382,0.539,0.884,0.00166,0.76,-6.53,0.0403,0.752,100.812,SingingAtTopOfOurLungs
+Dancing Queen,ABBA,Arrival,230693,False,58,9,1,4,0.382,0.539,0.884,0.00166,0.76,-6.53,0.0403,0.752,100.812,SingingAtTopOfOurLungs
 A Thousand Miles,Vanessa Carlton,Best Of,237440,False,0,11,1,4,0.328,0.454,0.827,0,0.226,-3.774,0.0398,0.32,94.767,SingingAtTopOfOurLungs
 Don't Stop Believin',Journey,The Essential Journey,248906,False,74,4,1,4,0.25,0.491,0.802,0,0.387,-7.106,0.0392,0.472,119.25,SingingAtTopOfOurLungs
 Kiss Me Thru The Phone,"Soulja Boy,Sammie",iSouljaBoyTellem,193386,True,76,7,1,4,0.0185,0.758,0.712,0,0.0677,-3.781,0.112,0.795,149.998,SingingAtTopOfOurLungs
@@ -36,7 +36,7 @@ Magic (feat. Rivers Cuomo),"B.o.B,Rivers Cuomo",B.o.B Presents: The Adventures o
 "Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg,Wiz Khalifa,Bruno Mars","Young, Wild & Free (feat. Bruno Mars)",207333,True,77,0,1,4,0.0525,0.715,0.655,0,0.115,-6.425,0.137,0.531,95.078,SingingAtTopOfOurLungs
 Tonight Tonight,Hot Chelle Rae,Whatever,200466,False,74,4,1,4,0.0764,0.686,0.783,0,0.163,-4.977,0.119,0.814,99.978,SingingAtTopOfOurLungs
 Whatcha Say,Jason Derulo,Jason Derulo,221253,False,67,11,1,4,0.0444,0.615,0.711,0,0.145,-5.507,0.0779,0.711,144.036,SingingAtTopOfOurLungs
-Stereo Hearts (feat. Adam Levine),"Gym Class Heroes,Adam Levine",The Papercut Chronicles II,210960,False,79,9,1,4,0.0319,0.646,0.795,0,0.267,-3.293,0.0976,0.796,89.99,SingingAtTopOfOurLungs
+Stereo Hearts (feat. Adam Levine),"Gym Class Heroes,Adam Levine",The Papercut Chronicles II,210960,False,80,9,1,4,0.0319,0.646,0.795,0,0.267,-3.293,0.0976,0.796,89.99,SingingAtTopOfOurLungs
 DJ Got Us Fallin' In Love (feat. Pitbull),"Usher,Pitbull",Raymond v Raymond (Expanded Edition),220800,False,77,7,0,4,0.0338,0.663,0.861,0,0.082,-3.398,0.109,0.654,119.963,SingingAtTopOfOurLungs
 Down,"Jay Sean,Lil Wayne",All Or Nothing,212106,False,78,2,1,4,0.0108,0.657,0.695,0,0.0822,-4.493,0.0321,0.683,65.997,SingingAtTopOfOurLungs
 Burnin' Up,Jonas Brothers,A Little Bit Longer,175093,False,68,2,1,4,0.0296,0.667,0.954,0,0.331,-3.462,0.0817,0.807,114.0,SingingAtTopOfOurLungs
@@ -68,7 +68,7 @@ Not Over You,Gavin DeGraw,Sweeter,218520,False,71,10,1,4,0.255,0.63,0.894,0,0.18
 Fabulous,"Sharpay Evans,Ryan",High School Musical 2 (Original Soundtrack),180693,False,59,8,1,4,0.233,0.827,0.761,0,0.0453,-5.185,0.138,0.703,131.996,SingingAtTopOfOurLungs
 "You Are the Music in Me - From ""High School Musical 2""/Soundtrack Version","Troy,Gabriella",High School Musical: Be Mine,208946,False,0,5,1,4,0.358,0.601,0.759,0,0.101,-4.467,0.0452,0.475,102.006,SingingAtTopOfOurLungs
 Starstruck,Christopher Wilde,StarStruck,175026,False,54,0,1,4,0.0353,0.555,0.8,0,0.0783,-4.835,0.0776,0.801,174.007,SingingAtTopOfOurLungs
-Gotta Go My Own Way,Melodyia Music,Now Or Never,214074,False,44,9,1,4,0.106,0.467,0.694,1.8e-05,0.247,-4.984,0.0297,0.308,88.902,SingingAtTopOfOurLungs
+Gotta Go My Own Way,Melodyia Music,Now Or Never,214074,False,43,9,1,4,0.106,0.467,0.694,1.8e-05,0.247,-4.984,0.0297,0.308,88.902,SingingAtTopOfOurLungs
 The Boys Are Back - Original Version,"High School Musical Cast,Corbin Bleu,Zac Efron",High School Musical 3: Senior Year,224666,False,55,1,1,4,0.00742,0.706,0.915,1.1e-06,0.0343,-3.169,0.0535,0.872,114.992,SingingAtTopOfOurLungs
 She's So Gone,Naomi Scott,Lemonade Mouth,186453,False,68,11,1,4,0.0277,0.518,0.861,1.42e-06,0.249,-4.002,0.0673,0.457,141.986,SingingAtTopOfOurLungs
 I Don't Dance,"CHAD,Ryan",High School Musical 2 (Original Soundtrack),217240,False,61,9,0,4,0.00317,0.804,0.88,0,0.226,-5.061,0.0933,0.682,104.111,SingingAtTopOfOurLungs
@@ -87,7 +87,7 @@ Ordinary Girl,Hannah Montana,Hannah Montana Forever,177506,False,62,7,1,4,0.0265
 TTYLXOX,Bella Thorne,"TTYLXOX (From ""Shake It Up: Live 2 Dance"")",154773,False,46,7,1,4,0.00291,0.819,0.683,0.122,0.254,-6.144,0.156,0.671,112.007,SingingAtTopOfOurLungs
 Not A Love Song,Austin Moon,Austin & Ally,182106,False,52,2,1,4,0.00216,0.534,0.797,0,0.0575,-5.444,0.145,0.72,179.981,SingingAtTopOfOurLungs
 Turn Up the Music,"Adam Hicks,Bridgit Mendler,Naomi Scott,Hayley Kiyoko,Blake Michael",Lemonade Mouth,176600,False,57,7,1,4,0.0957,0.531,0.827,1.84e-06,0.074,-3.7,0.081,0.801,183.977,SingingAtTopOfOurLungs
-Waiting Outside The Lines,Greyson Chance,Waiting Outside The Lines EP,232493,False,22,1,1,4,0.134,0.453,0.688,0,0.132,-3.312,0.0336,0.182,135.907,SingingAtTopOfOurLungs
+Waiting Outside The Lines,Greyson Chance,Waiting Outside The Lines EP,232493,False,23,1,1,4,0.134,0.453,0.688,0,0.132,-3.312,0.0336,0.182,135.907,SingingAtTopOfOurLungs
 Timber (feat. Ke$ha),"Pitbull,Kesha",Global Warming: Meltdown (Deluxe Version),204160,False,78,11,1,4,0.0295,0.581,0.963,0,0.139,-4.087,0.0981,0.788,129.992,SingingAtTopOfOurLungs
 Shawty Is Da Shit,"The-Dream,Fabolous",Lovehate,262773,True,62,7,0,4,0.083,0.785,0.479,0,0.0937,-4.956,0.044,0.364,75.889,SingingAtTopOfOurLungs
 Take You To Rio,Ester Dean,Rio: Music From The Motion Picture,206440,False,44,7,1,4,0.0133,0.688,0.817,0,0.0649,-5.923,0.0319,0.81,96.032,SingingAtTopOfOurLungs
@@ -95,7 +95,7 @@ Please Don't Go,Mike Posner,31 Minutes to Takeoff,196813,False,60,4,0,4,0.00296,
 Bust Your Windows,Jazmine Sullivan,Fearless,266306,False,66,5,0,4,0.538,0.683,0.664,0,0.0671,-4.233,0.0332,0.866,106.991,SingingAtTopOfOurLungs
 I Wanna Know You,Hannah Montana,Hannah Montana 3,166893,False,55,5,1,4,0.127,0.684,0.741,0,0.348,-3.892,0.0276,0.821,83.999,SingingAtTopOfOurLungs
 Fly to Your Heart,Selena Gomez,Tinker Bell,191466,False,43,11,1,3,0.249,0.3,0.473,0,0.383,-7.7,0.0305,0.254,167.051,SingingAtTopOfOurLungs
-Somebody To You,"The Vamps,Demi Lovato",Meet The Vamps,182826,False,69,3,1,4,0.0854,0.559,0.849,0,0.328,-4.676,0.0454,0.759,86.978,SingingAtTopOfOurLungs
+Somebody To You,"The Vamps,Demi Lovato",Meet The Vamps,182826,False,68,3,1,4,0.0854,0.559,0.849,0,0.328,-4.676,0.0454,0.759,86.978,SingingAtTopOfOurLungs
 Oh Cecilia (Breaking My Heart),"The Vamps,Shawn Mendes",Meet The Vamps,195560,False,48,11,1,4,0.0249,0.731,0.867,0,0.322,-5.003,0.0382,0.663,100.014,SingingAtTopOfOurLungs
 Story of My Life,One Direction,Midnight Memories (Deluxe),245493,False,82,3,1,4,0.225,0.6,0.663,0,0.119,-5.802,0.0477,0.286,121.07,SingingAtTopOfOurLungs
 Riptide,Vance Joy,Dream Your Life Away,204280,False,79,1,1,4,0.431,0.484,0.731,0,0.151,-6.694,0.0379,0.51,101.654,SingingAtTopOfOurLungs

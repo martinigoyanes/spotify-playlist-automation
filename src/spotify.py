@@ -133,3 +133,19 @@ class Spotify:
             # Last couple of songs, we exit the loop, there are not more songs in the playlist
             if len(playlist_json['items']) < limit:
                 break
+
+    def get_several_tracks_json(self, ids):
+        several_tracks_endpoint = f'https://api.spotify.com/v1/tracks'
+        several_tracks_headers = {
+            'Authorization': f'Bearer {self.access_token}'
+        }
+        several_tracks_body = {
+            'ids': ",".join(ids),
+        }
+
+        several_tracks_body_urlencoded = urlencode(several_tracks_body)
+        several_tracks_url = f"{several_tracks_endpoint}?{several_tracks_body_urlencoded}"
+        resp = requests.get(several_tracks_url, headers=several_tracks_headers)
+
+        return resp.json()
+            

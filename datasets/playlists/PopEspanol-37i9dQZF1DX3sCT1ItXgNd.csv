@@ -1,6 +1,6 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
-Chica Ideal,"Sebastian Yatra,Guaynaa",Chica Ideal,183240,False,89,0,0,4,0.0847,0.574,0.891,0,0.16,-3.665,0.157,0.707,100.978,PopEspanol
-Juramento eterno de sal,Álvaro De Luna,Juramento eterno de sal,205546,False,64,2,1,4,0.0225,0.631,0.594,1.91e-06,0.351,-5.727,0.0581,0.716,129.991,PopEspanol
+Chica Ideal,"Sebastian Yatra,Guaynaa",Chica Ideal,183240,False,90,0,0,4,0.0847,0.574,0.891,0,0.16,-3.665,0.157,0.707,100.978,PopEspanol
+Juramento eterno de sal,Álvaro De Luna,Juramento eterno de sal,205546,False,65,2,1,4,0.0225,0.631,0.594,1.91e-06,0.351,-5.727,0.0581,0.716,129.991,PopEspanol
 A Un Paso De La Luna,"Ana Mena,Rocco Hunt",A Un Paso De La Luna,167313,False,78,10,1,4,0.394,0.744,0.771,0,0.292,-5.403,0.0531,0.954,121.968,PopEspanol
 cómo te va?,"Lola Indigo,Beret",cómo te va?,218853,False,73,11,1,4,0.314,0.689,0.608,0,0.093,-7.245,0.144,0.556,90.165,PopEspanol
 Despeinada,"Ozuna,Camilo",ENOC,224186,False,87,8,1,4,0.186,0.734,0.775,0.000542,0.123,-3.855,0.0614,0.72,166.039,PopEspanol
@@ -8,7 +8,7 @@ Corazón Sin Vida,"Aitana,Sebastian Yatra",Corazón Sin Vida,181978,False,77,2,1
 Quiéreme Mientras Se Pueda,Manuel Turizo,Quiéreme Mientras Se Pueda,191945,False,85,4,1,4,0.447,0.793,0.782,0,0.124,-3.945,0.0582,0.81,143.86,PopEspanol
 Nada,"Cali Y El Dandee,Danna Paola",Nada,174026,False,84,0,1,4,0.0518,0.684,0.808,1.02e-05,0.0858,-2.737,0.061,0.712,173.905,PopEspanol
 Tu Foto Del DNI,"Marmi,Aitana",Tu Foto Del DNI,179653,False,74,10,0,4,0.0306,0.488,0.922,0,0.374,-2.542,0.0978,0.52,172.804,PopEspanol
-La Tirita,"Belén Aguilera,Lola Indigo",La Tirita,172632,False,58,0,1,4,0.0155,0.774,0.586,1.67e-05,0.117,-8.392,0.0506,0.713,102.008,PopEspanol
+La Tirita,"Belén Aguilera,Lola Indigo",La Tirita,172632,False,62,0,1,4,0.0155,0.774,0.586,1.67e-05,0.117,-8.392,0.0506,0.713,102.008,PopEspanol
 Más De Lo Que Aposté,"Aitana,Morat",Más De Lo Que Aposté,205031,False,75,1,0,4,0.0754,0.621,0.918,0,0.13,-3.01,0.0552,0.834,151.988,PopEspanol
 Con Los Pies En El Suelo,Cepeda,Con Los Pies En El Suelo,169508,False,63,1,1,4,0.0152,0.578,0.888,0,0.105,-2.904,0.0469,0.673,130.009,PopEspanol
 Un Beso en Madrid,"TINI,Alejandro Sanz",Un Beso en Madrid,143197,False,76,0,1,4,0.313,0.358,0.618,0,0.596,-6.794,0.0959,0.34,79.45,PopEspanol
@@ -20,12 +20,12 @@ Cuando Éramos Dos,"Sinsinati,Álvaro De Luna",Cuando Éramos Dos,205059,False,6
 Tattoo - Remix with Camilo,"Rauw Alejandro,Camilo",Tattoo (Remix with Camilo),222680,False,89,9,1,4,0.0413,0.848,0.637,0,0.0521,-5.132,0.156,0.698,96.988,PopEspanol
 Aún me amas,Beret,Aún me amas,220000,False,67,5,1,4,0.272,0.478,0.591,0,0.107,-7.278,0.0377,0.466,78.121,PopEspanol
 Llorarás,"Lérica,Sanco",Llorarás,196689,False,60,10,1,4,0.399,0.851,0.616,2.51e-05,0.331,-6.071,0.194,0.429,99.976,PopEspanol
-En Mute,"Lérica,Cali Y El Dandee,Omar Montes",En Mute,185102,False,56,0,1,4,0.0411,0.757,0.892,0,0.631,-1.393,0.0454,0.893,94.003,PopEspanol
+En Mute,"Lérica,Cali Y El Dandee,Omar Montes",En Mute,185102,False,58,0,1,4,0.0411,0.757,0.892,0,0.631,-1.393,0.0454,0.893,94.003,PopEspanol
 +,"Aitana,Cali Y El Dandee",+,219367,False,74,8,1,4,0.106,0.561,0.666,0,0.123,-4.243,0.0322,0.675,160.019,PopEspanol
 Nunca Te Olvidé,Morat,Nunca Te Olvidé,211970,False,68,6,1,4,0.0521,0.564,0.83,0,0.069,-4.46,0.0477,0.832,93.787,PopEspanol
 Cristina,Sebastian Yatra,Cristina,202040,False,69,5,1,3,0.286,0.649,0.502,0,0.166,-4.368,0.0437,0.695,87.0,PopEspanol
 Una Canción Así - Remix,"Kalimba,Juan Magán,Akapellah",Una Canción Así (Remix),186546,False,58,8,1,4,0.0267,0.76,0.612,0,0.0801,-5.304,0.166,0.642,180.044,PopEspanol
-BEBÉ,"Camilo,El Alfa",BEBÉ,198706,False,70,4,1,4,0.487,0.862,0.72,1.19e-06,0.0604,-4.048,0.0379,0.965,129.972,PopEspanol
+BEBÉ,"Camilo,El Alfa",BEBÉ,198706,False,72,4,1,4,0.487,0.862,0.72,1.19e-06,0.0604,-4.048,0.0379,0.965,129.972,PopEspanol
 High (Remix),"Maria Becerra,TINI,Lola Indigo",High (Remix),244200,False,80,9,0,4,0.152,0.668,0.351,0,0.113,-7.782,0.114,0.522,200.017,PopEspanol
 Sigo Buscandote,"Ovy On The Drums,Mau y Ricky",Sigo Buscandote,185224,False,70,8,1,4,0.244,0.859,0.691,0,0.107,-4.741,0.131,0.765,91.974,PopEspanol
 La Presión,"Lalo Ebratt,Manuel Turizo",La Presión,164818,False,74,7,1,4,0.03,0.843,0.634,0.00703,0.352,-5.165,0.105,0.778,95.029,PopEspanol
@@ -36,7 +36,7 @@ Si Me Dices Que Sí,"Reik,Farruko,Camilo",Si Me Dices Que Sí,211651,False,82,8,
 La Bella y la Bestia,"Reik,Morat",La Bella y la Bestia,186359,False,76,8,1,4,0.0254,0.625,0.759,0,0.114,-4.861,0.0592,0.566,89.951,PopEspanol
 Como Estrellas,LA YOUNG,Como Estrellas,219000,False,76,6,1,4,0.765,0.446,0.496,0,0.259,-6.051,0.0857,0.763,170.145,PopEspanol
 Quédate conmigo,"Pole.,Pilar Moxó",Quédate conmigo,216032,False,0,1,1,4,0.676,0.58,0.715,0,0.244,-4.735,0.0394,0.464,145.917,PopEspanol
-Ese o ese,Anaju,Ese o ese,206934,False,49,8,1,4,0.152,0.674,0.463,0.000141,0.148,-7.491,0.0652,0.359,136.998,PopEspanol
+Ese o ese,Anaju,Ese o ese,206934,False,50,8,1,4,0.152,0.674,0.463,0.000141,0.148,-7.491,0.0652,0.359,136.998,PopEspanol
 Vida de Rico,Camilo,Vida de Rico,187426,False,91,6,1,4,0.167,0.824,0.457,0,0.041,-5.428,0.0543,0.95,87.977,PopEspanol
 ADMV,Maluma,ADMV,193699,False,78,9,1,4,0.817,0.565,0.39,0,0.126,-4.959,0.0556,0.708,163.781,PopEspanol
 Por Última Vez,Nil Moliner,Bailando en la batalla,192419,False,59,8,1,4,0.618,0.641,0.398,0,0.186,-9.614,0.0356,0.658,85.023,PopEspanol
@@ -46,16 +46,16 @@ Me Equivocaré,Antonio José,Me Equivocaré,152722,False,62,2,1,4,0.0623,0.563,0
 TBT,"Sebastian Yatra,Rauw Alejandro,Manuel Turizo",TBT,239133,False,76,2,1,4,0.0362,0.794,0.855,0,0.142,-1.959,0.0466,0.639,91.963,PopEspanol
 Santería,"Lola Indigo,Danna Paola,Denise Rosenthal",Santería,184000,False,75,11,0,4,0.025,0.74,0.892,0,0.188,-2.756,0.0664,0.826,105.003,PopEspanol
 Ando Perdido,Antonio José,Ando Perdido,172084,False,59,2,1,4,0.498,0.751,0.441,0,0.0899,-8.509,0.128,0.597,87.975,PopEspanol
-Como Tú,"Edurne,Efecto Pasillo",Como Tú,178843,False,42,5,1,4,0.0851,0.699,0.902,0,0.225,-3.295,0.0558,0.507,93.899,PopEspanol
+Como Tú,"Edurne,Efecto Pasillo",Como Tú,178843,False,44,5,1,4,0.0851,0.699,0.902,0,0.225,-3.295,0.0558,0.507,93.899,PopEspanol
 Puñales,Dani Fernández,Puñales,205050,False,58,9,1,4,0.0169,0.523,0.7,0,0.0884,-6.169,0.0404,0.265,142.073,PopEspanol
 Al Aire,Morat,Al Aire,169333,False,71,8,1,4,0.00529,0.459,0.89,0,0.166,-3.159,0.0582,0.69,180.088,PopEspanol
 Quédate a dormir conmigo,Despistaos,Quédate a dormir conmigo,206743,False,55,7,1,4,0.00478,0.576,0.809,5.82e-06,0.0537,-4.813,0.0301,0.43,164.958,PopEspanol
-Mi huella,"Ptazeta,Juacko",Mi huella,191250,False,57,0,1,4,0.459,0.713,0.751,0,0.128,-6.956,0.222,0.771,99.942,PopEspanol
-Qué bien te quedaba,Walls,Qué bien te quedaba,168000,False,48,5,1,4,0.665,0.746,0.759,1.07e-06,0.339,-5.97,0.171,0.675,104.994,PopEspanol
+Mi huella,"Ptazeta,Juacko",Mi huella,191250,False,58,0,1,4,0.459,0.713,0.751,0,0.128,-6.956,0.222,0.771,99.942,PopEspanol
+Qué bien te quedaba,Walls,Qué bien te quedaba,168000,False,51,5,1,4,0.665,0.746,0.759,1.07e-06,0.339,-5.97,0.171,0.675,104.994,PopEspanol
 Calma,Nil Moliner,Calma,182370,False,58,9,1,4,0.128,0.773,0.545,0,0.0773,-7.896,0.13,0.784,97.009,PopEspanol
 Algo Diferente,TIMØ,Algo Diferente,206592,False,56,2,1,4,0.122,0.709,0.764,0,0.367,-4.885,0.042,0.797,91.923,PopEspanol
 10 Minutos Más,Fase,10 Minutos Más,207269,False,49,10,1,4,0.00259,0.436,0.662,0,0.0817,-4.497,0.0305,0.852,151.92,PopEspanol
-UN POQUITO,"Samantha,Lérica",NADA,204028,False,52,7,1,4,0.201,0.683,0.787,0,0.0944,-4.303,0.14,0.557,180.036,PopEspanol
+UN POQUITO,"Samantha,Lérica",NADA,204028,False,53,7,1,4,0.201,0.683,0.787,0,0.0944,-4.303,0.14,0.557,180.036,PopEspanol
 Una Vez Más,"David Otero,Nil Moliner,Arnau Griso",Una Vez Más,159699,False,52,11,1,4,0.0411,0.567,0.919,2.57e-06,0.26,-3.711,0.0634,0.885,168.029,PopEspanol
-Fusión del Núcleo,Chica Sobresalto,Fusión del Núcleo,185212,False,59,0,0,4,0.342,0.621,0.786,7.93e-06,0.0911,-4.022,0.0417,0.304,126.112,PopEspanol
+Fusión del Núcleo,Chica Sobresalto,Fusión del Núcleo,185212,False,60,0,0,4,0.342,0.621,0.786,7.93e-06,0.0911,-4.022,0.0417,0.304,126.112,PopEspanol
 Otra Ronda Más,"Hens,Belén Aguilera",Otra Ronda Más,153944,False,54,1,1,4,0.271,0.678,0.673,0,0.118,-6.671,0.109,0.311,90.047,PopEspanol

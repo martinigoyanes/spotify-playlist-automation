@@ -3,7 +3,7 @@ DUELE EL CORAZON (feat. Wisin),"Enrique Iglesias,Wisin",DUELE EL CORAZON (feat. 
 Baila Conmigo,"Juan Magán,Luciana",Baila Conmigo,194800,False,0,6,0,4,0.0824,0.885,0.703,2.39e-05,0.0639,-6.468,0.0878,0.824,100.002,Reggaeton
 Bobo,J Balvin,Bobo,209600,False,0,10,1,4,0.109,0.73,0.885,1.73e-05,0.117,-2.902,0.116,0.799,177.939,Reggaeton
 Picky,Joey Montana,Picky,180639,False,0,1,1,4,0.151,0.806,0.753,0,0.283,-4.702,0.0681,0.805,93.267,Reggaeton
-Traidora (feat. Marc Anthony),"Gente De Zona,Marc Anthony",Traidora (feat. Marc Anthony),216453,False,5,10,1,4,0.222,0.713,0.925,0,0.37,-4.949,0.0549,0.532,94.987,Reggaeton
+Traidora (feat. Marc Anthony),"Gente De Zona,Marc Anthony",Traidora (feat. Marc Anthony),216453,False,4,10,1,4,0.222,0.713,0.925,0,0.37,-4.949,0.0549,0.532,94.987,Reggaeton
 Me Voy Enamorando - Remix,"Chino & Nacho,Farruko,Arbise González",Radio Universo,215799,False,0,10,1,4,0.0864,0.71,0.866,0,0.385,-4.503,0.0608,0.518,99.958,Reggaeton
 Vuelve,"Juan Magán,Paulina Rubio,DCS",The King Is Back (#LatinIBIZAte),213240,False,0,5,1,4,0.641,0.655,0.69,0,0.0909,-6.513,0.0383,0.938,174.089,Reggaeton
 Sígueme Y Te Sigo,Daddy Yankee,Sígueme Y Te Sigo,209786,False,0,11,1,4,0.0723,0.745,0.882,2.45e-05,0.73,-3.636,0.0407,0.693,100.014,Reggaeton
@@ -69,7 +69,7 @@ La Bicicleta,"Carlos Vives,Shakira",La Bicicleta,227457,False,1,0,1,4,0.206,0.74
 "Ay MI Dios (feat. Pitbull, Yandel & Chacal)","IAmChino,Pitbull,Yandel,El Chacal","Ay MI Dios (feat. Pitbull, Yandel & Chacal)",252003,False,5,0,0,4,0.167,0.761,0.829,0,0.189,-3.203,0.0681,0.813,92.033,Reggaeton
 Safari,"J Balvin,Pharrell Williams,BIA,Sky",Energía,205600,False,1,0,1,4,0.551,0.508,0.687,3.41e-06,0.126,-4.361,0.326,0.555,180.044,Reggaeton
 Hasta Que Se Seque el Malecón - Remix,"Jacob Forever,Farruko",Hasta Que Se Seque el Malecón (Remix),216093,False,0,7,0,4,0.356,0.802,0.842,5.18e-06,0.128,-5.734,0.037,0.73,100.009,Reggaeton
-Chantaje,"Shakira,Maluma",Chantaje,195612,False,0,8,0,4,0.168,0.859,0.756,4.65e-05,0.163,-3.36,0.0643,0.91,102.033,Reggaeton
+Chantaje,"Shakira,Maluma",Chantaje,195612,False,1,8,0,4,0.168,0.859,0.756,4.65e-05,0.163,-3.36,0.0643,0.91,102.033,Reggaeton
 Reggaetón Lento (Bailemos),CNCO,Primera Cita,222560,False,73,4,0,4,0.4,0.761,0.838,0,0.176,-3.073,0.0502,0.71,93.974,Reggaeton
 Vente Pa' Ca (feat. Maluma),"Ricky Martin,Maluma",Vente Pa' Ca (feat. Maluma),259195,False,72,11,0,4,0.00431,0.663,0.92,1.69e-05,0.101,-4.07,0.226,0.533,99.935,Reggaeton
 Otra vez (feat. J Balvin),"Zion & Lennox,J Balvin",Motivan2,209453,False,73,10,1,4,0.0559,0.832,0.772,0.000486,0.44,-5.429,0.1,0.704,96.016,Reggaeton
@@ -78,18 +78,18 @@ Gyal You A Party Animal - Remix,"Charly Black,Daddy Yankee",Gyal You A Party Ani
 Vacaciones,Wisin,Vacaciones,238800,False,0,6,0,4,0.256,0.772,0.909,0,0.255,-3.225,0.166,0.694,96.031,Reggaeton
 Manicomio,Cosculluela,Blanco Perla,228662,False,58,8,1,4,0.0213,0.744,0.754,1.33e-06,0.14,-3.829,0.24,0.841,180.039,Reggaeton
 Quiero Que Sepas,Juan Magán,Quiero Que Sepas,248093,False,0,8,1,4,0.391,0.715,0.656,0,0.115,-5.673,0.0484,0.593,110.055,Reggaeton
-Despacito (Featuring Daddy Yankee),"Luis Fonsi,Daddy Yankee",Despacito (Featuring Daddy Yankee),228200,False,4,2,1,4,0.209,0.66,0.786,0,0.112,-4.757,0.17,0.846,177.833,Reggaeton
+Despacito (Featuring Daddy Yankee),"Luis Fonsi,Daddy Yankee",Despacito (Featuring Daddy Yankee),228200,False,5,2,1,4,0.209,0.66,0.786,0,0.112,-4.757,0.17,0.846,177.833,Reggaeton
 SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),"Enrique Iglesias,Descemer Bueno,Zion & Lennox",SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),208162,False,72,9,0,4,0.0744,0.684,0.823,0,0.111,-3.297,0.0773,0.647,91.048,Reggaeton
 El Amante,Nicky Jam,Fénix,219506,False,69,8,1,4,0.243,0.683,0.691,0,0.14,-5.535,0.0432,0.732,179.91,Reggaeton
 Te De Campana,Atomic Otro Way,Te De Campana,198624,True,3,11,1,4,0.0485,0.811,0.927,0,0.416,-1.711,0.0835,0.706,105.045,Reggaeton
 Despacito - Remix,"Luis Fonsi,Daddy Yankee,Justin Bieber",Despacito Feat. Justin Bieber (Remix),228826,False,73,2,1,4,0.228,0.653,0.816,0,0.0967,-4.353,0.167,0.816,178.085,Reggaeton
 Me Rehúso,Danny Ocean,Me Rehúso,205741,False,0,1,1,4,0.0258,0.746,0.794,0,0.0497,-6.331,0.0698,0.447,104.827,Reggaeton
 Lumbra,"Cali Y El Dandee,Shaggy",Lumbra,197086,False,0,0,1,4,0.053,0.724,0.84,0,0.727,-3.581,0.0392,0.835,92.01,Reggaeton
-Soy Peor,Bad Bunny,Soy Peor,257327,True,2,0,0,4,0.679,0.732,0.605,0.0029,0.114,-3.15,0.086,0.143,115.942,Reggaeton
+Soy Peor,Bad Bunny,Soy Peor,257327,True,1,0,0,4,0.679,0.732,0.605,0.0029,0.114,-3.15,0.086,0.143,115.942,Reggaeton
 Una Lady Como Tú,Manuel Turizo,Una Lady Como Tú,213026,False,71,4,1,4,0.549,0.788,0.477,0,0.349,-7.348,0.0434,0.86,94.983,Reggaeton
 Mala Mujer,C. Tangana,Mala Mujer,222896,False,61,0,0,4,0.238,0.836,0.731,2.19e-05,0.0698,-4.572,0.133,0.473,100.974,Reggaeton
 Superman Sin Capa,El Super Nuevo,Superman Sin Capa,230257,True,20,4,0,4,0.0992,0.88,0.906,1.26e-05,0.136,-1.461,0.0809,0.543,115.019,Reggaeton
-Hey DJ,"CNCO,Yandel",Hey DJ,205520,False,1,5,1,4,0.0309,0.792,0.819,0,0.389,-5.418,0.0867,0.433,89.98,Reggaeton
+Hey DJ,"CNCO,Yandel",Hey DJ,205520,False,2,5,1,4,0.0309,0.792,0.819,0,0.389,-5.418,0.0867,0.433,89.98,Reggaeton
 Una en un Millón,Alexis y Fido,Una en un Millón - Single,208440,False,0,4,0,4,0.355,0.86,0.709,0,0.0969,-4.717,0.0581,0.531,94.996,Reggaeton
 Gasolina,Daddy Yankee,Gasolina,192560,False,1,0,1,4,0.331,0.853,0.808,5.44e-06,0.0643,-6.494,0.0575,0.729,96.02,Reggaeton
 La conocí bailando (feat. K-Narias) - Radio Edit,"Dr. Bellido,K-Narias",La conocí bailando (feat. K-Narias),181115,False,54,0,0,4,0.265,0.711,0.841,0,0.268,-3.803,0.0322,0.658,104.033,Reggaeton
@@ -120,14 +120,14 @@ Criminal,"Natti Natasha,Ozuna",Criminal,232549,False,75,2,0,4,0.03,0.814,0.813,9
 Chambea,Bad Bunny,Chambea,191999,True,1,0,1,4,0.24,0.854,0.868,0.00204,0.152,-3.455,0.154,0.631,115.99,Reggaeton
 Felices los 4,Maluma,Felices los 4,229848,False,3,5,1,4,0.231,0.755,0.789,0,0.351,-4.502,0.146,0.737,93.973,Reggaeton
 Mi Gente,"J Balvin,Willy William",Mi Gente,189440,False,2,11,0,4,0.0148,0.543,0.677,6.21e-06,0.13,-4.915,0.0993,0.294,103.809,Reggaeton
-Échame La Culpa,"Luis Fonsi,Demi Lovato",Échame La Culpa,173720,False,2,7,1,4,0.0322,0.724,0.895,0,0.097,-3.617,0.0411,0.64,96.022,Reggaeton
+Échame La Culpa,"Luis Fonsi,Demi Lovato",Échame La Culpa,173720,False,3,7,1,4,0.0322,0.724,0.895,0,0.097,-3.617,0.0411,0.64,96.022,Reggaeton
 Corazón,"Maluma,Nego do Borel",Corazón,184066,False,3,4,0,4,0.283,0.871,0.768,2.25e-05,0.162,-5.401,0.122,0.765,98.989,Reggaeton
 Se Preparó,Ozuna,Odisea,188080,False,73,1,1,4,0.222,0.739,0.821,9.6e-06,0.311,-4.233,0.0852,0.693,171.077,Reggaeton
 Perro Fiel (feat. Nicky Jam),"Shakira,Nicky Jam",El Dorado,195213,False,69,1,1,4,0.187,0.75,0.76,0,0.0548,-4.836,0.198,0.893,183.817,Reggaeton
 Suena El Dembow,"Joey Montana,Sebastian Yatra",Suena El Dembow,195813,False,0,0,1,4,0.186,0.688,0.859,0,0.121,-4.447,0.0609,0.695,92.042,Reggaeton
 Me Rehúso,Danny Ocean,Me Rehúso,205714,False,75,1,1,4,0.0231,0.744,0.804,0,0.0494,-6.327,0.0677,0.426,104.823,Reggaeton
 Havana,"Camila Cabello,Young Thug",Havana,216896,False,5,7,0,4,0.186,0.768,0.517,3.8e-05,0.104,-4.323,0.0312,0.418,104.992,Reggaeton
-Bum Bum Tam Tam,"MC Fioti,Future,J Balvin,Stefflon Don,Juan Magán",Bum Bum Tam Tam,213988,True,0,1,1,4,0.346,0.896,0.673,1.28e-05,0.206,-3.872,0.139,0.714,131.99,Reggaeton
+Bum Bum Tam Tam,"MC Fioti,Future,J Balvin,Stefflon Don,Juan Magán",Bum Bum Tam Tam,213988,True,1,1,1,4,0.346,0.896,0.673,1.28e-05,0.206,-3.872,0.139,0.714,131.99,Reggaeton
 Que Va,"Alex Sensation,Ozuna",Que Va,238160,False,1,0,1,4,0.13,0.771,0.835,0,0.0601,-3.388,0.0507,0.817,91.012,Reggaeton
 Ahora Dice,"Chris Jeday,J Balvin,Ozuna,Arcangel",Ahora Dice,271080,False,1,6,1,4,0.246,0.708,0.693,0,0.129,-5.516,0.138,0.427,143.965,Reggaeton
 Tú Foto,Ozuna,Odisea,193226,False,70,7,1,4,0.164,0.748,0.565,0.00169,0.103,-5.895,0.0476,0.812,175.92,Reggaeton
@@ -142,7 +142,7 @@ Bandida (feat. Maluma),"Danny Romero,Maluma",Bandida (feat. Maluma),193333,False
 No Hay Nadie Más,Sebastian Yatra,No Hay Nadie Más,197680,False,0,6,1,4,0.845,0.684,0.378,0,0.0969,-9.14,0.0381,0.771,105.015,Reggaeton
 X,"Nicky Jam,J Balvin",X,173627,False,9,9,0,4,0.0364,0.595,0.773,0.00108,0.334,-4.736,0.0549,0.711,180.073,Reggaeton
 Sin Maquillaje,El Nene la Amenazzy,Sin Maquillaje,191502,False,0,10,1,4,0.362,0.731,0.734,2.31e-06,0.135,-5.137,0.0735,0.748,168.131,Reggaeton
-Déjate Llevar,"Juan Magán,Belinda,Manuel Turizo,Snova,B-Case",Déjate Llevar,233071,False,0,7,1,4,0.0166,0.675,0.724,0,0.697,-5.503,0.0787,0.506,92.051,Reggaeton
+Déjate Llevar,"Juan Magán,Belinda,Manuel Turizo,Snova,B-Case",Déjate Llevar,233071,False,1,7,1,4,0.0166,0.675,0.724,0,0.697,-5.503,0.0787,0.506,92.051,Reggaeton
 Síguelo Bailando,Ozuna,Odisea,226800,False,70,9,0,4,0.165,0.855,0.664,3.97e-05,0.0937,-7.11,0.0607,0.626,98.015,Reggaeton
 EL BAÑO (feat. Bad Bunny),"Enrique Iglesias,Bad Bunny",EL BAÑO (feat. Bad Bunny),228138,False,65,6,0,4,0.132,0.719,0.842,0,0.105,-3.562,0.0383,0.534,90.017,Reggaeton
 To My Love - Tainy Remix,"Bomba Estéreo,Tainy",Amanecer (Remixed),251773,False,68,7,1,4,0.129,0.764,0.59,0.00847,0.0851,-4.292,0.0395,0.281,99.996,Reggaeton
@@ -163,7 +163,7 @@ Dimelo,Paulo Londra,Dimelo,212444,False,0,2,1,4,0.0563,0.832,0.71,0,0.086,-5.541
 Por Perro,"Sebastian Yatra,Luis Figueroa,Lary Over",Por Perro,245360,False,60,0,1,4,0.419,0.685,0.762,0,0.0759,-5.147,0.0565,0.905,172.017,Reggaeton
 Mitad y Mitad,"Kase.O,Najwa",El Círculo (Versión Exclusiva de Spotify),331933,False,56,7,1,4,0.0951,0.941,0.46,0.000129,0.0686,-11.474,0.181,0.598,120.0,Reggaeton
 Angelito Sin Alas (feat. Juan Magán) - Remix,"DCS,Juan Magán",Angelito Sin Alas (feat. Juan Magán) [Remix],205053,False,0,7,1,4,0.252,0.731,0.91,0,0.104,-4.634,0.0664,0.879,120.025,Reggaeton
-Antes de Morirme (feat. Rosalía),"C. Tangana,ROSALÍA",Antes de Morirme (feat. Rosalía),199994,True,69,8,0,4,0.0718,0.865,0.498,0.00312,0.108,-8.882,0.168,0.131,97.921,Reggaeton
+Antes de Morirme (feat. Rosalía),"C. Tangana,ROSALÍA",Antes de Morirme (feat. Rosalía),199994,True,68,8,0,4,0.0718,0.865,0.498,0.00312,0.108,-8.882,0.168,0.131,97.921,Reggaeton
 Duro y Suave,"Leslie Grace,Noriel",Duro y Suave,207720,False,65,10,0,4,0.111,0.769,0.721,5.9e-05,0.0505,-4.483,0.153,0.618,94.978,Reggaeton
 Bien Duro,C. Tangana,Bien Duro,182540,False,61,7,1,4,0.163,0.845,0.67,0.0242,0.1,-5.873,0.207,0.69,101.028,Reggaeton
 Estamos Bien,Bad Bunny,Estamos Bien,208079,True,1,9,0,4,0.831,0.793,0.557,4.45e-06,0.103,-5.618,0.1,0.468,120.118,Reggaeton
@@ -183,7 +183,7 @@ Ya No Quiero Ná,Lola Indigo,Ya No Quiero Ná,192975,False,54,2,1,4,0.12,0.846,0
 Asesina,"Brytiago,Darell",Asesina,187213,False,63,10,0,4,0.614,0.845,0.663,0,0.114,-5.233,0.27,0.508,94.215,Reggaeton
 El Motorcito,Lirico En La Casa,El Motorcito,169293,False,57,10,1,4,0.0575,0.904,0.723,0.145,0.308,-7.841,0.115,0.826,118.014,Reggaeton
 Purpurina,Alberto gambino,Purpurina,194951,True,0,9,1,4,0.255,0.815,0.683,0,0.114,-4.988,0.0777,0.969,129.975,Reggaeton
-"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake,Selena Gomez,Ozuna,Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",212500,True,79,8,0,4,0.157,0.842,0.801,4.82e-06,0.0642,-4.167,0.228,0.617,95.881,Reggaeton
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake,Selena Gomez,Ozuna,Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",212500,True,78,8,0,4,0.157,0.842,0.801,4.82e-06,0.0642,-4.167,0.228,0.617,95.881,Reggaeton
 Muevelo,"Lirico En La Casa,Atomic Otro Way",Muevelo,203441,False,0,3,1,4,0.16,0.889,0.835,3.06e-06,0.0748,-7.311,0.102,0.934,118.021,Reggaeton
 Jaleo,"Nicky Jam,Steve Aoki",Jaleo,176000,False,57,11,0,4,0.0097,0.623,0.872,0,0.0708,-3.773,0.147,0.355,105.147,Reggaeton
 Booty,"C. Tangana,Becky G,Alizzz",Booty,173366,False,66,1,1,4,0.0167,0.825,0.771,2.04e-06,0.0901,-4.116,0.0804,0.718,102.927,Reggaeton
@@ -201,7 +201,7 @@ PPP,Kevin Roldan,PPP,129039,False,65,4,1,4,0.363,0.786,0.65,8.17e-05,0.122,-6.83
 Celoso,Lele Pons,Celoso,179693,False,67,4,0,4,0.352,0.746,0.703,0,0.331,-4.179,0.107,0.667,166.043,Reggaeton
 Desde el Corazón,Bad Bunny,Más de un Siglo,127040,False,60,10,0,4,0.0529,0.739,0.663,0,0.198,-6.398,0.266,0.368,180.025,Reggaeton
 Ta to Gucci,"Cauty,Rafa Pabön",Ta to Gucci,174383,True,0,1,0,4,0.523,0.867,0.59,0.00142,0.109,-7.778,0.386,0.572,93.9,Reggaeton
-Traag,"Bizzey,Jozo,Kraantje Pappie",Traag,189619,False,53,0,1,4,0.0929,0.837,0.871,0.02,0.099,-4.319,0.0662,0.646,99.992,Reggaeton
+Traag,"Bizzey,Jozo,Kraantje Pappie",Traag,189619,False,54,0,1,4,0.0929,0.837,0.871,0.02,0.099,-4.319,0.0662,0.646,99.992,Reggaeton
 La Despedida,Daddy Yankee,Mundial (Deluxe Version),202826,False,68,2,0,4,0.0866,0.746,0.993,0.0548,0.0689,-2.134,0.0499,0.972,122.046,Reggaeton
 Solo de Mi,Bad Bunny,Solo de Mi,197967,True,71,10,0,4,0.287,0.743,0.73,8.1e-05,0.0778,-4.314,0.125,0.15,179.972,Reggaeton
 Fácil,"Jesse Baez,C. Tangana",Fácil,168093,True,51,1,0,4,0.311,0.58,0.678,0,0.255,-7.001,0.164,0.344,135.546,Reggaeton
@@ -218,7 +218,7 @@ Ta To Gucci (Remix),"Cauty,Brytiago,Darell,Cosculluela,Rafa Pabön,Chencho Corle
 Contando Lunares (feat. Cruz Cafuné),"Don Patricio,Cruz Cafuné",La Dura Vida del Joven Rapero,219666,True,1,4,0,4,0.444,0.856,0.523,0,0.0537,-10.481,0.131,0.709,105.935,Reggaeton
 París,"DELLAFUENTE,C. Tangana,Alizzz",París,192894,False,59,9,0,4,0.155,0.894,0.646,0,0.11,-6.417,0.0893,0.539,113.998,Reggaeton
 Pa' Llamar Tu Atención (feat. MC Bin Laden),"C. Tangana,Alizzz,MC Bin Laden",Pa' Llamar Tu Atención (feat. MC Bin Laden),177613,False,65,5,0,4,0.188,0.884,0.738,0,0.0812,-3.265,0.0837,0.678,131.91,Reggaeton
-NI BIEN NI MAL,Bad Bunny,X 100PRE,236215,True,75,5,0,4,0.556,0.826,0.449,1.85e-05,0.273,-8.33,0.0674,0.337,128.028,Reggaeton
+NI BIEN NI MAL,Bad Bunny,X 100PRE,236215,True,76,5,0,4,0.556,0.826,0.449,1.85e-05,0.273,-8.33,0.0674,0.337,128.028,Reggaeton
 Mujer Bruja,"Lola Indigo,Mala Rodríguez",Mujer Bruja,203773,False,55,10,0,4,0.0946,0.773,0.917,0.000109,0.0885,-2.166,0.0629,0.763,105.966,Reggaeton
 Enchochado de Ti,Don Patricio,La Dura Vida del Joven Rapero,213373,True,0,7,1,4,0.402,0.556,0.508,0.00533,0.165,-6.564,0.352,0.53,180.071,Reggaeton
 Malito,"Sticky M.A.,IAMTOMMY",Malito,168000,False,44,2,1,4,0.073,0.72,0.505,0,0.118,-9.243,0.0943,0.397,79.963,Reggaeton
@@ -231,7 +231,7 @@ Noche De Sexo,"Wisin & Yandel,Romeo Santos",Pa'l Mundo,205706,False,69,2,1,4,0.1
 Pasado pisado,"Comando Tiburon,Mach and Daddy",Ya tu sabes quienes son,197773,False,0,8,1,4,0.118,0.571,0.823,6.55e-05,0.0416,-5.874,0.193,0.913,128.975,Reggaeton
 Ganas Sobran,"Bryant Myers,Miky Woodz,Justin Quiles",Cambio de Clima,237920,False,63,9,1,4,0.369,0.803,0.597,0,0.0998,-4.144,0.127,0.688,85.056,Reggaeton
 #Idiota,Juan Magán,#Idiota,183923,True,44,5,1,4,0.0384,0.704,0.69,0.00016,0.133,-4.444,0.0283,0.522,101.988,Reggaeton
-Donde Estan Las Gatas (feat. Nicky Jam),"Daddy Yankee,Nicky Jam",Alex Gargolas Greatest Hits,170005,False,10,7,0,4,0.194,0.836,0.961,0,0.074,-2.679,0.0635,0.76,109.957,Reggaeton
+Donde Estan Las Gatas (feat. Nicky Jam),"Daddy Yankee,Nicky Jam",Alex Gargolas Greatest Hits,170005,False,9,7,0,4,0.194,0.836,0.961,0,0.074,-2.679,0.0635,0.76,109.957,Reggaeton
 Swing (Bonus Track),Danny Ocean,Swing,155058,False,0,8,1,4,0.458,0.729,0.616,0,0.082,-6.422,0.249,0.532,106.486,Reggaeton
 Disfruto - Remix,Audioiko,Disfruto (Remix),230000,False,2,1,0,4,0.0734,0.79,0.82,0.0035,0.3,-5.322,0.117,0.137,114.025,Reggaeton
 Bambino,"Recycled J,Selecta",Bambino,156000,False,52,4,1,4,0.357,0.667,0.772,0,0.0763,-6.193,0.298,0.294,179.918,Reggaeton
@@ -239,7 +239,7 @@ Los Tenis en Casa,Don Patricio,El Regueton Está Pa Allá,234666,True,0,0,1,4,0.
 Autoestima,Cupido,Préstame Un Sentimiento,178390,False,50,5,0,4,0.785,0.79,0.453,0,0.0996,-10.816,0.0992,0.591,148.139,Reggaeton
 Te invito a beber,Air Magno,Sin Rumbo,224000,False,29,1,1,4,0.283,0.691,0.845,0,0.0805,-5.821,0.0511,0.796,90.006,Reggaeton
 Contra La Pared,Dj Valdis,Contra La Pared,206096,False,1,9,1,4,0.00507,0.826,0.699,4.62e-05,0.0331,-6.261,0.0688,0.802,119.98,Reggaeton
-La Playa,Myke Towers,La Playa,207731,True,68,10,0,4,0.108,0.796,0.683,0,0.107,-2.754,0.15,0.353,140.108,Reggaeton
+La Playa,Myke Towers,La Playa,207731,True,67,10,0,4,0.108,0.796,0.683,0,0.107,-2.754,0.15,0.353,140.108,Reggaeton
 La Romana,"Bad Bunny,El Alfa",X 100PRE,300579,True,73,0,1,4,0.0327,0.655,0.725,0.00264,0.0611,-5.497,0.188,0.326,125.8,Reggaeton
 Soltera,"Lunay,Chris Jeday,Gaby Music",Soltera,213913,False,60,5,1,4,0.446,0.778,0.731,0,0.251,-4.325,0.0399,0.854,91.991,Reggaeton
 Soltera - Remix,"Lunay,Daddy Yankee,Bad Bunny",Soltera (Remix),266086,False,77,5,1,4,0.361,0.795,0.783,0,0.437,-4.271,0.0432,0.799,92.01,Reggaeton
@@ -249,7 +249,7 @@ Contra La Pared,"Sean Paul,J Balvin",Contra La Pared,224680,False,72,2,1,4,0.015
 Con Altura,"ROSALÍA,J Balvin,El Guincho",Con Altura,161626,False,78,6,1,4,0.39,0.882,0.689,0.00325,0.0501,-4.027,0.124,0.746,97.963,Reggaeton
 Verte Ir,"DJ Luian,Mambo Kingz,Anuel AA,Nicky Jam,Darell,Brytiago",Verte Ir,267500,False,74,11,0,4,0.391,0.857,0.647,1.2e-06,0.0842,-4.152,0.0984,0.553,95.982,Reggaeton
 Cristina (feat. Shelow Shaq),"Maffio,Justin Quiles,Nacho,Shelow Shaq",Cristina (feat. Shelow Shaq),186893,False,66,1,1,4,0.183,0.861,0.599,0,0.0921,-4.205,0.246,0.869,102.119,Reggaeton
-200 Mph,"Bad Bunny,Diplo,Nitti Gritti",X 100PRE,170509,True,69,8,1,4,0.0139,0.85,0.5,0.000384,0.0947,-6.708,0.0665,0.816,160.02,Reggaeton
+200 Mph,"Bad Bunny,Diplo,Nitti Gritti",X 100PRE,170509,True,70,8,1,4,0.0139,0.85,0.5,0.000384,0.0947,-6.708,0.0665,0.816,160.02,Reggaeton
 Si Se Da,"Myke Towers,Farruko",Si Se Da,237013,True,69,11,0,4,0.374,0.83,0.71,0,0.0877,-5.523,0.326,0.703,93.977,Reggaeton
 Ontas?,C. Tangana,Ontas?,197441,False,54,10,0,4,0.182,0.711,0.804,0,0.0973,-3.606,0.0543,0.88,172.001,Reggaeton
 Callaita,"Bad Bunny,Tainy",Callaita,250533,True,82,2,1,4,0.6,0.61,0.624,2.12e-06,0.243,-4.773,0.309,0.244,176.169,Reggaeton
@@ -270,7 +270,7 @@ Señorita,"Shawn Mendes,Camila Cabello",Shawn Mendes (Deluxe),190799,False,82,9,
 No Me Conoce - Remix,"Jhay Cortez,J Balvin,Bad Bunny",Famouz,309120,False,79,10,0,4,0.145,0.806,0.786,0,0.0935,-3.831,0.0741,0.58,91.973,Reggaeton
 Calypso,"Luis Fonsi,Stefflon Don",Calypso,200346,False,63,1,0,4,0.138,0.866,0.859,0,0.401,-3.087,0.0587,0.923,109.972,Reggaeton
 Un Año,"Sebastian Yatra,Reik",Un Año,164440,False,73,1,0,4,0.148,0.771,0.382,0,0.104,-6.808,0.0514,0.535,94.931,Reggaeton
-Rana,Karetta el Gucci,Rana,193567,True,52,9,1,4,0.582,0.877,0.813,0.123,0.0983,-4.256,0.17,0.691,113.017,Reggaeton
+Rana,Karetta el Gucci,Rana,193567,True,51,9,1,4,0.582,0.877,0.813,0.123,0.0983,-4.256,0.17,0.691,113.017,Reggaeton
 Tanta Falta,Bryant Myers,Tanta Falta,181093,False,3,7,1,4,0.135,0.856,0.728,1e-06,0.2,-3.497,0.0916,0.797,89.999,Reggaeton
 El Farsante,Ozuna,Odisea,233826,False,76,6,1,4,0.2,0.735,0.703,0,0.259,-4.249,0.0611,0.323,120.007,Reggaeton
 Verano Azul,Juan Magán,Verano Azul,190560,False,65,2,1,4,0.0145,0.887,0.87,0,0.015,-5.267,0.119,0.838,126.048,Reggaeton
@@ -280,7 +280,7 @@ La Rubia - Remix 2,"La Nueva Escuela,Omar Montes",La Rubia,210860,False,62,7,1,4
 Rebota - Remix,"Guaynaa,Nicky Jam,Farruko,Becky G,Sech",Rebota (Remix),262000,True,67,0,0,4,0.205,0.885,0.857,0,0.671,-2.279,0.204,0.818,90.025,Reggaeton
 QUE PRETENDES,"J Balvin,Bad Bunny",OASIS,222346,False,78,10,0,4,0.0275,0.639,0.791,0,0.362,-4.443,0.253,0.939,92.603,Reggaeton
 No Te Veo - Remix,"Casper Magico,Anuel AA",No Te Veo,252440,True,63,1,1,4,0.485,0.861,0.786,2.44e-05,0.113,-3.833,0.229,0.778,104.017,Reggaeton
-Voy a Beber,Nicky Jam,Nicky Jam Hits,211888,False,60,0,1,4,0.0392,0.763,0.76,0,0.133,-4.672,0.0596,0.916,163.969,Reggaeton
+Voy a Beber,Nicky Jam,Nicky Jam Hits,211888,False,59,0,1,4,0.0392,0.763,0.76,0,0.133,-4.672,0.0596,0.916,163.969,Reggaeton
 DOLLAR,"Becky G,Myke Towers",DOLLAR,203486,False,67,2,1,4,0.232,0.862,0.5,0,0.657,-6.875,0.276,0.697,76.992,Reggaeton
 Pobre Diabla,Don Omar,Musica Tropical Para Bailar,254480,False,49,5,1,4,0.43,0.734,0.741,0.0194,0.0693,-7.016,0.0627,0.838,92.015,Reggaeton
 Colombiana,Chimbala,Colombiana,186801,True,0,4,0,5,0.265,0.56,0.99,0,0.154,-2.291,0.265,0.947,152.31,Reggaeton
@@ -292,14 +292,14 @@ Purpurina,Alberto gambino,Purpurina,193181,True,57,9,1,4,0.135,0.892,0.643,0,0.2
 No Te Debí Besar,"C. Tangana,Paloma Mami,Alizzz",No Te Debí Besar,182815,False,69,9,0,3,0.125,0.672,0.684,0.0261,0.183,-5.682,0.316,0.62,75.233,Reggaeton
 Pa' Que Retozen,Tego Calderon,El Abayarde,151666,True,72,1,0,4,0.4,0.815,0.856,8.34e-05,0.244,-3.825,0.122,0.872,91.995,Reggaeton
 RITMO (Bad Boys For Life),"Black Eyed Peas,J Balvin",RITMO (Bad Boys For Life),221714,True,81,10,0,4,0.0334,0.721,0.716,0.00084,0.237,-7.037,0.0657,0.667,104.994,Reggaeton
-Rueda,Chimbala,Rueda,210528,False,1,9,1,4,0.165,0.888,0.916,4.36e-06,0.0519,-2.196,0.0922,0.96,130.04,Reggaeton
-Diabla,"Godo,Kuzz",Diabla,171975,False,4,9,1,4,0.0793,0.606,0.504,0,0.0876,-9.215,0.0965,0.188,174.06,Reggaeton
+Rueda,Chimbala,Rueda,210528,False,2,9,1,4,0.165,0.888,0.916,4.36e-06,0.0519,-2.196,0.0922,0.96,130.04,Reggaeton
+Diabla,"Godo,Kuzz",Diabla,171975,False,3,9,1,4,0.0793,0.606,0.504,0,0.0876,-9.215,0.0965,0.188,174.06,Reggaeton
 Mambo - Remix,"JULES,Godo",Mambo,172283,False,0,5,1,4,0.0813,0.754,0.521,0,0.31,-10.428,0.144,0.333,119.903,Reggaeton
 Alocao (With Bad Gyal),"Omar Montes,Bad Gyal",Alocao (With Bad Gyal),209320,False,67,11,0,4,0.214,0.673,0.752,1.53e-06,0.106,-4.705,0.0567,0.699,178.005,Reggaeton
 Betoven,WildBoy Cooba,Betoven,174000,False,54,1,1,5,0.162,0.512,0.775,0.0201,0.0825,-4.98,0.151,0.564,152.132,Reggaeton
 Adicto (with Anuel AA & Ozuna),"Tainy,Anuel AA,Ozuna",Adicto (with Anuel AA & Ozuna),270740,False,79,10,0,4,0.017,0.734,0.836,1.64e-05,0.179,-4.803,0.0735,0.623,80.002,Reggaeton
 Tenemos Que Hablar,Bad Bunny,X 100PRE,224512,True,67,11,1,4,0.146,0.855,0.512,0.000854,0.107,-8.165,0.0534,0.144,146.075,Reggaeton
-Gan-Ga,Bryant Myers,Gan-Ga,194700,True,32,,,,,,,,,,,,,Reggaeton
+Gan-Ga,Bryant Myers,Gan-Ga,194700,True,31,,,,,,,,,,,,,Reggaeton
 Vete,Bad Bunny,Vete,192024,True,80,,,,,,,,,,,,,Reggaeton
 Caro,Bad Bunny,X 100PRE,229455,True,72,,,,,,,,,,,,,Reggaeton
 Tusa,"KAROL G,Nicki Minaj",Tusa,200960,False,87,,,,,,,,,,,,,Reggaeton
@@ -309,12 +309,12 @@ Se iluminaba,"Fred De Palma,Ana Mena",Uebe,174291,False,71,,,,,,,,,,,,,Reggaeton
 Fantasía,Ozuna,Nibiru,175186,False,65,,,,,,,,,,,,,Reggaeton
 Blanco,J Balvin,Blanco,145800,False,72,,,,,,,,,,,,,Reggaeton
 Tocala,Carly,Tocala,194686,False,26,,,,,,,,,,,,,Reggaeton
-Mil Tequilas,Chema Rivas,Mil Tequilas,255450,False,9,,,,,,,,,,,,,Reggaeton
+Mil Tequilas,Chema Rivas,Mil Tequilas,255450,False,8,,,,,,,,,,,,,Reggaeton
 Morado,J Balvin,Morado,200666,False,76,,,,,,,,,,,,,Reggaeton
 +,"Aitana,Cali Y El Dandee",+,219367,False,74,,,,,,,,,,,,,Reggaeton
 Te Quemaste,"Manuel Turizo,Anuel AA",ADN,199090,False,70,,,,,,,,,,,,,Reggaeton
 Whine Up,"Nicky Jam,Anuel AA",Intimo,215459,False,74,,,,,,,,,,,,,Reggaeton
-Easy - Remix,"Jhay Cortez,Ozuna",Famouz Reloaded,219866,False,59,,,,,,,,,,,,,Reggaeton
+Easy - Remix,"Jhay Cortez,Ozuna",Famouz Reloaded,219866,False,58,,,,,,,,,,,,,Reggaeton
 Coronao Now,"El Alfa,Lil Pump",Coronao Now,217881,False,64,,,,,,,,,,,,,Reggaeton
 BORRAXXA,"Feid,Manuel Turizo",BORRAXXA,223866,False,64,,,,,,,,,,,,,Reggaeton
 Medusa,"Jhay Cortez,Anuel AA,J Balvin",Medusa,305333,True,75,,,,,,,,,,,,,Reggaeton
@@ -331,15 +331,15 @@ Ponte Pa' Mi,"Rauw Alejandro,Myke Towers,Sky Rompiendo",Ponte Pa' Mi,184817,True
 Keii,Anuel AA,Keii,210000,False,73,,,,,,,,,,,,,Reggaeton
 Fantasias,"Rauw Alejandro,Farruko",Fantasias,199711,False,80,,,,,,,,,,,,,Reggaeton
 Rutina,Myke Towers,Rutina,217226,True,66,,,,,,,,,,,,,Reggaeton
-Una Mala (Remix),"El Completo Rd,Chimbala",Una Mala (Remix),184728,False,64,,,,,,,,,,,,,Reggaeton
+Una Mala (Remix),"El Completo Rd,Chimbala",Una Mala (Remix),184728,False,63,,,,,,,,,,,,,Reggaeton
 Dime Bbsita,"Robledo,Alex Martini",Dime Bbsita,174196,False,61,,,,,,,,,,,,,Reggaeton
-Amarillo,J Balvin,Colores,157733,False,80,,,,,,,,,,,,,Reggaeton
+Amarillo,J Balvin,Colores,157733,False,79,,,,,,,,,,,,,Reggaeton
 La Calle,"Alex Sensation,Myke Towers,Jhay Cortez,Arcangel,De La Ghetto,Darell",La Calle,292946,False,67,,,,,,,,,,,,,Reggaeton
 Hasta Que Dios Diga,"Anuel AA,Bad Bunny",Emmanuel,246000,True,85,,,,,,,,,,,,,Reggaeton
 La Jeepeta - Remix,"Nio Garcia,Anuel AA,Myke Towers,Brray,Juanka",La Jeepeta (Remix),345240,True,86,,,,,,,,,,,,,Reggaeton
 PAM,"Justin Quiles,Daddy Yankee,El Alfa",PAM,201000,True,80,,,,,,,,,,,,,Reggaeton
 Narcos,Anuel AA,Emmanuel,259250,True,77,,,,,,,,,,,,,Reggaeton
-Fantasias - Remix,"Rauw Alejandro,Anuel AA,Natti Natasha,Farruko,Lunay",Fantasias (Remix) [feat. Farruko & Lunay],267241,False,75,,,,,,,,,,,,,Reggaeton
+Fantasias - Remix,"Rauw Alejandro,Anuel AA,Natti Natasha,Farruko,Lunay",Fantasias (Remix) [feat. Farruko & Lunay],267241,False,74,,,,,,,,,,,,,Reggaeton
 Fútbol & Rumba (feat. Enrique Iglesias),"Anuel AA,Enrique Iglesias",Emmanuel,221428,True,76,,,,,,,,,,,,,Reggaeton
 El Manual,Anuel AA,Emmanuel,210623,False,77,,,,,,,,,,,,,Reggaeton
 Sur y Norte,"Ñengo Flow,Anuel AA",The Goat,215172,True,63,,,,,,,,,,,,,Reggaeton
@@ -349,9 +349,9 @@ La Popi,Kiko el Crazy,La Popi,195616,False,60,,,,,,,,,,,,,Reggaeton
 4K,"El Alfa,Darell,Noriel",4K,201500,False,77,,,,,,,,,,,,,Reggaeton
 La Curiosidad,"Jay Wheeler,DJ Nelson,Myke Towers",Platonicos,219048,False,91,,,,,,,,,,,,,Reggaeton
 Djadja (feat. Maluma) - Remix,"Aya Nakamura,Maluma",Djadja (feat. Maluma) [Remix],166850,False,84,,,,,,,,,,,,,Reggaeton
-"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie","Tainy,J Balvin","Agua (with J Balvin) [Music From ""Sponge On The Run"" Movie]",157944,False,87,,,,,,,,,,,,,Reggaeton
+"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie","Tainy,J Balvin","Agua (with J Balvin) [Music From ""Sponge On The Run"" Movie]",157944,False,86,,,,,,,,,,,,,Reggaeton
 Mami,"Ptazeta,Juacko",Mami,189493,False,76,,,,,,,,,,,,,Reggaeton
-A Correr los Lakers (Remix),"El Alfa,Nicky Jam,Ozuna,Arcangel,Secreto ""El Famoso Biberon""",A Correr los Lakers (Remix),347264,False,68,,,,,,,,,,,,,Reggaeton
+A Correr los Lakers (Remix),"El Alfa,Nicky Jam,Ozuna,Arcangel,Secreto ""El Famoso Biberon""",A Correr los Lakers (Remix),347264,False,67,,,,,,,,,,,,,Reggaeton
 Ignorantes,"Bad Bunny,Sech",Ignorantes,210606,True,78,,,,,,,,,,,,,Reggaeton
 CÓMO SE SIENTE - Remix,"Jhay Cortez,Bad Bunny",CÓMO SE SIENTE (Remix),227520,True,85,,,,,,,,,,,,,Reggaeton
 BENDICIONES,Bad Bunny,LAS QUE NO IBAN A SALIR,155060,False,73,,,,,,,,,,,,,Reggaeton
@@ -363,4 +363,4 @@ Mi Niña,"Wisin,Myke Towers,Los Legendarios",Mi Niña,213313,False,90,,,,,,,,,,,
 Una Locura,"Ozuna,J Balvin,Chencho Corleone",ENOC,230693,False,91,,,,,,,,,,,,,Reggaeton
 Entre tú y yo,Chema Rivas,Entre tú y yo,224000,True,67,,,,,,,,,,,,,Reggaeton
 Despeinada,"Ozuna,Camilo",ENOC,224186,False,87,,,,,,,,,,,,,Reggaeton
-Hecha Pa' Mi,Boza,Más Negro Que Rojo,186133,False,78,,,,,,,,,,,,,Reggaeton
+Hecha Pa' Mi,Boza,Más Negro Que Rojo,186133,False,80,,,,,,,,,,,,,Reggaeton

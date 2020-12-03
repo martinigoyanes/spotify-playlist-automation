@@ -1,6 +1,6 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
 Cover Me Up,Morgan Wallen,Cover Me Up,292662,False,78,2,1,3,0.236,0.525,0.437,7.03e-06,0.121,-8.285,0.0272,0.195,127.994,CryAnywhereAnytime
-The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,68,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,CryAnywhereAnytime
+The Wisp Sings,Winter Aid,The Wisp Sings,313252,False,69,4,1,4,0.988,0.521,0.0889,0.182,0.0965,-19.457,0.0507,0.0479,115.43,CryAnywhereAnytime
 Say You Won't Let Go,James Arthur,Back from the Edge,211466,False,86,10,1,4,0.695,0.358,0.557,0,0.0902,-7.398,0.059,0.494,85.043,CryAnywhereAnytime
 you were good to me,"Jeremy Zucker,Chelsea Cutler",brent,219146,False,82,2,1,4,0.913,0.561,0.0848,2.62e-05,0.112,-15.099,0.0404,0.206,102.128,CryAnywhereAnytime
 Please Notice,Christian Leave,Hope,116666,False,71,2,1,4,0.843,0.55,0.271,3.21e-06,0.107,-8.451,0.0297,0.198,111.344,CryAnywhereAnytime
@@ -49,16 +49,16 @@ I Wouldn't Ask You,Clairo,Immunity,416373,True,59,1,1,4,0.706,0.363,0.376,0.0144
 Happiest Year,Jaymes Young,Happiest Year,228442,False,81,1,1,3,0.885,0.501,0.167,0,0.111,-14.061,0.0484,0.356,112.275,CryAnywhereAnytime
 Bruises,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,220492,False,83,4,1,4,0.946,0.736,0.308,0,0.186,-7.83,0.0677,0.361,111.202,CryAnywhereAnytime
 Jealous,Labrinth,Jealous,287693,False,77,1,1,3,0.873,0.435,0.155,0,0.107,-8.948,0.046,0.0935,128.532,CryAnywhereAnytime
-Out Of Love,Alessia Cara,The Pains Of Growing,227693,False,79,7,1,3,0.8,0.481,0.267,0,0.249,-9.249,0.0339,0.137,117.64,CryAnywhereAnytime
+Out Of Love,Alessia Cara,The Pains Of Growing,227693,False,80,7,1,3,0.8,0.481,0.267,0,0.249,-9.249,0.0339,0.137,117.64,CryAnywhereAnytime
 Half A Man,Dean Lewis,A Place We Knew,179120,False,76,0,1,4,0.855,0.507,0.204,0,0.143,-11.575,0.0504,0.343,77.765,CryAnywhereAnytime
 better off,"Jeremy Zucker,Chelsea Cutler",glisten,193946,False,71,8,0,4,0.747,0.708,0.322,9.24e-05,0.137,-12.46,0.0371,0.46,98.892,CryAnywhereAnytime
 Supermarket Flowers,Ed Sheeran,÷ (Deluxe),221106,False,77,6,1,4,0.914,0.589,0.242,0,0.0887,-10.517,0.0442,0.257,89.749,CryAnywhereAnytime
 Skinny Love,Birdy,Birdy,201080,False,75,4,1,4,0.952,0.379,0.29,0.00106,0.118,-8.485,0.051,0.169,166.467,CryAnywhereAnytime
-Goodbye To A World,Porter Robinson,Worlds,328506,False,71,9,1,3,0.453,0.444,0.35,0.109,0.0824,-7.194,0.0483,0.0973,95.979,CryAnywhereAnytime
+Goodbye To A World,Porter Robinson,Worlds,328506,False,70,9,1,3,0.453,0.444,0.35,0.109,0.0824,-7.194,0.0483,0.0973,95.979,CryAnywhereAnytime
 Oceans (Where Feet May Fail),Hillsong UNITED,Zion (Deluxe Edition),535962,False,68,2,1,4,0.508,0.262,0.361,0.00268,0.108,-10.187,0.0333,0.056,126.786,CryAnywhereAnytime
 Suffocate,Hayd,Suffocate,241967,False,62,4,1,4,0.847,0.653,0.0584,0.000361,0.175,-21.98,0.0442,0.163,122.057,CryAnywhereAnytime
-This is Love - Interlude,"Joey Kidney,Matt Walden",This is Love,261642,False,50,4,1,4,0.638,0.608,0.375,0.00512,0.35,-16.038,0.0443,0.229,130.0,CryAnywhereAnytime
+This is Love - Interlude,"Joey Kidney,Matt Walden",This is Love,261642,False,51,4,1,4,0.638,0.608,0.375,0.00512,0.35,-16.038,0.0443,0.229,130.0,CryAnywhereAnytime
 Rivers and Roads,The Head and the Heart,The Head and the Heart,284000,False,0,0,1,3,0.699,0.494,0.194,2.98e-05,0.0803,-8.965,0.0352,0.161,135.753,CryAnywhereAnytime
 Broken Ties,"Wovy,Chupapi",Broken Ties,231000,False,44,10,0,4,0.592,0.52,0.302,0.00103,0.0951,-12.375,0.0343,0.109,115.032,CryAnywhereAnytime
-Clueless,Ellie Williams,Clueless,160000,False,43,10,1,4,0.504,0.76,0.447,0.00227,0.0959,-7.922,0.365,0.368,96.046,CryAnywhereAnytime
+Clueless,Ellie Williams,Clueless,160000,False,45,10,1,4,0.504,0.76,0.447,0.00227,0.0959,-7.922,0.365,0.368,96.046,CryAnywhereAnytime
 Changes,Hayd,Changes,214814,False,66,6,1,4,0.939,0.648,0.115,3.88e-05,0.11,-17.133,0.0445,0.29,119.967,CryAnywhereAnytime

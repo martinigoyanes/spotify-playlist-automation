@@ -2,25 +2,25 @@ Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acou
 Astral Wonder,Moon Oceans,Solitude in the Stars,181090,False,59,0,1,5,0.952,0.171,0.143,0.924,0.111,-24.178,0.0431,0.0374,72.116,Yoga
 Evergreen,Cooper Sams,Evergreen,225882,False,61,6,1,5,0.993,0.131,0.086,0.877,0.0794,-20.439,0.0332,0.0397,54.749,Yoga
 Karlavagnen,Karlavagnen,Karlavagnen,203454,False,58,11,1,5,0.84,0.0916,0.0343,0.762,0.17,-26.745,0.0419,0.0424,82.815,Yoga
-Montana,Isobel Belano,Montana,166324,False,58,3,1,4,0.762,0.338,0.0901,0.699,0.0891,-22.303,0.0323,0.115,135.633,Yoga
+Montana,Isobel Belano,Montana,166324,False,59,3,1,4,0.762,0.338,0.0901,0.699,0.0891,-22.303,0.0323,0.115,135.633,Yoga
 Electron,Sisi Row,Electron,214800,False,57,0,1,4,0.895,0.25,0.201,0.969,0.227,-21.141,0.0377,0.0663,59.005,Yoga
 Forever Still,Northern Lights,Outdoors Meditations,152870,False,57,4,1,3,0.811,0.202,0.181,0.938,0.102,-21.113,0.0346,0.0376,87.996,Yoga
 Fading Out,Steven Goldmund,Integrating,247249,False,60,8,1,4,0.98,0.133,0.0477,0.957,0.104,-26.711,0.0502,0.145,68.304,Yoga
 Mi Querida Flor,Momento,Focus,155294,False,59,7,1,4,0.95,0.317,0.188,0.951,0.0691,-21.665,0.0477,0.0634,68.39,Yoga
 Sueño tranquilo,Pedro Caceres,Sueño tranquilo,182240,False,61,7,1,5,0.983,0.239,0.0237,0.95,0.107,-22.072,0.0403,0.0698,140.616,Yoga
 Everyday Peace,Moira Kent,Everyday Peace,135325,False,59,2,1,3,0.925,0.194,0.0795,0.898,0.104,-21.832,0.04,0.0378,76.547,Yoga
-Sleeping Trees,John Ocean,Forest Wisdom,183689,False,59,6,0,4,0.946,0.211,0.252,0.959,0.0769,-20.785,0.0379,0.0377,77.372,Yoga
+Sleeping Trees,John Ocean,Forest Wisdom,183689,False,60,6,0,4,0.946,0.211,0.252,0.959,0.0769,-20.785,0.0379,0.0377,77.372,Yoga
 Affinity,FANAR,Affinity,172000,False,57,0,0,4,0.84,0.286,0.199,0.865,0.0943,-17.012,0.0377,0.0952,116.09,Yoga
 Ava,William Edessa,Novo,201000,False,56,2,1,3,0.995,0.182,0.128,0.933,0.0911,-20.185,0.0455,0.039,84.527,Yoga
 Beyond The Mind,Enapay,Beyond The Mind,152848,False,55,4,0,1,0.851,0.175,0.08,0.917,0.105,-22.214,0.0451,0.0374,78.566,Yoga
 Lone Star,Malto Fanier,Ambient Sax Covers,191076,False,55,0,1,4,0.931,0.111,0.197,0.957,0.104,-13.954,0.0402,0.039,172.025,Yoga
-Arriving in the Future,Intentional Vibes,Timer,213745,False,54,7,1,4,0.938,0.227,0.227,0.973,0.1,-22.751,0.0428,0.0334,66.287,Yoga
-Touch Of Light,Dawn Sankrit,Touch Of Light,219801,False,57,6,1,4,0.826,0.197,0.0604,0.854,0.109,-28.698,0.0445,0.065,63.521,Yoga
+Arriving in the Future,Intentional Vibes,Timer,213745,False,55,7,1,4,0.938,0.227,0.227,0.973,0.1,-22.751,0.0428,0.0334,66.287,Yoga
+Touch Of Light,Dawn Sankrit,Touch Of Light,219801,False,58,6,1,4,0.826,0.197,0.0604,0.854,0.109,-28.698,0.0445,0.065,63.521,Yoga
 Myriads,12dust,Myriads,175250,False,55,7,1,4,0.98,0.256,0.0999,0.849,0.0867,-18.736,0.0341,0.0397,101.663,Yoga
 Don't Go Where I Can't Find You,"Eraldo Bernocchi,Harold Budd,Robin Guthrie",Winter Garden,293626,False,56,11,1,1,0.985,0.0821,0.104,0.794,0.0907,-21.088,0.0379,0.0354,74.773,Yoga
 Limoges,Primer Dia,Magnetic,182581,False,55,1,1,1,0.967,0.279,0.211,0.928,0.0963,-11.543,0.0316,0.0384,132.424,Yoga
 Deep Thoughts,Danny Shamoun,Deep Thoughts,192000,False,59,7,0,5,0.94,0.136,0.186,0.959,0.156,-20.157,0.0327,0.0368,74.995,Yoga
-Hills Of Clarity,Elevated Minds,Hills Of Clarity,255792,False,51,8,1,4,0.885,0.256,0.045,0.851,0.088,-28.088,0.0449,0.101,70.418,Yoga
+Hills Of Clarity,Elevated Minds,Hills Of Clarity,255792,False,52,8,1,4,0.885,0.256,0.045,0.851,0.088,-28.088,0.0449,0.101,70.418,Yoga
 Rainy Clouds,John Ocean,Clouds and Mountains,207373,False,63,8,1,4,0.954,0.127,0.136,0.932,0.108,-19.946,0.0445,0.0368,81.163,Yoga
 Rest Repair,Michel LeBond,You Happening,213995,False,52,10,1,3,0.989,0.189,0.0992,0.853,0.114,-23.953,0.0407,0.0365,70.944,Yoga
 Heavenly Walk,Minisol,Heavenly Walk,284513,False,56,9,0,4,0.94,0.275,0.18,0.925,0.0928,-15.585,0.0395,0.0752,175.267,Yoga
@@ -36,8 +36,8 @@ Unwind,Juan Manuel Nigretti,Unwind,160985,False,51,4,0,3,0.915,0.0816,0.121,0.78
 The Sun Has Risen - Instrumental,"Abe Hathot,Firas Roby",The Sun Has Risen,205714,False,61,7,1,4,0.875,0.127,0.062,0.956,0.647,-28.235,0.0357,0.0399,85.31,Yoga
 Chuska,Morongo,Chuska,219555,False,55,9,1,4,0.926,0.162,0.148,0.948,0.0921,-20.998,0.0357,0.0365,103.907,Yoga
 Dreams in the Wind,Sal Lastra,Dreams in the Wind,200250,False,51,0,1,3,0.906,0.174,0.138,0.414,0.111,-21.229,0.037,0.0393,82.149,Yoga
-He Needs Help,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),190666,False,56,0,1,4,0.949,0.141,0.0449,0.961,0.0872,-26.108,0.0364,0.0377,67.461,Yoga
-Divine,Tejal Yann,Divine,289804,False,60,10,1,4,0.959,0.176,0.134,0.977,0.0995,-23.973,0.0405,0.0546,86.705,Yoga
+He Needs Help,David Wingo,Brigsby Bear (Original Motion Picture Soundtrack),190666,False,57,0,1,4,0.949,0.141,0.0449,0.961,0.0872,-26.108,0.0364,0.0377,67.461,Yoga
+Divine,Tejal Yann,Divine,289804,False,61,10,1,4,0.959,0.176,0.134,0.977,0.0995,-23.973,0.0405,0.0546,86.705,Yoga
 Purple Sunrise,IFEELU,Purple Sunrise,177352,False,58,8,1,4,0.945,0.349,0.127,0.834,0.106,-20.43,0.0401,0.0574,67.981,Yoga
 Ballerina - Ambient Version,William Keats,Ballerina,156428,False,58,2,1,3,0.76,0.444,0.058,0.882,0.117,-22.731,0.0367,0.132,140.059,Yoga
 Lonley Sea,Casiamty,Lonley Sea,210584,False,55,2,0,3,0.971,0.274,0.154,0.93,0.109,-14.744,0.0417,0.043,130.364,Yoga
@@ -53,7 +53,7 @@ Pathways,Chime Dolma,Pathways,120303,False,59,3,1,4,0.905,0.163,0.0273,0.974,0.1
 Falling Stars,Delle Alpi,Falling Stars,158423,False,64,1,1,5,0.956,0.261,0.0257,0.878,0.111,-25.711,0.0406,0.0795,72.323,Yoga
 Essence,Calma,Essence,188213,False,52,0,1,4,0.964,0.207,0.17,0.955,0.124,-21.361,0.0393,0.0359,93.356,Yoga
 Moment of Clarity,Light Bin,Moment of Clarity,141580,False,60,1,1,4,0.917,0.18,0.18,0.94,0.112,-22.439,0.0324,0.0713,64.105,Yoga
-Soul Blanket,Sofia's Choice,Into The Stillness,241227,False,18,1,0,4,0.408,0.573,0.19,0.85,0.131,-8.549,0.0425,0.0391,180.048,Yoga
+Soul Blanket,Sofia's Choice,Into The Stillness,241227,False,17,1,0,4,0.408,0.573,0.19,0.85,0.131,-8.549,0.0425,0.0391,180.048,Yoga
 Semblance of Reality,Spheres,Frangibility,202500,False,55,7,0,4,0.661,0.0611,0.144,0.897,0.112,-20.203,0.0499,0.0352,66.586,Yoga
 Floating,Seismic Shift,Floating,145293,False,55,4,1,4,0.981,0.151,0.224,0.971,0.114,-17.596,0.0415,0.0362,69.421,Yoga
 Empty Spaces,Everything Will Rust,Empty Spaces,228000,False,51,5,1,3,0.538,0.193,0.0274,0.816,0.119,-31.528,0.0408,0.0472,79.823,Yoga
@@ -65,7 +65,7 @@ Path of Light,Moments of Clarity,Path of Light,220446,False,53,3,0,4,0.992,0.065
 Yoga Depth,Elevie J,Yoga Depth,132306,False,59,10,1,5,0.933,0.203,0.0278,0.877,0.0983,-28.265,0.0462,0.0375,141.46,Yoga
 Shimmer,Spirit Minds,Shimmer,180821,False,55,3,1,4,0.78,0.145,0.0861,0.681,0.111,-25.962,0.0494,0.0365,77.576,Yoga
 New Beginning,The Tides,New Beginning,230769,False,51,3,1,5,0.884,0.254,0.333,0.94,0.122,-16.051,0.0526,0.0392,137.801,Yoga
-Inner Dimension,Light & Sound,Inner Dimension,165000,False,42,0,1,4,0.918,0.225,0.215,0.896,0.113,-17.989,0.0374,0.0357,69.781,Yoga
+Inner Dimension,Light & Sound,Inner Dimension,165000,False,43,0,1,4,0.918,0.225,0.215,0.896,0.113,-17.989,0.0374,0.0357,69.781,Yoga
 Black Iris,Padauk,Black Iris,252005,False,50,0,1,4,0.955,0.507,0.0645,0.926,0.0898,-24.972,0.0307,0.0382,100.983,Yoga
 Adumbration,Adumbration,Adumbration,230322,False,54,4,1,4,0.852,0.284,0.179,0.941,0.115,-17.185,0.0392,0.0357,129.875,Yoga
 The Deep Blue,Clouds of Calm,Distant Winds,196666,False,52,0,1,4,0.962,0.0929,0.0455,0.967,0.108,-24.381,0.0469,0.0338,165.182,Yoga
@@ -75,7 +75,7 @@ Minds Traversed,Spirits Of Our Dreams,Minds Traversed,250933,False,55,0,1,4,0.91
 Time Travel,Antologie,Time Travel,184642,False,62,3,1,5,0.696,0.12,0.0585,0.939,0.11,-27.623,0.0383,0.0397,78.662,Yoga
 Movements of Dimensions,Everlight,The One We Got,160392,False,53,0,1,4,0.981,0.082,0.0782,0.926,0.107,-22.579,0.0368,0.0369,76.787,Yoga
 Letting Go,Milo Graves,Inner Spirit,155172,False,56,8,1,4,0.9,0.183,0.0225,0.939,0.114,-27.648,0.0387,0.0302,70.547,Yoga
-Butterfly Traces,Sight of Wonders,Designated Solitude,226543,False,49,2,1,4,0.976,0.453,0.187,0.934,0.0709,-15.713,0.0292,0.189,72.011,Yoga
+Butterfly Traces,Sight of Wonders,Designated Solitude,226543,False,50,2,1,4,0.976,0.453,0.187,0.934,0.0709,-15.713,0.0292,0.189,72.011,Yoga
 Bird of Passage,Jakob Ahlbom,Endeavour,188185,False,53,7,1,4,0.937,0.258,0.179,0.975,0.202,-19.503,0.0392,0.0392,125.865,Yoga
 Giant,Oliver Évilo,Jupiter Sunrise,155000,False,60,10,1,4,0.987,0.223,0.00293,0.938,0.0948,-40.279,0.04,0.375,59.193,Yoga
 Conscious Jorney,Benny Bernstein,Benny Bernstein,154246,False,58,8,1,3,0.976,0.243,0.123,0.879,0.176,-20.642,0.0421,0.0501,111.435,Yoga
@@ -116,7 +116,7 @@ Corridors,Mylo Rivers,Corridors of Diamonds,201000,False,48,,,,,,,,,,,,,Yoga
 Jupiter Sunrise,Oliver Évilo,Jupiter Sunrise,178402,False,64,,,,,,,,,,,,,Yoga
 Luz y Alma,Arbol De Vida,Luz Y Alma,220894,False,48,,,,,,,,,,,,,Yoga
 Pacific Bliss,Harlan Silverman,Pacific Bliss,166440,False,56,,,,,,,,,,,,,Yoga
-Ride The Wave,The Oahus,Ride The Wave,171050,False,49,,,,,,,,,,,,,Yoga
+Ride The Wave,The Oahus,Ride The Wave,171050,False,50,,,,,,,,,,,,,Yoga
 From the Other Side,Dream Runner,Mare Tranquilis,175357,False,48,,,,,,,,,,,,,Yoga
 Two,Binary One,Minimalia,188731,False,50,,,,,,,,,,,,,Yoga
 Lakeshore,Wolfgang Snow,Frostbite,150701,False,56,,,,,,,,,,,,,Yoga
@@ -133,11 +133,11 @@ Breathing Star,Allana Johnson,Breathing Star,176091,False,55,,,,,,,,,,,,,Yoga
 Sylarna,Ström,Skanderna,244500,False,62,,,,,,,,,,,,,Yoga
 Secret Haven,August D. Valentine,Secret Haven,270234,False,59,,,,,,,,,,,,,Yoga
 Einmanaleika,Elvar Arngrimsson,Fjarlagt Ljus,129000,False,47,,,,,,,,,,,,,Yoga
-Clouds Part,Stol Perez,Clouds Part,178125,False,40,,,,,,,,,,,,,Yoga
+Clouds Part,Stol Perez,Clouds Part,178125,False,41,,,,,,,,,,,,,Yoga
 Kulning,Sten Hammarlund,Kulning,110300,False,52,,,,,,,,,,,,,Yoga
 Savasana,Sintrano,Savasana,131284,False,50,,,,,,,,,,,,,Yoga
 Nefelibata,Jeanelle Bolduc,Nefelibata,180624,False,56,,,,,,,,,,,,,Yoga
-Eunoia,Clyde Boudreaux,Eunoia,273000,False,52,,,,,,,,,,,,,Yoga
+Eunoia,Clyde Boudreaux,Eunoia,273000,False,53,,,,,,,,,,,,,Yoga
 Campanis,Zibra Inguzu,Yoga Gong Karma,184931,False,54,,,,,,,,,,,,,Yoga
 Awakening,Alex Couture,The Calm Sessions,157481,False,60,,,,,,,,,,,,,Yoga
 Enchanted Dreams,Antologie,Enchanted Dreams,197837,False,51,,,,,,,,,,,,,Yoga
@@ -159,7 +159,7 @@ Shaman Dreams,Primer Dia,Shaman Dreams,186500,False,56,,,,,,,,,,,,,Yoga
 Underbart,The 2 Inversions,Underbart,144104,False,51,,,,,,,,,,,,,Yoga
 The Deepest Well,Lionheart,Older,194285,False,56,,,,,,,,,,,,,Yoga
 A Single Gentle Raindrop,Rand Aldo,Beyond The Range Of Sound,210000,False,0,,,,,,,,,,,,,Yoga
-Interlude No. 15,Gladiolus,Study Music (The Piano Collection),149495,False,47,,,,,,,,,,,,,Yoga
+Interlude No. 15,Gladiolus,Study Music (The Piano Collection),149495,False,48,,,,,,,,,,,,,Yoga
 Song of the Mountains,John Ocean,Clouds and Mountains,231766,False,48,,,,,,,,,,,,,Yoga
 Between Two Stars,Sava Sol,Between Two Stars,231428,False,54,,,,,,,,,,,,,Yoga
 Through the Clouds,By Lotus,Through the Clouds,245581,False,47,,,,,,,,,,,,,Yoga
@@ -174,7 +174,7 @@ The Golden Path,Kumbhaka,Healing Memories,178608,False,54,,,,,,,,,,,,,Yoga
 Parts of Reality,Moon Laika,Triangle,217933,False,56,,,,,,,,,,,,,Yoga
 One Simple Day,Pierre Koenigs,Songs To Let Go,189000,False,56,,,,,,,,,,,,,Yoga
 Kvikkjokk,Ström,Skanderna,201000,False,57,,,,,,,,,,,,,Yoga
-Nog een nacht,Niel Hupkes,Nog een nacht,228000,False,49,,,,,,,,,,,,,Yoga
+Nog een nacht,Niel Hupkes,Nog een nacht,228000,False,50,,,,,,,,,,,,,Yoga
 Close Your Eyes,Josep Alba,Flowing Strings,178301,False,51,,,,,,,,,,,,,Yoga
 Balm,William Edessa,Tao,208000,False,49,,,,,,,,,,,,,Yoga
 I Know You're Here,Everlight,Presence,205250,False,57,,,,,,,,,,,,,Yoga
@@ -184,12 +184,12 @@ Cosmos,Tejal Yann,Divine,271285,False,62,,,,,,,,,,,,,Yoga
 legacy,node: project,legacy,249500,False,58,,,,,,,,,,,,,Yoga
 Deep Healing,Calma,Aura,189923,False,55,,,,,,,,,,,,,Yoga
 Wild Soul,The Aural Healer,Dream Catcher,209700,False,56,,,,,,,,,,,,,Yoga
-Polar Drone,Binaural Landscapes,Drones,215062,False,51,,,,,,,,,,,,,Yoga
+Polar Drone,Binaural Landscapes,Drones,215062,False,52,,,,,,,,,,,,,Yoga
 Mandala,Lhokanda,Mandala,137508,False,61,,,,,,,,,,,,,Yoga
 Leaving Port,Shiroishi,Leaving Port,154212,False,57,,,,,,,,,,,,,Yoga
 Mr Sandman,Dreamscaper,Insomnia Curator,187673,False,47,,,,,,,,,,,,,Yoga
 Kohobodi Boy,Daniel Kadawatha,Kohobodi Boy,163833,False,55,,,,,,,,,,,,,Yoga
-Cotton Spheres,Lama House,Cumulus Motion,174755,False,54,,,,,,,,,,,,,Yoga
+Cotton Spheres,Lama House,Cumulus Motion,174755,False,55,,,,,,,,,,,,,Yoga
 Lyrebird,Keira Conlon,Lyrebird,153500,False,65,,,,,,,,,,,,,Yoga
 Éjszakai,Vas Bela,Éjszakai,152000,False,65,,,,,,,,,,,,,Yoga
 No me despiertes,Artura Ponce Valles,No me despiertes,187250,False,63,,,,,,,,,,,,,Yoga

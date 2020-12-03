@@ -1,69 +1,70 @@
 Name,Artists,Album,Duration(ms),Explicit,Popularity,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Playlist
 It's About Time (feat. Florida Georgia Line),"Russell Dickerson,Florida Georgia Line",It's About Time (feat. Florida Georgia Line),175772,False,67,6,1,4,0.249,0.765,0.92,0,0.618,-4.362,0.0984,0.799,121.011,NewBoots
-Somebody’s Problem,Morgan Wallen,Somebody’s Problem,161773,False,79,5,1,4,0.662,0.657,0.54,0,0.123,-7.675,0.0287,0.625,136.97,NewBoots
-The Longer I Lay Here,"Adam Hambrick,Jillian Jacqueline",Flipside: Love Is Quicksand,159755,False,53,7,1,4,0.143,0.676,0.802,1.96e-06,0.149,-4.341,0.0311,0.708,102.069,NewBoots
+Somebody’s Problem,Morgan Wallen,Somebody’s Problem,161773,False,80,5,1,4,0.662,0.657,0.54,0,0.123,-7.675,0.0287,0.625,136.97,NewBoots
+The Longer I Lay Here,"Adam Hambrick,Jillian Jacqueline",Flipside: Love Is Quicksand,159755,False,54,7,1,4,0.143,0.676,0.802,1.96e-06,0.149,-4.341,0.0311,0.708,102.069,NewBoots
 Doing Fine,"Ryan Kinder,Sykamore",Doing Fine,151907,False,55,11,1,4,0.0187,0.636,0.822,0,0.207,-7.314,0.0383,0.62,96.027,NewBoots
 My First Car,Meghan Patrick,My First Car,169186,False,54,7,1,4,0.0707,0.569,0.903,0,0.161,-3.026,0.108,0.762,152.093,NewBoots
 I Should Be Asleep,"Ian McConnell,Haley Mae Campbell",I Should Be Asleep,180033,False,54,8,1,4,0.0772,0.558,0.717,2.69e-06,0.111,-7.092,0.0445,0.84,184.033,NewBoots
-Love or a Lover,Seth Alley,Love or a Lover,171204,False,51,9,1,4,0.146,0.448,0.725,0,0.12,-5.411,0.0335,0.501,175.94,NewBoots
+Love or a Lover,Seth Alley,Love or a Lover,171204,False,52,9,1,4,0.146,0.448,0.725,0,0.12,-5.411,0.0335,0.501,175.94,NewBoots
 Nothing's Better,Filmore,State I'm In,193144,False,70,9,1,4,0.0724,0.8,0.515,0,0.355,-5.431,0.0351,0.949,110.018,NewBoots
 Pick up Where We Left Off,Josh Kerr,Pick up Where We Left Off,170304,False,51,9,1,4,0.00745,0.699,0.603,3.28e-06,0.14,-7.879,0.0432,0.37,89.966,NewBoots
-Good Die Young,Koe Wetzel,Good Die Young,165699,False,63,11,1,4,0.0382,0.604,0.704,0,0.0588,-5.627,0.0411,0.534,118.018,NewBoots
-Don't Go Changing,Kip Moore,Don't Go Changing,207626,False,59,0,1,4,0.000267,0.689,0.747,1.16e-06,0.0909,-5.861,0.0283,0.463,100.069,NewBoots
-Met Me Now,Track45,Small Town,188091,False,48,2,1,4,0.176,0.591,0.841,0,0.1,-4.62,0.0371,0.275,109.01,NewBoots
-Chase it Down,Matt Stell,Better Than That - EP,186773,False,49,7,0,4,0.0629,0.449,0.842,0,0.0998,-5.122,0.058,0.238,162.008,NewBoots
-Anyone But Me,Filmore,State I'm In,222604,False,50,6,1,4,0.335,0.511,0.625,0,0.12,-7.69,0.068,0.356,85.993,NewBoots
+Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),"Chase Rice,Florida Georgia Line",Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),160839,False,42,2,1,4,0.185,0.627,0.678,0,0.374,-4.691,0.0294,0.724,100.032,NewBoots
+Good Die Young,Koe Wetzel,Good Die Young,165699,False,62,11,1,4,0.0382,0.604,0.704,0,0.0588,-5.627,0.0411,0.534,118.018,NewBoots
+Don't Go Changing,Kip Moore,Don't Go Changing,207626,False,60,0,1,4,0.000267,0.689,0.747,1.16e-06,0.0909,-5.861,0.0283,0.463,100.069,NewBoots
+Met Me Now,Track45,Small Town,188091,False,49,2,1,4,0.176,0.591,0.841,0,0.1,-4.62,0.0371,0.275,109.01,NewBoots
+Chase it Down,Matt Stell,Better Than That - EP,186773,False,50,7,0,4,0.0629,0.449,0.842,0,0.0998,-5.122,0.058,0.238,162.008,NewBoots
+Anyone But Me,Filmore,State I'm In,222604,False,51,6,1,4,0.335,0.511,0.625,0,0.12,-7.69,0.068,0.356,85.993,NewBoots
 Livin’ The Dream,Morgan Wallen,Livin’ The Dream,239120,True,72,7,0,4,0.575,0.621,0.754,0.00484,0.213,-5.904,0.0269,0.441,127.036,NewBoots
 Old Friends,Brantley Gilbert,Fire & Brimstone (Deluxe Edition),218836,False,54,5,1,3,0.0231,0.519,0.637,2.48e-06,0.0973,-4.969,0.0287,0.315,123.879,NewBoots
-The Heart,Emily Rose,The Heart,204048,False,46,7,1,4,0.351,0.578,0.525,3.67e-05,0.132,-6.742,0.0246,0.326,83.961,NewBoots
-Does He Know About Us,David Morris,Does He Know About Us,158680,False,55,6,0,4,0.0537,0.644,0.662,1.49e-05,0.155,-5.403,0.0323,0.216,95.001,NewBoots
-It's Your Loss,Drew Baldridge,It's Your Loss,183239,False,51,6,1,4,0.0918,0.623,0.869,1.24e-05,0.0665,-3.541,0.0415,0.891,160.062,NewBoots
+The Heart,Emily Rose,The Heart,204048,False,47,7,1,4,0.351,0.578,0.525,3.67e-05,0.132,-6.742,0.0246,0.326,83.961,NewBoots
+Does He Know About Us,David Morris,Does He Know About Us,158680,False,56,6,0,4,0.0537,0.644,0.662,1.49e-05,0.155,-5.403,0.0323,0.216,95.001,NewBoots
+It's Your Loss,Drew Baldridge,It's Your Loss,183239,False,52,6,1,4,0.0918,0.623,0.869,1.24e-05,0.0665,-3.541,0.0415,0.891,160.062,NewBoots
 Close Enough,Seaforth,Close Enough,201494,False,58,0,1,4,0.0707,0.644,0.645,0,0.126,-6.193,0.0471,0.949,169.903,NewBoots
-Things I Can't Say (feat. Julia Cole),"Spencer Crandall,Julia Cole",East,164954,False,68,8,1,4,0.0125,0.616,0.798,0,0.114,-4.224,0.0481,0.936,80.033,NewBoots
-Between You & Me,Roman Alexander,Between You & Me,169017,False,48,4,1,4,0.00583,0.627,0.618,0,0.0901,-8.225,0.0344,0.566,99.951,NewBoots
+Things I Can't Say (feat. Julia Cole),"Spencer Crandall,Julia Cole",East,164954,False,67,8,1,4,0.0125,0.616,0.798,0,0.114,-4.224,0.0481,0.936,80.033,NewBoots
+Between You & Me,Roman Alexander,Between You & Me,169017,False,49,4,1,4,0.00583,0.627,0.618,0,0.0901,-8.225,0.0344,0.566,99.951,NewBoots
 Secret,Tyler Braden,Secret,234546,False,53,7,1,4,0.0917,0.522,0.669,0.000258,0.124,-7.824,0.0269,0.479,148.015,NewBoots
-Same Dirt Road,Eric Lee,Same Dirt Road,148773,False,50,10,1,4,0.075,0.537,0.745,0,0.136,-6.279,0.0462,0.765,169.931,NewBoots
-Gone,Dierks Bentley,Gone,205960,False,69,6,1,4,0.00985,0.521,0.746,0,0.0741,-6.173,0.0351,0.473,149.977,NewBoots
+Same Dirt Road,Eric Lee,Same Dirt Road,148773,False,51,10,1,4,0.075,0.537,0.745,0,0.136,-6.279,0.0462,0.765,169.931,NewBoots
+Gone,Dierks Bentley,Gone,205960,False,70,6,1,4,0.00985,0.521,0.746,0,0.0741,-6.173,0.0351,0.473,149.977,NewBoots
 Startin' Young,Brandon Lay,Startin' Young,219085,False,54,2,1,4,0.0095,0.555,0.737,0,0.0966,-6.593,0.0378,0.552,84.947,NewBoots
-You Still Keep Me Up,"SixForty1,Morgan Johnston",You Still Keep Me Up,242518,False,47,11,1,4,0.196,0.555,0.698,0,0.135,-4.55,0.0372,0.227,112.962,NewBoots
+You Still Keep Me Up,"SixForty1,Morgan Johnston",You Still Keep Me Up,242518,False,48,11,1,4,0.196,0.555,0.698,0,0.135,-4.55,0.0372,0.227,112.962,NewBoots
 Settle Me Down,Josh Abbott Band,Settle Me Down,177083,False,55,4,1,3,0.729,0.352,0.524,7.05e-06,0.107,-6.738,0.0336,0.478,73.104,NewBoots
 Bad for Me,Roman Alexander,Bad for Me,189567,False,51,2,1,4,0.0164,0.449,0.704,0,0.219,-5.28,0.0345,0.419,159.985,NewBoots
-Still Goin Down,Morgan Wallen,Still Goin Down,186293,False,75,7,1,4,0.49,0.58,0.751,0,0.277,-5.078,0.0267,0.718,148.108,NewBoots
+Still Goin Down,Morgan Wallen,Still Goin Down,186293,False,76,7,1,4,0.49,0.58,0.751,0,0.277,-5.078,0.0267,0.718,148.108,NewBoots
 Goodyears,Travis Denning,Goodyears,214306,False,54,6,1,4,0.178,0.621,0.917,0,0.0764,-5.057,0.0571,0.548,135.972,NewBoots
 Cold & Alone,Koe Wetzel,Sellout,198313,False,60,4,0,4,0.00271,0.491,0.839,5.37e-06,0.233,-5.043,0.038,0.355,92.507,NewBoots
 Memory I Don't Mess With,Lee Brice,Memory I Don't Mess With,180616,False,69,6,0,4,0.171,0.617,0.704,0,0.0924,-7.61,0.0258,0.57,91.541,NewBoots
 Dirt Road,Kidd G,Dirt Road,150889,False,70,8,1,4,0.52,0.793,0.512,0,0.125,-7.862,0.0724,0.174,140.109,NewBoots
 Cold Beer Calling My Name,"Jameson Rodgers,Luke Combs",Cold Beer Calling My Name,210480,False,62,7,1,4,0.048,0.581,0.86,0,0.169,-4.092,0.039,0.79,148.318,NewBoots
-While You're Gone,Drew Parker,While You're Gone,226901,False,50,1,1,4,0.0815,0.625,0.515,0,0.0785,-5.633,0.028,0.362,139.999,NewBoots
+While You're Gone,Drew Parker,While You're Gone,226901,False,49,1,1,4,0.0815,0.625,0.515,0,0.0785,-5.633,0.028,0.362,139.999,NewBoots
 Cocktail Conversations,Roman Alexander,Cocktail Conversations,204085,False,55,7,1,4,0.00663,0.469,0.73,0,0.0863,-5.996,0.0615,0.546,145.987,NewBoots
 Hell Of A View,Eric Church,Hell Of A View,175280,False,72,5,1,4,0.119,0.689,0.582,0.00464,0.101,-6.778,0.0236,0.883,99.021,NewBoots
 We Go Together Like,Abby Anderson,We Go Together Like,163960,False,66,11,1,4,0.172,0.62,0.817,0,0.144,-5.317,0.0254,0.614,99.963,NewBoots
-Another,Adam Doleac,Another,188014,False,63,7,1,4,0.36,0.595,0.58,0,0.0992,-6.482,0.0465,0.329,74.99,NewBoots
+Another,Adam Doleac,Another,188014,False,64,7,1,4,0.36,0.595,0.58,0,0.0992,-6.482,0.0465,0.329,74.99,NewBoots
 Drag It Out,Walker County,Drag It Out,199413,False,50,4,1,4,0.0986,0.395,0.689,0,0.153,-5.282,0.042,0.345,156.342,NewBoots
-Famous Friends,"Chris Young,Kane Brown",Famous Friends,165569,False,67,6,1,4,0.0553,0.533,0.855,0,0.335,-2.901,0.0356,0.64,102.017,NewBoots
-Blame It On You,Jason Aldean,9,215360,False,58,2,1,4,0.0957,0.484,0.783,0.000118,0.107,-5.334,0.0308,0.594,137.918,NewBoots
+Famous Friends,"Chris Young,Kane Brown",Famous Friends,165569,False,68,6,1,4,0.0553,0.533,0.855,0,0.335,-2.901,0.0356,0.64,102.017,NewBoots
+Blame It On You,Jason Aldean,9,215360,False,59,2,1,4,0.0957,0.484,0.783,0.000118,0.107,-5.334,0.0308,0.594,137.918,NewBoots
 How Many Times,Kat & Alex,How Many Times,205798,False,54,10,1,4,0.104,0.514,0.728,0,0.138,-7.216,0.0496,0.333,144.022,NewBoots
-Do It Fast,Tim Montana,Cars On Blocks - EP,198933,False,43,9,1,4,0.0107,0.574,0.959,4.58e-06,0.195,-3.899,0.102,0.791,75.006,NewBoots
+Do It Fast,Tim Montana,Cars On Blocks - EP,198933,False,44,9,1,4,0.0107,0.574,0.959,4.58e-06,0.195,-3.899,0.102,0.791,75.006,NewBoots
 Gone Too Soon,Andrew Jannakos,Gone Too Soon,169254,False,65,4,0,4,0.0175,0.529,0.723,0,0.364,-6.022,0.035,0.459,119.942,NewBoots
-Silverado,Hunter Phelps,Silverado,203142,False,63,9,1,4,0.243,0.597,0.583,0,0.331,-4.931,0.0271,0.33,78.942,NewBoots
+Silverado,Hunter Phelps,Silverado,203142,False,62,9,1,4,0.243,0.597,0.583,0,0.331,-4.931,0.0271,0.33,78.942,NewBoots
 I Can't (feat. Old Dominion),"Caitlyn Smith,Old Dominion",Supernova (Deluxe),210146,False,57,0,1,4,0.2,0.499,0.667,0,0.0894,-4.336,0.0325,0.38,137.905,NewBoots
 We Didn't Have Much,Justin Moore,We Didn't Have Much,174837,False,58,6,1,4,0.427,0.469,0.662,1.93e-05,0.117,-8.021,0.0335,0.608,176.033,NewBoots
 Real Love,Tyler Rich,Two Thousand Miles,182866,False,56,9,1,4,0.434,0.55,0.605,0,0.0956,-5.572,0.0519,0.558,160.064,NewBoots
 Long Haul,Ian Munsick,Long Haul,231265,False,58,6,1,4,0.423,0.506,0.627,7.4e-05,0.0755,-7.851,0.0273,0.296,141.89,NewBoots
 Talk About,Seaforth,Talk About,166005,False,57,4,1,4,0.0089,0.645,0.733,0,0.0228,-5.069,0.139,0.804,96.971,NewBoots
-She Got That,Drew Green,DIRT BOY Vol. 1 - EP,157866,False,59,0,1,4,0.0481,0.657,0.639,0,0.196,-5.483,0.0308,0.474,122.047,NewBoots
+She Got That,Drew Green,DIRT BOY Vol. 1 - EP,157866,False,60,0,1,4,0.0481,0.657,0.639,0,0.196,-5.483,0.0308,0.474,122.047,NewBoots
 Take Your Breath Away,Josh Melton,Take Your Breath Away,174390,False,54,7,1,4,0.707,0.635,0.564,2.77e-06,0.143,-6.047,0.0244,0.579,90.985,NewBoots
 Whiskey And Rain,Michael Ray,Whiskey And Rain,206506,False,59,8,1,4,0.508,0.653,0.623,3.32e-06,0.285,-4.56,0.0244,0.718,100.021,NewBoots
 Soul,Lee Brice,Soul,167680,False,60,11,1,4,0.357,0.789,0.642,0,0.0985,-8.304,0.0352,0.755,121.003,NewBoots
 Cabin In The Woods,Canaan Smith,Cabin In The Woods,176282,False,51,3,1,4,0.384,0.592,0.721,0.000217,0.509,-5.822,0.042,0.618,143.995,NewBoots
 Heart's In Your Head,Renee Blair,Heart's In Your Head,187381,False,52,5,1,4,0.00403,0.492,0.784,0.000266,0.115,-5.158,0.0364,0.462,175.853,NewBoots
-Lose You,Jordan Davis,Lose You,203321,False,69,6,1,4,0.209,0.649,0.64,0.000532,0.0965,-6.09,0.0352,0.42,94.957,NewBoots
-Again,BEXAR,Again,165434,False,51,1,1,4,0.0179,0.578,0.737,0,0.0901,-4.989,0.0385,0.497,119.898,NewBoots
+Lose You,Jordan Davis,Lose You,203321,False,70,6,1,4,0.209,0.649,0.64,0.000532,0.0965,-6.09,0.0352,0.42,94.957,NewBoots
+Again,BEXAR,Again,165434,False,52,1,1,4,0.0179,0.578,0.737,0,0.0901,-4.989,0.0385,0.497,119.898,NewBoots
 Sorrys Don't Work No More,Brittney Spencer,Sorrys Don't Work No More,225499,False,45,11,1,4,0.888,0.403,0.223,0,0.0889,-13.615,0.0396,0.372,138.63,NewBoots
-Under My Skin,Nate Smith,Under My Skin,178771,False,41,8,1,4,0.13,0.604,0.536,0,0.162,-6.186,0.0345,0.473,151.737,NewBoots
+Under My Skin,Nate Smith,Under My Skin,178771,False,40,8,1,4,0.13,0.604,0.536,0,0.162,-6.186,0.0345,0.473,151.737,NewBoots
 DANCE WITH ME,Niko Moon,DANCE WITH ME,222911,False,56,6,1,4,0.181,0.817,0.681,3.28e-06,0.0598,-7.407,0.0333,0.758,112.033,NewBoots
 Diamonds in a Whiskey Glass,Gord Bamford,Diamonds in a Whiskey Glass,170316,False,49,0,1,4,0.352,0.649,0.473,0.000251,0.107,-8.325,0.0344,0.139,139.872,NewBoots
 Better Than That,Matt Stell,Better Than That,198733,False,53,9,0,4,0.00542,0.469,0.88,0.000125,0.123,-3.373,0.0719,0.583,157.99,NewBoots
 Breaking Up Was Easy In The 90's,Sam Hunt,SOUTHSIDE,215933,False,63,9,1,4,0.231,0.562,0.649,0,0.341,-5.4,0.0494,0.376,145.913,NewBoots
-What’s Your Country Song,Thomas Rhett,What's Your Country Song,170372,False,73,5,1,4,0.000532,0.355,0.706,0,0.264,-6.164,0.0309,0.523,174.005,NewBoots
-You Should Probably Leave,Chris Stapleton,Starting Over,213493,False,73,9,1,4,0.268,0.602,0.477,3.1e-05,0.173,-8.425,0.032,0.552,183.89,NewBoots
+What’s Your Country Song,Thomas Rhett,What's Your Country Song,170372,False,74,5,1,4,0.000532,0.355,0.706,0,0.264,-6.164,0.0309,0.523,174.005,NewBoots
+You Should Probably Leave,Chris Stapleton,Starting Over,213493,False,74,9,1,4,0.268,0.602,0.477,3.1e-05,0.173,-8.425,0.032,0.552,183.89,NewBoots
