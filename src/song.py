@@ -22,7 +22,7 @@ class Song:
         self.speechiness = None
         self.valence = None
         self.tempo = None
-        
+
     def add_audio_features(self, audio_features):
         if audio_features is not None:
             self.key = audio_features['key']
