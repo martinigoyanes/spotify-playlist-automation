@@ -9,9 +9,6 @@ premium story:
 https://towardsdatascience.com/k-means-clustering-using-spotify-song-features-9eb7d53d105c
 https://towardsdatascience.com/breaking-spotifys-algorithm-of-music-genre-classification-31ecf8453af1
 
-literal lo nuestro:
-https://towardsdatascience.com/playlist-classification-on-spotify-using-knn-and-naive-bayes-classification-35a279b7e255
-
 multilabel playlist class:
 http://www.apsipa.org/proceedings/2018/pdfs/0001957.pdf
 

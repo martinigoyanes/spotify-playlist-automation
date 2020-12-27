@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^5.0.0-alpha.20"
+  }
+}
