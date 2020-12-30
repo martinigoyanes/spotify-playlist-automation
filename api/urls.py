@@ -1,6 +1,7 @@
-from django.urls import path
-from .views import UserView
+from .views import UserViewSet, SongModelViewSet
+from rest_framework.routers import DefaultRouter
 
-urlpatterns = [
-    path('home', UserView.as_view())
-]
+router = DefaultRouter()
+router.register(r'user-view', UserViewSet, basename='user')
+router.register(r'songs-view', SongModelViewSet, basename='songs')
+urlpatterns = router.urls

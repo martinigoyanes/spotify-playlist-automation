@@ -17,12 +17,6 @@ export default class HomePage extends Component {
         };
     }
 
-    isSpotifyAuth(){
-        fetch("/spotify/is-authenticated")
-        .then((response) => { return response.json(); })
-        .then((data) => { this.setState({spotifyAuthd: data.status}); console.log(this.spotifyAuthd);})
-    }
-
     async componentDidMount(){
         fetch("/spotify/is-authenticated")
         .then((response) => { return response.json(); })

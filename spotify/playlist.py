@@ -1,15 +1,17 @@
-import song as Song
-import config
+from .song import Song 
+from .spotify import get_audio_features_several, get_several_tracks_json
+from .models import SongModel
 import math
 from decimal import Decimal, getcontext
 import csv
 import os
 
-class Playlist:
-    def __init__(self, id, name, fields):
+class Playlist():
+    def __init__(self, id, name, user, fields):
         self.id = id
         self.name = name
         self.fields = fields
+        self.user = user
         self.song_list = []
 
     def json_to_playlist(self, playlist_json):
@@ -30,7 +32,7 @@ class Playlist:
             song_id = item['track']['id']
             song_explicit = item['track']['explicit']
             song_popularity = item['track']['popularity']
-            song = Song.Song(name=song_name, artists=song_artists, album=song_album,
+            song = Song(name=song_name, artists=song_artists, album=song_album,
                              len_ms=song_len_ms, explicit=song_explicit,
                              popularity=song_popularity, id=song_id)
             self.song_list.append(song)
@@ -49,22 +51,48 @@ class Playlist:
         # Full requests of 100
         if n_requests >= 1:
             for n in range(1, n_requests_low + 1):
-                audio_features_json = config.spoti.get_audio_features_several(
-                    ids[((n-1)*100):(n*100)])
+                audio_features_json = get_audio_features_several(
+                    ids[((n-1)*100):(n*100)], self.user)
                 for audio_features, song in zip(audio_features_json['audio_features'], self.song_list[((n-1)*100):(n*100)]):
                     song.add_audio_features(audio_features)
                 # Partial request of < 100 (last request)
                 if n == (n_requests_low + 1) and partial_request_len > 0:
-                    audio_features_json = config.spoti.get_audio_features_several(
-                        ids[(n*100):((n*100)+partial_request_len)])
+                    audio_features_json = get_audio_features_several(
+                        ids[(n*100):((n*100)+partial_request_len)], self.user)
                     for audio_features, song in zip(audio_features_json['audio_features'], self.song_list):
                         song.add_audio_features(audio_features)
         else:
             # Partial request of < 100
-            audio_features_json = config.spoti.get_audio_features_several(
-                ids[0:partial_request_len])
+            audio_features_json = get_audio_features_several(
+                ids[0:partial_request_len], self.user)
             for audio_features, song in zip(audio_features_json['audio_features'], self.song_list):
                 song.add_audio_features(audio_features)
+    
+    def save(self):
+        for song in self.song_list:
+            SongModel(
+                name = song.name, 
+                artist = song.artist, 
+                album = song.album, 
+                len_ms = song.len_ms, 
+                explicit  = song.explicit,
+                popularity  = song.popularity,
+                key  = song.key,
+                mode  = song.mode,
+                time_signature  = song.time_signature,
+                acousticness  = song.acousticness,
+                danceability = song.danceability,
+                energy = song.energy,
+                instrumentalness = song.instrumentalness,
+                liveness = song.liveness,
+                loudness = song.loudness,
+                speechiness = song.speechiness,
+                valence = song.valence,
+                tempo = song.tempo,
+                playlist_name = self.name,
+                playlist_id = self.id,
+                uid = self.user.uid 
+            ).save()
 
     def to_csv(self):
         if not os.path.exists('datasets/playlists'):
@@ -96,15 +124,15 @@ class Playlist:
         # Full requests of 100
         if n_requests >= 1:
             for n in range(1, n_requests_low + 1):
-                tracks_json = config.spoti.get_several_tracks_json(ids[((n-1)*limit):(n*limit)])
+                tracks_json = get_several_tracks_json(ids[((n-1)*limit):(n*limit)], self.user)
                 self.tracks_json_to_playlist(tracks_json)
                 # Partial request of < 100 (last request)
                 if n == (n_requests_low + 1) and partial_request_len > 0:
-                   tracks_json = config.spoti.get_several_tracks_json(ids[(n*limit):((n*limit)+partial_request_len)])
+                   tracks_json = get_several_tracks_json(ids[(n*limit):((n*limit)+partial_request_len)], self.user)
                    self.tracks_json_to_playlist(tracks_json)
         else:
             # Partial request of < 100
-            tracks_json = config.spoti.get_several_tracks_json(ids[0:partial_request_len])
+            tracks_json = get_several_tracks_json(ids[0:partial_request_len], self.user)
             self.tracks_json_to_playlist(tracks_json)
         
     def tracks_json_to_playlist(self, tracks_json):
@@ -124,7 +152,7 @@ class Playlist:
             song_id = track['id']
             song_explicit = track['explicit']
             song_popularity = track['popularity']
-            song = Song.Song(name=song_name, artists=song_artists, album=song_album,
+            song = Song(name=song_name, artists=song_artists, album=song_album,
                              len_ms=song_len_ms, explicit=song_explicit,
                              popularity=song_popularity, id=song_id)
             self.song_list.append(song)

@@ -1,8 +1,6 @@
 from django.db import models
 
 # Create your models here.
-
-
 class User(models.Model):
     uid = models.CharField(max_length=50, unique=True)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -10,3 +8,28 @@ class User(models.Model):
     access_token = models.CharField(max_length=150)
     expires_in = models.DateTimeField()
     token_type = models.CharField(max_length=50)
+    curr_session = models.CharField(max_length=50, unique=True)
+    model = models.FileField(blank=True)
+
+class SongModel(models.Model):
+    name = models.CharField(max_length=50, null=True, blank=True)
+    artist = models.CharField(max_length=50, null=True, blank=True)
+    album =  models.CharField(max_length=50, null=True, blank=True)
+    len_ms =  models.IntegerField(null=True, blank=True)
+    explicit  =  models.CharField(max_length=50, null=True, blank=True)
+    popularity  =  models.IntegerField(null=True, blank=True)
+    key  =  models.IntegerField(null=True, blank=True)
+    mode  =  models.IntegerField(null=True, blank=True)
+    time_signature  =  models.FloatField(null=True, blank=True)
+    acousticness  =  models.FloatField(null=True, blank=True)
+    danceability = models.FloatField(null=True, blank=True)
+    energy = models.FloatField(null=True, blank=True)
+    instrumentalness = models.FloatField(null=True, blank=True)
+    liveness = models.FloatField(null=True, blank=True)
+    loudness = models.FloatField(null=True, blank=True)
+    speechiness = models.FloatField(null=True, blank=True)
+    valence = models.FloatField(null=True, blank=True)
+    tempo = models.FloatField(null=True, blank=True)
+    playlist_name = models.CharField(max_length=50, null=True, blank=True)
+    playlist_id = models.CharField(max_length=50, null=True, blank=True)
+    uid = models.CharField(max_length=50, null=True, blank=True)

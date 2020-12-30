@@ -1,10 +1,7 @@
 class Song:
     def __init__(self, name, artists, album, len_ms, id, explicit, popularity):
         self.name = name
-        self.artists = artists
-        self.fullname = name
-        for artist in artists:
-            self.fullname += f' - {artist}'
+        self.artist = artists[0]
         self.album = album
         self.len_ms = len_ms
         self.id = id

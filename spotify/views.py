@@ -4,13 +4,13 @@ from rest_framework.views import APIView
 from requests import Request, post, get
 from rest_framework import status
 from rest_framework.response import Response
-from .util import update_or_create_user_tokens, is_spotify_authenticated, get_user_tokens
+from .util import update_or_create_user, is_spotify_authenticated
 
 # Create your views here.
 
 class AuthURL(APIView):
     def get(self, request, fornat=None):
-        scopes = 'user-library-read'
+        scopes = 'playlist-modify-public playlist-modify-private user-library-read playlist-read-private'
 
         url = Request('GET', 'https://accounts.spotify.com/authorize', params={
             'scope': scopes,
@@ -42,8 +42,8 @@ def spotify_callback(request, format=None):
     if not request.session.exists(request.session.session_key):
         request.session.create()
 
-    update_or_create_user_tokens(
-        access_token, token_type, expires_in, refresh_token)
+    update_or_create_user(
+        request.session.session_key, access_token, token_type, expires_in, refresh_token)
 
     return redirect('frontend:')
 
@@ -51,5 +51,5 @@ def spotify_callback(request, format=None):
 class IsAuthenticated(APIView):
     def get(self, request, format=None):
         is_authenticated = is_spotify_authenticated(
-            self.request.session.session_key)
+            request.session.session_key)
         return Response({'status': is_authenticated}, status=status.HTTP_200_OK)
