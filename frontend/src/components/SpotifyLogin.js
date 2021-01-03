@@ -8,7 +8,7 @@ export default class SpotifyLogin extends Component {
     }
 
     authenticateSpotify() {
-        fetch("/spotify/get-auth-url")
+        fetch("get-auth-url")
             .then((response) => response.json())
             .then((data) => {
                 window.location.replace(data.url);
@@ -16,7 +16,7 @@ export default class SpotifyLogin extends Component {
     }
 
     render() {
-        return <Button onClick={() => this.authenticateSpotify()}>
+        return <Button className="SpotifyButton" onClick={() => this.authenticateSpotify()}>
             Login to Spotify
                </Button>
     }

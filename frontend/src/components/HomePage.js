@@ -6,7 +6,7 @@ import {
     Link,
     Redirect,
 } from "react-router-dom";
-import SpotifyLogin from  "./SpotifyLogin"
+import SpotifyLogin from "./SpotifyLogin"
 import UserPage from "./UserPage"
 
 export default class HomePage extends Component {
@@ -17,22 +17,23 @@ export default class HomePage extends Component {
         };
     }
 
-    async componentDidMount(){
-        fetch("/spotify/is-authenticated")
-        .then((response) => { return response.json(); })
-        .then((data) => { this.setState({spotifyAuthd: data.status}); console.log(this.spotifyAuthd);})
+    async componentDidMount() {
+        fetch("is-authenticated")
+            .then((response) => { return response.json(); })
+            .then((data) => { this.setState({ spotifyAuthd: data.status }); console.log(this.spotifyAuthd); })
     }
 
     render() {
         return (
             <Router>
                 <Switch>
-                    <Route exact path ="/" render={() =>  { return this.state.spotifyAuthd ? (
-                        <Redirect to="/user-page" /> ) : (
-                            <SpotifyLogin/>
-                        );
-                }} />
-                    <Route path="/user-page" component={UserPage}/>
+                    <Route exact path="/" render={() => {
+                        return this.state.spotifyAuthd ? (
+                            <Redirect to="/user-page" />) : (
+                                <SpotifyLogin />
+                            );
+                    }} />
+                    <Route path="/user-page" component={UserPage} />
                 </Switch>
             </Router>
         )
