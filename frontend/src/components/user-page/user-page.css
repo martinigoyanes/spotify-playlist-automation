@@ -1,0 +1,51 @@
+.user-page{
+    background: rgb(29,238,241);
+    background: linear-gradient(0deg, rgba(29,238,241,1) 18%, rgba(253,187,45,1) 77%);
+    width: 100%;
+    height: auto;
+    /* border: 5px solid red;   */
+}
+.user-grid{
+    display: grid;  
+    grid-template-columns: [profile-pic] 1fr [pred-count] 3fr;
+}
+.playlists-grid{
+    display: grid;  
+    grid-template-columns: [playlist1] 1fr [playlist2] 1fr [playlist3] 1fr;
+}
+.top-bar{
+    height: fit-content;
+    border: 1px solid red;
+    color: red;
+}
+.username{
+    /* grid-area: username; */
+    border: 1px solid red;
+}
+.log-out{
+    /* grid-area: log-out; */
+    border: 1px solid red;
+}
+.profile-pic{
+    grid-column: profile-pic/pred-count;
+    border: 1px solid red;
+}
+.pred-count{
+    grid-column: pred-count/pred-count;
+    border: 1px solid red;
+}
+.playlist1{
+    grid-column: playlist1/playlist2;
+    border: 1px solid red;
+}
+.playlist2{
+    grid-column: playlist2/playlist3;
+    border: 1px solid red;
+}
+.playlist3{
+    grid-column: playlist3/playlist3;
+    border: 1px solid red;
+}
+.creds{
+    border: 1px solid red;
+}

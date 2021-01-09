@@ -1,0 +1,63 @@
+.SpotifyButton{
+    background-color: #1db954;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    font-size: large;
+    padding: 0.6em 3.9em;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    border-radius: 500px;
+}
+.home-page{
+    background: rgb(29,238,241);
+    background: linear-gradient(0deg, rgba(29,238,241,1) 18%, rgba(253,187,45,1) 77%);
+    width: 100%;
+    height: auto;
+    display: grid;  
+    grid-template-areas:
+    "app-name-home"
+    "app-name-home"
+    /* "app-description app-description" */
+    "login"
+    "description";
+}
+.login{
+    grid-area: login;
+    vertical-align:middle;
+    place-self: center;
+}
+.description{
+    grid-area: description;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    color:rgb(255, 0, 43);
+}
+.app-name-home{
+    grid-area: app-name-home;
+    place-self: center;
+}
+.app-description{
+  grid-area: app-description;
+  font-weight: bold;
+  font-size: 100%;
+  font-family: Arial;
+  color: rgb(240, 240, 240);
+
+}
+.app-description h1{
+    margin:auto;
+    vertical-align:middle;
+    text-align: center;
+}
+.app-name-home h1{
+    margin:auto;
+    vertical-align:middle;
+    text-align: left;
+    font-weight: bold;
+    font-size: 600%;
+    font-family: Arial;
+    color: white;
+}

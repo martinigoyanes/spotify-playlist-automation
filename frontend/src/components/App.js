@@ -1,14 +1,49 @@
 import React, { Component } from "react";
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link,
+    Redirect,
+} from "react-router-dom";
 import { render } from "react-dom";
-import HomePage from "./HomePage"
+import HomePage from "./home-page/HomePage"
+import UserPage from "./user-page/UserPage"
+import "bootstrap/dist/css/bootstrap.min.css";
+
+
 
 export default class App extends Component{
-    constructor(props){
+    constructor(props) {
         super(props);
+        this.state = {
+            spotifyAuthd: false,
+        };
     }
+    authenticated() {
+        fetch("is-authenticated")
+            .then((response) => { return response.json(); })
+            .then((data) => { this.setState({ spotifyAuthd: data.status }); console.log(data); });
+    }
+    async componentDidMount() {
+        this.authenticated();
+    } 
 
     render(){
-        return <HomePage />;
+        return(
+         <Router>
+            <Switch>
+                <Route exact path="/" render={() => {
+                    return this.state.spotifyAuthd ? (
+                            <Redirect to="/user-page" />
+                        ) : (
+                            <HomePage />
+                        );
+                }} />
+                <Route path="/user-page" component={UserPage} />
+            </Switch>
+        </Router>
+        )
     }
 }
 const appDiv = document.getElementById("app");
