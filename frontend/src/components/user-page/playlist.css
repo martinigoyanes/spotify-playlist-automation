@@ -1,0 +1,5 @@
+.playlist-holder{
+    display: grid;  
+    grid-template-areas: "element";
+    grid-auto-rows: 100px;
+}

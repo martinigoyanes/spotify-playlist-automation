@@ -37,15 +37,15 @@ class AIModel():
     
     def predict(self, data):
         X_audio, X_artist, _ = self.split(data, training=False)
-        data.to_csv('predict_data_test.csv', index=False, encoding='utf-8')
+        # data.to_csv('predict_data_test.csv', index=False, encoding='utf-8')
         del data
         X_audio = self.scale_continuous(X_audio)
         X_artist = self.encode_artist(X_artist)
         X_artist = self.add_padding(X_artist)
 
-        pd.DataFrame(columns=self.audio_features, data=X_audio).to_csv(
-            'predict_x_audio.csv', index=False, encoding='utf-8')
-        X_artist.to_csv('predict_x_artist.csv', index=False, encoding='utf-8')
+        # pd.DataFrame(columns=self.audio_features, data=X_audio).to_csv(
+        #     'predict_x_audio.csv', index=False, encoding='utf-8')
+        # X_artist.to_csv('predict_x_artist.csv', index=False, encoding='utf-8')
 
         X_artist = self.tf_transform(X_artist)
         predictions = self.model.predict([X_audio, X_artist])

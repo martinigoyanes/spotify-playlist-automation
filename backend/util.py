@@ -11,7 +11,7 @@ import time
 import sys
 import pandas as pd
 
-from .spotify import get_user_playlists, pull_playlist, get_user_tracks_json, get_audio_features, put_song_in_playlist
+from .spotify import get_user_playlists, pull_playlist, get_user_tracks_json, get_audio_features, put_song_in_playlist, get_user_profile_pic
 from .playlist import Playlist
 
 import backend.AIModelTrainer as AIModelTrainer
@@ -52,9 +52,10 @@ def update_or_create_user(curr_session, access_token, token_type, expires_in, re
 
 
 def create_user(curr_session, uid, access_token, refresh_token, token_type, expires_in):
+    profile_pic_url = get_user_profile_pic(access_token)['images'][0]['url'] 
     user = User(uid=uid, access_token=access_token,
                 refresh_token=refresh_token,
-                token_type=token_type, expires_in=expires_in, curr_session=curr_session)
+                token_type=token_type, expires_in=expires_in, curr_session=curr_session, pic_url=profile_pic_url)
     user.save()
 
     model_trainer_process = AIModelTrainer.AIModelTrainer(user.uid) 
@@ -70,6 +71,16 @@ def is_spotify_authenticated(session_key):
         return True
 
     return False
+
+def log_out(session_key):
+    user = get_user(session_key=session_key)
+    if user:
+        user.curr_session = None
+        user.save(update_fields=['curr_session'])
+        return True
+    
+    return False
+
 
 
 def refresh_spotify_token(user):

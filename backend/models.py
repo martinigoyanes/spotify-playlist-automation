@@ -10,8 +10,9 @@ class User(models.Model):
     access_token = models.CharField(max_length=150)
     expires_in = models.DateTimeField()
     token_type = models.CharField(max_length=50)
-    curr_session = models.CharField(max_length=50, unique=True)
-    model = models.FileField(blank=True)
+    curr_session = models.CharField(max_length=50, unique=True, null=True)
+    pic_url = models.CharField(max_length=100, unique=True)
+    pred_count = models.IntegerField(default=0)
 
 
 class PlaylistModel(models.Model):

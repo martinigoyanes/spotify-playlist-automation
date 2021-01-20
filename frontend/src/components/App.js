@@ -37,10 +37,23 @@ export default class App extends Component{
                     return this.state.spotifyAuthd ? (
                             <Redirect to="/user-page" />
                         ) : (
+                            <Redirect to="/login" />
+                        );
+                }}  />
+                <Route path="/login" render={() => {
+                    return this.state.spotifyAuthd ? (
+                            <Redirect to="/user-page" />
+                        ) : (
                             <HomePage />
                         );
-                }} />
-                <Route path="/user-page" component={UserPage} />
+                }}  />
+                <Route path="/user-page" render={() => {
+                    return this.state.spotifyAuthd ? (
+                            <UserPage />
+                        ) : (
+                            <Redirect to="/login" />
+                        );
+                }}  />
             </Switch>
         </Router>
         )

@@ -1,54 +1,8 @@
-import webbrowser
 import requests
 import base64
 import time
 
 from urllib.parse import urlencode, urlsplit
-
-
-def get_auth_code(self):
-    auth_endpoint = 'https://accounts.spotify.com/authorize'
-    auth_body = {
-        'client_id': self.id,
-        'response_type': 'code',
-        'redirect_uri': 'https://www.spotify.com/es/',
-        'scope': 'user-library-read'
-    }
-    auth_body_urlencoded = urlencode(auth_body)
-    auth_url = f"{auth_endpoint}?{auth_body_urlencoded}"
-    # webbrowser.open(auth_url)
-    # self.auth_code = input('Authentication code:\n')
-    driver = webdriver.Chrome(ChromeDriverManager().install())
-    driver.get(auth_url)
-    code_url = ''
-    code = urlsplit(code_url)
-    while 'code=' not in code.query:
-        code_url = driver.current_url
-        code = urlsplit(code_url)
-    self.auth_code = code.query.replace('code=', '')
-    driver.quit()
-
-
-def get_tokens(self):
-    tokens_endpoint = 'https://accounts.spotify.com/api/token'
-    tokens_body = {
-        'grant_type': 'authorization_code',
-        'code': self.auth_code,
-        'redirect_uri': 'https://www.spotify.com/es/'
-    }
-    client_creds_b64 = base64.b64encode(
-        f'{self.id}:{self.secret}'.encode())
-    tokens_headers = {
-        # Authorization: Basic *<base64 encoded client_id:client_secret>*
-        'Authorization': f'Basic {client_creds_b64.decode()}'
-    }
-    resp = requests.post(
-        tokens_endpoint, data=tokens_body, headers=tokens_headers)
-    tokens_resp_data = resp.json()
-    self.access_token = tokens_resp_data['access_token']
-    self.refresh_token = tokens_resp_data['refresh_token']
-    self.access_token_expires = tokens_resp_data['expires_in']
-
 
 def get_user_tracks_json(user, limit=1, offset=None):
     user_tracks_endpoint = 'https://api.spotify.com/v1/me/tracks'
@@ -156,6 +110,18 @@ def get_audio_features(id, user):
                         headers=audio_features_headers)
 
     return resp.json()
+    
+def get_user_profile_pic(access_token):
+    user_profile_endpoint = f'https://api.spotify.com/v1/me'
+    user_profile_headers = {
+        # Authorization: Bearer {your access token}
+        'Authorization': f'Bearer {access_token}'
+    }
+
+    resp = requests.get(user_profile_endpoint,
+                        headers=user_profile_headers)
+
+    return resp.json()
 
 
 def pull_playlist(user, playlist):
@@ -172,5 +138,3 @@ def pull_playlist(user, playlist):
         # Last couple of songs, we exit the loop, there are not more songs in the playlist
         if len(playlist_json['items']) < limit:
             break
-
-

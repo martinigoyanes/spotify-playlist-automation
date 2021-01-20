@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from .views import AuthURL, spotify_callback, IsAuthenticated
+from .views import AuthURL, spotify_callback, IsAuthenticated, UserInfo, LogOut
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -23,5 +23,7 @@ urlpatterns = [
     path('', include('frontend.urls')),
     path('get-auth-url', AuthURL.as_view()),
     path('redirect', spotify_callback),
-    path('is-authenticated', IsAuthenticated.as_view())
+    path('is-authenticated', IsAuthenticated.as_view()),
+    path('log-out', LogOut.as_view()),
+    path('user-info', UserInfo.as_view())
 ]

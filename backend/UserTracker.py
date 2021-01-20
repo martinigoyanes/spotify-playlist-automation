@@ -61,5 +61,11 @@ class UserTracker(multiprocessing.Process):
                     playlist = models.PlaylistModel.objects.filter(spotify_id=playlist_id)[0]
                     print(f'Classified {song_name} into {playlist.name}')
                     resp = put_song_in_playlist(self.user, playlist_id, [song_uri])
+
+                    # Update user prediction count
+                    pred_count = self.user.pred_count
+                    self.user.pred_count = pred_count + 1
+                    self.user.save(update_fields=['pred_count'])
+
             self.get_last_date()
             time.sleep(10) #seconds

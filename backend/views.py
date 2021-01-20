@@ -4,7 +4,7 @@ from rest_framework.views import APIView
 from requests import Request, post, get
 from rest_framework import status
 from rest_framework.response import Response
-from .util import update_or_create_user, is_spotify_authenticated
+from .util import update_or_create_user, is_spotify_authenticated, get_user, log_out
 
 # Create your views here.
 
@@ -53,3 +53,26 @@ class IsAuthenticated(APIView):
         is_authenticated = is_spotify_authenticated(
             request.session.session_key)
         return Response({'status': is_authenticated}, status=status.HTTP_200_OK)
+
+class LogOut(APIView):
+    def get(self, request, format=None):
+        logout_status = log_out(
+            request.session.session_key)
+        return Response({'status': logout_status}, status=status.HTTP_200_OK)
+
+
+class UserInfo(APIView):
+    def get(self, request, format=None):
+        pic_url = 'None'
+        pred_count = 0
+        name = 'None'
+        user = get_user(session_key=request.session.session_key)
+        if user:
+            pic_url = user.pic_url
+            pred_count = user.pred_count
+            name = user.uid
+
+        return Response({'img': pic_url,
+                         'predCount': pred_count,
+                         'name': name},
+                          status=status.HTTP_200_OK)

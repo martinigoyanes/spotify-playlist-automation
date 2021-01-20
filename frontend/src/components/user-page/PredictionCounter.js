@@ -9,8 +9,10 @@ export default class PredictionCounter extends Component {
         return (
             <div class="pred-count">
                 <h1>
-                    Currently the AI Model has done: <br></br>
-                    None Predictions
+                    Currently the AI Model has made 
+                    <br></br>
+                    <br></br>
+                    <pre class="count">{this.props.predCount+" predictions"}</pre>
                 </h1>
             </div>
         )

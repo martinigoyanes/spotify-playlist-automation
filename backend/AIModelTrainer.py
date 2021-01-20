@@ -36,7 +36,7 @@ class AIModelTrainer(AIModel, Process):
     def create_model(self):
         user_data = self.gather_user_data()
         X_audio, X_artist, Y = self.split(user_data, training=True)
-        user_data.to_csv('user_data_test.csv', index=False, encoding='utf-8')
+        # user_data.to_csv('user_data_test.csv', index=False, encoding='utf-8')
         del user_data
         X_audio = self.scale_continuous(X_audio)
         X_artist = self.encode_artist(X_artist)
@@ -45,9 +45,9 @@ class AIModelTrainer(AIModel, Process):
         self.save_encodings()
         hot_Y = self.label_transform(Y)
 
-        pd.DataFrame(columns=self.audio_features, data=X_audio).to_csv(
-            'x_audio.csv', index=False, encoding='utf-8')
-        X_artist.to_csv('x_artist.csv', index=False, encoding='utf-8')
+        # pd.DataFrame(columns=self.audio_features, data=X_audio).to_csv(
+        #     'x_audio.csv', index=False, encoding='utf-8')
+        # X_artist.to_csv('x_artist.csv', index=False, encoding='utf-8')
 
         X_artist = self.tf_transform(X_artist)
         self.setup(X_artist, hot_Y)

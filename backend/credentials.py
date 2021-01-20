@@ -1,3 +1,4 @@
-CLIENT_ID = "ee9299d56f184a749a07baab65943b9d"
-CLIENT_SECRET = "8dc3973aa90741dba2c8caa4d060d8ee"
-REDIRECT_URI = "http://127.0.0.1:8000/redirect"
+import os
+CLIENT_ID = os.environ.get('CLIENT_ID')
+CLIENT_SECRET = os.environ.get('CLIENT_SECRET')
+REDIRECT_URI = os.environ.get('REDIRECT_URI')

@@ -1,51 +1,41 @@
 .user-page{
-    background: rgb(29,238,241);
-    background: linear-gradient(0deg, rgba(29,238,241,1) 18%, rgba(253,187,45,1) 77%);
+    background: rgb(10,10,10);
+    background: linear-gradient(0deg, rgba(10,10,10,1) 38%, rgba(236,245,245,1) 91%);
     width: 100%;
     height: auto;
     /* border: 5px solid red;   */
 }
-.user-grid{
-    display: grid;  
-    grid-template-columns: [profile-pic] 1fr [pred-count] 3fr;
-}
-.playlists-grid{
-    display: grid;  
-    grid-template-columns: [playlist1] 1fr [playlist2] 1fr [playlist3] 1fr;
-}
 .top-bar{
     height: fit-content;
-    border: 1px solid red;
-    color: red;
 }
-.username{
-    /* grid-area: username; */
-    border: 1px solid red;
-}
-.log-out{
-    /* grid-area: log-out; */
-    border: 1px solid red;
+.user-grid{
+    width: 100%;
+    display: grid;
+    grid-template-areas: 
+    "profile-pic"
+    "pred-count"
+    "creds";
 }
 .profile-pic{
-    grid-column: profile-pic/pred-count;
-    border: 1px solid red;
+    grid-area: profile-pic;
+    place-self: center;
 }
 .pred-count{
-    grid-column: pred-count/pred-count;
-    border: 1px solid red;
+    grid-area: pred-count;
+    place-self: center;
+    text-align: center;
 }
-.playlist1{
-    grid-column: playlist1/playlist2;
-    border: 1px solid red;
+.pred-count h1{
+    color: white;
+    font-size: 400%;
 }
-.playlist2{
-    grid-column: playlist2/playlist3;
-    border: 1px solid red;
-}
-.playlist3{
-    grid-column: playlist3/playlist3;
-    border: 1px solid red;
+.count{
+    font-size: 100%;
+    color: #14a2b8;
+    font-weight: bold;
 }
 .creds{
-    border: 1px solid red;
+    grid-area: creds;
+    text-align: center;
+    color: white;
 }
