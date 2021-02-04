@@ -1,0 +1,41 @@
+.user-page{
+    background: rgb(10,10,10);
+    background: linear-gradient(0deg, rgba(10,10,10,1) 38%, rgba(236,245,245,1) 91%);
+    width: 100%;
+    height: auto;
+    /* border: 5px solid red;   */
+}
+.top-bar{
+    height: fit-content;
+}
+.user-grid{
+    width: 100%;
+    display: grid;
+    grid-template-areas: 
+    "profile-pic"
+    "pred-count"
+    "creds";
+}
+.profile-pic{
+    grid-area: profile-pic;
+    place-self: center;
+}
+.pred-count{
+    grid-area: pred-count;
+    place-self: center;
+    text-align: center;
+}
+.pred-count h1{
+    color: white;
+    font-size: 400%;
+}
+.count{
+    font-size: 100%;
+    color: #14a2b8;
+    font-weight: bold;
+}
+.creds{
+    grid-area: creds;
+    text-align: center;
+    color: white;
+}
